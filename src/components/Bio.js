@@ -26,15 +26,9 @@ class Bio extends React.Component {
             height: rhythm(2),
           }}
         />
-        Written by
-        {" "}
-        <strong>Kyle Mathews</strong>
-        {" "}
-        who lives and works in San Francisco building useful things.
-        {" "}
-        <a href="https://twitter.com/kylemathews">
-          You should follow him on Twitter
-        </a>
+        Find your way to sustainable, pain free movement.
+        <br />
+        Movement coaching / Biomechanics based yoga / Restorative Exercise.
       </p>
     )
   }

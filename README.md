@@ -1,8 +1,6 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+# Movement Kitchen
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
+This is the website for Movement Kitchen.
 
 ## Running in development
 `gatsby develop`

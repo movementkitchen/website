@@ -4,11 +4,11 @@ import get from "lodash/get"
 import Helmet from "react-helmet"
 
 import Bio from "../components/Bio"
+import HomeBlurb from "../components/HomeBlurb"
 import { rhythm } from "../utils/typography"
 
 class BlogIndex extends React.Component {
   render() {
-    // console.log("props", this.props)
     const pageLinks = []
     const siteTitle = get(this, "props.data.site.siteMetadata.title")
     const posts = get(this, "props.data.allMarkdownRemark.edges")
@@ -32,11 +32,9 @@ class BlogIndex extends React.Component {
 
     return (
       <div>
-        <Helmet title={get(this, "props.data.site.siteMetadata.title")} />
+        <Helmet title={siteTitle} />
         <Bio />
-        <ul>
-          {pageLinks}
-        </ul>
+        <HomeBlurb />
       </div>
     )
   }
