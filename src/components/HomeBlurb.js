@@ -7,7 +7,7 @@ class HomeBlurb extends React.Component {
     return (
       <div>
         <p>
-          Kitchen is where the magic happens. A source of physical, mental and spiritual sustenance. Kitchen makes a home homely. It's a safe and intimate place for creation and exploration. A place of rekindling the joy of play, enjoying the process of making, getting the hands dirty. A place of connecting to our intuition, our inner wisdom, following the gut. 
+          Kitchen is where the magic happens. A source of physical, mental and spiritual sustenance. Kitchen makes a home homely. It’s a safe and intimate place for creation and exploration. A place of rekindling the joy of play, enjoying the process of making, getting the hands dirty. A place of connecting to our intuition, our inner wisdom, following the gut. 
         </p>
         <p>
           I want you to experience our movement practice as a kitchen, not a lab. Equally about the process as it is about the result. Creating a safe and playful environment for inquiry and exploration through movement.
