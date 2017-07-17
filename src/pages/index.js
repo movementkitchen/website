@@ -33,8 +33,9 @@ class BlogIndex extends React.Component {
     return (
       <div>
         <Helmet title={siteTitle} />
-        <Bio />
+        <h2>Find your way to sustainable, pain free movement.</h2>
         <HomeBlurb />
+        <Bio />
       </div>
     )
   }
