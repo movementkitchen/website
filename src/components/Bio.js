@@ -1,9 +1,5 @@
 import React from "react"
 
-// Import typefaces
-import "typeface-montserrat"
-import "typeface-merriweather"
-
 import profilePic from "./profile-pic.jpg"
 import { rhythm } from "../utils/typography"
 
@@ -22,19 +18,12 @@ class Bio extends React.Component {
             float: "left",
             marginRight: rhythm(1 / 4),
             marginBottom: 0,
-            width: rhythm(2),
-            height: rhythm(2),
+            marginTop: '0.15rem',
+            width: rhythm(2.7),
+            height: rhythm(2.7),
           }}
         />
-        Written by
-        {" "}
-        <strong>Kyle Mathews</strong>
-        {" "}
-        who lives and works in San Francisco building useful things.
-        {" "}
-        <a href="https://twitter.com/kylemathews">
-          You should follow him on Twitter
-        </a>
+        I’m a movement teacher, biomechanics geek and a mum to two energetic little people. My background brings together yoga as therapy, somatics and movement science. I am currently in the final weeks of my RES Certification with Nutritious Movement, focused on working with injuries and restoring functional strength. I am passionate about working with new mums and mums to be and people with chronic pain.
       </p>
     )
   }
