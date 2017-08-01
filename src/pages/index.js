@@ -3,39 +3,19 @@ import Link from "gatsby-link"
 import get from "lodash/get"
 import Helmet from "react-helmet"
 
-import Bio from "../components/Bio"
-import HomeBlurb from "../components/HomeBlurb"
+import Instagram from "../components/Instagram"
 import { rhythm } from "../utils/typography"
 
 class BlogIndex extends React.Component {
   render() {
-    const pageLinks = []
-    const siteTitle = get(this, "props.data.site.siteMetadata.title")
-    const posts = get(this, "props.data.allMarkdownRemark.edges")
-    posts.forEach(post => {
-      if (post.node.path !== "/404/") {
-        const title = get(post, "node.frontmatter.title") || post.node.path
-        pageLinks.push(
-          <li
-            key={post.node.frontmatter.path}
-            style={{
-              marginBottom: rhythm(1 / 4),
-            }}
-          >
-            <Link style={{ boxShadow: "none" }} to={post.node.frontmatter.path}>
-              {post.node.frontmatter.title}
-            </Link>
-          </li>
-        )
-      }
-    })
+    const siteTitle = get(this, "props.data.site.siteMetadata.title");
+    const homePageContent = get(this, "props.data.allMarkdownRemark.edges")[0].node;
 
     return (
       <div>
-        <Helmet title={siteTitle} />
-        <h2>Find your way to sustainable, pain free movement.</h2>
-        <HomeBlurb />
-        <Bio />
+        <Helmet title={`${siteTitle} – ${homePageContent.frontmatter.title}`} />
+        <div dangerouslySetInnerHTML={{ __html: homePageContent.html }} />
+        <Instagram />
       </div>
     )
   }
@@ -54,12 +34,10 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark {
+    allMarkdownRemark(filter: {frontmatter: {path: {eq: "/"}}}) {
       edges {
         node {
-          frontmatter {
-            path
-          }
+          html
           frontmatter {
             title
           }
