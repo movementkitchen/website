@@ -9,7 +9,8 @@ class Footer extends React.Component {
     return (
       <div
         style={{
-          margin: `0 ${rhythm(3 / 4)}`
+          margin: `0 ${rhythm(3 / 4)}`,
+          textAlign: 'center'
         }}
       >
         <hr />
