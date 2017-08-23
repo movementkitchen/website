@@ -1,64 +1,20 @@
 import React from "react"
 import Link from "gatsby-link"
-import { Container } from "react-responsive-grid"
 
+import Navigation from "../components/Navigation"
+import Footer from "../components/Footer"
 import { rhythm, scale } from "../utils/typography"
 
 class Template extends React.Component {
   render() {
     const { location, children } = this.props
-    let header
-    if (location.pathname === "/") {
-      header = (
-        <h1
-          style={{
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: "none",
-              textDecoration: "none",
-              color: "inherit",
-            }}
-            to={"/"}
-          >
-            Movement Kitchen
-          </Link>
-        </h1>
-      )
-    } else {
-      header = (
-        <h3
-          style={{
-            marginTop: 0,
-            marginBottom: rhythm(-1),
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: "none",
-              textDecoration: "none",
-              color: "inherit",
-            }}
-            to={"/"}
-          >
-            Movement Kitchen
-          </Link>
-        </h3>
-      )
-    }
+    
     return (
-      <Container
-        style={{
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
-        {header}
+      <div>
+        <Navigation />
         {children()}
-      </Container>
+        <Footer />
+      </div>
     )
   }
 }

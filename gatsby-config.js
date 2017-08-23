@@ -2,6 +2,33 @@ module.exports = {
   siteMetadata: {
     title: "Movement Kitchen",
     author: "Ivana Miletic Demmel",
+    pathPrefix: "/",
+    navigation: [
+      {
+        uri: "about/",
+        label: "About"
+      },
+      {
+        uri: "movement-coaching/",
+        label: "Movement coaching"
+      },
+      {
+        uri: "courses-workshops/",
+        label: "Courses and workshops"
+      },
+      {
+        uri: "https://medium.com",
+        label: "Blog"
+      },
+      {
+        uri: "contact/",
+        label: "Contact"
+      },
+      {
+        uri: "resources/",
+        label: "Resources"
+      },
+    ]
   },
   plugins: [
     {
@@ -43,5 +70,6 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-styled-components`,
   ],
 }

@@ -8,8 +8,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators
 
   return new Promise((resolve, reject) => {
-    const pages = []
-    const blogPost = path.resolve("./src/templates/blog-post.js")
+    const pageTemplate = path.resolve("./src/templates/page.js")
     resolve(
       graphql(
         `
@@ -17,8 +16,11 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         allMarkdownRemark(limit: 1000) {
           edges {
             node {
+              html
               frontmatter {
+                template
                 path
+                title
               }
             }
           }
@@ -31,13 +33,15 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           reject(result.errors)
         }
 
-        // Create blog posts pages.
+        // Create pages.
         _.each(result.data.allMarkdownRemark.edges, edge => {
           createPage({
             path: edge.node.frontmatter.path,
-            component: blogPost,
+            component: edge.node.frontmatter.template ? path.resolve(`./src/templates/${edge.node.frontmatter.template}.js`) : pageTemplate,
             context: {
               path: edge.node.frontmatter.path,
+              title: edge.node.frontmatter.title,
+              html: edge.node.html,
             },
           })
         })

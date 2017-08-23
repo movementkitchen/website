@@ -7,7 +7,7 @@ import "typeface-amatic-sc"
 import "typeface-work-sans"
 
 const theme = {
-  baseFontSize: '21px',
+  baseFontSize: '19px',
   baseLineHeight: 1.38,
   scaleRatio: 2,
   googleFonts: [
