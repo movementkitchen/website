@@ -146,8 +146,8 @@ class Navigation extends React.Component {
         </NavList>
       </Nav>
     );
-    const currentNavItem = navItems.find(el => el.uri === this.props.location.pathname) || navItems[0];
-    const heroImage = currentNavItem.hero;
+    const currentNavItem = navItems.find(el => el.uri === this.props.location.pathname);
+    const heroImage = currentNavItem && currentNavItem.hero ? currentNavItem.hero : navItems[0].hero;
     
     return (
       <div
