@@ -5,6 +5,11 @@ module.exports = {
     pathPrefix: "/",
     navigation: [
       {
+        uri: "/",
+        label: "Home",
+        hero: "/walking_on_a_branch.jpg"
+      },
+      {
         uri: "about/",
         label: "About"
       },
@@ -23,10 +28,6 @@ module.exports = {
       {
         uri: "contact/",
         label: "Contact"
-      },
-      {
-        uri: "resources/",
-        label: "Resources"
       },
     ]
   },

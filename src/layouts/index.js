@@ -1,5 +1,6 @@
 import React from "react"
 import Link from "gatsby-link"
+import get from "lodash/get"
 
 import Navigation from "../components/Navigation"
 import Footer from "../components/Footer"
@@ -11,7 +12,7 @@ class Template extends React.Component {
     
     return (
       <div>
-        <Navigation />
+        <Navigation navItems={get(this, "props.data.site.siteMetadata.navigation")} />
         {children()}
         <Footer />
       </div>
@@ -26,3 +27,17 @@ Template.propTypes = {
 }
 
 export default Template
+
+export const pageQuery = graphql`
+  query LayoutIndexQuery {
+    site {
+      siteMetadata {
+        navigation {
+          uri
+          label
+          hero
+        }
+      }
+    }
+  }
+`

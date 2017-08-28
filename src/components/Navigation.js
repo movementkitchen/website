@@ -1,7 +1,6 @@
 import React from "react"
 import styled from "styled-components"
 import Link from "gatsby-link"
-import get from "lodash/get"
 import { withRouter } from 'react-router'
 
 import { options as typographyOptions, rhythm, scale } from "../utils/typography"
@@ -85,35 +84,7 @@ class Navigation extends React.Component {
   }
   
   render() {
-    // TODO: find out how to make the GraphQL query with this component
-    // const navItems = get(this, "props.data.site.siteMetadata.navigation");
-    const navItems = [
-      {
-        uri: "/",
-        label: "Home",
-        hero: "/walking_on_a_branch.jpg"
-      },
-      {
-        uri: "/about/",
-        label: "About"
-      },
-      {
-        uri: "/movement-coaching/",
-        label: "Movement coaching"
-      },
-      {
-        uri: "/courses-workshops/",
-        label: "Courses and workshops"
-      },
-      {
-        uri: "https://medium.com/@zzuuu",
-        label: "Blog"
-      },
-      // {
-      //   uri: "/resources/",
-      //   label: "Resources"
-      // },
-    ];
+    const { navItems } = this.props;
     const nav = (
       <Nav>
         <NavList>
@@ -192,16 +163,3 @@ class Navigation extends React.Component {
 }
 
 export default withRouter(Navigation)
-
-export const pageQuery = graphql`
-  query NavigationQuery {
-    site {
-      siteMetadata {
-        navigation {
-          uri
-          label
-        }
-      }
-    }
-  }
-`
