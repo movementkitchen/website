@@ -123,7 +123,6 @@ class Navigation extends React.Component {
     return (
       <div
         style={{
-          marginBottom: rhythm(1.5),
           position: 'relative'
         }}
       >
