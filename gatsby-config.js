@@ -22,7 +22,7 @@ module.exports = {
         label: "Courses and workshops"
       },
       {
-        uri: "https://medium.com",
+        uri: "https://medium.com/@zzuuu",
         label: "Blog"
       },
       {
