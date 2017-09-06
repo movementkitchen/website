@@ -7,27 +7,26 @@ module.exports = {
       {
         uri: "/",
         label: "Home",
-        hero: "/walking_on_a_branch.jpg"
+        hero: "/images/walking_on_a_branch.jpg"
       },
       {
-        uri: "about/",
-        label: "About"
+        uri: "/about/",
+        label: "About",
+        hero: "/images/About-hero.jpg"
       },
       {
-        uri: "movement-coaching/",
-        label: "Movement coaching"
+        uri: "/movement-coaching/",
+        label: "Movement coaching",
+        hero: "/images/beach_ride.jpg"
       },
       {
-        uri: "courses-workshops/",
-        label: "Courses and workshops"
+        uri: "/courses-workshops/",
+        label: "Courses and workshops",
+        hero: "/images/stepping_up.jpg"
       },
       {
         uri: "https://medium.com/@zzuuu",
         label: "Blog"
-      },
-      {
-        uri: "contact/",
-        label: "Contact"
       },
     ]
   },

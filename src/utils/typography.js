@@ -51,6 +51,9 @@ const theme = {
       },
       // Mobile styles.
       [TABLET_MEDIA_QUERY]: {
+        html: {
+          fontSize: '16px',
+        },
         blockquote: {
           marginLeft: rhythm(-3 / 4),
           marginRight: 0,
