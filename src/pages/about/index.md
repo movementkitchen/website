@@ -5,7 +5,7 @@ path: "/about/"
 
 ### About Movement Kitchen 
 
-Kitchen is where magic happens. A source of physical, mental and spiritual sustenance. Kitchen makes a home homely. It's a safe and intimate place for creation and exploration. A place of rekindling the joy of play, enjoying the process of making, getting the hands dirty. A place of connecting to our intuition, our inner wisdom, following the gut. 
+Kitchen is where magic happens. A source of physical, mental and spiritual sustenance. Kitchen makes a home homely. It's a place of rekindling the joy of play, enjoying the process of making, getting the hands dirty. A place of connecting to our intuition, our inner wisdom, following the gut. 
 
 I want you to experience our movement practice as a kitchen, not a lab. Equally about the process as it is about the result. Creating a safe and playful environment for inquiry and exploration through movement. There is no right and wrong, but just exploring different ways of moving that might serve your body better. 
 
@@ -17,7 +17,7 @@ But then, after having my first baby I suffered a couple of repetitive strain in
 
 > I wanted to understand why injuries happen and how to avoid them in the first place. 
 
-And this eventually brought me to the work of biomechanics scientist Katy Bowman, looking into forces of physics created by movement and how gravity, pressure and friction affect tissues. In 2015 I started my 2-year certification with the Nutritious Movement Institute, and since then have been incorporating this approach into my yoga and somatics based work with the body and more importantly, into mine and my family’s everyday life.
+And this eventually brought me to the work of biomechanist Katy Bowman, looking into forces of physics created by movement and how gravity, pressure and friction affect tissues. In 2015 I started my 2-year certification with the Nutritious Movement Institute, and since then have been incorporating this approach into my yoga and somatics based work with the body and more importantly, into mine and my family’s everyday life.
 
 > Longer I work with movement and the body, more I realise, the progress is defined not by one time achievements, but by general blurring of the border between exercise and life. 
 
