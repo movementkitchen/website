@@ -18,6 +18,16 @@ const ShadyHeadline = styled.h2`
   margin-bottom: 0;
 `
 
+const CallToActionButton = styled.button`
+  background: yellow;
+  border: none;
+  width: ${rhythm(5)};
+  position: absolute;
+  bottom: ${rhythm(1)};
+  right: ${rhythm(1)};
+  padding: ${rhythm(0.5)};
+`
+
 class Hero extends React.Component {
   render() {
     return (
@@ -27,6 +37,9 @@ class Hero extends React.Component {
             backgroundImage: `url(${this.props.imageURI})`
           }}
         >
+          <CallToActionButton>
+            Book now
+          </CallToActionButton>
         </ImageContainer>
         <ShadyHeadline>
           Find your way to sustainable, pain free movement
