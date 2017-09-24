@@ -5,15 +5,30 @@ path: "/movement-coaching/"
 
 ### Movement coaching one-to-one
 
-We will look for areas of tension in your body and areas of the body that don't move much, using targeted micro movements to restore strength and control and improve your ranges of motion. We will also add small alignment adjustments into your day-to-day life to improve your movement mechanics and encourage a transition to a more-movement rich lifestyle with more parts of your body participating in movement. 
+**Special offer until 10 October only**: 50% off ALL sessions
 
-My approach to working with the body includes a lot of work with the nervous system too. Using mindfulness and somatic tools of [proprioception](http://www.the-scientist.com/?articles.view/articleNo/46796/title/Proprioception--The-Sense-Within/) and [interoception](https://www.ncbi.nlm.nih.gov/pubmed/12965300) we will explore your experience of movement together. Progressing slowly, tweaking a parameter at a time we allow the body to pick up, gradually growing into a healthier alignment without force and straining, so it slowly becomes the new normal.
+I can help you overcome pain and disfunction in your body with targeted corrective exercises and little lifestyle adjustments. 
 
-Private and semi-private classes (shared between 2 people).
+These sessions are for you if you have any of the following: recurrent back, hip or foot pain, diastasis recti, pelvic pain, stress incontinence, pelvic organ prolapse, repetitive strain injuries, you generally feel weak and unable to carry your children or groceries or walk for longer without discomfort. 
 
-Price: £50 per hour or £70 for 1.5 hour.
+You will also find them helpful if you are trying to recover from an injury or surgery, you are pregnant or a new mum, you would like to transition to barefoot shoes or generally improve your functional strength.
 
-Package of 5 one-to-ones: £220 / £300
+You can chose to have a session in my home studio in Hackney or at your home. I currently offer classes in North, Central and East London, with travel expenses added to the price.
 
-**Special offer for September**: 50% off ALL sessions  
-valid until 30 September
+Price: £50 per hour
+
+5 x 1h one-to-ones: £220 / £300 - can be used within 10 weeks
+
+All sessions need to be paid in advance and can be moved or canceled up to 24 hours before the appointment.
+
+![Alignment points](alignment_points.jpg)
+
+### My approach 
+
+I use Restorative Exercise/Nutritious Movement as a starting point in my work. Using 25 objective alignment markers grounded in the principles of geometry, engineering and physics we will work together to align your bones and joints in relation to each other allowing the muscles to gradually restore their optimum length and function. You can find out more about this approach at the [Nutritious Movement website](http://nutritiousmovement.com/).
+
+I work a lot with proprioception and motor programming - helping you learn how to isolate and control small movements. Your brain is like GPS constantly receiving sensory motor information. Sometimes when you are in pain the signal gets mixed up and your brain shuts down the information because it's not helpful. And once the GPS is back on it might be that some of the communication centres are not sending signal. So often, it might be necessary to get the brain to start talking to a muscle first before restoring its function. 
+
+A good part of my work is with the nervous system and interoception (sense of psychological condition of the body) using mindfulness, body awareness and somatic imagery to aid in removing old muscular habits. 
+
+At the end of each session you will get a recommendation of corrective exercises and little alignment tweaks to add into your everyday life to improve your movement mechanics and help you transition to a healthy, active lifestyle.
