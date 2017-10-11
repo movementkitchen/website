@@ -5,13 +5,11 @@ path: "/movement-coaching/"
 
 ### Movement coaching one-to-one
 
-**Special offer until 10 October only**: 50% off ALL sessions
+The sessions aim to explore mechanical aspects of your injuries and help you transition to more sustainable movement patterns leading to more robust functional strength. 
 
-I can help you overcome pain and disfunction in your body with targeted corrective exercises and little lifestyle adjustments. 
+Movement coaching is for you if you have recurrent back, hip or foot pain, diastasis recti, pelvic pain, stress incontinence, pelvic organ prolapse, repetitive strain injuries.
 
-These sessions are for you if you have any of the following: recurrent back, hip or foot pain, diastasis recti, pelvic pain, stress incontinence, pelvic organ prolapse, repetitive strain injuries, you generally feel weak and unable to carry your children or groceries or walk for longer without discomfort. 
-
-You will also find them helpful if you are trying to recover from an injury or surgery, you are pregnant or a new mum, you would like to transition to barefoot shoes or generally improve your functional strength.
+You will also find it helpful if you are trying to recover from an injury or surgery, you are pregnant or a new mum, you would like to transition to barefoot shoes or generally improve your functional strength.
 
 You can chose to have a session in my home studio in Hackney or at your home. I currently offer classes in North, Central and East London, with travel expenses added to the price.
 
