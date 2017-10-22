@@ -5,28 +5,28 @@ path: "/movement-coaching/"
 
 ### Movement coaching one-to-one
 
-The sessions aim to explore mechanical aspects of your injuries and help you transition to more sustainable movement patterns leading to more robust functional strength. 
-
-Movement coaching is for you if you have recurrent back, hip or foot pain, diastasis recti, pelvic pain, stress incontinence, pelvic organ prolapse, repetitive strain injuries.
-
-You will also find it helpful if you are trying to recover from an injury or surgery, you are pregnant or a new mum, you would like to transition to barefoot shoes or generally improve your functional strength.
-
 You can chose to have a session in my home studio in Hackney or at your home. I currently offer classes in North, Central and East London, with travel expenses added to the price.
 
-Price: £50 per hour
+Price: £50 for 1 hour initial session.
 
-5 x 1h one-to-ones: £220 / £300 - can be used within 10 weeks
+Move healthier package: £220 - includes 5 x 1 hour one-to-ones to be used within 3 months.
 
 All sessions need to be paid in advance and can be moved or canceled up to 24 hours before the appointment.
 
+Book a [free telephone consultation](mailto:ivana.demmel@gmail.com?subject=Free%20Telephone%20Consultation)!
+
 ![Alignment points](alignment_points.jpg)
 
-### My approach 
+### What is movement coaching?
 
-I use Restorative Exercise/Nutritious Movement as a starting point in my work. Using 25 objective alignment markers grounded in the principles of geometry, engineering and physics we will work together to align your bones and joints in relation to each other allowing the muscles to gradually restore their optimum length and function. You can find out more about this approach at the [Nutritious Movement website](http://nutritiousmovement.com/).
+I use Restorative Exercise™/Nutritious Movement as a starting point in my approach - looking for mechanical roots of your injuries and how to work with your body towards a more sustainable alignment - one that would not be creating forces that have caused the injury in the first place. Applying 25 objective alignment markers grounded on principles of geometry, engineering and physics to your very body, we will work together to align bones and joints in relation to each other and allow the muscles to gradually restore their length for optimal function. You can find out more about this approach on nutritiousmovement.com. 
 
-I work a lot with proprioception and motor programming - helping you learn how to isolate and control small movements. Your brain is like GPS constantly receiving sensory motor information. Sometimes when you are in pain the signal gets mixed up and your brain shuts down the information because it's not helpful. And once the GPS is back on it might be that some of the communication centres are not sending signal. So often, it might be necessary to get the brain to start talking to a muscle first before restoring its function. 
+Even though largely relying on mechanics and geometry in my work, I don't see the body as a machine that needs to be ''fixed'' but rather a complex expression of our emotions, habits and cultural conditioning, of the way we see ourselves and experience the world around us. So, a good part of what I do is aimed at the nervous system and interoception (sense of psychological condition of the body). I like using mindfulness, body awareness and somatic imagery to help you explore your movement and tension patterns and aid in removing old muscular habits. 
 
-A good part of my work is with the nervous system and interoception (sense of psychological condition of the body) using mindfulness, body awareness and somatic imagery to aid in removing old muscular habits. 
+Most of my work focuses on proprioception and motor programming - helping you learn how to isolate and control small movements. The practices are performed slowly and with as little effort as possible, giving a lot of attention to body awareness. 
 
-At the end of each session you will get a recommendation of corrective exercises and little alignment tweaks to add into your everyday life to improve your movement mechanics and help you transition to a healthy, active lifestyle.
+The aim of the exercises is not to challenge your abilities, but build new neural pathways -  innervating underused areas of the body so they would gradually restore their function in your day-to-day life. 
+
+Improving how parts of your body work together and in relation to each other will bring different outcomes on cellular level, such as less wear and tear on the joints, better bone density and generally a more robust strength with less likelihood for injury.
+
+
