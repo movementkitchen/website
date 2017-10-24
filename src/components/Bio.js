@@ -20,7 +20,7 @@ class Bio extends React.Component {
     return (
       <BioContainer>
         <ProfileImage src={profilePic} alt={`Ivana Miletic Demmel`} />
-        I’m a movement coach, biomechanics geek and mum to two energetic little people. My background brings together over 1200 hours of training in yoga as therapy, somatics and bodywork and years of working with the movement and the body. I am currently in the final year of my Personal Trainer RES Certification with Nutritious Movement studying under biomechanics scientist Katy Bowman. I am passionate about rediscovering the joy of play in movement and helping people feel stronger and more confident in their bodies.
+        I’m Ivana, a movement coach, biomechanics nerd and mum to two energetic little people. Nearly a decade ago I left my career in corporate law and since then have been studying yoga as therapy, somatics, bodywork and teaching various modalities of movement. I am currently in the final year of my Restorative Exercise certification with Nutritious Movement studying under biomechanics scientist Katy Bowman. I am passionate about rediscovering the joy of play in movement and helping people feel stronger and more confident in their bodies.
       </BioContainer>
     )
   }
