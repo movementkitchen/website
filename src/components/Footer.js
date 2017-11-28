@@ -14,7 +14,7 @@ class Footer extends React.Component {
         }}
       >
         <hr />
-        <p>📱&nbsp;<a href="tel:+447936348233">+447936348233</a> | 📧&nbsp;<a href="mailto:ivana.demmel@gmail.com">ivana.demmel@gmail.com</a> | <a href="http://eepurl.com/biH6R1">Newsletter sign up</a> | <a href="https://github.com/movementkitchen/website">Open source on Github</a> | <a href="https://www.netlify.com/">Hosted by Netlify</a></p>
+        <p>📱&nbsp;<a href="tel:+447936348233">+447936348233</a> | 📧&nbsp;<a href="mailto:ivana@movementkitchen.co.uk">ivana@movementkitchen.co.uk</a> | <a href="http://eepurl.com/biH6R1">Newsletter sign up</a> | <a href="https://github.com/movementkitchen/website">Open source on Github</a> | <a href="https://www.netlify.com/">Hosted by Netlify</a></p>
       </div>
     )
   }
