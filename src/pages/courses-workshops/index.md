@@ -16,11 +16,9 @@ Suitable for beginners as well as experienced movers, as each of the practices w
 Blending together Nutritious Movement™ based biomechanical education and playful indoor and outdoor movement sessions, this course aims to put you on the right track to build a well functioning core and rediscover ease and joy in moving.
 
 Contains: 
-Experiential workshops 
-+
-Small group exercise classes (6 people max)
-+
-Recommendation of practices to do at home
+* Experiential workshops 
+* Small group exercise classes (6 people max)
+* Recommendation of practices to do at home
 
 Extras: by booking the course you also get:
 * 1 Hour Private Class (value £50)
