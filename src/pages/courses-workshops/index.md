@@ -26,7 +26,7 @@ Extras: by booking the course you also get:
 * Half dome (value £7)
 
 Schedule:
-* Week 1: Workshop: The “Bones" of Your Belly - Why you need to stop pulling the belly in right now
+* Week 1: Workshop: The “Bones" of Your Belly - 3 things that you can do for your core strength right now
 * Week 2: Workshop: How Much of You Does Really Move When You Move? - The positioning of your bones as the foundation of your core strength
 * Week 3: Exercise class: Strength = Well Distributed Mobility - Restore mobility in undermoved places
 * Week 4: Workshop: Balance - Your feet, legs and the hips as the pillars of the core - Foot dexterity gym and obstacle course
