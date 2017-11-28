@@ -6,6 +6,7 @@ path: "/courses-workshops/"
 ### Upcoming courses and workshops
 
 ** Whole Body Core Strength
+Starting on Sunday 14 January
 
 6 week course perfect for people with recurring back or pelvic pain, diastasis recti, new mums and anyone who is interested in exploring how their body works and would like to improve their functional strength.
 
@@ -25,7 +26,7 @@ Extras: by booking the course you also get:
 
 Schedule:
 * Week 1: Workshop: The “Bones" of Your Belly - Why you need to stop pulling the belly in right now
-* Week 2: Workshop: How Much of You Does Really Move When You Move? - The positioning of your bones as the foundation of your *core strength
+* Week 2: Workshop: How Much of You Does Really Move When You Move? - The positioning of your bones as the foundation of your core strength
 * Week 3: Exercise class: Strength = Well Distributed Mobility - Restore mobility in undermoved places
 * Week 4: Workshop: Balance - Your feet, legs and the hips as the pillars of the core - Foot dexterity gym and obstacle course
 * Week 5: Exercise class: Crawling - Improve torso mechanics and your strength to weight ratio
@@ -37,11 +38,9 @@ Place: Movement Kitchen, 13 Saw Mill Way, N16 6AN Stamford Hill, London
 
 Time: Sundays 11 am - 1 pm (workshops) or 11 am - 12:30 pm (exercise classes).
 
-** Starting on Sunday 14 January
-
-Super early bird price – until 15 Dec: £127 for the whole course
-Early bird price – until 31 Dec: £147
-Last minute price – until 14 January: £167
+* Super early bird price – until 15 Dec: £127 for the whole course
+* Early bird price – until 31 Dec: £147
+* Last minute price – until 14 January: £167
 
 Limited number of places available. Please mail ivana@movementkitchen.co.uk or call 07936348233 to book your spot.
 
