@@ -6,6 +6,7 @@ path: "/courses-workshops/"
 ### Upcoming courses and workshops
 
 ** Whole Body Core Strength
+
 Starting on Sunday 14 January
 
 6 week course perfect for people with recurring back or pelvic pain, diastasis recti, new mums and anyone who is interested in exploring how their body works and would like to improve their functional strength.
