@@ -5,15 +5,14 @@ path: "/courses-workshops/"
 
 ### Upcoming courses and workshops
 
-** Whole Body Core Strength
+## Whole Body Core Strength
 
-6 week course equipping you with tools to improve your movement mechanics and strengthen the body from inside out.
+6 week course perfect for people with recurring back or pelvic pain, diastasis recti, new mums and anyone who is interested in exploring how their body works and would like to improve their functional strength.
 
-Perfect for people with recurring back or pelvic pain, diastasis recti, new mums and anyone who is interested in exploring how their body works and would like to improve their functional strength. 
+Blending together Nutritious Movement™ based biomechanical education and playful indoor and outdoor movement sessions, this course aims to quip you with tools to improve your movement mechanics and put you on the right track to build a well functioning core and reclaim ease and joy in moving.
+
 
 Suitable for beginners as well as experienced movers, as each of the practices will be adapted to you and your boundaries.
-
-Blending together Nutritious Movement™ based biomechanical education and playful indoor and outdoor movement sessions, this course aims to put you on the right track to build a well functioning core and rediscover ease and joy in moving.
 
 Contains: 
 * Experiential workshops 
@@ -28,7 +27,7 @@ Schedule:
 Week 1: Workshop: The “Bones" of Your Belly - Why you need to stop pulling the belly in right now
 Week 2: Workshop: How Much of You Does Really Move When You Move? - The positioning of your bones as the foundation of your core strength
 Week 3: Exercise class: Strength = Well Distributed Mobility - Restore mobility in undermoved places
-Week 4: Workshop: Balance - Your feet, legs and the hips as the pillars of the core - foot dexterity gym and obstacle course
+Week 4: Workshop: Balance - Your feet, legs and the hips as the pillars of the core - Foot dexterity gym and obstacle course
 Week 5: Exercise class: Crawling - Improve torso mechanics and your strength to weight ratio
 Week 6: Outdoor exercise class: Hanging and Tree Running
 
@@ -38,7 +37,7 @@ Place: Movement Kitchen, 13 Saw Mill Way, N16 6AN Stamford Hill, London
 
 Time: Sundays 11 am - 1 pm (workshops) or 11 am - 12:30 pm (exercise classes).
 
-** Starting on Sunday 14 January
+## Starting on Sunday 14 January
 
 Super early bird price – until 15 Dec: £127 for the whole course
 Early bird price – until 31 Dec: £147
