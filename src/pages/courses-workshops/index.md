@@ -5,11 +5,11 @@ path: "/courses-workshops/"
 
 ### Upcoming courses and workshops
 
-## Whole Body Core Strength
+** Whole Body Core Strength
 
 6 week course perfect for people with recurring back or pelvic pain, diastasis recti, new mums and anyone who is interested in exploring how their body works and would like to improve their functional strength.
 
-Blending together Nutritious Movement™ based biomechanical education and playful indoor and outdoor movement sessions, this course aims to quip you with tools to improve your movement mechanics and put you on the right track to build a well functioning core and reclaim ease and joy in moving.
+Blending together Nutritious Movement™ based biomechanical education and playful indoor and outdoor movement sessions, this course aims to quip you with tools to improve your movement mechanics and put you on the right track to build a well functioning core and transition to a more active lifestyle.
 
 
 Suitable for beginners as well as experienced movers, as each of the practices will be adapted to you and your boundaries.
@@ -37,7 +37,7 @@ Place: Movement Kitchen, 13 Saw Mill Way, N16 6AN Stamford Hill, London
 
 Time: Sundays 11 am - 1 pm (workshops) or 11 am - 12:30 pm (exercise classes).
 
-## Starting on Sunday 14 January
+** Starting on Sunday 14 January
 
 Super early bird price – until 15 Dec: £127 for the whole course
 Early bird price – until 31 Dec: £147
