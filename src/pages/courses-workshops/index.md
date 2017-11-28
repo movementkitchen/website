@@ -10,7 +10,7 @@ Starting on Sunday 14 January
 
 6 week course perfect for people with recurring back or pelvic pain, diastasis recti, new mums and anyone who is interested in exploring how their body works and would like to improve their functional strength.
 
-Blending together Nutritious Movement™ based biomechanical education and playful indoor and outdoor movement sessions, this course aims to equip you with tools to improve your movement mechanics and put you on the right track to build a well functioning core as you transition to a more active lifestyle.
+Blending together Nutritious Movement™/Restorative Exercise based biomechanical education and playful indoor and outdoor movement sessions, this course aims to equip you with tools to improve your movement mechanics and put you on the right track to build a well functioning core as you transition to a more active lifestyle.
 
 
 Suitable for beginners as well as experienced movers, as each of the practices will be adapted to you and your boundaries.
