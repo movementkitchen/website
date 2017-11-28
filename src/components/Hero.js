@@ -29,7 +29,7 @@ class Hero extends React.Component {
         >
         </ImageContainer>
         <ShadyHeadline>
-          Find your way to sustainable, pain free movement
+          Rediscovering the joy of play in movement
         </ShadyHeadline>
       </div>
     )
