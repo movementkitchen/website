@@ -17,7 +17,7 @@ But then, after having my first baby I suffered a couple of repetitive strain in
 
 > I wanted to understand why injuries happen and how to avoid them in the first place. 
 
-In 2015 I discovered the work of biomechanist Katy Bowman, looking into forces of physics created by movement and how gravity, pressure and friction affect tissues. The same year I started my 2-year certification with the Nutritious Movement Institute under Katy Bowman and since then have been incorporating this approach into my yoga and somatics based work with the body, as well into mine and my family’s everyday life. This October I got qualified as a Nutritious Movement™ certified Restorative Exercise Specialist.
+And this eventually brought me to the the work of biomechanist Katy Bowman, looking into forces of physics created by movement and how gravity, pressure and friction affect tissues. In 2015 I started my 2-year certification with the Nutritious Movement Institute under Katy Bowman and since then have been incorporating this approach into my yoga and somatics based work with the body, as well into mine and my family’s everyday life. This October I got qualified as a Nutritious Movement™ certified Restorative Exercise Specialist.
 
 > Longer I work with movement and the body, more I realise, the progress is defined not by one time achievements, but by general blurring of the border between exercise and life. 
 
