@@ -10,10 +10,10 @@ Movement Kitchen brings together modern science approaches to movement and body 
 
 It aims to:
 
-* Empower you to change unproductive tension patterns and compensations and improve your movement mechanics
-* Support you in building more sustainable alignment habits in your day-to-day life - that will allow more of your body to participate in movement and bring about more balanced strength patterns
+* Empower you to improve your movement mechanics and regain ease in moving
 * Help you overcome pain and fear of getting re-injured
-* Help you build towards a robust functional strength - a body that works and is able to perform all its biological functions without pain or discomfort
+* Support you in building more sustainable alignment habits in your day-to-day life
 * Support you in transitioning to an active, movement-rich lifestyle
+* Put you on the right path towards developing a robust functional strength
 
 
