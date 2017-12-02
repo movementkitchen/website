@@ -3,6 +3,20 @@ const path = require("path")
 const select = require(`unist-util-select`)
 const fs = require(`fs-extra`)
 
+exports.modifyWebpackConfig = function({config, stage}) {
+  if (stage !== `develop-html`) {
+    config.merge({
+      resolve: {
+        alias: {
+          react: `preact-compat`,
+          'react-dom': `preact-compat`
+        }
+      }
+    });
+  }
+  return config;
+}
+
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators
 
