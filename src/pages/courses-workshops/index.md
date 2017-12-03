@@ -5,49 +5,62 @@ path: "/courses-workshops/"
 
 ### Upcoming courses and workshops
 
-** Whole Body Core Strength
+** NEW! Whole Body Core Strength
 
 Starting on Sunday 14 January
 
-6 week course perfect for people with back or pelvic pain, diastasis recti, new mums and anyone who is interested in exploring how their body works and would like to improve their functional strength.
+After spending the last four years on working to heal my abdominal separation - learning and unlearning everything I knew about my body and how it worked, after having to abandon my yoga and movement practice the way it was, deconstruct it and build it up again, after finally getting to the point of having a functional core and being able to carry my children, climb trees and sleep without painkillers... I'm excited to be teaching a course that brings together everything I learnt through this personal and professional journey of restoring my core.
 
-Blending together Nutritious Movement™/Restorative Exercise based biomechanical education and playful indoor and outdoor movement sessions, this course aims to equip you with tools to improve your movement mechanics and put you on the right track to build a well functioning core as you transition to a more active lifestyle.
+Whole Body Core Strength is a 6 week course equipping you with tools to improve your movement mechanics and strengthen the body from inside out.
 
+Perfect for people with recurring back or pelvic pain, abdominal weakness and separation / diastasis recti, new mums and anyone who is interested in exploring how their body works and would like to improve their functional strength.
 
-Suitable for beginners as well as experienced movers, as each of the practices will be adapted to you and your boundaries.
+Suitable for beginners as well as experienced movers, as the group is small and each of the practices will be adapted to you.
 
-Contains: 
-* Experiential workshops 
+Contains:
+
+* Experiential workshops
 * Small group exercise classes (6 people max)
 * Recommendation of practices to do at home
 
 Extras: by booking the course you also get:
+
 * 1 Hour Private Class (value £50)
 * Half dome (value £7)
 
 Schedule:
-* Week 1: Workshop: The “Bones" of Your Belly - Why you need to stop pulling the belly in right now
-* Week 2: Workshop: How Much of You Does Really Move When You Move? - The positioning of your bones as the foundation of your core strength
-* Week 3: Exercise class: Strength = Well Distributed Mobility - Restore mobility in undermoved places
-* Week 4: Workshop: Balance - Your feet, legs and the hips as the pillars of the core - Foot dexterity gym and obstacle course
-* Week 5: Exercise class: Crawling - Improve torso mechanics and your strength to weight ratio
-* Week 6: Outdoor exercise class: Hanging and Tree Running
 
-Each workshop is 2 hours long and exercise classes 1.5 hour. 
+* Week 1: Workshop: The “Bones" of Your Belly - 3 things you can do for your core right now and none of them is exercise
+
+* Week 2: Workshop: How Much of You Does Really Move When You Move? - Positioning of your bones as the core of your core strength
+
+* Week 3: Exercise class: Strength = Coordinated Mobility - Restore mobility in undermoved places - upper body focus 
+
+* Week 4: Exercise class: Restore mobility in undermoved places - bellow the waist 
+
+* Week 5: Workshop: Balance with your hips - Your feet, legs and the hips as the pillars of your core (includes an indoor obstacle course)
+
+* Week 6: Exercise class: Improve torso mechanics and your strength to weight ratio
+
+Each workshop is 2 hours long and exercise classes 1.5 hour.
 
 Place: Movement Kitchen, 13 Saw Mill Way, N16 6AN Stamford Hill, London
 
 Time: Sundays 11 am - 1 pm (workshops) or 11 am - 12:30 pm (exercise classes).
 
-* Super early bird price – until 15 Dec: £127 for the whole course
-* Early bird price – until 31 Dec: £147
+* Early bird price – until 15 Dec: £127 for the whole course
+* Regular price – until 7 January: £147
 * Last minute price – until 14 January: £167
 
-Limited number of places available. Please mail ivana@movementkitchen.co.uk or call 07936348233 to book your spot.
+Limited number of places available. Please email ivana@movementkitchen.co.uk or call 07936348233 to book your spot. 
 
-Coming soon:
+
+Other courses coming soon:
 
 * Resilient Mama - healthy alignment for pain free pregnancy - 6 week course bringing together Restorative Exercise™ (RES), mindfulness and biomechanics based yoga 
+
 * Walking for Health - what if you can significantly improve your health just by walking? This 6 week course focuses on restoring foot dexterity, lower leg mobility and a balanced strength of the pelvic musculature. Developing a healthy alignment will transform your walking into a powerful health-sustaining activity. Perfect for anyone with foot, knee, hip or back pain or pelvic floor disorders. All the sessions are outside, walking in nature.
+
+* Parkour for Mums - playful outdoor movement workshop
 
 Register your interest to be notified when the courses start and get special early bird prices.
