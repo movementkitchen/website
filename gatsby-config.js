@@ -17,12 +17,12 @@ module.exports = {
       {
         uri: "/movement-coaching/",
         label: "Movement coaching",
-        hero: "/images/beach_ride.jpg"
+        hero: "/images/stepping_up.jpg"
       },
       {
         uri: "/courses-workshops/",
         label: "Courses and workshops",
-        hero: "/images/stepping_up.jpg"
+        hero: "/images/beach_ride.jpg"
       },
       {
         uri: "https://medium.com/@zzuuu",
