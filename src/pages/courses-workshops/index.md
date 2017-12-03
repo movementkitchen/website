@@ -5,9 +5,9 @@ path: "/courses-workshops/"
 
 ### Upcoming courses and workshops
 
-** NEW! Whole Body Core Strength
+**NEW! Whole Body Core Strength 6 Weeks Course**
 
-Starting on Sunday 14 January
+**Starting on Sunday 14 January**
 
 After spending the last four years on working to heal my abdominal separation - learning and unlearning everything I knew about my body and how it worked, after having to abandon my yoga and movement practice the way it was, deconstruct it and build it up again, after finally getting to the point of having a functional core and being able to carry my children, climb trees and sleep without painkillers... I'm excited to be teaching a course that brings together everything I learnt through this personal and professional journey of restoring my core.
 
