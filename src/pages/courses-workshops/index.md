@@ -36,7 +36,7 @@ Schedule:
 
 * Week 3: Exercise class: Strength = Coordinated Mobility - Restore mobility in undermoved places - upper body focus 
 
-* Week 4: Exercise class: Restore mobility in undermoved places - bellow the waist 
+* Week 4: Exercise class: Restore mobility in undermoved places - below the waist 
 
 * Week 5: Workshop: Balance with your hips - Your feet, legs and the hips as the pillars of your core (includes an indoor obstacle course)
 
