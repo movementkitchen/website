@@ -26,6 +26,14 @@ Extras: by booking the course you also get:
 * 1 Hour Private Class (value £50)
 * Half dome (value £7)
 
+Place: Movement Kitchen, 13 Saw Mill Way, N16 6AN Stamford Hill, London
+
+Time: Sundays 11 am - 1 pm (workshops) or 11 am - 12:30 pm (exercise classes).
+
+* Early bird price – until 15 Dec: £127 for the whole course
+* Regular price – until 7 January: £147
+* Last minute price – until 14 January: £167
+
 Schedule:
 
 * Week 1: Workshop: The “Bones" of Your Belly - 3 things you can do for your core right now and none of them is exercise
@@ -41,14 +49,6 @@ Schedule:
 * Week 6: Exercise class: Improve torso mechanics and your strength to weight ratio
 
 Each workshop is 2 hours long and exercise classes 1.5 hour.
-
-Place: Movement Kitchen, 13 Saw Mill Way, N16 6AN Stamford Hill, London
-
-Time: Sundays 11 am - 1 pm (workshops) or 11 am - 12:30 pm (exercise classes).
-
-* Early bird price – until 15 Dec: £127 for the whole course
-* Regular price – until 7 January: £147
-* Last minute price – until 14 January: £167
 
 Limited number of places available. Please email ivana@movementkitchen.co.uk or call 07936348233 to book your spot. 
 
