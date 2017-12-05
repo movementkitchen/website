@@ -13,7 +13,7 @@ After spending the last four years on working to heal my abdominal separation - 
 
 Whole Body Core Strength is a 6 week course equipping you with tools to improve your movement mechanics and strengthen the body from inside out.
 
-Perfect for people with recurring back or pelvic pain, abdominal weakness and separation / diastasis recti, new mums and anyone who is interested in exploring how their body works and would like to improve their functional strength.
+Perfect for new mums, people with recurring back or pelvic pain, pelvic floor disorders, abdominal weakness and separation/diastasis recti and anyone who is interested in exploring how their body works and would like to improve their functional strength.
 
 Suitable for beginners as well as experienced movers, as the group is small and each of the practices will be adapted to you.
 
