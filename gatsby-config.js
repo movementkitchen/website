@@ -71,7 +71,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-next`,
-    `gatsby-plugin-feed`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-emotion`,
     `gatsby-plugin-catch-links`,
