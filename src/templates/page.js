@@ -1,16 +1,16 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import Link from 'gatsby-link'
-import get from 'lodash/get'
-import Helmet from 'react-helmet'
+import React from 'react';
+import PropTypes from 'prop-types';
+import Link from 'gatsby-link';
+import get from 'lodash/get';
+import Helmet from 'react-helmet';
 
-import { rhythm } from '../utils/typography'
+import { rhythm } from '../utils/typography';
 
 class Page extends React.Component {
   render() {
-    const siteTitle = get(this, 'props.data.site.siteMetadata.title')
-    const pageTitle = get(this, 'props.pathContext.title')
-    const pageContent = get(this, 'props.pathContext.html')
+    const siteTitle = get(this, 'props.data.site.siteMetadata.title');
+    const pageTitle = get(this, 'props.pathContext.title');
+    const pageContent = get(this, 'props.pathContext.html');
 
     return (
       <div
@@ -23,11 +23,11 @@ class Page extends React.Component {
         <Helmet title={`${siteTitle} – ${pageTitle}`} />
         <div dangerouslySetInnerHTML={{ __html: pageContent }} />
       </div>
-    )
+    );
   }
 }
 
-export default Page
+export default Page;
 
 export const pageQuery = graphql`
   query PageQuery {
@@ -37,4 +37,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

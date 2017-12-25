@@ -1,10 +1,10 @@
-import Typography from 'typography'
-import gray from 'gray-percentage'
-import { TABLET_MEDIA_QUERY } from 'typography-breakpoint-constants'
+import Typography from 'typography';
+import gray from 'gray-percentage';
+import { TABLET_MEDIA_QUERY } from 'typography-breakpoint-constants';
 
 // Import typefaces
-import 'typeface-amatic-sc'
-import 'typeface-work-sans'
+import 'typeface-amatic-sc';
+import 'typeface-work-sans';
 
 const theme = {
   baseFontSize: '19px',
@@ -60,17 +60,17 @@ const theme = {
           paddingLeft: rhythm(1 / 2),
         },
       },
-    }
+    };
 
-    return styles
+    return styles;
   },
-}
+};
 
-const typography = new Typography(theme)
+const typography = new Typography(theme);
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== 'production') {
-  typography.injectStyles()
+  typography.injectStyles();
 }
 
-export default typography
+export default typography;

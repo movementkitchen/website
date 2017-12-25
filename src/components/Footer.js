@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-import { rhythm } from '../utils/typography'
+import { rhythm } from '../utils/typography';
 
 class Footer extends React.Component {
   // TODO: add Legal, privacy statement, credits
@@ -19,14 +19,12 @@ class Footer extends React.Component {
             ivana@movementkitchen.co.uk
           </a>{' '}
           | <a href="http://eepurl.com/biH6R1">Newsletter sign up</a> |{' '}
-          <a href="https://github.com/movementkitchen/website">
-            Open source on Github
-          </a>{' '}
-          | <a href="https://www.netlify.com/">Hosted by Netlify</a>
+          <a href="https://github.com/movementkitchen/website">Open source on Github</a> |{' '}
+          <a href="https://www.netlify.com/">Hosted by Netlify</a>
         </p>
       </div>
-    )
+    );
   }
 }
 
-export default Footer
+export default Footer;

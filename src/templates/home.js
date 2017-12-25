@@ -1,18 +1,18 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import Link from 'gatsby-link'
-import get from 'lodash/get'
-import Helmet from 'react-helmet'
+import React from 'react';
+import PropTypes from 'prop-types';
+import Link from 'gatsby-link';
+import get from 'lodash/get';
+import Helmet from 'react-helmet';
 
-import Bio from '../components/Bio'
-import Instagram from '../components/Instagram'
-import { rhythm } from '../utils/typography'
+import Bio from '../components/Bio';
+import Instagram from '../components/Instagram';
+import { rhythm } from '../utils/typography';
 
 class Home extends React.Component {
   render() {
-    const siteTitle = get(this, 'props.data.site.siteMetadata.title')
-    const pageTitle = get(this, 'props.pathContext.title')
-    const pageContent = get(this, 'props.pathContext.html')
+    const siteTitle = get(this, 'props.data.site.siteMetadata.title');
+    const pageTitle = get(this, 'props.pathContext.title');
+    const pageContent = get(this, 'props.pathContext.html');
 
     return (
       <div
@@ -27,11 +27,11 @@ class Home extends React.Component {
         <Bio />
         <Instagram />
       </div>
-    )
+    );
   }
 }
 
-export default Home
+export default Home;
 
 export const pageQuery = graphql`
   query IndexQuery {
@@ -41,4 +41,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
