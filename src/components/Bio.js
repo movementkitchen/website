@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from "styled-components"
+import styled from 'react-emotion'
 
 import profilePic from './profile-pic.jpg'
 import nutritiousMovementLogo from './nutritious_movement_logo.jpg'
@@ -27,9 +27,17 @@ class Bio extends React.Component {
       <BioContainer>
         <p>
           <ProfileImage src={profilePic} alt={`Ivana Miletic Demmel`} />
-          I’m Ivana, a Nutritious Movement™ Certified Restorative Exercise Specialist, yoga and mindfulness teacher, biomechanics nerd and mum to two energetic little people. Nearly a decade ago I left my career in corporate law and since then have been studying yoga as therapy, somatics, bodywork and teaching various modalities of movement. I'm passionate about helping people reclaim ease and joy in moving.
+          I’m Ivana, a Nutritious Movement™ Certified Restorative Exercise
+          Specialist, yoga and mindfulness teacher, biomechanics nerd and mum to
+          two energetic little people. Nearly a decade ago I left my career in
+          corporate law and since then have been studying yoga as therapy,
+          somatics, bodywork and teaching various modalities of movement. I'm
+          passionate about helping people reclaim ease and joy in moving.
         </p>
-        <NutritiousMovementLogo src={nutritiousMovementLogo} alt={`Nutritious Movement logo`} />
+        <NutritiousMovementLogo
+          src={nutritiousMovementLogo}
+          alt={`Nutritious Movement logo`}
+        />
       </BioContainer>
     )
   }

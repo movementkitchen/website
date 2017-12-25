@@ -3,8 +3,8 @@ import gray from 'gray-percentage'
 import { TABLET_MEDIA_QUERY } from 'typography-breakpoint-constants'
 
 // Import typefaces
-import "typeface-amatic-sc"
-import "typeface-work-sans"
+import 'typeface-amatic-sc'
+import 'typeface-work-sans'
 
 const theme = {
   baseFontSize: '19px',

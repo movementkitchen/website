@@ -1,7 +1,12 @@
-import React from "react"
-import styled from "styled-components"
+import React from 'react'
+import PropTypes from 'prop-types'
+import styled from 'react-emotion'
 
-import { options as typographyOptions, rhythm, scale } from "../utils/typography"
+import {
+  options as typographyOptions,
+  rhythm,
+  scale,
+} from '../utils/typography'
 
 const ImageContainer = styled.div`
   width: 100%;
@@ -24,20 +29,17 @@ class Hero extends React.Component {
       <div>
         <ImageContainer
           style={{
-            backgroundImage: `url(${this.props.imageURI})`
+            backgroundImage: `url(${this.props.imageURI})`,
           }}
-        >
-        </ImageContainer>
-        <ShadyHeadline>
-          Rediscovering the joy of play in movement
-        </ShadyHeadline>
+        />
+        <ShadyHeadline>Rediscovering the joy of play in movement</ShadyHeadline>
       </div>
     )
   }
 }
 
 Hero.propTypes = {
-  imageURI: React.PropTypes.string,
+  imageURI: PropTypes.string,
 }
 
 export default Hero

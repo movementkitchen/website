@@ -1,18 +1,21 @@
-import React from "react"
-import Link from "gatsby-link"
-import get from "lodash/get"
+import React from 'react'
+import PropTypes from 'prop-types'
+import Link from 'gatsby-link'
+import get from 'lodash/get'
 
-import Navigation from "../components/Navigation"
-import Footer from "../components/Footer"
-import { rhythm, scale } from "../utils/typography"
+import Navigation from '../components/Navigation'
+import Footer from '../components/Footer'
+import { rhythm, scale } from '../utils/typography'
 
 class Template extends React.Component {
   render() {
     const { location, children } = this.props
-    
+
     return (
       <div>
-        <Navigation navItems={get(this, "props.data.site.siteMetadata.navigation")} />
+        <Navigation
+          navItems={get(this, 'props.data.site.siteMetadata.navigation')}
+        />
         {children()}
         <Footer />
       </div>
@@ -21,9 +24,8 @@ class Template extends React.Component {
 }
 
 Template.propTypes = {
-  children: React.PropTypes.func,
-  location: React.PropTypes.object,
-  route: React.PropTypes.object,
+  children: PropTypes.func,
+  location: PropTypes.object,
 }
 
 export default Template

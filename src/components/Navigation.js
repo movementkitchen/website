@@ -1,10 +1,14 @@
-import React from "react"
-import styled from "styled-components"
-import Link from "gatsby-link"
+import React from 'react'
+import styled from 'react-emotion'
+import Link from 'gatsby-link'
 import { withRouter } from 'react-router'
 
-import { options as typographyOptions, rhythm, scale } from "../utils/typography"
-import Hero from "./Hero"
+import {
+  options as typographyOptions,
+  rhythm,
+  scale,
+} from '../utils/typography'
+import Hero from './Hero'
 
 const MenuToggleButton = styled.button`
   position: fixed;
@@ -25,7 +29,7 @@ const Nav = styled.nav`
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(255,255,255,0.9);
+  background-color: rgba(255, 255, 255, 0.9);
   z-index: 10;
 `
 
@@ -65,93 +69,115 @@ const HeadingStyleExternalLink = HeadingStyleLink.withComponent('a')
 
 class Navigation extends React.Component {
   constructor(props) {
-    super(props);
+    super(props)
 
     this.state = {
-      menuOpen: false
+      menuOpen: false,
     }
-    
-    this.toggleMenuBound = this.toggleMenu.bind(this);
-    this.onNavigationBound = this.onNavigation.bind(this);
+
+    this.toggleMenuBound = this.toggleMenu.bind(this)
+    this.onNavigationBound = this.onNavigation.bind(this)
   }
-  
+
   toggleMenu() {
-    this.setState({menuOpen: !this.state.menuOpen });
+    this.setState({ menuOpen: !this.state.menuOpen })
   }
 
   onNavigation() {
-    this.setState({menuOpen: false });
+    this.setState({ menuOpen: false })
   }
-  
+
   render() {
-    const { navItems } = this.props;
+    const { navItems } = this.props
     const nav = (
       <Nav>
         <NavList>
-          {
-            navItems.map(navItem => (
-              <NavItem key={navItem.uri}>
-                {
-                  navItem.uri.indexOf('http') === 0 ?
-                  <HeadingStyleExternalLink
-                    href={navItem.uri}
-                  >
-                    {navItem.label}
-                  </HeadingStyleExternalLink>
-                  :
-                  <HeadingStyleLink
-                    onClick={this.onNavigationBound}
-                    to={navItem.uri}
-                    activeStyle={{
-                      textDecoration: 'dashed underline'
-                    }}
-                    exact
-                  >
-                    {navItem.label}
-                  </HeadingStyleLink>
-                }
-                
-              </NavItem>
-            ))
-          }
+          {navItems.map(navItem => (
+            <NavItem key={navItem.uri}>
+              {navItem.uri.indexOf('http') === 0 ? (
+                <HeadingStyleExternalLink href={navItem.uri}>
+                  {navItem.label}
+                </HeadingStyleExternalLink>
+              ) : (
+                <HeadingStyleLink
+                  onClick={this.onNavigationBound}
+                  to={navItem.uri}
+                  activeStyle={{
+                    textDecoration: 'dashed underline',
+                  }}
+                  exact
+                >
+                  {navItem.label}
+                </HeadingStyleLink>
+              )}
+            </NavItem>
+          ))}
         </NavList>
       </Nav>
-    );
-    const currentNavItem = navItems.find(el => el.uri === this.props.location.pathname);
-    const heroImage = currentNavItem && currentNavItem.hero ? currentNavItem.hero : navItems[0].hero;
-    
+    )
+    const currentNavItem = navItems.find(
+      el => el.uri === this.props.location.pathname
+    )
+    const heroImage =
+      currentNavItem && currentNavItem.hero
+        ? currentNavItem.hero
+        : navItems[0].hero
+
     return (
       <div
         style={{
-          position: 'relative'
+          position: 'relative',
         }}
       >
         <Hero imageURI={heroImage} />
         <Logo>
-          <HeadingStyleLink to={"/"}>Movement Kitchen</HeadingStyleLink>
+          <HeadingStyleLink to={'/'}>Movement Kitchen</HeadingStyleLink>
         </Logo>
         <MenuToggleButton onClick={this.toggleMenuBound}>
-          <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 100 100">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="100%"
+            height="100%"
+            viewBox="0 0 100 100"
+          >
             <filter id="shade">
-              <feOffset result="offOut" in="SourceAlpha" dx="0" dy="2"/>
-              <feGaussianBlur result="blurOut" in="offOut" stdDeviation="2"/>
-              <feBlend in="SourceGraphic" in2="blurOut" mode="normal"/>
+              <feOffset result="offOut" in="SourceAlpha" dx="0" dy="2" />
+              <feGaussianBlur result="blurOut" in="offOut" stdDeviation="2" />
+              <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
             </filter>
             <filter id="dropshadow">
-              <feGaussianBlur in="SourceAlpha" stdDeviation="1" result="blur"/> 
-              <feOffset dx="0" dy="2" result="offsetblur"/>
-              <feOffset dx="0" dy="0" result="offsetblur2" in="blur"/>
-              <feComponentTransfer result="shadow1" in="offsetblur"/>
-              <feComponentTransfer result="shadow2" in="offsetblur2"/>
-              <feMerge> 
-                <feMergeNode in="shadow1"/>
-                <feMergeNode in="shadow2"/>
-                <feMergeNode in="SourceGraphic"/> 
+              <feGaussianBlur in="SourceAlpha" stdDeviation="1" result="blur" />
+              <feOffset dx="0" dy="2" result="offsetblur" />
+              <feOffset dx="0" dy="0" result="offsetblur2" in="blur" />
+              <feComponentTransfer result="shadow1" in="offsetblur" />
+              <feComponentTransfer result="shadow2" in="offsetblur2" />
+              <feMerge>
+                <feMergeNode in="shadow1" />
+                <feMergeNode in="shadow2" />
+                <feMergeNode in="SourceGraphic" />
               </feMerge>
-             </filter>
+            </filter>
             <g filter="url(#dropshadow)">
-              <circle style={{fill:"none",stroke:"#ffffff",strokeWidth:"2.0865",strokeMiterlimit:"10"}} cx="50" cy="50" r="30.2"/>
-              <path style={{fill:"none",stroke:"#ffffff",strokeWidth:"1.8488",strokeMiterlimit:"10"}} d="M34.7 41.9h31m-31 8h31m-31 7.8h31"/>
+              <circle
+                style={{
+                  fill: 'none',
+                  stroke: '#ffffff',
+                  strokeWidth: '2.0865',
+                  strokeMiterlimit: '10',
+                }}
+                cx="50"
+                cy="50"
+                r="30.2"
+              />
+              <path
+                style={{
+                  fill: 'none',
+                  stroke: '#ffffff',
+                  strokeWidth: '1.8488',
+                  strokeMiterlimit: '10',
+                }}
+                d="M34.7 41.9h31m-31 8h31m-31 7.8h31"
+              />
             </g>
           </svg>
         </MenuToggleButton>
