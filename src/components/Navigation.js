@@ -30,16 +30,17 @@ const MenuToggleButton = styled.button`
 
 const Nav = styled.nav`
   display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(3px);
+  z-index: 10;
   
   ${DEFAULT_MEDIA_QUERY} {
     display: ${props => (props.menuOpen ? 'block' : 'none')}
-    position: fixed;
-    top: 0;
     bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: rgba(255, 255, 255, 0.9);
-    z-index: 10;
   }
 `;
 

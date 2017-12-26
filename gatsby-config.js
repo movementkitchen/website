@@ -22,7 +22,17 @@ module.exports = {
       },
       {
         uri: '/courses-workshops/',
-        label: 'Courses and workshops',
+        label: 'Courses / workshops',
+        hero: '/images/beach_ride.jpg',
+      },
+      {
+        uri: '/massage/',
+        label: 'Massage',
+        hero: '/images/beach_ride.jpg',
+      },
+      {
+        uri: '/mini-urban-retreats/',
+        label: 'Mini urban retreats',
         hero: '/images/beach_ride.jpg',
       },
       {
@@ -81,4 +91,4 @@ module.exports = {
       },
     },
   ],
-}
+};
