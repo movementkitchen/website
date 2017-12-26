@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'react-emotion';
 import Link from 'gatsby-link';
 import { withRouter } from 'react-router';
+import { MIN_DEFAULT_MEDIA_QUERY, DEFAULT_MEDIA_QUERY } from 'typography-breakpoint-constants';
 
 import { options as typographyOptions, rhythm, scale } from '../utils/typography';
 import Hero from './Hero';
@@ -21,40 +22,61 @@ const MenuToggleButton = styled.button`
   width: 50px;
   height: 50px;
   text-shadow: 0px 0px 2px black, 0px 2px 1px black;
+
+  ${MIN_DEFAULT_MEDIA_QUERY} {
+    display: none;
+  }
 `;
 
 const Nav = styled.nav`
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background-color: rgba(255, 255, 255, 0.9);
-  z-index: 10;
+  display: flex;
+  
+  ${DEFAULT_MEDIA_QUERY} {
+    display: ${props => (props.menuOpen ? 'block' : 'none')}
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(255, 255, 255, 0.9);
+    z-index: 10;
+  }
 `;
 
 const NavList = styled.ul`
   list-style-type: none;
-  width: 100%;
-  height: 100%;
-  margin-left: 0;
   display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
+  margin: 0;
+  width: 100%;
   justify-content: center;
-  align-items: center;
+
+  ${DEFAULT_MEDIA_QUERY} {
+    height: 100%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    align-items: center;
+  }
 `;
 
 const NavItem = styled.li`
   font-family: ${typographyOptions.headerFontFamily.join(`,`)};
   text-align: center;
   margin: 3vh 0;
+
+  ${MIN_DEFAULT_MEDIA_QUERY} {
+    margin: 1vh 2vh;
+  }
 `;
 
 const HeadingStyleLink = styled(Link)`
   text-decoration: none;
   color: inherit;
   ${scale(4 / 5)};
+
+  ${MIN_DEFAULT_MEDIA_QUERY} {
+    ${scale(2 / 5)};
+  }
 `;
 
 const Logo = styled.h1`
@@ -63,6 +85,14 @@ const Logo = styled.h1`
   left: ${rhythm(1 / 2)};
   color: white;
   text-shadow: 0px 0px 2px black, 0px 2px 1px black;
+
+  ${HeadingStyleLink} {
+    ${scale(4 / 5)};
+  }
+
+  ${MIN_DEFAULT_MEDIA_QUERY} {
+    top: ${rhythm(2.5)};
+  }
 `;
 
 const HeadingStyleExternalLink = HeadingStyleLink.withComponent('a');
@@ -89,41 +119,38 @@ class Navigation extends React.Component {
 
   render() {
     const { navItems } = this.props;
-    const nav = (
-      <Nav>
-        <NavList>
-          {navItems.map(navItem => (
-            <NavItem key={navItem.uri}>
-              {navItem.uri.indexOf('http') === 0 ? (
-                <HeadingStyleExternalLink href={navItem.uri}>{navItem.label}</HeadingStyleExternalLink>
-              ) : (
-                <HeadingStyleLink
-                  onClick={this.onNavigationBound}
-                  to={navItem.uri}
-                  activeStyle={{
-                    textDecoration: 'dashed underline',
-                  }}
-                  exact
-                >
-                  {navItem.label}
-                </HeadingStyleLink>
-              )}
-            </NavItem>
-          ))}
-        </NavList>
-      </Nav>
-    );
     const currentNavItem = navItems.find(el => el.uri === this.props.location.pathname);
     const heroImage = currentNavItem && currentNavItem.hero ? currentNavItem.hero : navItems[0].hero;
 
     return (
       <Wrapper>
+        <Nav menuOpen={this.state.menuOpen}>
+          <NavList>
+            {navItems.map(navItem => (
+              <NavItem key={navItem.uri}>
+                {navItem.uri.indexOf('http') === 0 ? (
+                  <HeadingStyleExternalLink href={navItem.uri}>{navItem.label}</HeadingStyleExternalLink>
+                ) : (
+                  <HeadingStyleLink
+                    onClick={this.onNavigationBound}
+                    to={navItem.uri}
+                    activeStyle={{
+                      textDecoration: 'dashed underline',
+                    }}
+                    exact
+                  >
+                    {navItem.label}
+                  </HeadingStyleLink>
+                )}
+              </NavItem>
+            ))}
+          </NavList>
+        </Nav>
         <Hero imageURI={heroImage} />
         <Logo>
           <HeadingStyleLink to={'/'}>Movement Kitchen</HeadingStyleLink>
         </Logo>
         <MenuToggleButton onClick={this.toggleMenuBound}>{menuSVG}</MenuToggleButton>
-        {this.state.menuOpen && nav}
       </Wrapper>
     );
   }

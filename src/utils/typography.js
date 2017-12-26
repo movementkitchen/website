@@ -1,5 +1,4 @@
 import Typography from 'typography';
-import gray from 'gray-percentage';
 import { TABLET_MEDIA_QUERY } from 'typography-breakpoint-constants';
 
 // Import typefaces
@@ -38,7 +37,7 @@ const theme = {
         ...scale(2 / 5),
         lineHeight: 1.3,
         fontWeight: '200',
-        color: gray(50),
+        color: '#777777',
         paddingLeft: rhythm(5 / 4),
         marginLeft: 0,
         marginRight: 0,
