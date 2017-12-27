@@ -25,16 +25,16 @@ module.exports = {
         label: 'Courses / workshops',
         hero: '/images/beach_ride.jpg',
       },
-      {
-        uri: '/massage/',
-        label: 'Massage',
-        hero: '/images/beach_ride.jpg',
-      },
-      {
-        uri: '/mini-urban-retreats/',
-        label: 'Mini urban retreats',
-        hero: '/images/beach_ride.jpg',
-      },
+      // {
+      //   uri: '/massage/',
+      //   label: 'Massage',
+      //   hero: '/images/beach_ride.jpg',
+      // },
+      // {
+      //   uri: '/mini-urban-retreats/',
+      //   label: 'Mini urban retreats',
+      //   hero: '/images/beach_ride.jpg',
+      // },
       {
         uri: 'https://medium.com/@zzuuu',
         label: 'Blog',
