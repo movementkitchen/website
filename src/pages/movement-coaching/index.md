@@ -8,10 +8,7 @@ You can chose to have a session in my home studio in Hackney or at your home. I
 currently offer classes in North, Central and East London, with travel expenses
 added to the price.
 
-Price: £50 for 1 hour initial session.
-
-Move healthier package: £220 - includes 5 x 1 hour one-to-ones to be used within
-3 months.
+Price: £50 for 1 hour session.
 
 All sessions need to be paid in advance and can be moved or canceled up to 24
 hours before the appointment.
@@ -23,8 +20,8 @@ Book a
 
 ### What is movement coaching?
 
-I use Restorative Exercise™/Nutritious Movement as a starting point in my
-approach - looking for mechanical roots of your injuries and how to work with
+I use Restorative Exercise / Nutritious Movement™ approach as a starting point in my
+work - looking for mechanical roots of your injuries and how to work with
 your body towards a more sustainable alignment - one that would not be creating
 forces that have caused the injury in the first place. Applying 25 objective
 alignment markers grounded on principles of geometry, engineering and physics to

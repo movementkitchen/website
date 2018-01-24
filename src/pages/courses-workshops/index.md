@@ -4,49 +4,38 @@ title: Courses and workshops
 
 ### Upcoming courses and workshops
 
-**NEW! Whole Body Core Strength 6 Weeks Course**
+**Whole Body Core Strength 6-Week Course**
 
-**Starting on Sunday 14 January**
+**Next starting on the 4th of March**
 
-Whole Body Core Strength brings together everything I learnt through my
-professional and personal journey of healing my abdominal separation and
-restoring a functional core. It's a 6-week course equipping you with tools to
-improve your movement mechanics and strengthen the body from inside out.
+You might be told that having back pain, a weak abdomen, a leaky pelvic floor or aches and pains that keep coming back is a normal consequence of pregnancy, childbirth or your age. You might be investing a lot of time and effort in strengthening or restoring your core, while at the same time creating forces that weaken it. This course aims to help you in uncovering the habits that might be weakening your core and support you in establishing sustainable movement patterns that will help your body overcome the weakness and strengthen from inside out.
 
-Perfect for new mums, people with recurring back or pelvic pain, pelvic floor
-disorders, abdominal weakness and separation / diastasis recti and anyone who is
-interested in exploring how their body works and would like to improve their
-functional strength.
+Whole Body Core Strength brings together everything I learnt through my professional and personal journey of healing a severe abdominal separation and restoring a functional core. 
 
-Suitable for beginners as well as experienced movers, as the group is small and
-each of the practices will be adapted to you.
+It's a 6-week course combining private and small group movement coaching with educational workshops and customised take-home practices.
 
-Contains:
+Perfect for anyone who is interested in exploring how their body works and would like to improve their biological fitness and functional strength, especially new mums, people with recurring back or pelvic pain and diastasis recti.
 
-* Experiential workshops
-* Small group exercise classes (6 people max)
-* Recommendation of practices to do at home
+Suitable for beginners as well as experienced movers, as the group is small and each of the practices will be adapted to you.
 
 Extras: by booking the course you also get:
 
-* 1 Hour Private Class (value £50)
+* Week 0 - Initial one to one movement coaching class (value £50)
 * Half dome (value £7)
 
 Place: Movement Kitchen, 13 Saw Mill Way, N16 6AN Stamford Hill, London
 
 Time: Sundays 11 am - 1 pm (workshops) or 11 am - 12:30 pm (exercise classes).
 
-* Early bird price – until 15 Dec: £127 for the whole course
-* Regular price – until 7 January: £147
-* Last minute price – until 14 January: £167
+* Price: £199
+* Early bird price – until 21 Feb: £149 for the whole course
 
 Schedule:
 
 * Week 1: Workshop: The “Bones" of Your Belly - 3 things you can do for your
   core right now and none of them is exercise
 
-* Week 2: Workshop: How Much of You Does Really Move When You Move? -
-  Positioning of your bones as the core of your core strength
+* Week 2: Workshop: Are you creating the forces that weaken your core?
 
 * Week 3: Exercise class: Strength = Coordinated Mobility - Restore mobility in
   undermoved places - upper body focus
@@ -54,8 +43,7 @@ Schedule:
 * Week 4: Exercise class: Restore mobility in undermoved places - below the
   waist
 
-* Week 5: Workshop: Balance with your hips - Your feet, legs and the hips as the
-  pillars of your core (includes an indoor obstacle course)
+* Week 5: Workshop: Balance and Stability (includes an indoor obstacle course)
 
 * Week 6: Exercise class: Improve torso mechanics and your strength to weight
   ratio
