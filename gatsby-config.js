@@ -25,11 +25,11 @@ module.exports = {
         label: 'Courses / workshops',
         hero: '/images/beach_ride.jpg',
       },
-      // {
-      //   uri: '/massage/',
-      //   label: 'Massage',
-      //   hero: '/images/beach_ride.jpg',
-      // },
+      {
+        uri: '/massage/',
+        label: 'Massage',
+        hero: '/images/massage_table.jpg',
+      },
       // {
       //   uri: '/mini-urban-retreats/',
       //   label: 'Mini urban retreats',
