@@ -8,4 +8,4 @@ Balinese massage helps to improve blood circulation and break sticky points in y
 
 Price:  
 £50 for 30 minutes or  
-£100 for 1 hour of a luxurious full body massage 
+£90 for 1 hour of a luxurious full body massage 
