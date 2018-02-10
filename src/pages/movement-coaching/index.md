@@ -13,15 +13,14 @@ Price: £50 for 1 hour session.
 All sessions need to be paid in advance and can be moved or canceled up to 24
 hours before the appointment.
 
-Book a
-[free telephone consultation](mailto:ivana.demmel@gmail.com?subject=Free%20Telephone%20Consultation)!
+Book a [free telephone consultation][1]!
 
 ![Alignment points](alignment_points.jpg)
 
 ### What is movement coaching?
 
-I use Restorative Exercise / Nutritious Movement™ approach as a starting point in my
-work - looking for mechanical roots of your injuries and how to work with
+I use Restorative Exercise / Nutritious Movement™ approach as a starting point
+in my work - looking for mechanical roots of your injuries and how to work with
 your body towards a more sustainable alignment - one that would not be creating
 forces that have caused the injury in the first place. Applying 25 objective
 alignment markers grounded on principles of geometry, engineering and physics to
@@ -50,3 +49,5 @@ Improving how parts of your body work together and in relation to each other
 will bring different outcomes on cellular level, such as less wear and tear on
 the joints, better bone density and generally a more robust strength with less
 likelihood for injury.
+
+[1]: mailto:ivana.demmel@gmail.com?subject=Free%20Telephone%20Consultation

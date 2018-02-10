@@ -8,15 +8,28 @@ title: Courses and workshops
 
 **Next starting on the 4th of March**
 
-You might be told that having back pain, a weak abdomen, a leaky pelvic floor or aches and pains that keep coming back is a normal consequence of pregnancy, childbirth or your age. You might be investing a lot of time and effort in strengthening or restoring your core, while at the same time creating forces that weaken it. This course aims to help you in uncovering the habits that might be weakening your core and support you in establishing sustainable movement patterns that will help your body overcome the weakness and strengthen from inside out.
+You might be told that having back pain, a weak abdomen, a leaky pelvic floor or
+aches and pains that keep coming back is a normal consequence of pregnancy,
+childbirth or your age. You might be investing a lot of time and effort in
+strengthening or restoring your core, while at the same time creating forces
+that weaken it. This course aims to help you in uncovering the habits that might
+be weakening your core and support you in establishing sustainable movement
+patterns that will help your body overcome the weakness and strengthen from
+inside out.
 
-Whole Body Core Strength brings together everything I learnt through my professional and personal journey of healing a severe abdominal separation and restoring a functional core. 
+Whole Body Core Strength brings together everything I learnt through my
+professional and personal journey of healing a severe abdominal separation and
+restoring a functional core.
 
-It's a 6-week course combining private and small group movement coaching with educational workshops and customised take-home practices.
+It's a 6-week course combining private and small group movement coaching with
+educational workshops and customised take-home practices.
 
-Perfect for anyone who is interested in exploring how their body works and would like to improve their biological fitness and functional strength, especially new mums, people with recurring back or pelvic pain and diastasis recti.
+Perfect for anyone who is interested in exploring how their body works and would
+like to improve their biological fitness and functional strength, especially new
+mums, people with recurring back or pelvic pain and diastasis recti.
 
-Suitable for beginners as well as experienced movers, as the group is small and each of the practices will be adapted to you.
+Suitable for beginners as well as experienced movers, as the group is small and
+each of the practices will be adapted to you.
 
 Extras: by booking the course you also get:
 
@@ -28,7 +41,6 @@ Place: Movement Kitchen, 13 Saw Mill Way, N16 6AN Stamford Hill, London
 Time: Sundays 11 am - 1 pm (workshops) or 11 am - 12:30 pm (exercise classes).
 
 * Price: £199
-* Early bird price – until 21 Feb: £149 for the whole course
 
 Schedule:
 
@@ -69,14 +81,19 @@ Other courses coming soon:
 
 * Parkour for Mums - playful outdoor movement workshop
 
-Register your interest to be notified when the courses start and get special
-early bird prices.
+Register your interest to be notified when the courses start.
 
-## What if you miss a session in a course 
+## What if you miss a session in a course
 
-You can make up one session you missed in the next term for free, if there is space. For every next one you will need to pay the regular drop-in price which is £30 for the workshops and £20 for the exercise classes. 
+You can make up one session you missed in the next term for free, if there is
+space. For every next one you will need to pay the regular drop-in price which
+is £30 for the workshops and £20 for the exercise classes.
 
-Another option would be to book a 1 hour private where we would go through the bits that you missed. I could give you a 20% discount on the regular price. 
+Another option would be to book a 1 hour private where we would go through the
+bits that you missed. I could give you a 20% discount on the regular price.
 
-We are slowly building up complexity as each week is dedicated to developing a different motor skill and adding it to the previous ones. I really want to make sure that everyone fully benefits from the course, so if you miss more than two sessions it might make more sense to re-book the whole course in the next term or once you are ready to commit. 
-
+We are slowly building up complexity as each week is dedicated to developing a
+different motor skill and adding it to the previous ones. I really want to make
+sure that everyone fully benefits from the course, so if you miss more than two
+sessions it might make more sense to re-book the whole course in the next term
+or once you are ready to commit.
