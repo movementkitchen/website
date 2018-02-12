@@ -6,64 +6,34 @@ title: Courses and workshops
 
 **Whole Body Core Strength 6-Week Course**
 
-**Next starting on the 4th of March**
+**Starting on the 4th of March**
 
-You might be told that having back pain, a weak abdomen, a leaky pelvic floor or
-aches and pains that keep coming back is a normal consequence of pregnancy,
-childbirth or your age. You might be investing a lot of time and effort in
-strengthening or restoring your core, while at the same time creating forces
-that weaken it. This course aims to help you in uncovering the habits that might
-be weakening your core and support you in establishing sustainable movement
-patterns that will help your body overcome the weakness and strengthen from
-inside out.
+After the first, completely sold out Whole Body Core Strength course I've
+decided to offer a re-run this spring.
 
-Whole Body Core Strength brings together everything I learnt through my
-professional and personal journey of healing a severe abdominal separation and
-restoring a functional core.
+This unique course brings together private movement coaching, small group
+classes and experiential workshops exploring the idea of ''core strength'', so
+much used in the mainstream health and fitness community and challenging its
+meaning beyond the tight abs.
 
-It's a 6-week course combining private and small group movement coaching with
-educational workshops and customised take-home practices.
+Why some people don't respond well to conventional abdominal exercise?
 
-Perfect for anyone who is interested in exploring how their body works and would
-like to improve their biological fitness and functional strength, especially new
-mums, people with recurring back or pelvic pain and diastasis recti.
+Do you really have to pull your navel to the spine to activate your core?
 
-Suitable for beginners as well as experienced movers, as the group is small and
-each of the practices will be adapted to you.
+What tightness in your shoulders/hips/feet have to do with the weak core?
 
-Extras: by booking the course you also get:
+How to notice and stop creating forces that keep weakening your core?
 
-* Week 0 - Initial one to one movement coaching class (value £50)
-* Half dome (value £7)
+How to tweak the way you stand, sit, walk, use your arms and legs to allow more
+parts of your body to switch on and gradually strengthen through the use in your
+daily life?
 
-Place: Movement Kitchen, 13 Saw Mill Way, N16 6AN Stamford Hill, London
+How to get over recurrent injuries and live an active life without some parts of
+your body wearing out before the other ones?
 
-Time: Sundays 11 am - 1 pm (workshops) or 11 am - 12:30 pm (exercise classes).
+[More information][1]
 
-* Price: £199
-
-Schedule:
-
-* Week 1: Workshop: The “Bones" of Your Belly - 3 things you can do for your
-  core right now and none of them is exercise
-
-* Week 2: Workshop: Are you creating the forces that weaken your core?
-
-* Week 3: Exercise class: Strength = Coordinated Mobility - Restore mobility in
-  undermoved places - upper body focus
-
-* Week 4: Exercise class: Restore mobility in undermoved places - below the
-  waist
-
-* Week 5: Workshop: Balance and Stability (includes an indoor obstacle course)
-
-* Week 6: Exercise class: Improve torso mechanics and your strength to weight
-  ratio
-
-Each workshop is 2 hours long and exercise classes 1.5 hour.
-
-Limited number of places available. Please email ivana@movementkitchen.co.uk or
-call 07936348233 to book your spot.
+---
 
 Other courses coming soon:
 
@@ -97,3 +67,5 @@ different motor skill and adding it to the previous ones. I really want to make
 sure that everyone fully benefits from the course, so if you miss more than two
 sessions it might make more sense to re-book the whole course in the next term
 or once you are ready to commit.
+
+[1]: /courses-workshops/whole-body-core-strength
