@@ -17,7 +17,7 @@ It aims to:
   injuries
 * Help you optimise your movement mechanics and build more sustainable movement
   patterns in your day-to-day life
-* Support you in overcoming pain and fear of getting reinjured
+* Support you in overcoming pain and fear of getting re-injured
 * Help you regain ease and joy in moving and transition to a more movement-rich
   lifestyle
 * Put you on the right path towards developing a robust functional, real-life
