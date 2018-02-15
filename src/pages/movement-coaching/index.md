@@ -22,11 +22,8 @@ Book a [free telephone consultation][1]!
 I use Restorative Exercise / Nutritious Movement™ approach as a starting point
 in my work - looking for mechanical roots of your injuries and how to work with
 your body towards a more sustainable alignment - one that would not be creating
-forces that have caused the injury in the first place. Applying 25 objective
-alignment markers grounded on principles of geometry, engineering and physics to
-your very body, we will work together to align bones and joints in relation to
-each other and allow the muscles to gradually restore their length for optimal
-function. You can find out more about this approach on nutritiousmovement.com.
+forces that have caused the injury in the first place. You can find out more
+about this approach on nutritiousmovement.com.
 
 Even though largely relying on mechanics and geometry in my work, I don't see
 the body as a machine that needs to be ''fixed'' but rather a complex expression
