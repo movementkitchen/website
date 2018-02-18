@@ -13,6 +13,8 @@ class Home extends React.Component {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title');
     const pageTitle = get(this, 'props.pathContext.title');
     const pageContent = get(this, 'props.pathContext.html');
+    const posts = get(this, 'props.data.allPostsJson').edges.map(e => e.node);
+    const user = get(this, 'props.data.user').edges[0].node;
 
     return (
       <div
@@ -25,7 +27,7 @@ class Home extends React.Component {
         <Helmet title={`${siteTitle} – ${pageTitle}`} />
         <div dangerouslySetInnerHTML={{ __html: pageContent }} />
         <Bio />
-        <Instagram />
+        <Instagram posts={posts} />
       </div>
     );
   }
@@ -38,6 +40,32 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+      }
+    }
+    user: allPostsJson(limit: 1) {
+      edges {
+        node {
+          username
+          avatar
+        }
+      }
+    }
+    allPostsJson(limit: 6) {
+      edges {
+        node {
+          id
+          code
+          text
+          likes
+          smallImage: image {
+            childImageSharp {
+              small: responsiveSizes(maxWidth: 250, maxHeight: 250) {
+                src
+                srcSet
+              }
+            }
+          }
+        }
       }
     }
   }
