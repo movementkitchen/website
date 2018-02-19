@@ -32,9 +32,8 @@ gradually restore their function in your day-to-day life.
 
 I also play a lot with interoception (sense of psychological condition of the
 body) and experience of movement. I like using mindfulness, breath, touch and
-somatic imagery to help you explore your movement and tension patterns, aid in
-removing old muscular habits and cultivate an experience of safety and ease in
-your body.
+somatic imagery to aid you in overcoming old muscular habits and help cultivate
+an experience of safety and ease in your body.
 
 ![Alignment points](alignment_points.jpg)
 
