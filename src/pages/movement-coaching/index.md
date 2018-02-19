@@ -5,10 +5,10 @@ title: Movement coaching
 ### What is movement coaching?
 
 Improving how parts of your body work together and in relation to each other
-will bring different outcomes from cellular level up – from improved blood and
-lymph circulation and better overall tissue quality, more balanced mass and bone
-density distribution across the body, to more even strength patterns with less
-wear and tear on the joints and less likelihood for injury.
+will bring different outcomes from cellular level up – improved blood and lymph
+circulation and better overall tissue quality, more balanced mass and bone
+density distribution across the body, more even strength patterns with less wear
+and tear on the joints and less likelihood for injury.
 
 I use Restorative Exercise / Nutritious Movement™ approach as a starting point
 in my work. We will look for biomechanical roots of your injuries in the way you
