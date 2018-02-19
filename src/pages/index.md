@@ -10,7 +10,7 @@ ever tried movement coaching?
 
 Movement Kitchen brings together biomechanics based Restorative Exercise,
 functional fitness and yoga as therapy, seamlessly blending in scientific and
-intuitive in working with the movement and the body.
+intuitive in working with movement and the body.
 
 It aims to:
 
