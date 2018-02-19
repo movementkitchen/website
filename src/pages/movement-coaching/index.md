@@ -50,4 +50,4 @@ hours before the appointment.
 
 Book a [free telephone consultation][1]!
 
-[1]: mailto:ivana.demmel@gmail.com?subject=Free%20Telephone%20Consultation
+[1]: mailto:ivana@movementkitchen.co.uk?subject=Free%20Telephone%20Consultation
