@@ -4,13 +4,14 @@ template: home
 ---
 
 Do you have an abdomen that doesn't respond well to conventional abdominal
-exercise? Do you have back/hip/knee/foot pain that keeps coming back? Do you
-feel that things never quite got back to normal after having a baby? Have you
-ever tried movement coaching?
+exercise?  
+Do you have back/hip/knee/foot pain that keeps coming back?  
+Do you feel that things never quite got back to normal after having a baby?  
+Have you ever tried movement coaching?
 
 Movement Kitchen brings together biomechanics based Restorative Exercise,
-functional fitness and yoga as therapy, seamlessly blending in scientific and
-intuitive in working with movement and the body.
+functional fitness and yoga, weaving in scientific and intuitive in its approach
+to movement and the body.
 
 It aims to:
 
