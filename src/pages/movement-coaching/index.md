@@ -14,7 +14,7 @@ I use Restorative Exercise / Nutritious Movement™ approach as a starting point
 in my work. We will look for biomechanical roots of your injuries in the way you
 use your body and how to build towards more sustainable movement patterns. You
 can find out more about this approach on
-[nutritiousmovement.com.](nutritiousmovement.com)
+[nutritiousmovement.com.](https://nutritiousmovement.com/)
 
 Even though largely relying on mechanics and geometry in my work, I don't see
 the body as a machine that needs to be ''fixed'' but rather a complex expression
