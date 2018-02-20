@@ -2,7 +2,11 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'react-emotion';
 
-import { options as typographyOptions, rhythm, scale } from '../utils/typography';
+import {
+  options as typographyOptions,
+  rhythm,
+  scale,
+} from '../utils/typography';
 
 const ImageContainer = styled.div`
   width: 100%;
@@ -13,7 +17,6 @@ const ImageContainer = styled.div`
 `;
 
 const ShadyHeadline = styled.h2`
-  font-family: ${typographyOptions.bodyFontFamily.join(`,`)};
   text-align: center;
   padding: ${rhythm(2)} ${rhythm(2)} 0 ${rhythm(2)};
   margin-bottom: 0;

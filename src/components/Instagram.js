@@ -37,7 +37,7 @@ class Instagram extends React.Component {
   render() {
     return (
       <div>
-        <h2>My last few Instagram posts</h2>
+        <h3>My last few Instagram posts</h3>
         <ImagesContainer>
           {this.props.posts.map(post => (
             <ImageLink

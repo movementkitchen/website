@@ -2,29 +2,29 @@ import Typography from 'typography';
 import { TABLET_MEDIA_QUERY } from 'typography-breakpoint-constants';
 
 // Import typefaces
-import 'typeface-amatic-sc';
-import 'typeface-work-sans';
+import 'typeface-cormorant-garamond';
+import 'typeface-raleway';
 
 const theme = {
-  baseFontSize: '19px',
-  baseLineHeight: 1.38,
-  scaleRatio: 2,
+  baseFontSize: '16px',
+  baseLineHeight: 1.47,
+  scaleRatio: 4,
   googleFonts: [
     {
-      name: 'Amatic SC',
+      name: 'Cormorant Garamond',
       styles: ['400'],
     },
     {
-      name: 'Work Sans',
-      styles: ['200', '500'],
+      name: 'Raleway',
+      styles: ['200', '400', '700'],
     },
   ],
-  headerFontFamily: ['Amatic SC', 'cursive'],
-  bodyFontFamily: ['Work Sans', 'sans-serif'],
+  headerFontFamily: ['Cormorant Garamond', 'serif'],
+  bodyFontFamily: ['Raleway', 'sans-serif'],
   bodyColor: 'hsla(0,0%,0%,0.8)',
   headerWeight: 400,
-  bodyWeight: 300,
-  boldWeight: 500,
+  bodyWeight: 400,
+  boldWeight: 700,
   overrideStyles: ({ adjustFontSizeTo, scale, rhythm }, options) => {
     const styles = {
       a: {
@@ -34,16 +34,20 @@ const theme = {
         color: '#3498DB',
       },
       blockquote: {
-        ...scale(2 / 5),
-        lineHeight: 1.3,
+        ...scale(0.3),
+        lineHeight: 1.4,
         fontWeight: '200',
         color: '#777777',
         paddingLeft: rhythm(5 / 4),
         marginLeft: 0,
         marginRight: 0,
       },
-      'h3,h4,h5,h6': {
-        marginBottom: rhythm(1 / 2),
+      'h1:not(:first-child),h2:not(:first-child),h3:not(:first-child),h4:not(:first-child),h5:not(:first-child),h6:not(:first-child)': {
+        marginTop: rhythm(1.75),
+        marginBottom: rhythm(1),
+      },
+      h4: {
+        ...scale(0.25),
       },
       table: {
         ...scale(-1 / 5),

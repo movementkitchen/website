@@ -2,9 +2,16 @@ import React from 'react';
 import styled from 'react-emotion';
 import Link from 'gatsby-link';
 import { withRouter } from 'react-router';
-import { MIN_DEFAULT_MEDIA_QUERY, DEFAULT_MEDIA_QUERY } from 'typography-breakpoint-constants';
+import {
+  MIN_DEFAULT_MEDIA_QUERY,
+  DEFAULT_MEDIA_QUERY,
+} from 'typography-breakpoint-constants';
 
-import { options as typographyOptions, rhythm, scale } from '../utils/typography';
+import {
+  options as typographyOptions,
+  rhythm,
+  scale,
+} from '../utils/typography';
 import Hero from './Hero';
 
 const Wrapper = styled.div`
@@ -37,9 +44,9 @@ const Nav = styled.nav`
   background-color: rgba(255, 255, 255, 0.8);
   backdrop-filter: blur(3px);
   z-index: 10;
-  
+
   ${DEFAULT_MEDIA_QUERY} {
-    display: ${props => (props.menuOpen ? 'block' : 'none')}
+    display: ${props => (props.menuOpen ? 'block' : 'none')};
     bottom: 0;
   }
 `;
@@ -73,26 +80,10 @@ const NavItem = styled.li`
 const HeadingStyleLink = styled(Link)`
   text-decoration: none;
   color: inherit;
-  ${scale(4 / 5)};
+  ${scale(2 / 5)};
 
   ${MIN_DEFAULT_MEDIA_QUERY} {
-    ${scale(2 / 5)};
-  }
-`;
-
-const Logo = styled.h1`
-  position: absolute;
-  top: ${rhythm(1.5)};
-  left: ${rhythm(1 / 2)};
-  color: white;
-  text-shadow: 0px 0px 2px black, 0px 2px 1px black;
-
-  ${HeadingStyleLink} {
-    ${scale(4 / 5)};
-  }
-
-  ${MIN_DEFAULT_MEDIA_QUERY} {
-    top: ${rhythm(2.5)};
+    ${scale(1 / 5)};
   }
 `;
 
@@ -120,17 +111,25 @@ class Navigation extends React.Component {
 
   render() {
     const { navItems } = this.props;
-    const currentNavItem = navItems.find(el => el.uri === this.props.location.pathname);
-    const heroImage = currentNavItem && currentNavItem.hero ? currentNavItem.hero : navItems[0].hero;
+    const currentNavItem = navItems.find(el => {
+      return el.uri === this.props.location.pathname;
+    });
+    const heroImage =
+      currentNavItem && currentNavItem.hero
+        ? currentNavItem.hero
+        : navItems[0].hero;
 
     return (
       <Wrapper>
         <Nav menuOpen={this.state.menuOpen}>
+          {console.log('this.state.menuOpen', this.state.menuOpen)}
           <NavList>
             {navItems.map(navItem => (
               <NavItem key={navItem.uri}>
                 {navItem.uri.indexOf('http') === 0 ? (
-                  <HeadingStyleExternalLink href={navItem.uri}>{navItem.label}</HeadingStyleExternalLink>
+                  <HeadingStyleExternalLink href={navItem.uri}>
+                    {navItem.label}
+                  </HeadingStyleExternalLink>
                 ) : (
                   <HeadingStyleLink
                     onClick={this.onNavigationBound}
@@ -148,17 +147,21 @@ class Navigation extends React.Component {
           </NavList>
         </Nav>
         <Hero imageURI={heroImage} />
-        <Logo>
-          <HeadingStyleLink to={'/'}>Movement Kitchen</HeadingStyleLink>
-        </Logo>
-        <MenuToggleButton onClick={this.toggleMenuBound}>{menuSVG}</MenuToggleButton>
+        <MenuToggleButton onClick={this.toggleMenuBound}>
+          {menuSVG}
+        </MenuToggleButton>
       </Wrapper>
     );
   }
 }
 
 const menuSVG = (
-  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 100 100">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="100%"
+    height="100%"
+    viewBox="0 0 100 100"
+  >
     <filter id="shade">
       <feOffset result="offOut" in="SourceAlpha" dx="0" dy="2" />
       <feGaussianBlur result="blurOut" in="offOut" stdDeviation="2" />

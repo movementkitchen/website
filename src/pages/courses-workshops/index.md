@@ -4,9 +4,9 @@ title: Courses and workshops
 
 ### Upcoming courses and workshops
 
-**Whole Body Core Strength 6-Week Course**
+#### Whole Body Core Strength 6-Week Course
 
-**Starting on the 4th of March**
+Starting on the 4th of March
 
 After the first, completely sold out Whole Body Core Strength course I've
 decided to offer a re-run this spring.
@@ -53,7 +53,7 @@ Other courses coming soon:
 
 Register your interest to be notified when the courses start.
 
-## What if you miss a session in a course
+### What if you miss a session in a course
 
 You can make up one session you missed in the next term for free, if there is
 space. For every next one you will need to pay the regular drop-in price which
