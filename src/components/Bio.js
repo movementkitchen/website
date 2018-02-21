@@ -16,8 +16,8 @@ const ProfileImage = styled.img`
   height: ${rhythm(2.5)};
 `;
 
-const NutritiousMovementLogo = styled.img`
-  margin: 0 auto;
+const NutritiousMovementLink = styled.a`
+  text-align: center;
   display: block;
 `;
 
@@ -32,10 +32,9 @@ class Bio extends React.Component {
           two energetic little people. I'm passionate about helping people
           reclaim ease and joy in moving.
         </p>
-        <NutritiousMovementLogo
-          src={nutritiousMovementLogo}
-          alt={`Nutritious Movement logo`}
-        />
+        <NutritiousMovementLink href="https://nutritiousmovement.com/find-a-teacher/#marker633">
+          <img src={nutritiousMovementLogo} alt={`Nutritious Movement logo`} />
+        </NutritiousMovementLink>
       </BioContainer>
     );
   }

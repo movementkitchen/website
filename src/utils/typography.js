@@ -8,7 +8,7 @@ import 'typeface-raleway';
 const theme = {
   baseFontSize: '16px',
   baseLineHeight: 1.47,
-  scaleRatio: 4,
+  scaleRatio: 5.5,
   googleFonts: [
     {
       name: 'Cormorant Garamond',

@@ -41,7 +41,7 @@ const Nav = styled.nav`
   top: 0;
   left: 0;
   right: 0;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.9);
   backdrop-filter: blur(3px);
   z-index: 10;
 
