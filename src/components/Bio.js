@@ -19,6 +19,11 @@ const ProfileImage = styled.img`
 const NutritiousMovementLink = styled.a`
   text-align: center;
   display: block;
+
+  & > img {
+    max-height: 35vh;
+    margin: 0;
+  }
 `;
 
 class Bio extends React.Component {
