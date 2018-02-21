@@ -4,17 +4,13 @@ title: Movement coaching
 
 ### What is movement coaching?
 
-Improving how parts of your body work together and in relation to each other
-will bring different outcomes from cellular level up – improved blood and lymph
-circulation and better overall tissue quality, more balanced mass and bone
-density distribution across the body, more even strength patterns with less wear
-and tear on the joints and less likelihood for injury.
-
-I use Restorative Exercise / Nutritious Movement™ approach as a starting point
-in my work. We will look for biomechanical roots of your injuries in the way you
-use your body and how to build towards more sustainable movement patterns. You
-can find out more about this approach on
-[nutritiousmovement.com.](https://nutritiousmovement.com/)
+I use [Restorative Exercise / Nutritious Movement™][1] approach as a starting
+point in my work. We will look into the ways you use your body, focusing on the
+positioning of the bones and joint angles and find what we can improve for a
+better biological performance. We will explore together which movements feel
+natural and which are difficult at this point, test your ability to stabilise
+your joints as you move and look for ways to build more balanced movement
+patterns in your day-to-day life.
 
 Even though largely relying on mechanics and geometry in my work, I don't see
 the body as a machine that needs to be ''fixed'' but rather a complex expression
@@ -48,6 +44,7 @@ Price: £50 for 1 hour session.
 All sessions need to be paid in advance and can be moved or canceled up to 24
 hours before the appointment.
 
-Book a [free telephone consultation][1]!
+Book a [free telephone consultation][2]!
 
-[1]: mailto:ivana@movementkitchen.co.uk?subject=Free%20Telephone%20Consultation
+[1]: https://nutritiousmovement.com/
+[2]: mailto:ivana@movementkitchen.co.uk?subject=Free%20Telephone%20Consultation
