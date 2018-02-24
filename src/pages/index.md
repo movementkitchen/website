@@ -6,8 +6,8 @@ template: home
 You might have persistent shoulder/hip/back pain or injury that keeps coming
 back? Or maybe you feel that things never quite got back to normal after having
 a baby? You are tired or hurting and ready to take an active part in getting
-better, reclaiming your body's natural ability to move. Would you like to try
-movement coaching?
+better, reclaiming your body's natural ability to move.  
+Would you like to try movement coaching?
 
 Movement Kitchen brings together biomechanics based Restorative Exercise,
 functional fitness and yoga, weaving in scientific and intuitive in its approach
