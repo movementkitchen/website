@@ -5,7 +5,7 @@ template: home
 
 You might have persistent shoulder/hip/back pain or injury that keeps coming
 back? Or maybe you feel that things never quite got back to normal after having
-a baby? You are tired or hurting and ready to take an active part in getting
+a baby? You are tired of hurting and ready to take an active part in getting
 better, reclaiming your body's natural ability to move?  
 Movement coaching could be just the thing you are looking for.
 
