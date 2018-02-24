@@ -11,11 +11,11 @@ Movement coaching could be just the thing you are looking for.
 
 Movement Kitchen brings together biomechanics based Restorative Exercise,
 functional fitness and yoga, weaving in the latest research in movement science
-with intuitive, hands on approach to movement and the body.
+with experiential and intuitive in its unique approach to movement and the body.
 
 It aims to:
 
-* Empower you to understand your body better and look for underlying causes of
+* Empower you to understand your body better and discover underlying causes of
   your injuries
 * Support you in overcoming pain and fear of getting re-injured
 * Work with your body to optimise your movement mechanics and build more
