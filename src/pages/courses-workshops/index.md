@@ -6,10 +6,10 @@ title: Courses and workshops
 
 #### Whole Body Core Strength 6-Week Course
 
-Starting on the 4th of March
+Starting on the 18th of March
 
-After the first, completely sold out Whole Body Core Strength course I've
-decided to offer a re-run this spring.
+After the first, sold out Whole Body Core Strength course I've decided to offer
+a re-run this spring.
 
 This unique course brings together private movement coaching, small group
 classes and experiential workshops exploring the idea of ''core strength'', so
