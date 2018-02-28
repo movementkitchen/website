@@ -8,12 +8,12 @@ title: Courses and workshops
 
 Starting on the 18th of March
 
-* Do you have persistent back pain, back spasms or sciatica that significantly
-  affect your quality of life?
-* Do you feel your abdomen is too weak to support you while carrying groceries
-  or lifting your children?
-* Or maybe you had your children years ago but still look five months pregnant?
-* Do you leak when you cough or sneeze?
+Do you have persistent back pain, back spasms or sciatica that significantly
+affect your quality of life?  
+Do you feel your abdomen is too weak to support you while carrying groceries or lifting
+your children?  
+Or maybe you had your children years ago but still look five months pregnant?  
+Do you leak when you cough or sneeze?
 
 If any of these is true this course is a perfect place to start.
 
