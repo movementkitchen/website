@@ -57,9 +57,9 @@ getting re-injured over and over again. And I found that a lot of people with
 similar problems develop a fear of moving.
 
 Abdominal separation is a whole body issue and needs to be addressed as such.
-There is no such thing as 5 magical exercises that will fix it, however even
-small tweaks in how your stand, sit, walk or how your exercise that can make a
-significant difference. The way we move shapes us.
+You won't find 5 magical exercises that will fix it, but even small tweaks in
+how your stand, sit, walk or HOW your exercise can make a significant difference
+in healing your separation. The way we move shapes us.
 
 I'm very passionate about this issue and a lot of my work today focuses on
 helping people – especially mums – to restore a functional core and improve
@@ -80,6 +80,6 @@ beautifully malleable and adapt to the way we use them.
 > Not just exercise, but everything we do is an input.
 
 You can create an environment that requires you to move more frequently and move
-more parts of you as you go about your everyday life. Even making little tweaks
-can make a big difference over time. Each tiny change creates a thousand
+more parts of you as you go about your everyday life. Even making tiny changes
+can make a big difference over time. Each little change creates a thousand
 ripples.
