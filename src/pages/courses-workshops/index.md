@@ -8,12 +8,12 @@ title: Courses and workshops
 
 Starting on the 18th of March
 
-Do you have persistent back pain, back spasms or sciatica that significantly
-affect your quality of life?  
-Do you feel your abdomen is too weak to support you while carrying groceries or lifting
-your children?  
-Or maybe you had your children years ago but still look five months pregnant?  
-Do you leak when you cough or sneeze?
+* Do you have persistent back pain, back spasms or sciatica that affect your
+  quality of life?
+* Do you feel your abdomen is too weak to support you while carrying groceries
+  or lifting your children?
+* Or maybe you had your children years ago but still look five months pregnant?
+* Do you leak when you cough or sneeze?
 
 If any of these is true this course is a perfect place to start.
 
@@ -21,23 +21,34 @@ If any of these is true this course is a perfect place to start.
 
 ---
 
-Other courses coming soon:
+Other courses coming up soon:
 
-* Resilient Mama - healthy alignment for pain free pregnancy - 6 week course
-  bringing together Restorative Exercise™ (RES), mindfulness and biomechanics
-  based yoga
+### Resilient Mama
 
-* Walking for Health - what if you can significantly improve your health just by
-  walking? This 6 week course focuses on restoring foot dexterity, lower leg
-  mobility and a balanced strength of the pelvic musculature. Developing a
-  healthy alignment will transform your walking into a powerful
-  health-sustaining activity. Perfect for anyone with foot, knee, hip or back
-  pain or pelvic floor disorders. All the sessions are outside, walking in
-  nature.
+This 6 week course brings together gentle pregnancy yoga with biomechanics based
+Restorative Exercise to help you go through your pregnancy feeling your best.
+Through these six weeks we will explore healthy alignment in pregnancy and how
+to avoid common niggles of the increased weight and decreased space for
+breathing, pelvic floor health beyond isolated pelvic floor exercises and how to
+prepare the body for birth. You will build body awareness, functional strength
+and emotional resilience for a smooth transition into motherhood.
 
-* Parkour for Mums - playful outdoor movement workshop
+### Walking for Health
 
-Register your interest to be notified when the courses start.
+What if you can significantly improve your health just by walking? This 6 week
+course focuses on restoring foot dexterity, lower leg mobility and a balanced
+strength of the pelvic musculature. Developing a healthy alignment will
+transform your walking into a powerful health-sustaining activity. Perfect for
+anyone with foot, knee, hip or back pain or pelvic floor disorders. All the
+sessions are outside, walking in nature.
+
+### Parkour for Mums
+
+This playful outdoor movement workshop explores all the things you can do while
+your children play at the playground to strengthen your body. Hint: it's not
+looking at your phone :)
+
+[Register your interest][2] to be notified when the courses start.
 
 ### What if you miss a session in a course
 
@@ -55,3 +66,4 @@ sessions it might make more sense to re-book the whole course in the next term
 or once you are ready to commit.
 
 [1]: /courses-workshops/whole-body-core-strength
+[2]: mailto:ivana@movementkitchen.co.uk
