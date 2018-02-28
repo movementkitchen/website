@@ -8,28 +8,13 @@ title: Courses and workshops
 
 Starting on the 18th of March
 
-After the first, sold out Whole Body Core Strength course I've decided to offer
-a re-run this spring.
+Do you have persistent back pain, back spasms or sciatica that significantly
+affect your quality of life? Do you feel your abdomen is too weak to support you
+while carrying groceries or lifting your children? Or maybe you had your
+children years ago but still look five months pregnant? Do you leak when you
+cough or sneeze?
 
-This unique course brings together private movement coaching, small group
-classes and experiential workshops exploring the idea of ''core strength'', so
-much used in the mainstream health and fitness community and challenging its
-meaning beyond the tight abs.
-
-Why some people don't respond well to conventional abdominal exercise?
-
-Do you really have to pull your navel to the spine to activate your core?
-
-What tightness in your shoulders/hips/feet have to do with the weak core?
-
-How to notice and stop creating forces that keep weakening your core?
-
-How to tweak the way you stand, sit, walk, use your arms and legs to allow more
-parts of your body to switch on and gradually strengthen through the use in your
-daily life?
-
-How to get over recurrent injuries and live an active life without some parts of
-your body wearing out before the other ones?
+If any of these is true this course is a perfect place to start.
 
 [More information][1]
 
