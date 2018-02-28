@@ -2,9 +2,7 @@
 title: Courses and workshops
 ---
 
-### Upcoming courses and workshops
-
-#### Whole Body Core Strength 6-Week Course
+### Whole Body Core Strength 6-Week Course
 
 Starting on the 18th of March
 
