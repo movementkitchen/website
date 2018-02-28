@@ -6,6 +6,7 @@ import Helmet from 'react-helmet';
 
 import Bio from '../components/Bio';
 import Instagram from '../components/Instagram';
+import Testimonials from '../components/Testimonials';
 import { rhythm } from '../utils/typography';
 
 class Home extends React.Component {
@@ -15,6 +16,7 @@ class Home extends React.Component {
     const pageContent = get(this, 'props.pathContext.html');
     const posts = get(this, 'props.data.allPostsJson').edges.map(e => e.node);
     const user = get(this, 'props.data.user').edges[0].node;
+    const testimonials = get(this, 'props.pathContext.testimonials');
 
     return (
       <div
@@ -27,6 +29,7 @@ class Home extends React.Component {
         <Helmet title={`${siteTitle} – ${pageTitle}`} />
         <div dangerouslySetInnerHTML={{ __html: pageContent }} />
         <Bio />
+        <Testimonials testimonials={testimonials} />
         <Instagram posts={posts} />
       </div>
     );

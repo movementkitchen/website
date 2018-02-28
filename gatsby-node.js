@@ -1,9 +1,9 @@
-const Promise = require('bluebird')
-const path = require('path')
-const { createFilePath } = require('gatsby-source-filesystem')
+const Promise = require('bluebird');
+const path = require('path');
+const { createFilePath } = require('gatsby-source-filesystem');
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
-  const { createPage } = boundActionCreators
+  const { createPage } = boundActionCreators;
 
   return new Promise((resolve, reject) => {
     resolve(
@@ -20,6 +20,12 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                   frontmatter {
                     template
                     title
+                    testimonials {
+                      url
+                      text
+                      name
+                      avatar
+                    }
                   }
                 }
               }
@@ -28,8 +34,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         `
       ).then(result => {
         if (result.errors) {
-          console.log(result.errors)
-          reject(result.errors)
+          console.log(result.errors);
+          reject(result.errors);
         }
 
         // Create pages.
@@ -44,24 +50,25 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
             context: {
               slug: edge.node.fields.slug,
               title: edge.node.frontmatter.title,
+              testimonials: edge.node.frontmatter.testimonials || null,
               html: edge.node.html,
             },
-          })
-        })
+          });
+        });
       })
-    )
-  })
-}
+    );
+  });
+};
 
 exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
-  const { createNodeField } = boundActionCreators
+  const { createNodeField } = boundActionCreators;
 
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
+    const value = createFilePath({ node, getNode });
     createNodeField({
       name: `slug`,
       node,
       value,
-    })
+    });
   }
-}
+};
