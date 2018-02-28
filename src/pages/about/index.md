@@ -48,6 +48,23 @@ incorporating this approach into my yoga and somatics based work with the body,
 as well into mine and my family’s everyday life. This October I got qualified as
 a Nutritious Movement™ certified Restorative Exercise Specialist.
 
+Working with diastasis recti and recurring back spasms on both my body and with
+a few of my clients, I had found there was so little support for this issue out
+there. Abdominal separation is usually seen as an "aesthetic problem" and most
+of the solutions available focused on patching the gap instead of looking into
+what had caused it in the first place. It was so incredibly frustrating to be
+getting re-injured over and over again. And I found that a lot of people with
+similar problems develop a fear of moving.
+
+Abdominal separation is a whole body issue and needs to be addressed as such.
+There is no such thing as 5 magical exercises that will fix it, however even
+small tweaks in how your stand, sit, walk or how your exercise that can make a
+significant difference. The way we move shapes us.
+
+I'm very passionate about this issue and a lot of my work today focuses on
+helping people – especially mums – to restore a functional core and improve
+their quality of life.
+
 > Longer I work with movement and the body, more I realise, the progress is
 > defined not by one time achievements, but by general blurring of the border
 > between exercise and life.
