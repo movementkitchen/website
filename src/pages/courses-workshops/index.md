@@ -30,8 +30,8 @@ Restorative Exercise to help you go through your pregnancy feeling your best.
 Through these six weeks we will explore healthy alignment in pregnancy and how
 to avoid common niggles of the increased weight and decreased space for
 breathing, pelvic floor health beyond isolated pelvic floor exercises and how to
-prepare the body for birth. You will build body awareness, functional strength
-and emotional resilience for a smooth transition into motherhood.
+prepare the body for birth. It will help you build body awareness, functional
+strength and emotional resilience for a smooth transition into motherhood.
 
 ### Walking for Health
 
