@@ -122,7 +122,6 @@ class Navigation extends React.Component {
     return (
       <Wrapper>
         <Nav menuOpen={this.state.menuOpen}>
-          {console.log('this.state.menuOpen', this.state.menuOpen)}
           <NavList>
             {navItems.map(navItem => (
               <NavItem key={navItem.uri}>

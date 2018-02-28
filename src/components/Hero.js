@@ -38,7 +38,7 @@ const ShadyHeadline = styled.h2`
   && {
     text-align: center;
     position: absolute;
-    width: 100%;
+    width: calc(100% - ${rhythm(1)});
     top: 50%;
     transform: translateY(-50%);
     color: white;
