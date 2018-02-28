@@ -13,17 +13,6 @@ Whole Body Core Strength brings together everything I learnt through my
 professional and personal journey of healing a severe abdominal separation and
 restoring a functional core.
 
-It's based on my experience working with diastasis recti and recurring back
-spasms on both my body and with a few of my clients. I found there was so little
-support for abdominal separation out there and most of the solutions available
-focused on patching the gap instead of looking into what had caused it in the
-first place. It was so incredibly frustrating to be getting re-injured over and
-over again. And I found that a lot of people with similar problems develop a
-fear of moving.
-
-I'm very passionate about helping people – especially mums – to restore a
-functional core and improve their quality of life.
-
 This unique course brings together private movement coaching, small group
 classes and experiential workshops challenging the meaning of core strength
 beyond the tight abs.
