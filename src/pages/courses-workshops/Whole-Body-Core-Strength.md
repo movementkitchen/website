@@ -4,7 +4,7 @@ title: Whole Body Core Strength 6-Week Course
 
 ### Whole Body Core Strength 6-Week Course
 
-**Starting on the 4th of March**
+**Starting on the 18th of March**
 
 You might be told that having back pain, a weak abdomen, a leaky pelvic floor or
 aches and pains that keep coming back is a normal consequence of pregnancy,
