@@ -13,7 +13,9 @@ class Template extends React.Component {
 
     return (
       <div>
-        <Navigation navItems={get(this, 'props.data.site.siteMetadata.navigation')} />
+        <Navigation
+          navItems={get(this, 'props.data.site.siteMetadata.navigation')}
+        />
         {children()}
         <Footer />
       </div>
