@@ -6,21 +6,20 @@ title: About
 
 I love kitchens. Kitchen is always a place where magic happens. A source of
 physical, mental and spiritual sustenance. Kitchen makes a home homely. It's a
-place where no make up and bedhead are always fine. A place of getting the hands
-dirty, playing and experimentation. A place of connecting to your intuition,
-following the gut.
+place where no make up and bedhead are perfectly fine. A place of getting the
+hands dirty, playing and experimentation. A place of connecting to your
+intuition, following the gut.
 
-My studio really happens to be in our large open-plan kitchen and the living
-room. When I don't teach here our living space is still full of exercise props
-(e.g. half domes, balance boards, spiky balls and resistance bands) lying around
-and me and the children playing with them here and there as I'm trying to cook
-dinner.
+My studio really happens to be in our large open-plan kitchen/living room. When
+I don't teach here our living space is still full of exercise props (e.g. half
+domes, balance boards, spiky balls and resistance bands) lying around and me and
+the children playing with them here and there as I'm trying to cook dinner.
 
 Movement kitchen for me symbolises weaving movement into the everyday life,
 living in a way that movement becomes a part of your identity. I aim to create
 the warm, homely, intimate atmosphere of the kitchen in my sessions too. In some
 way, my movement coaching sessions are similar to inviting someone for dinner
-and ending up cooking together, playfully mixing spices into a tasty nurturing
+and ending up cooking together, playfully mixing spices into a tasty, nurturing
 meal.
 
 I work a lot with biomechanics and science of movement but in a relaxed and
@@ -29,8 +28,9 @@ is a kitchen, both literally and metaphorically.
 
 ### About Ivana
 
-My movement journey has been paved by various injuries and finding ways to heal
-them. I often felt my body was too fragile to follow my pace of life.
+My movement journey has been paved by various injuries and an unstoppable urge
+for learning in the process of overcoming them. I often felt my body was too
+fragile to follow my pace of life.
 
 In 2008 I left a career in corporate law with a recurrent back pain and not
 being able to feel parts of my left foot. I completed my first yoga teacher
@@ -55,10 +55,10 @@ I found that there was so little support offered by the healthcare and very
 little research done about diastasis recti, especially about its connection with
 back and pelvic pain. Abdominal separation is usually seen as an "aesthetic
 problem" and most of the solutions available focused on patching the gap instead
-of looking into what had caused it in the first place.
+of looking into what had caused it.
 
 > I wanted to understand why injuries happen and how to avoid them in the first
-> place.
+> place
 
 Looking for answers I started obsessively learning different approaches to
 movement and bodywork. Questioning, deconstructing and learning again from
@@ -68,9 +68,9 @@ Structural Integration, myofascial release and massage.
 In 2014 I discovered the work of American biomechanics scientist Katy Bowman
 looking into forces of physics created by movement and how gravity, pressure and
 friction affect tissues. I felt I finally found a missing piece I was looking
-for. I wanted to learn how to think and see the body as a biomechanist and above
-all, to understand what had contributed to my injury in the first place and see
-if I could heal the separation without a surgery. In 2015 I started the 2-year
+for. I wanted to learn how to think and see the body as a biomechanist. But
+above all, I wanted to find the underlying causes of my injury and see if I
+could heal the separation without a surgery. In 2015 I started the 2-year
 certification with the Nutritious Movement Institute under Katy Bowman and in
 October 2017 got qualified as a Nutritious Movement™ certified Restorative
 Exercise Specialist.
@@ -89,7 +89,7 @@ support me in doing what I love.
 Rebuilding confidence into what my body was able to do brought about a
 transition to a much more movement-rich lifestyle. I threw out the supportive
 insoles from my shoes and gradually replaced all my heeled shoes with barefoot
-ones, our family got rid of most of our furniture and started spending a lot of
+ones. Our family got rid of most of our furniture and started spending a lot of
 our time outside, moving in nature. I started looking at my environment
 differently, finding movement opportunities where there were none: noticing all
 the trees for climbing on my walks, walking much more barefoot and on varied
@@ -102,8 +102,6 @@ instead of just standing around.
 
 Exercise is not enough - I realised, we need MOVEMENT to thrive. Our bodies are
 beautifully malleable and adapt to the way we use them.
-
-> Not just exercise, but everything we do is an input.
 
 You can create an environment that requires you to move more frequently and move
 more parts of you as you go about your everyday life. Even making tiny changes
