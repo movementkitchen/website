@@ -38,11 +38,6 @@ again and have spasms every time I practised yoga, or even just carried my
 child. Not moving couldn't be an option, but the way I used to move was hurting
 me.
 
-Looking for answers I started manically learning different approaches to
-movement and bodywork. Questioning, deconstructing and learning again from
-various teachers across the fields of yoga as therapy, pilates, somatics, dance,
-Structural Integration, myofascial release and massage.
-
 I found that there was so little support offered by the healthcare and very
 little research done about diastasis recti, especially about its connection with
 back and pelvic pain. Abdominal separation is usually seen as an "aesthetic
@@ -51,6 +46,11 @@ of looking into what had caused it in the first place.
 
 > I wanted to understand why injuries happen and how to avoid them in the first
 > place.
+
+Looking for answers I started obsessively learning different approaches to
+movement and bodywork. Questioning, deconstructing and learning again from
+various teachers across the fields of yoga as therapy, pilates, somatics, dance,
+Structural Integration, myofascial release and massage.
 
 In 2014 I discovered the work of American biomechanics scientist Katy Bowman
 looking into forces of physics created by movement and how gravity, pressure and
