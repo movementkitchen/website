@@ -13,19 +13,11 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
             allMarkdownRemark(limit: 1000) {
               edges {
                 node {
-                  html
                   fields {
                     slug
                   }
                   frontmatter {
                     template
-                    title
-                    testimonials {
-                      url
-                      text
-                      name
-                      avatar
-                    }
                   }
                 }
               }
@@ -49,9 +41,6 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
             ),
             context: {
               slug: edge.node.fields.slug,
-              title: edge.node.frontmatter.title,
-              testimonials: edge.node.frontmatter.testimonials || null,
-              html: edge.node.html,
             },
           });
         });

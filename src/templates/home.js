@@ -12,11 +12,14 @@ import { rhythm } from '../utils/typography';
 class Home extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title');
-    const pageTitle = get(this, 'props.pathContext.title');
-    const pageContent = get(this, 'props.pathContext.html');
+    const pageTitle = get(this, 'props.data.markdownRemark.frontmatter.title');
+    const pageContent = get(this, 'props.data.markdownRemark.html');
     const posts = get(this, 'props.data.allPostsJson').edges.map(e => e.node);
     const user = get(this, 'props.data.user').edges[0].node;
-    const testimonials = get(this, 'props.pathContext.testimonials');
+    const testimonials = get(
+      this,
+      'props.data.markdownRemark.frontmatter.testimonials'
+    );
 
     return (
       <div
@@ -39,7 +42,19 @@ class Home extends React.Component {
 export default Home;
 
 export const pageQuery = graphql`
-  query IndexQuery {
+  query IndexQuery($slug: String!) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
+      html
+      frontmatter {
+        title
+        testimonials {
+          url
+          text
+          name
+          avatar
+        }
+      }
+    }
     site {
       siteMetadata {
         title
