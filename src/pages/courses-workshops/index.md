@@ -63,5 +63,5 @@ sure that everyone fully benefits from the course, so if you miss more than two
 sessions it might make more sense to re-book the whole course in the next term
 or once you are ready to commit.
 
-[1]: /courses-workshops/whole-body-core-strength
+[1]: /courses-workshops/whole-body-core-strength/
 [2]: mailto:ivana@movementkitchen.co.uk

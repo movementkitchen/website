@@ -136,7 +136,12 @@ class Navigation extends React.Component {
                     activeStyle={{
                       textDecoration: 'dashed underline',
                     }}
-                    exact
+                    isActive={(match, location) => {
+                      if (!match || (match.path === '/' && !match.isExact)) {
+                        return false;
+                      }
+                      return location.pathname.includes(match.path);
+                    }}
                   >
                     {navItem.label}
                   </HeadingStyleLink>
