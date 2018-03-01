@@ -5,16 +5,18 @@ title: About
 ### About Ivana
 
 My movement journey has been paved by various injuries and finding ways to heal
-them. I often felt my body was too fragile to follow my pace of life. In 2008 I
-left a career in corporate law with a recurrent back pain and not being able to
-feel parts of my left foot. I completed my first yoga teacher training with the
-Yoga Federation of Serbia back in my home country. In 2012 I continued my yoga
-studies in India, spending three months at the Yoga Institute Santacruz in
-Mumbai and volunteering at health camps and workshops that the Institute
-regularly held for the locals. Coming back to England, I went on studying with
-Yogacampus and attending intensives and immersions in London primarily focusing
-on yoga as therapy. After years of studying, teaching and a dedicated daily
-practice I managed to fully restore my feet and rarely had any back pain.
+them. I often felt my body was too fragile to follow my pace of life.
+
+In 2008 I left a career in corporate law with a recurrent back pain and not
+being able to feel parts of my left foot. I completed my first yoga teacher
+training with the Yoga Federation of Serbia back in my home country. In 2012 I
+continued my yoga studies in India, spending three months at the Yoga Institute
+Santacruz in Mumbai and volunteering at health camps and workshops that the
+Institute regularly held for the locals. Coming back to England, I went on
+studying with Yogacampus and attending intensives and immersions in London
+primarily focusing on yoga as therapy. After years of studying, teaching and a
+dedicated daily practice I managed to fully restore my feet and rarely had any
+back pain.
 
 But then in 2014, shortly after my first child was born, I suffered a repetitive
 strain injury of both wrists and a severe abdominal separation (diastasis recti)
