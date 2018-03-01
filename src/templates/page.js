@@ -9,8 +9,8 @@ import { rhythm } from '../utils/typography';
 class Page extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title');
-    const pageTitle = get(this, 'props.pathContext.title');
-    const pageContent = get(this, 'props.pathContext.html');
+    const pageTitle = get(this, 'props.data.markdownRemark.frontmatter.title');
+    const pageContent = get(this, 'props.data.markdownRemark.html');
 
     return (
       <div
@@ -30,7 +30,13 @@ class Page extends React.Component {
 export default Page;
 
 export const pageQuery = graphql`
-  query PageQuery {
+  query PageQuery($slug: String!) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
+      html
+      frontmatter {
+        title
+      }
+    }
     site {
       siteMetadata {
         title
