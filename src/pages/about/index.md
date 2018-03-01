@@ -2,6 +2,31 @@
 title: About
 ---
 
+### About Movement Kitchen
+
+I love kitchens. Kitchen is always a place where magic happens. A source of
+physical, mental and spiritual sustenance. Kitchen makes a home homely. It's a
+place where no make up and bedhead are always fine. A place of getting the hands
+dirty, playing and experimentation. A place of connecting to your intuition,
+following the gut.
+
+My studio really happens to be in our large open-plan kitchen and the living
+room. When I don't teach here our living space is still full of exercise props
+(e.g. half domes, balance boards, spiky balls and resistance bands) lying around
+and me and the children playing with them here and there as I'm trying to cook
+dinner.
+
+Movement kitchen for me symbolises weaving movement into the everyday life,
+living in a way that movement becomes a part of your identity. I aim to create
+the warm, homely, intimate atmosphere of the kitchen in my sessions too. In some
+way, my movement coaching sessions are similar to inviting someone for dinner
+and ending up cooking together, playfully mixing spices into a tasty nurturing
+meal.
+
+I work a lot with biomechanics and science of movement but in a relaxed and
+informal way, guided by empathy and intuition. Instead of a lab my working space
+is a kitchen, both literally and metaphorically.
+
 ### About Ivana
 
 My movement journey has been paved by various injuries and finding ways to heal
@@ -84,26 +109,3 @@ You can create an environment that requires you to move more frequently and move
 more parts of you as you go about your everyday life. Even making tiny changes
 can make a big difference over time. Each little change creates a thousand
 ripples.
-
-### About Movement Kitchen
-
-I love kitchens. Kitchen is always a place where magic happens. A source of
-physical, mental and spiritual sustenance. Kitchen makes a home homely. It's a
-place where no make up and bedhead are always fine. A place of getting the hands
-dirty, playing and experimentation. A place of connecting to your intuition,
-following the gut.
-
-> Movement kitchen for me symbolises weaving movement into the everyday life,
-> living in a way that movement becomes a part of your identity.
-
-My studio really happens to be in our large open-plan kitchen and the living
-room. When I don't teach here our living space is still full of exercise props
-(e.g. half domes, balance boards, spiky balls and resistance bands) lying around
-and me and the children playing with them here and there as I'm trying to cook
-dinner. I chose the name Movement Kitchen to reflect the warm, homely, intimate
-atmosphere of a kitchen I try to create working with people. In some way, my
-movement coaching sessions are similar to inviting someone for dinner and ending
-up cooking together, playfully mixing spices into a tasty nurturing meal. I work
-a lot with biomechanics and science of movement but in a relaxed and informal
-way, guided by empathy and intuition. Instead of a lab my working space is a
-kitchen, both literally and metaphorically.
