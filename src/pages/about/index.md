@@ -27,52 +27,64 @@ Santacruz in Mumbai, India and spent a couple of months volunteering at health
 camps and workshops that the Institute regularly held for the locals. Coming
 back to England, I continued studying with Yogacampus and attending intensives
 and immersions in London primarily focusing on yoga as therapy. After years of
-teaching, studying and a dedicated daily practice I managed to restore my feet
-and rarely had any back pain.
+studying and a dedicated daily practice I managed to restore my feet and rarely
+had any back pain.
 
-But then, after having my first baby I suffered a couple of repetitive strain
-injuries and a severe abdominal separation (diastasis recti) which made me
-unable to continue my yoga practice the way it was. Looking for answers I
-started exploring a variety of different approaches to movement therapy and
-learning from various teachers across the fields of somatics, dance theory,
+But then in 2014, shortly after my first child was born, I suffered a repetitive
+strain injury of both wrists and a severe abdominal separation (diastasis recti)
+with recurring back spasms that made me unable to continue my practice the way
+it was. It was so incredibly frustrating to be getting re-injured over and over
+again and have spasms every time I practised yoga, or even just carried my
+child. Not moving couldn't be an option, but the way I used to move was hurting
+me.
+
+Looking for answers I started manically learning different approaches to
+movement and bodywork. Questioning, deconstructing and learning again from
+various teachers across the fields of yoga as therapy, pilates, somatics, dance,
 Structural Integration, myofascial release and massage.
+
+I found that there was so little support offered by the healthcare and very
+little research done about diastasis recti, especially about its connection with
+back and pelvic pain. Abdominal separation is usually seen as an "aesthetic
+problem" and most of the solutions available focused on patching the gap instead
+of looking into what had caused it in the first place.
 
 > I wanted to understand why injuries happen and how to avoid them in the first
 > place.
 
-And this eventually brought me to the the work of biomechanist Katy Bowman,
+In 2014 I discovered the work of American biomechanics scientist Katy Bowman
 looking into forces of physics created by movement and how gravity, pressure and
-friction affect tissues. In 2015 I started my 2-year certification with the
-Nutritious Movement Institute under Katy Bowman and since then have been
-incorporating this approach into my yoga and somatics based work with the body,
-as well into mine and my family’s everyday life. This October I got qualified as
-a Nutritious Movement™ certified Restorative Exercise Specialist.
+friction affect tissues. I felt I finally found a missing piece I was looking
+for. I wanted to learn how to think and see the body as a biomechanist and above
+all, to understand what has contributed to my injury in the first place and see
+if I could heal my abdominal separation without a surgery. In 2015 I started the
+2-year certification with the Nutritious Movement Institute under Katy Bowman
+and in October 2017 got qualified as a Nutritious Movement™ certified
+Restorative Exercise Specialist.
 
-Working with diastasis recti and recurring back spasms on both my body and with
-a few of my clients, I had found there was so little support for this issue out
-there. Abdominal separation is usually seen as an "aesthetic problem" and most
-of the solutions available focused on patching the gap instead of looking into
-what had caused it in the first place. It was so incredibly frustrating to be
-getting re-injured over and over again. And I found that a lot of people with
-similar problems develop a fear of moving.
+These two years felt like peeling off layer by layer of all I knew about
+movement, rebuilding and reconnecting everything again. I quickly gave up on the
+surgery idea and instead of focussing on the separation itself I started
+focussing on restoring the functionality of everything around it. I realised
+that challenge for me was not to just move more but with more precision, getting
+more parts of my body to actively participate in the movement. I started
+focusing more on motor programming and proprioception in my movement practice,
+isolating small movements and mastering them before jumping onto larger ones.
+And gradually I restored a functional core and a body that is able to support me
+in doing what I love.
 
-Abdominal separation is a whole body issue and needs to be addressed as such.
-You won't find 5 magical exercises that will fix it, but even small tweaks in
-how your stand, sit, walk or HOW your exercise can make a significant difference
-in healing your separation. The way we move shapes us.
-
-I'm very passionate about this issue and a lot of my work today focuses on
-helping people – especially mums – to restore a functional core and improve
-their quality of life.
+Rebuilding confidence into what my body was able to do brought about a
+transition to a much more movement-rich lifestyle. I gradually replaced all my
+heeled shoes with minimal shoes, our family got rid of most of our furniture and
+started spending a lot of our time outside, moving in nature. I started looking
+at my environment differently, finding movement opportunities where there were
+none: noticing all the trees for climbing on my walks, walking much more
+barefoot and on varied surfaces, using the children playground time to hang,
+climb and play with them instead of just standing around.
 
 > Longer I work with movement and the body, more I realise, the progress is
 > defined not by one time achievements, but by general blurring of the border
 > between exercise and life.
-
-Over the last five years my lifestyle gradually transformed following my
-movement practice. I slowly replaced all my heeled shoes with minimal shoes, our
-family got rid of most of our furniture and started spending a lot of our time
-outside, moving in nature.
 
 Exercise is not enough - I realised, we need MOVEMENT to thrive. Our bodies are
 beautifully malleable and adapt to the way we use them.
