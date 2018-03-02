@@ -4,7 +4,7 @@ title: About
 
 ### About Movement Kitchen
 
-I love kitchens. Kitchen is always a place where magic happens. A source of
+I love kitchens. Kitchen is always the place where magic happens. A source of
 physical, mental and spiritual sustenance. Kitchen makes a home homely. It's a
 place where no make up and bedhead are perfectly fine. A place of getting the
 hands dirty, playing and experimentation. A place of connecting to your
