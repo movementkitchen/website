@@ -19,7 +19,7 @@ Why some people don't respond well to conventional abdominal exercise?
 Do you really have to pull your navel to the spine for your abdominal muscles to
 work?
 
-What tightness in your shoulders/hips/feet have to do with the weak abdomen?
+What tightness in your shoulders/hips/feet has to do with the weak abdomen?
 
 How to notice and stop creating forces that keep weakening your core?
 
