@@ -6,22 +6,20 @@ title: Whole Body Core Strength 6-Week Course
 
 **Starting on the 18th of March**
 
-After the first, sold out Whole Body Core Strength course I've decided to offer
-a re-run this spring.
-
 Whole Body Core Strength brings together everything I learnt through my
 professional and personal journey of healing a severe abdominal separation and
 restoring a functional core.
 
-This unique course brings together private movement coaching, small group
-classes and experiential workshops challenging the meaning of core strength
-beyond the tight abs.
+This unique course combines private movement coaching, small group classes and
+experiential workshops challenging the meaning of core strength beyond the tight
+abs.
 
 Why some people don't respond well to conventional abdominal exercise?
 
-Do you really have to pull your navel to the spine to activate your core?
+Do you really have to pull your navel to the spine for your abdominal muscles to
+work?
 
-What tightness in your shoulders/hips/feet have to do with the weak core?
+What tightness in your shoulders/hips/feet have to do with the weak abdomen?
 
 How to notice and stop creating forces that keep weakening your core?
 
