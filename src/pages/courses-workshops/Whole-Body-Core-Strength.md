@@ -6,7 +6,7 @@ title: Whole Body Core Strength 6-Week Course
 
 **Starting on the 18th of March**
 
-Whole Body Core Strength brings together everything I learnt through my
+Whole Body Core Strength brings together everything I've learnt through my
 professional and personal journey of healing a severe abdominal separation and
 restoring a functional core.
 
