@@ -7,9 +7,11 @@ title: Movement coaching
 The one to one sessions are usually one hour long. We will look into the ways
 you use your body, focusing on the positioning of the bones and joint angles and
 find what we can improve for a better biological performance. We will explore
-together which movements feel natural and which are difficult at this point,
-test your ability to stabilise your joints as you move and look for ways to
-build more balanced movement patterns in your day-to-day life.
+together which movements feel natural and which are difficult at this point and
+test your ability to stabilise your joints as you move. The aim is to gradually
+build more sustainable use patterns that will bring about more balanced mass and
+bone density distribution and better overall tissue quality - decreasing the
+likelihood that some parts of your body would wear out prematurely.
 
 Even though largely relying on mechanics and geometry in my work, I don't see
 the body as a machine that needs to be ''fixed'' but rather a complex expression
