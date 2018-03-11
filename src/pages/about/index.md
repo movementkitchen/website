@@ -2,25 +2,33 @@
 title: About
 ---
 
-### About Movement Kitchen
+### About my approach
 
-I love kitchens. Kitchen is always the place where magic happens. A source of
-physical, mental and spiritual sustenance. Kitchen makes a home homely. It's a
-place where no make up and bedhead are perfectly fine. A place of getting the
-hands dirty, playing and experimentation. A place of connecting to your
-intuition, following the gut.
+I use [Restorative Exercise / Nutritious Movement™][1] approach as a starting
+point in my work looking for movement equivalents of nutritional deficiencies in
+the body - undermoved areas and underused muscles, joints that hardly articulate
+and motor skills that are lacking. The idea is to initially supplement your
+movement diet with precisely targeted exercises to restore function in the
+underused areas and then really get to use them more in your day-to-day life. In
+a way, the exercises are used as vitamins - to address the nutritional issue in
+a short term while gradually transitioning to a more varied and nutrient-rich
+diet that will help the body thrive in a long run.
 
-My studio really happens to be in our large open-plan kitchen/living room. When
-I don't teach here our living space is still full of exercise props (e.g. half
-domes, balance boards, spiky balls and resistance bands) lying around and me and
-the children playing with them here and there as I'm trying to cook dinner.
+The aim is to gradually build more sustainable use patterns that will bring
+about more balanced mass and bone density distribution and better overall tissue
+quality - decreasing the likelihood that some parts of your body would wear out
+prematurely.
 
-Movement kitchen for me symbolises weaving movement into the everyday life,
-living in a way that movement becomes a part of your identity. I aim to create
-the warm, homely, intimate atmosphere of the kitchen in my sessions too. In some
-way, my movement coaching sessions are similar to inviting someone for dinner
-and ending up cooking together, playfully mixing spices into a tasty, nurturing
-meal.
+Movement Kitchen for me symbolises weaving movement into the everyday life. My
+studio really happens to be in our large open-plan kitchen. When I don't teach
+here our living space is still full of exercise props (e.g. half domes, balance
+boards, spiky balls and resistance bands) lying around and me and the children
+playing with them here and there as I'm trying to cook dinner.
+
+I aim to create the warm, homely, intimate atmosphere of the kitchen in my
+sessions too. In some way, my movement coaching sessions are similar to inviting
+someone for dinner and ending up cooking together, playfully mixing spices into
+a tasty, nurturing meal.
 
 I work a lot with biomechanics and science of movement but in a relaxed and
 informal way, guided by empathy and intuition. Instead of a lab my working space
@@ -107,3 +115,5 @@ You can create an environment that requires you to move more frequently and move
 more parts of you as you go about your everyday life. Even making tiny changes
 can make a big difference over time. Each little change creates a thousand
 ripples.
+
+[1]: https://nutritiousmovement.com/

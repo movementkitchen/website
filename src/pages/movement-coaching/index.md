@@ -2,15 +2,14 @@
 title: Movement coaching
 ---
 
-### What is movement coaching?
+### What to expect from you session?
 
-I use [Restorative Exercise / Nutritious Movement™][1] approach as a starting
-point in my work. We will look into the ways you use your body, focusing on the
-positioning of the bones and joint angles and find what we can improve for a
-better biological performance. We will explore together which movements feel
-natural and which are difficult at this point, test your ability to stabilise
-your joints as you move and look for ways to build more balanced movement
-patterns in your day-to-day life.
+The one to one sessions are usually one hour long. We will look into the ways
+you use your body, focusing on the positioning of the bones and joint angles and
+find what we can improve for a better biological performance. We will explore
+together which movements feel natural and which are difficult at this point,
+test your ability to stabilise your joints as you move and look for ways to
+build more balanced movement patterns in your day-to-day life.
 
 Even though largely relying on mechanics and geometry in my work, I don't see
 the body as a machine that needs to be ''fixed'' but rather a complex expression
@@ -39,12 +38,11 @@ You can chose to have a session in my home studio in Hackney or at your home. I
 currently offer classes in North, Central and East London, with travel expenses
 added to the price.
 
-Price: £50 for 1 hour session.
+Price: £50 per hour.
 
 All sessions need to be paid in advance and can be moved or canceled up to 24
 hours before the appointment.
 
-Book a [free telephone consultation][2]!
+Book a [free telephone consultation][1]!
 
-[1]: https://nutritiousmovement.com/
-[2]: mailto:ivana@movementkitchen.co.uk?subject=Free%20Telephone%20Consultation
+[1]: mailto:ivana@movementkitchen.co.uk?subject=Free%20Telephone%20Consultation
