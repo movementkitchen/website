@@ -4,10 +4,16 @@ title: About
 
 ### About Movement Kitchen
 
-My studio really happens to be in our large open-plan kitchen. When I don't
-teach here our living space is still full of exercise props (e.g. half domes,
-balance boards, spiky balls and resistance bands) lying around and me and the
-children playing with them here and there as I'm trying to cook dinner.
+Movement kitchen for me symbolises weaving movement into the everyday. My studio
+really happens to be in our large open-plan kitchen. When I don't teach here our
+living space is still an ever‐changing obstacle course with balance boards, half
+domes and spiky balls lying around and me and the children playfully climbing
+over them as I'm trying to cook dinner.
+
+I aim to create the warm, homely, intimate atmosphere of the kitchen in my
+sessions too. In some way, my movement coaching sessions are similar to inviting
+someone for dinner and ending up cooking together, playfully mixing spices into
+a tasty, nurturing meal.
 
 I use [Restorative Exercise / Nutritious Movement™][1] approach as a starting
 point in my work looking for movement equivalents of nutritional deficiencies in
@@ -18,11 +24,6 @@ underused areas and then really get to use them more in your day-to-day life. In
 a way, the exercises are used as vitamins - to address the nutritional issue in
 a short term while gradually transitioning to a more varied and nutrient-rich
 diet that will help the body thrive in a long run.
-
-I aim to create the warm, homely, intimate atmosphere of the kitchen in my
-sessions too. In some way, my movement coaching sessions are similar to inviting
-someone for dinner and ending up cooking together, playfully mixing spices into
-a tasty, nurturing meal.
 
 I work a lot with biomechanics and science of movement but in a relaxed and
 informal way, guided by empathy and intuition. Instead of a lab my working space
