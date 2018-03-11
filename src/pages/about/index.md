@@ -2,7 +2,7 @@
 title: About
 ---
 
-### About my approach
+### About Movement Kitchen
 
 I use [Restorative Exercise / Nutritious Movement™][1] approach as a starting
 point in my work looking for movement equivalents of nutritional deficiencies in
