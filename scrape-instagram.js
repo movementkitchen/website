@@ -51,7 +51,11 @@ const getPosts = _ => {
     body = JSON.parse(body).entry_data.ProfilePage[0].graphql;
 
     body.user.edge_owner_to_timeline_media.edges
-      .filter(({ node: item }) => item[`__typename`] === `GraphImage`)
+      .filter(
+        ({ node: item }) =>
+          item[`__typename`] === `GraphImage` ||
+          item[`__typename`] === `GraphSidecar`
+      )
       .map(({ node: item }) => {
         // Parse item to a simple object
         return {
