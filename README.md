@@ -3,4 +3,9 @@
 This is the website for Movement Kitchen.
 
 ## Running in development
-`gatsby develop`
+
+`npm run dev`
+
+## Scrape
+
+`npm run insta`

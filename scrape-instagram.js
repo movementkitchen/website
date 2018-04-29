@@ -7,7 +7,6 @@ const { get } = require(`lodash`);
 const download = require(`./utils/download-file`);
 
 const username = process.argv[2];
-const postsToGet = 6;
 
 if (!username) {
   console.log(
@@ -16,7 +15,7 @@ You didn't supply an Instagram username!
 Run this command like:
 
 node scrape.js INSTAGRAM_USERNAME
-    `,
+    `
   );
   process.exit();
 }
@@ -30,7 +29,7 @@ const bar = new ProgressBar(
   {
     total: 0,
     width: 30,
-  },
+  }
 );
 
 rimraf.sync(`./data`);
@@ -40,35 +39,37 @@ let posts = [];
 
 // Write json
 const saveJSON = _ =>
-  fs.writeFileSync(`./data/posts.json`, JSON.stringify(posts, '', 2));
+  fs.writeFileSync(`./data/posts.json`, JSON.stringify(posts, ``, 2));
 
-const getPosts = maxId => {
-  let url = `https://www.instagram.com/${username}/?__a=1`;
-  if (maxId) url += `&max_id=${maxId}`;
+const getPosts = _ => {
+  const url = `https://www.instagram.com/${username}/`;
 
   request(url, { encoding: `utf8` }, (err, res, body) => {
     if (err) console.log(`error: ${err}`);
-    body = JSON.parse(body);
-    body.user.media.nodes
-      .filter(item => item[`__typename`] === `GraphImage`)
-      .map(item => {
+
+    body = body.split(`window._sharedData = `)[1].split(`;</script>`)[0];
+    body = JSON.parse(body).entry_data.ProfilePage[0].graphql;
+
+    body.user.edge_owner_to_timeline_media.edges
+      .filter(({ node: item }) => item[`__typename`] === `GraphImage`)
+      .map(({ node: item }) => {
         // Parse item to a simple object
         return {
           id: get(item, `id`),
-          code: get(item, `code`),
-          time: toISO8601(get(item, `date`)),
+          code: get(item, `shortcode`),
+          time: toISO8601(get(item, `taken_at_timestamp`)),
           type: get(item, `__typename`),
-          likes: get(item, `likes.count`),
-          comment: get(item, `comments.count`),
-          text: get(item, `caption`),
-          media: get(item, `display_src`),
-          image: `images/${item.code}.jpg`,
+          likes: get(item, `edge_liked_by.count`),
+          comment: get(item, `edge_media_to_comment.count`),
+          text: get(item, `edge_media_to_caption.edges[0].node.text`),
+          media: get(item, `display_url`),
+          image: `images/${item.shortcode}.jpg`,
           username: get(body, `user.username`),
           avatar: get(body, `user.profile_pic_url`),
         };
       })
       .forEach(item => {
-        if (posts.length >= postsToGet) return;
+        if (posts.length >= 6) return;
 
         // Download image locally and update progress bar
         bar.total++;
@@ -78,9 +79,7 @@ const getPosts = maxId => {
         posts.push(item);
       });
 
-    const lastId = get(body, `user.media.page_info.end_cursor`);
-    if (posts.length < postsToGet && lastId) getPosts(lastId);
-    else saveJSON();
+    saveJSON();
   });
 };
 
