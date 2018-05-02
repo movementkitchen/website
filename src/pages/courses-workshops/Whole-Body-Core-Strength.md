@@ -4,15 +4,14 @@ title: Whole Body Core Strength 6-Week Course
 
 ### Whole Body Core Strength 6-Week Course
 
-**Starting on the 18th of March**
+**Starting on 2 June**
 
 Whole Body Core Strength brings together everything I've learnt through my
 professional and personal journey of healing a severe abdominal separation and
 restoring a functional core.
 
-This unique course combines private movement coaching, small group classes and
-experiential workshops challenging the meaning of core strength beyond the tight
-abs.
+This unique course combines focussed small group classes and experiential
+workshops challenging the meaning of core strength beyond the tight abs.
 
 Why some people don't respond well to conventional abdominal exercise?
 
@@ -28,38 +27,16 @@ each of the practices will be adapted to you.
 
 Extras: by booking the course you also get:
 
-* Week 0 - Initial one to one movement coaching class (value £50)
-* Half dome (value £7)
+* Access to digital content – short videos containing the theoretical
+  foundations and follow up exercises to help you establish your home practice
 
-Place: Movement Kitchen, 13 Saw Mill Way, N16 6AN Stamford Hill, London
+Place: Kuu London  
+76 Lower Clapton Rd  
+E5 0RN London
 
-Time: Sundays 11 am - 1 pm (workshops) or 11 am - 12:30 pm (exercise classes).
+Time: Saturdays 11:45 am - 1 pm
 
-* Price: £199 Concession prices available for people on benefits and low income
-  support
+* Price: £150
 
-Schedule:
-
-* Week 1: Workshop: The “Bones" of Your Belly - Restoring the reflexive core
-
-* Week 2: Workshop: Are you creating the forces that weaken your core?
-
-* Week 3: Exercise class: Moving with the stable ribcage - Freeing up the arms
-  from the ribs
-
-* Week 4: Exercise class: Moving with the stable pelvis - Freeing up the legs
-  from the pelvis
-
-* Week 5: Workshop: Balance and Stability (includes an indoor obstacle course)
-
-* Week 6: Exercise class: Improve your torso mechanics and strength to weight
-  ratio
-
-Each workshop is 2 hours long and exercise classes 1.5 hour.
-
-Limited number of places available. Please email ivana@movementkitchen.co.uk or
-call 07936348233 to book your spot.
-
-[Facebook event][1]
-
-[1]: https://www.facebook.com/events/539020763135204/
+Limited number of places available. Book your spot at
+http://kuulondon.com/classes-courses/workshops/

@@ -4,7 +4,7 @@ title: Courses and workshops
 
 ### Whole Body Core Strength 6-Week Course
 
-Starting on the 18th of March
+Starting on the 2nd of June at [Kuu London](http://kuulondon.com/)
 
 * Do you have persistent back pain, back spasms or sciatica that affect your
   quality of life?
@@ -52,7 +52,7 @@ looking at your phone :)
 
 You can make up one session you missed in the next term for free, if there is
 space. For every next one you will need to pay the regular drop-in price which
-is £30 for the workshops and £20 for the exercise classes.
+is £30 for the workshops and £25 for the movement classes.
 
 Another option would be to book a 1 hour private where we would go through the
 bits that you missed. I could give you a 20% discount on the regular price.
