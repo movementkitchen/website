@@ -50,12 +50,9 @@ looking at your phone :)
 
 ### What if you miss a session in a course
 
-You can make up one session you missed in the next term for free, if there is
-space. For every next one you will need to pay the regular drop-in price which
-is £30 for the workshops and £25 for the movement classes.
-
-Another option would be to book a 1 hour private where we would go through the
-bits that you missed. I could give you a 20% discount on the regular price.
+If you need to miss any class you can book a private or two where we would go
+through the bits that you missed. For each private session you book during the
+course you get a 20% discount on the regular price.
 
 We are slowly building up complexity as each week is dedicated to developing a
 different motor skill and adding it to the previous ones. I really want to make
