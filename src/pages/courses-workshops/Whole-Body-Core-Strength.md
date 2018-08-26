@@ -4,7 +4,7 @@ title: Whole Body Core Strength 6-Week Course
 
 ### Whole Body Core Strength 6-Week Course
 
-**Starting on 2 June**
+**Starting on 15 September**
 
 Whole Body Core Strength brings together everything I've learnt through my
 professional and personal journey of healing a severe abdominal separation and
@@ -38,5 +38,5 @@ Time: Saturdays 11:45 am - 1 pm
 
 * Price: £150
 
-Limited number of places available. Book your spot at
-http://kuulondon.com/classes-courses/workshops/
+Only three spots left at this point. Book yours
+[here](https://clients.mindbodyonline.com/ASP/main_enroll.asp?studioid=567857&tg=28&vt=&lvl=&stype=-8&view=day&trn=100000012&page=&catid=&prodid=&date=8%2f26%2f2018&classid=0&prodGroupId=&sSU=&optForwardingLink=&qParam=&justloggedin=&nLgIn=&pMode=0&loc=1)
