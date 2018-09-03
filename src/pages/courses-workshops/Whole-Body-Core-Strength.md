@@ -38,5 +38,5 @@ Time: Saturdays 11:45 am - 1 pm
 
 * Price: £150
 
-Only three spots left at this point. Book yours
+Only two spots left at this point. Book yours
 [here](https://clients.mindbodyonline.com/ASP/main_enroll.asp?studioid=567857&tg=28&vt=&lvl=&stype=-8&view=day&trn=100000012&page=&catid=&prodid=&date=8%2f26%2f2018&classid=0&prodGroupId=&sSU=&optForwardingLink=&qParam=&justloggedin=&nLgIn=&pMode=0&loc=1)
