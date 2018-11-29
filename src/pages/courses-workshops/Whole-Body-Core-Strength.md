@@ -4,13 +4,11 @@ title: Whole Body Core Strength 6-Week Course
 
 ### Whole Body Core Strength 6-Week Physical + Digital Course
 
-_Coming soon_
-
 Whole Body Core Strength brings together everything I've learnt through my
 professional and personal journey of healing a severe abdominal separation and
 restoring a functional core.
 
-This unique course combines small group classes / experiential workshops and
+This unique course combines small group classes / experiential workshops with
 digital content – short videos and readings that you can go through at home and
 keep coming back to as a reference as you build up your personal movement
 practice.
