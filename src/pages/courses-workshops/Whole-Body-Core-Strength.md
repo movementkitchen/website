@@ -2,7 +2,7 @@
 title: Whole Body Core Strength 6-Week Course
 ---
 
-### Whole Body Core Strength 6-Week Physical + Digital Course
+### Whole Body Core Strength 8-Week Physical + Digital Course
 
 Whole Body Core Strength brings together everything I've learnt through my
 professional and personal journey of healing a severe abdominal separation and
@@ -44,7 +44,15 @@ E5 0RN London
 
 Time: Saturdays 9:30 - 10:45 am
 
-* Price: £150
+* Price: £199
+
+Upon the completion of the course you will have an option to join a 6-week
+continuation, if you want to go further. These will be weekly movement classes
+playing with and building onto the motor skills you've learnt. We will focus on
+improving your strength-to-weight ratio – especially through re-introducing
+developmental movements such as crawling and hanging and support you in building
+robust functional strength. Schedule and price of the continuation course will
+be announced closer to the start.
 
 Get in touch on 07936348233 or ivana@movementkitchen.co.uk to find out about the
 start date and book your spot.

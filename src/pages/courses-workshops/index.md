@@ -4,8 +4,6 @@ title: Courses and workshops
 
 ### Whole Body Core Strength 6-Week Course
 
-Coming soon at [Kuu London](http://kuulondon.com/)
-
 * Do you have persistent back pain, back spasms or sciatica that affect your
   quality of life?
 * Do you feel your abdomen is too weak to support you while carrying groceries
