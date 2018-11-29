@@ -29,9 +29,11 @@ How to notice and stop creating forces that keep weakening your core?
 
 Using isolated small movements we will search for your body's "blind spots"
 restoring mobility in the underused areas and building more balanced strength
-patterns. You will learn how to improve your alignment, reduce wear and tear on
-your joints and get more of your muscles to participate as you exercise,
-practice yoga, pilates or use your body in your day-to-day life.
+patterns.
+
+You will learn how to improve your alignment, reduce wear and tear on your
+joints and get more of your muscles to participate as you exercise, practice
+yoga, pilates or use your body in your day-to-day life.
 
 Suitable for beginners as well as experienced movers, as the group is small and
 each of the practices will be adapted to you.
