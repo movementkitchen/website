@@ -31,6 +31,9 @@ Using isolated small movements we will search for your body's "blind spots"
 restoring mobility in the underused areas and building more balanced strength
 patterns.
 
+We will discover movements that make you hurt and find a way to do them in a
+safer, smarter way that will help your tissues heal and strengthen.
+
 You will learn how to improve your alignment, reduce wear and tear on your
 joints and get more of your muscles to participate as you exercise, practice
 yoga, pilates or use your body in your day-to-day life.
