@@ -1,5 +1,5 @@
 ---
-title: Whole Body Core Strength 6-Week Course
+title: Whole Body Core Strength 8-Week Course
 ---
 
 ### Whole Body Core Strength 8-Week Physical + Digital Course
