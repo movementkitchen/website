@@ -4,7 +4,7 @@ title: Courses and workshops
 
 ### Whole Body Core Strength 6-Week Course
 
-Starting on 15 September at [Kuu London](http://kuulondon.com/)
+Coming soon at [Kuu London](http://kuulondon.com/)
 
 * Do you have persistent back pain, back spasms or sciatica that affect your
   quality of life?
