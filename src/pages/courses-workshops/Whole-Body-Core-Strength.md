@@ -51,8 +51,8 @@ continuation, if you want to go further. These will be weekly movement classes
 playing with and building onto the motor skills you've learnt. We will focus on
 improving your strength-to-weight ratio – especially through re-introducing
 developmental movements such as crawling and hanging and support you in building
-robust functional strength. Schedule and price of the continuation course will
-be announced closer to the start.
+robust functional strength. Schedule and price of the 6-week continuation course
+will depend on the number of participants.
 
 Get in touch on 07936348233 or ivana@movementkitchen.co.uk to find out about the
-start date and book your spot.
+next start date and book your spot.
