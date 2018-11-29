@@ -34,7 +34,7 @@ safer, smarter way that will help your tissues heal and strengthen.
 
 You will learn how to improve your alignment, reduce wear and tear on your
 joints and get more of your muscles to participate as you exercise, practice
-yoga, pilates or use your body in your day-to-day life.
+yoga or pilates or simply live your life.
 
 Suitable for beginners as well as experienced movers, as the group is small and
 each of the practices will be adapted to you.
