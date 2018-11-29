@@ -17,11 +17,9 @@ Challenging the meaning of core strength beyond the tight abs, Whole Body Core
 Strength aims to equip your with tools to gradually strengthen your body from
 inside out.
 
-We will explore why some people don't respond well to conventional abdominal
-exercise?
+Amongst other, we will explore:
 
-Do you really have to pull your navel to the spine for your abdominal muscles to
-work?
+Why some people don't respond well to conventional abdominal exercise?
 
 What tightness in your shoulders/hips/feet has to do with the weak abdomen?
 
