@@ -32,10 +32,12 @@ class Bio extends React.Component {
       <BioContainer>
         <p>
           <ProfileImage src={profilePic} alt={`Ivana Miletic Demmel`} />
-          I’m Ivana, a Nutritious Movement™ Certified Restorative Exercise
-          Specialist, yoga and mindfulness teacher, biomechanics nerd and mum to
-          two energetic little people. I'm passionate about helping people
-          reclaim ease and joy in moving.
+          Hi, I’m Ivana, a movement and wellness coach, RES-CPT, yoga therapist,
+          mum, maker, mover and keen researcher of movement. I'm passionate
+          about empowering women to improve their quality of life after having
+          children and have spent most of my career supporting women in their
+          journeys through pregnancy and motherhood. I'm an advocate of
+          movement-rich life, integrating more movement into everyday.
         </p>
         <NutritiousMovementLink href="https://nutritiousmovement.com/find-a-teacher/#marker633">
           <img src={nutritiousMovementLogo} alt={`Nutritious Movement logo`} />
