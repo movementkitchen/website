@@ -14,4 +14,4 @@ breath and rhythm. I like to combine it with elements of mindfulness of the body
 and yoga nidra (yoga of sleep) - exploring nurturing states of deep rest.
 
 Price:  
-£50 for 50 minutes (back body massage + guided meditation/yoga nidra)
+£50 for 60 minutes (includes massage + guided deep relaxation/yoga nidra)
