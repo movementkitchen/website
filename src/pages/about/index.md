@@ -28,7 +28,7 @@ country. In 2012 I continued my yoga studies at the Yoga Institute Santacruz in
 Mumbai, India focussing on the therapeutic aspects of yoga. I spent three months
 living and studying full time (900 hours) at the Institute, assisting and
 teaching at health camps and workshops that the Institute regularly held for the
-locals. Coming back to the UK, I continued studying with Yogacampus London.
+locals. Coming back to the UK, I continued studying with Yogacampus in London.
 After years of learning, teaching and a dedicated daily practice I managed to
 fully restore my feet and rarely had any back pain.
 
