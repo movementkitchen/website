@@ -73,11 +73,12 @@ on the separation itself I started focussing on restoring the functionality of
 everything around it. And gradually I have restored a functional core and a body
 that is able to support me in doing what I love.
 
-Trying to make my skills useful to women, especially mums with diastasis recti,
-I am currently studying Advanced CPD in Modern Post Natal Assessment, Core
-Restore & Functional Exercise Programming with Jenny Burrell. My passion for
-movement and fascination with the body keeps driving me to learn, research and
-explore new approaches and tools across the fields of functional movement,
+Trying to make my skills more useful to women who are looking to improve their
+quality of life after pregnancy and childbirth, especially mums with diastasis
+recti, I am currently studying Advanced CPD in Modern Post Natal Assessment,
+Core Restore & Functional Exercise Programming with Jenny Burrell. My passion
+for movement and fascination with the body keeps driving me to learn, research
+and explore new approaches and tools across the fields of functional movement,
 physiotherapy, fitness and soft tissue therapy.
 
 And my personal journey towards building a more movement-rich lifestyle
