@@ -31,7 +31,7 @@ biological performance and long-term health.
 ### Practical details
 
 I offer movement coaching in packages of 5 or 10 one-to-one sessions. Each
-individual session is 90 minutes long.
+individual session is 60 minutes long.
 
 You can choose between:
 
@@ -46,7 +46,6 @@ The sessions are held in my home studio in Hackney, East London or at your home.
 I currently offer one-to-ones in North, Central and East London, with travel
 expenses added to the price.
 
-To book mail [2]
+To book mail [ivana@movementkitchen.co.uk](ivana@movementkitchen.co.uk)
 
 [1]: https://nutritiousmovement.com/
-[2]: mailto:ivana@movementkitchen.co.uk?subject=Free%20Telephone%20Consultation
