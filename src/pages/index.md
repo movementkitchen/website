@@ -18,14 +18,14 @@ testimonials:
 
 You might have persistent shoulder/hip/back pain or injury that keeps coming
 back? Or maybe you feel that things never quite got back to normal after having
-a baby? You are tired of hurting and ready to take an active part in getting
-better, reclaiming your body's natural ability to move?  
-Movement coaching could be just the thing you are looking for.
+a baby? You want to get back to running, cycling and doing all those things you
+used to love? If any of the above is true, you are tired of hurting and ready to
+take an active part in getting better, movement coaching could be just the thing
+you are looking for.
 
-Movement Kitchen brings together biomechanics based Restorative Exercise,
-functional fitness and yoga as therapy, weaving in the latest research in
-movement science with experiential and intuitive in its unique approach to
-movement and the body.
+Our multidisciplinary approach brings together biomechanics based Restorative
+Exercise, functional fitness, yoga and massage weaving in the latest research in
+movement science with experiential and intuitive.
 
 It aims to:
 
