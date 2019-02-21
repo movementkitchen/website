@@ -11,13 +11,9 @@ domes and spiky balls lying around and me and the children playfully climbing
 over them as I'm trying to cook dinner.
 
 I aim to create the warm, homely, intimate atmosphere of the kitchen in my
-sessions too. In some way, my movement coaching sessions are similar to inviting
-someone for dinner and ending up cooking together, playfully mixing spices into
-a tasty, nurturing meal.
-
-I work a lot with biomechanics and science of movement but in a relaxed and
-informal way, guided by empathy and intuition. Instead of a lab my working space
-is a kitchen, both literally and metaphorically.
+sessions too. I work a lot with biomechanics and science of movement but in a
+relaxed and informal way, guided by empathy and intuition. Instead of a lab my
+working space is a kitchen, both literally and metaphorically.
 
 ### About Ivana
 
@@ -38,13 +34,13 @@ years of studying, teaching and a dedicated daily practice I managed to fully
 restore my feet and rarely had any back pain.
 
 But then in 2014, shortly after my first child was born, I suffered a severe
-abdominal separation (diastasis recti) and De Quervain's tendinosis on both
-wrists. After the birth of my second child, short after - in 2015, my core was
-completely destroyed. The recurring back spasms made me unable to continue my
-practice the way it was. It was so incredibly frustrating to be re-injured over
-and over again and in pain after every time I practised yoga or even just
-carried my baby. Not moving couldn't be an option, but the way I used to move
-was hurting me.
+abdominal separation - diastasis recti and De Quervain's tendinosis on both
+wrists. After the birth of my second child - in 2015, my core was completely
+destroyed. The recurring back spasms made me unable to continue my practice the
+way it was. It was so incredibly frustrating to be re-injured over and over
+again and in pain after every time I practised yoga or even just carried my
+baby. Not moving couldn't be an option, but the way I used to move was hurting
+me.
 
 I found that there was so little support offered by the healthcare and very
 little research done about diastasis recti, especially about its connection with
