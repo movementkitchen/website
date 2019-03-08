@@ -39,7 +39,7 @@ class Bio extends React.Component {
           journeys through pregnancy and motherhood. I'm an advocate of
           movement-rich life, integrating more movement into everyday.
         </p>
-        <NutritiousMovementLink href="https://nutritiousmovement.com/find-a-teacher/#marker633">
+        <NutritiousMovementLink href="https://www.nutritiousmovement.com/live-events/#find-teacher">
           <img src={nutritiousMovementLogo} alt={`Nutritious Movement logo`} />
         </NutritiousMovementLink>
       </BioContainer>
