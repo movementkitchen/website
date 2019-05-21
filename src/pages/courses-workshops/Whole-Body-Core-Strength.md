@@ -19,18 +19,19 @@ inside out.
 
 Amongst other, we will explore:
 
-Why some people don't respond well to conventional abdominal exercise?
+Why breathing muscles are your core muscles
 
-What tightness in your shoulders/hips/feet has to do with the weak abdomen?
+Why weak core is often an issue of communication not a lack of muscle
+strengthening
 
-How to notice and stop creating forces that keep weakening your core?
+What tightness in your shoulders/hips/feet has to do with the weak abdomen
+
+We will discover movements that make you hurt and find a way to do them in a
+safer, smarter way that will help your tissues heal and strengthen.
 
 Using isolated small movements we will search for your body's "blind spots"
 restoring mobility in the underused areas and building more balanced strength
 patterns.
-
-We will discover movements that make you hurt and find a way to do them in a
-safer, smarter way that will help your tissues heal and strengthen.
 
 You will learn how to improve your alignment, reduce wear and tear on your
 joints and get more of your muscles to participate as you exercise, practice
@@ -49,7 +50,7 @@ next start date and place and book your spot.
 Upon the completion of the course you will have an option to join a 6-week
 continuation, if you want to go further. These are weekly movement
 classes/workshops playing with and building onto the motor skills from the basic
-course. The price is £120 for the full 6 weeks or 2. We will focus on improving
-your strength-to-weight ratio – especially through re-introducing developmental
-movements such as crawling and hanging and support you in building robust
+course. The price is £120 for the full 6 weeks. We will focus on improving your
+strength-to-weight ratio – especially through re-introducing developmental
+movements such as crawling and hanging to support you in building robust
 functional strength.
