@@ -42,8 +42,8 @@ VIP Package (10 weekly sessions): £500
 You might be able to share the sessions with a friend who has a similar problem.
 Please get in touch to find out more.
 
-The sessions are held in my home studio in Hackney, East London or at your home.
-I currently offer one-to-ones in North, Central and East London, with travel
+The sessions are held in my home studio in North London N16 or at your home. I
+currently offer one-to-ones in North, East and Central London, with travel
 expenses added to the price.
 
 To book mail [ivana@movementkitchen.co.uk](ivana@movementkitchen.co.uk)
