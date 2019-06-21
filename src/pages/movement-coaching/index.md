@@ -37,14 +37,18 @@ You can choose between:
 
 Basic Package (5 weekly sessions): £300
 
-VIP Package (10 weekly sessions): £500
+Full Package (10 weekly sessions + a gratis half dome): £500
 
-You might be able to share the sessions with a friend who has a similar problem.
-Please get in touch to find out more.
+In case of missed/unused sessions, the package expires four weeks after the date
+of the last session attended.
 
 The sessions are held in my home studio in North London N16 or at your home. I
 currently offer one-to-ones in North, East and Central London, with travel
 expenses added to the price.
+
+You might be able to share the sessions with a friend who has a similar need,
+e.g. is at a similar stage in their pregnancy or postnatal recovery. Please get
+in touch to find out more.
 
 To book mail [ivana@movementkitchen.co.uk](ivana@movementkitchen.co.uk)
 
