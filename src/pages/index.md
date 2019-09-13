@@ -16,21 +16,16 @@ testimonials:
     avatar: https://scontent.flhr3-2.fna.fbcdn.net/v/t1.0-1/17191011_10212792915403401_6628405488219690981_n.jpg?oh=7b56e80632fd6c8caec8aeca6803c01e&oe=5B4301A7
 ---
 
-You might have persistent shoulder/hip/back pain or injury that keeps coming
-back? Or maybe you feel that things never quite got back to normal after having
-a baby? You want to get back to running, cycling and doing all those things you
-used to love? If any of the above is true, you are tired of hurting and ready to
-take an active part in getting better, movement coaching could be just the thing
-you are looking for.
+Do you have an injury that keeps coming back? You try exercising at the gym,
+practising yoga, pilates or running but keep getting injured? Or maybe you feel
+that things never quite got back to normal after having a baby? Are you a
+curious mind, interested in learning more about how your body works and would
+like to reclaim a strong body and an active lifestyle - whatever that might mean
+for you?
 
-Our multidisciplinary approach brings together biomechanics based Restorative
-Exercise, functional fitness, yoga and massage weaving in the latest research in
-movement science with experiential and intuitive.
+Movement coaching could be the very thing you are looking for.
 
-It aims to:
-
-* Support you in overcoming pain and fear of getting re-injured
-* Empower you to understand your body better and build more sustainable movement
-  patterns in your daily life
-* Help you regain ease and joy in moving and develop a robust functional,
-  real-life strength
+Our unique, research-based approach bridges the fields of biomechanics based
+restorative exercise, physiotherapy, functional fitness, yoga, pilates and soft
+tissue therapy. It aims to empower you to build better movement habits and
+develop a robust real-life strength in everything you do.

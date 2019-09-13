@@ -2,13 +2,34 @@
 title: About
 ---
 
+### About movement coaching?
+
+Movement coaching aims to help you overcome injuries and develop more
+sustainable movement patterns in your exercise routines and daily life -
+optimising for better biological performance and long-term health.
+
+We will try to identify movements that could be injuring you, look into your
+alignment (positioning of your body in use), assess your joint angles and muscle
+use strategies and test your motor control in different functional movements.
+
+A lot of our work focuses on the nervous system and motor programming. You will
+learn how to isolate and control small movements, safely building towards more
+complex and more physically demanding movements.
+
+The aim of the exercises is not to challenge your abilities, but build new
+neural pathways - innervating underused areas of the body so they would
+gradually restore their function in your day-to-day life. The exercises are
+performed slowly and with as little effort as possible and ideally, integrated
+into your non-exercise time. Gradually, your body will adopt the new motor
+skills and they will become a part of your regular movement vocabulary.
+
 ### About Movement Kitchen
 
-Movement kitchen for me symbolises weaving movement into the everyday. My studio
-really happens to be in our large open-plan kitchen. When I don't teach here our
-living space is still an ever‐changing obstacle course with balance boards, half
-domes and spiky balls lying around and me and the children playfully climbing
-over them as I'm trying to cook dinner.
+The name Movement Kitchen for me symbolises weaving movement into the everyday.
+My studio really happens to be in our large open-plan kitchen. When I don't
+teach here our living space is still an ever‐changing obstacle course with
+balance boards, half domes and spiky balls lying around and me and the children
+playfully climbing over them as I'm trying to cook dinner.
 
 I aim to create the warm, homely, intimate atmosphere of the kitchen in my
 sessions too. I work a lot with biomechanics and science of movement but in a
@@ -22,15 +43,16 @@ for learning in the process of overcoming them. I often felt my body was too
 fragile to follow my pace of life.
 
 In 2008 I left a career in corporate law with recurrent back and shoulder pain
-and not being able to feel parts of my left foot. I completed my first 200 hour
-yoga teacher training with the Yoga Federation of Serbia back in my home
-country. In 2012 I continued my yoga studies at the Yoga Institute Santacruz in
-Mumbai, India focussing on the therapeutic aspects of yoga. I spent three months
-living and studying full time (900 hours) at the Institute, assisting and
-teaching at health camps and workshops that the Institute regularly held for the
-locals. Coming back to the UK, I continued studying with Yogacampus in London.
-After years of learning, teaching and a dedicated daily practice I managed to
-fully restore my feet and rarely had any back pain.
+and not being able to feel parts of my left foot. I found that yoga was helping
+me, so, geeky and thorough as I was, I went to study yoga. I completed my first
+200 hour yoga teacher training with the Yoga Federation of Serbia, back in my
+home country. In 2012 I continued my yoga studies at the Yoga Institute
+Santacruz in Mumbai, India focussing on the therapeutic aspects of yoga. I spent
+three months living and studying full time (900 hours) at the Institute,
+assisting and teaching at health camps and workshops that the Institute
+regularly held for the locals. Back in the UK, I continued studying with
+Yogacampus in London. After years of learning, teaching and a dedicated daily
+practice I managed to fully restore my feet and rarely had any back pain.
 
 But then in 2014, shortly after my first child was born, I suffered a severe
 abdominal separation - diastasis recti and De Quervain's tendinosis on both
