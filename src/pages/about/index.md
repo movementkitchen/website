@@ -2,8 +2,6 @@
 title: About
 ---
 
-### About movement coaching?
-
 Movement coaching aims to help you overcome injuries and develop more
 sustainable movement patterns in your exercise routines and daily life -
 optimising for better biological performance and long-term health.
