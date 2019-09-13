@@ -32,12 +32,10 @@ class Bio extends React.Component {
       <BioContainer>
         <p>
           <ProfileImage src={profilePic} alt={`Ivana Miletic Demmel`} />
-          Hi, I’m Ivana, a movement and wellness coach, RES-CPT, yoga therapist,
-          mum, maker, mover and keen researcher of movement. I'm passionate
-          about empowering women to improve their quality of life after having
-          children and have spent most of my career supporting women in their
-          journeys through pregnancy and motherhood. I'm an advocate of
-          movement-rich life, integrating more movement into everyday.
+          Hi, I’m Ivana, a movement coach RES-CPT, mum, maker, mover and
+          researcher. I'm passionate about empowering people to feel stronger
+          and more confident in their bodies. I'm also an advocate of
+          movement-rich life, integrating more movement into the everyday.
         </p>
         <NutritiousMovementLink href="https://www.nutritiousmovement.com/live-events/#find-teacher">
           <img src={nutritiousMovementLogo} alt={`Nutritious Movement logo`} />

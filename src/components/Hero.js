@@ -62,7 +62,7 @@ class Hero extends React.Component {
             backgroundImage: `url(${this.props.imageURI})`,
           }}
         />
-        <ShadyHeadline>Reclaim your right to move with ease</ShadyHeadline>
+        <ShadyHeadline>Move More and Move More of You</ShadyHeadline>
       </Wrapper>
     );
   }
