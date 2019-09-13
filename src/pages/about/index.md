@@ -2,6 +2,8 @@
 title: About
 ---
 
+### About
+
 Movement coaching aims to help you overcome injuries and develop more
 sustainable movement patterns in your exercise routines and daily life -
 optimising for better biological performance and long-term health.
@@ -21,20 +23,63 @@ performed slowly and with as little effort as possible and ideally, integrated
 into your non-exercise time. Gradually, your body will adopt the new motor
 skills and they will become a part of your regular movement vocabulary.
 
-### About Movement Kitchen
+### Ivana's Qualifications, Training and Accreditations
 
-The name Movement Kitchen for me symbolises weaving movement into the everyday.
-My studio really happens to be in our large open-plan kitchen. When I don't
-teach here our living space is still an ever‐changing obstacle course with
-balance boards, half domes and spiky balls lying around and me and the children
-playfully climbing over them as I'm trying to cook dinner.
+* CPT-RES Certified Personal Trainer, Restorative Exercise Specialist,
+  Certification with Nutritious Movement Center Northwest, Sequim, WA, USA under
+  Katy Bowman, training completed 2015-2017
+* Yoga as Therapy TTC from The Yoga Institute Santacruz Mumbai, India, July -
+  Nov 2012 - 900 Hours
+* Yoga TTC from The Yoga Federation of Serbia, Apr - Dec 2011 - 260 Hours
+* Master of Laws (LLM) from Vrije Universiteit Amsterdam, The Netherlands
+  2008-2009
+* Bachelor of Laws (LLB) from the University of Belgrade, Serbia, 2000-2005
 
-I aim to create the warm, homely, intimate atmosphere of the kitchen in my
-sessions too. I work a lot with biomechanics and science of movement but in a
-relaxed and informal way, guided by empathy and intuition. Instead of a lab my
-working space is a kitchen, both literally and metaphorically.
+Other Training:
 
-### About Ivana
+* Move Your DNA + Fundamentals of Natural Movement Intensive with Katy Bowman,
+  Cambridge, UK, Aug 2019 - 8 Hours
+* Weekend of workshops with Alison Crouch (Boomerang Pilates, MoveSMART): Hips,
+  Shoulders, Knees & Toes Workshop, Happy Hip Hinge Workshop, Supple Spine
+  Workshop, Psoas Workshop, London, UK, 7-8 June 2019 - 12 Hours
+* Pilates for Modern Bodies - Fundamentals of Flexion - 6 Weeks Online Course
+  with Alison Crouch, March - Apr 2019
+* Womb Care Massage Course with Barbara Loomis, Online Course - Spring 2019
+* Advanced Postnatal Exercise and Soft Tissue Therapy Course with Jenny Burrell,
+  Burrell Education, Online Course, Modules 1 and 2 - Jan-Feb 2019
+* Abdominal Adhesions Massage Course with Barbara Loomis, 9 Module Online
+  Course - Winter 2018/2019
+* Nutritious Movement Study Group Rhomboid Pushup, Head and Neck, Online, May
+  2018 - 3 Hours
+* Move Your DNA: Going Beyond The Points with Katy Bowman, online course, Oct
+  2017 - 8 Hours
+* Advanced Biomechanics with Katy Bowman, online course - 27 hours, Aug-Oct 2017
+* Shoulders and Neck Yoga and Franklin Method workshop with Mollie McClelland
+  Morris, London, UK, July 2017 - 3 Hours
+* RES Certification Week with Katy Bowman, Castricum, The Netherlands, July
+  2017 - 48 Hours
+* Move Your DNA Weekend with Hilary McKown, Milan, June 2017 - 16 Hours
+* Balinese Massage Course with Rahasia Nyaman - Ubud, Bali, Apr 2017 - 40 Hours
+* De-Mystifying Mindfulness 6 Weeks Online Course with the University of Leiden
+  (equivalent of 8 weeks MBSR) - Mar - Apr 2017
+* Yoga, Qigong and Mindfulness Immersion with Mimi Kuo Deemer, London, UK, Aug
+  2016 - 7 Hours
+* 52 Weeks of EveryBody Biomechanics with Katy Bowman, online, Jan 2016 - Jan
+  2017
+* BodyReading 101: Visual Assessment with Tom Myers (Anatomy Trains), DVD
+  course, Nov-Dec 2015
+* Total Yoga Nidra Foundation Course with Uma Dinsmore Tuli, Yogacampus, London,
+  UK, June 2015 - 10 Hours
+* Yoga Therapy: Practical Philosophy Of Healing with Mark Beuvain, Yogacampus,
+  London, UK, Jan 2015 - 12 Hours
+* Firing Order In Sequencing, And Resetting The Body’s Internal GPS with Doug
+  Keller, Yogacampus, London, UK, Oct 2014 - 32 Hours
+* Assisting and Adjusting Workshop with Emma Henry, London, UK, July 2014 - 3
+  Hours
+* Buggy Fit and Postnatal Exercise with GLL Better, London, UK, July 2014 - 4
+  Hours
+
+### Ivana's Story
 
 My movement journey has been paved by various injuries and an unstoppable urge
 for learning in the process of overcoming them. I often felt my body was too
@@ -72,8 +117,8 @@ instead of looking into what had caused it.
 
 Looking for answers I started obsessively researching and learning different
 approaches to movement and bodywork. Questioning, deconstructing and learning
-again from various teachers across the fields of yoga, pilates, somatics,
-movement and dance therapy, Structural Integration, myofascial release and
+again from various teachers across the fields of yoga, pilates, physiotherapy,
+movement and dance therapy, Structural Integration, soft tissue therapy and
 massage.
 
 In 2015 I discovered the work of biomechanist and researcher Katy Bowman looking
@@ -117,5 +162,18 @@ beautifully malleable and adapt to the way we use them. You can create an
 environment that requires you to move more frequently and move more parts of you
 as you go about your everyday life. Each little change creates a thousand
 ripples.
+
+### About Movement Kitchen
+
+The name Movement Kitchen for me symbolises weaving movement into the everyday.
+My studio really happens to be in our large open-plan kitchen. When I don't
+teach here our living space is still an ever‐changing obstacle course with
+balance boards, half domes and spiky balls lying around and me and the children
+playfully climbing over them as I'm trying to cook dinner.
+
+I aim to create the warm, homely, intimate atmosphere of the kitchen in my
+sessions too. I work a lot with biomechanics and science of movement but in a
+relaxed and informal way, guided by empathy and intuition. Instead of a lab my
+working space is a kitchen, both literally and metaphorically.
 
 [1]: https://nutritiousmovement.com/
