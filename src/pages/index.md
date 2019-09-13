@@ -16,14 +16,12 @@ testimonials:
     avatar: https://scontent.flhr3-2.fna.fbcdn.net/v/t1.0-1/17191011_10212792915403401_6628405488219690981_n.jpg?oh=7b56e80632fd6c8caec8aeca6803c01e&oe=5B4301A7
 ---
 
-Do you have an injury that keeps coming back?  
-You try exercising at the gym, practising yoga, pilates or running but keep getting
-injured?  
-Or maybe you feel that things never quite got back to normal after having a
-baby?  
-Are you a curious mind, interested in learning more about how your body works and
-would like to reclaim a strong body and an active lifestyle - whatever that might
-mean for you?
+Do you have an injury that keeps coming back? You try exercising at the gym,
+practising yoga, pilates or running but keep getting injured? Or maybe you feel
+that things never quite got back to normal after having a baby? Are you a
+curious mind, interested in learning more about how your body works and would
+like to reclaim a strong body and an active lifestyle - whatever that might mean
+for you?
 
 Movement coaching could be the very thing you are looking for.
 
