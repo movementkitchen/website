@@ -23,7 +23,7 @@ In a typical movement coaching session, I'll ask you to stand, sit, walk and
 perform simple everyday movements. We will look at your movement habits,
 searching for parts of the body that move too little and those that move too
 much and see what we can tweak to decrease wear and tear on individual joints
-and build more robust everyday strength.
+and build more balanced strength patterns.
 
 The most important part of creating a change is between our sessions – as you
 incorporate new movements/exercises into your day-to-day life, learn how to spot
