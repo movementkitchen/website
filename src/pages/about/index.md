@@ -9,8 +9,9 @@ sustainable movement patterns in your exercise routines and daily life -
 optimising for better biological performance and long-term health.
 
 We will try to identify movements that could be injuring you, look into your
-alignment (positioning of your body in use), assess your joint angles and muscle
-use strategies and test your motor control in different functional movements.
+alignment (positioning of your bones in use), joint angles and muscle
+recruitment strategies and test your motor control in different functional
+movements.
 
 A lot of our work focuses on the nervous system and motor programming. You will
 learn how to isolate and control small movements, safely building towards more
