@@ -17,17 +17,17 @@ module.exports = {
       },
       {
         uri: '/movement-coaching/',
-        label: 'Movement coaching',
+        label: 'Book coaching',
         hero: '/images/stepping_up.jpg',
       },
       {
         uri: '/courses-workshops/',
-        label: 'Courses / workshops',
+        label: 'Workshops',
         hero: '/images/beach_ride.jpg',
       },
       {
-        uri: '/massage/',
-        label: 'Massage',
+        uri: '/resources/',
+        label: 'Resources',
         hero: '/images/massage_table.jpg',
       },
       // {
@@ -91,12 +91,12 @@ module.exports = {
     `gatsby-transformer-json`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: `ADD YOUR TRACKING ID HERE`,
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: `UA-41004656-2`,
+      },
+    },
     `gatsby-plugin-react-next`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-emotion`,

@@ -69,7 +69,9 @@ const NavList = styled.ul`
 
 const NavItem = styled.li`
   font-family: ${typographyOptions.headerFontFamily.join(`,`)};
+  font-weight: ${typographyOptions.bodyWeight};
   text-align: center;
+  text-transform: uppercase;
   margin: 3vh 0;
 
   ${MIN_DEFAULT_MEDIA_QUERY} {
@@ -134,7 +136,7 @@ class Navigation extends React.Component {
                     onClick={this.onNavigationBound}
                     to={navItem.uri}
                     activeStyle={{
-                      textDecoration: 'dashed underline',
+                      textDecoration: 'underline',
                     }}
                     isActive={(match, location) => {
                       if (!match || (match.path === '/' && !match.isExact)) {
@@ -154,6 +156,9 @@ class Navigation extends React.Component {
         <MenuToggleButton onClick={this.toggleMenuBound}>
           {menuSVG}
         </MenuToggleButton>
+        <LogoButton onClick={this.onNavigationBound} to={'/'}>
+          logo
+        </LogoButton>
       </Wrapper>
     );
   }

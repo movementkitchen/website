@@ -2,7 +2,6 @@ import Typography from 'typography';
 import { TABLET_MEDIA_QUERY } from 'typography-breakpoint-constants';
 
 // Import typefaces
-import 'typeface-cormorant-garamond';
 import 'typeface-raleway';
 
 const theme = {
@@ -11,19 +10,15 @@ const theme = {
   scaleRatio: 5.5,
   googleFonts: [
     {
-      name: 'Cormorant Garamond',
-      styles: ['400'],
-    },
-    {
       name: 'Raleway',
-      styles: ['200', '400', '700'],
+      styles: ['300', '400', '600', '700'],
     },
   ],
-  headerFontFamily: ['Cormorant Garamond', 'serif'],
+  headerFontFamily: ['Raleway', 'sans-serif'],
   bodyFontFamily: ['Raleway', 'sans-serif'],
   bodyColor: 'hsla(0,0%,0%,0.8)',
-  headerWeight: 400,
-  bodyWeight: 400,
+  headerWeight: 600,
+  bodyWeight: 300,
   boldWeight: 700,
   overrideStyles: ({ adjustFontSizeTo, scale, rhythm }, options) => {
     const styles = {
@@ -36,7 +31,7 @@ const theme = {
       blockquote: {
         ...scale(0.3),
         lineHeight: 1.4,
-        fontWeight: '200',
+        fontWeight: '400',
         color: '#777777',
         paddingLeft: rhythm(5 / 4),
         marginLeft: 0,
@@ -51,6 +46,9 @@ const theme = {
       },
       table: {
         ...scale(-1 / 5),
+      },
+      li: {
+        marginBottom: rhythm(1 / 8),
       },
       // Mobile styles.
       [TABLET_MEDIA_QUERY]: {

@@ -44,7 +44,7 @@ const ShadyHeadline = styled.h2`
     color: white;
     font-family: ${typographyOptions.bodyFontFamily.join(`,`)};
     ${scale(0.3)};
-    font-weight: 200;
+    font-weight: 400;
     margin: 0 ${rhythm(0.5)};
 
     ${MIN_DEFAULT_MEDIA_QUERY} {

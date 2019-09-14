@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'react-emotion';
 
-import profilePic from './profile-pic.jpg';
-import nutritiousMovementLogo from './nutritious_movement_logo.jpg';
+import profilePic from '../images/profile-pic.jpg';
+import nutritiousMovementLogo from '../images/nutritious_movement_logo.jpg';
 import { rhythm } from '../utils/typography';
 
 const BioContainer = styled.div`
@@ -14,6 +14,7 @@ const ProfileImage = styled.img`
   margin: ${rhythm(1 / 4)} ${rhythm(1 / 4)} 0 0;
   width: ${rhythm(2.5)};
   height: ${rhythm(2.5)};
+  clip-path: circle(${rhythm(1.25)} at center);
 `;
 
 const NutritiousMovementLink = styled.a`
