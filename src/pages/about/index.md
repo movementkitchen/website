@@ -51,7 +51,7 @@ Other Training:
   Course - Winter 2018/2019
 * Nutritious Movement Study Group Rhomboid Pushup, Head and Neck, Online, May
   2018 - 3 Hours
-* Move Your DNA: Going Beyond The Points with Katy Bowman, online course, Oct
+* Move Your DNA: Going Beyond The Points with Katy Bowman, Online Course, Oct
   2017 - 8 Hours
 * Advanced Biomechanics with Katy Bowman, online course - 27 hours, Aug-Oct 2017
 * Shoulders and Neck Yoga and Franklin Method workshop with Mollie McClelland
