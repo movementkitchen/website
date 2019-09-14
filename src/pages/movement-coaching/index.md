@@ -6,9 +6,8 @@ title: Movement coaching
 
 You can choose between:
 
-Basic Package (5 weekly sessions) - price: £300
-
-Full Package (10 weekly sessions + free half foam roller) - price: £500
+* Basic Package (5 weekly sessions) - price: £300
+* Full Package (10 weekly sessions + free half foam roller) - price: £500
 
 To book mail [ivana@movementkitchen.co.uk](ivana@movementkitchen.co.uk)
 
