@@ -24,14 +24,14 @@ performed slowly and with as little effort as possible and ideally, integrated
 into your non-exercise time. Gradually, your body will adopt the new motor
 skills and they will become a part of your regular movement vocabulary.
 
-### Ivana's Qualifications, Training and Accreditations
+### Ivana's Qualifications
 
 * CPT-RES Certified Personal Trainer, Restorative Exercise Specialist,
   Certification with Nutritious Movement Center Northwest, Sequim, WA, USA under
   Katy Bowman, training completed 2015-2017
 * Yoga as Therapy TTC from The Yoga Institute Santacruz Mumbai, India, July -
-  Nov 2012 - 900 Hours
-* Yoga TTC from The Yoga Federation of Serbia, Apr - Dec 2011 - 260 Hours
+  Nov 2012 - 900 Hours Residential Course
+* Yoga TTC from The Yoga Federation of Serbia, Apr - Dec 2011 - 200 Hours
 * Master of Laws (LLM) from Vrije Universiteit Amsterdam, The Netherlands
   2008-2009
 * Bachelor of Laws (LLB) from the University of Belgrade, Serbia, 2000-2005
