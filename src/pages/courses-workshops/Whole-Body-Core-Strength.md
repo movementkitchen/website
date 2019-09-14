@@ -26,16 +26,12 @@ strengthening
 
 What tightness in your shoulders/hips/feet has to do with the weak abdomen
 
-We will discover movements that make you hurt and find a way to do them in a
+We will look for movements that make you hurt and find a way to do them in a
 safer, smarter way that will help your tissues heal and strengthen.
 
 Using isolated small movements we will search for your body's "blind spots"
 restoring mobility in the underused areas and building more balanced strength
 patterns.
-
-You will learn how to improve your alignment, reduce wear and tear on your
-joints and get more of your muscles to participate as you exercise, practice
-yoga or pilates or simply live your life.
 
 Suitable for beginners as well as experienced movers, as the group is small and
 each of the practices will be adapted to you.
@@ -46,11 +42,3 @@ each of the practices will be adapted to you.
 
 Get in touch on 07936348233 or ivana@movementkitchen.co.uk to find out about the
 next start date and place and book your spot.
-
-Upon the completion of the course you will have an option to join a 6-week
-continuation, if you want to go further. These are weekly movement
-classes/workshops playing with and building onto the motor skills from the basic
-course. The price is £120 for the full 6 weeks. We will focus on improving your
-strength-to-weight ratio – especially through re-introducing developmental
-movements such as crawling and hanging to support you in building robust
-functional strength.
