@@ -45,10 +45,11 @@ Other Training:
   Workshop, Psoas Workshop, London, UK, 7-8 June 2019 - 12 Hours
 * Pilates for Modern Bodies - Fundamentals of Flexion - 6 Weeks Online Course
   with Alison Crouch, March - Apr 2019
-* Womb Care Massage Course with Barbara Loomis, Online Course - Spring 2019
+* Womb Care Massage Course with Barbara Loomis, 8 Modules Online Course - Spring
+  2019
 * Advanced Postnatal Exercise and Soft Tissue Therapy Course with Jenny Burrell,
   Burrell Education, Online Course, Modules 1 and 2 - Jan-Feb 2019
-* Abdominal Adhesions Massage Course with Barbara Loomis, 9 Module Online
+* Abdominal Adhesions Massage Course with Barbara Loomis, 9 Modules Online
   Course - Winter 2018/2019
 * Nutritious Movement Study Group Rhomboid Pushup, Head and Neck, Online, May
   2018 - 3 Hours
