@@ -35,6 +35,22 @@ const MenuToggleButton = styled.button`
   }
 `;
 
+const LogoButton = styled(Link)`
+  position: fixed;
+  top: ${rhythm(1.5)};
+  left: ${rhythm(1 / 2)};
+  z-index: 9;
+  padding: 0;
+  border: none;
+  background: transparent;
+  width: 50px;
+  height: 50px;
+
+  /* ${MIN_DEFAULT_MEDIA_QUERY} { */
+    display: none;
+  /* } */
+`;
+
 const Nav = styled.nav`
   display: flex;
   position: fixed;
@@ -123,6 +139,9 @@ class Navigation extends React.Component {
 
     return (
       <Wrapper>
+        <LogoButton onClick={this.onNavigationBound} to={'/'}>
+          logo
+        </LogoButton>
         <Nav menuOpen={this.state.menuOpen}>
           <NavList>
             {navItems.map(navItem => (
@@ -156,9 +175,6 @@ class Navigation extends React.Component {
         <MenuToggleButton onClick={this.toggleMenuBound}>
           {menuSVG}
         </MenuToggleButton>
-        <LogoButton onClick={this.onNavigationBound} to={'/'}>
-          logo
-        </LogoButton>
       </Wrapper>
     );
   }
