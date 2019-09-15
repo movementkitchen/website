@@ -40,10 +40,7 @@ class Home extends React.Component {
             marginBottom: rhythm(2),
           }}
           src="https://maps.google.com/maps?q=movement%20kitchen&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=&amp;output=embed"
-          frameborder="0"
-          scrolling="no"
-          marginheight="0"
-          marginwidth="0"
+          frameBorder="0"
         />
         <Testimonials testimonials={testimonials} />
       </div>
