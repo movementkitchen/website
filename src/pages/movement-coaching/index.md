@@ -30,7 +30,3 @@ incorporate new movements/exercises into your day-to-day life, learn how to spot
 patterns that might be hurting you, learn tools that will help you relieve
 discomforts and prevent them in the first place - and gradually get to feel
 stronger, straighter and more comfortable in your body.
-
-[1]: https://nutritiousmovement.com/
-
-![Alignment points](alignment_points.jpg)
