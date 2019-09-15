@@ -14,7 +14,7 @@ const TestimonialsList = styled.ul`
 
 const Testimonial = styled.li`
   flex: 0 1 100%;
-  margin-top: ${rhythm(2)};
+  margin-top: ${rhythm(1)};
 
   ${MIN_TABLET_MEDIA_QUERY} {
     flex: 0 1 30%;
@@ -44,7 +44,7 @@ export default class Testimonials extends React.Component {
               <TestimonialName>{testimonial.name}</TestimonialName>
               <p>{testimonial.text}</p>
               <a href={testimonial.url} target="_blank">
-                See original testimonial
+                Read full testimonial
               </a>
             </Testimonial>
           ))}

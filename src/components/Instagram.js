@@ -10,7 +10,7 @@ import {
 import { rhythm } from '../utils/typography';
 
 const ImagesContainer = styled.div`
-  margin: ${rhythm(1)} 0 ${rhythm(2.5)} 0;
+  margin: ${rhythm(2)} 0 ${rhythm(2.5)} 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;

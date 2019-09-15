@@ -11,19 +11,20 @@ const BioContainer = styled.div`
 
 const ProfileImage = styled.img`
   float: left;
-  margin: ${rhythm(1 / 4)} ${rhythm(1 / 4)} 0 0;
-  width: ${rhythm(2.5)};
-  height: ${rhythm(2.5)};
-  clip-path: circle(${rhythm(1.25)} at center);
+  margin: ${rhythm(1 / 5)} ${rhythm(1)} 0 0;
+  width: ${rhythm(5)};
+  height: ${rhythm(5)};
+  clip-path: circle(${rhythm(5 / 2)} at center);
 `;
 
 const NutritiousMovementLink = styled.a`
-  text-align: center;
+  width: 100%;
   display: block;
 
   & > img {
-    max-height: 35vh;
-    margin: 0;
+    width: 50%;
+    height: auto;
+    margin: 0 25%;
   }
 `;
 

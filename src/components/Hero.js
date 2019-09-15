@@ -11,12 +11,13 @@ import {
 } from '../utils/typography';
 
 const Wrapper = styled.div`
+  width: 100%;
   position: relative;
 `;
 
 const ImageContainer = styled.div`
   width: 100%;
-  height: 45vh;
+  height: 50vh;
   background-size: cover;
   background-position: right;
   position: relative;

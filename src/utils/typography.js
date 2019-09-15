@@ -17,6 +17,8 @@ const theme = {
   headerFontFamily: ['Raleway', 'sans-serif'],
   bodyFontFamily: ['Raleway', 'sans-serif'],
   bodyColor: 'hsla(0,0%,0%,0.8)',
+  brandColorPrimaryGreen: '#30a298',
+  brandColorPrimaryRed: '#da291c',
   headerWeight: 600,
   bodyWeight: 300,
   boldWeight: 700,
@@ -26,7 +28,7 @@ const theme = {
         color: options.bodyColor,
       },
       'a:hover': {
-        color: '#3498DB',
+        color: options.brandColorPrimaryRed,
       },
       blockquote: {
         ...scale(0.3),
