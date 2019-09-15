@@ -7,7 +7,7 @@ testimonials:
     name: Kate
     avatar: /images/kate.jpg
   - url: https://goo.gl/maps/fAyJetHc9XQ2
-    text: For someone who hasn't done yoga or movement workshops before I found working with Ivana really useful - she was great at explaining what the each exercise was about. I learnt a lot and am looking forward to fixing my body. Thank you Ivana!
+    text: For someone who hasn't done yoga or movement workshops before I found working with Ivana really useful - she was great at explaining what the each exercise was about. I learnt a lot and am looking forward to fixing my body.
     name: Masood
     avatar: /images/masood.jpg
   - url: https://www.facebook.com/galia.galabova/posts/10215484660055335:0
