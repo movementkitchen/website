@@ -17,7 +17,7 @@ module.exports = {
       },
       {
         uri: '/movement-coaching/',
-        label: 'Book coaching',
+        label: 'Coaching',
         hero: '/images/stepping_up.jpg',
       },
       {
