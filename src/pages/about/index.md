@@ -141,8 +141,7 @@ quality of life after pregnancy and childbirth, I am currently studying Advanced
 CPD in Modern Post Natal Assessment, Core Restore & Functional Exercise
 Programming with Jenny Burrell. My passion for movement and fascination with the
 body keeps driving me to learn, research and explore new approaches and tools
-across the fields of functional movement, physiotherapy, fitness and soft tissue
-therapy.
+across the fields of sport science, physiotherapy and women's health.
 
 And my personal journey towards a more movement-rich lifestyle continues. Over
 the last five years I've thrown out all the supportive insoles from my shoes and
