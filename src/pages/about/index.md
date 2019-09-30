@@ -4,8 +4,8 @@ title: About
 
 ### About
 
-Movement coaching aims to help you overcome injuries and develop more
-sustainable movement patterns in your exercise routines and daily life.
+Movement coaching aims to help you overcome and prevent injuries by developing
+more sustainable movement patterns in your exercise routines and daily life.
 
 We will try to identify movements that could be injuring you, look into your
 alignment (positioning of your bones in use), joint angles and muscle
