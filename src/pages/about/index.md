@@ -26,6 +26,8 @@ skills and they will become a part of your regular movement vocabulary.
 
 ### Ivana's Qualifications
 
+* Currently studying for a MSc in Biomechanics / Sports and Exercise Science
+  with University of Roehampton, London, UK, September 2019 - ongoing
 * CPT-RES Certified Personal Trainer, Restorative Exercise Specialist,
   Certification with Nutritious Movement Center Northwest, Sequim, WA, USA under
   Katy Bowman, training completed 2015-2017
