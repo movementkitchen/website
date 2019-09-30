@@ -63,7 +63,7 @@ Other Training:
 * RES Certification Week with Katy Bowman, Castricum, The Netherlands, July
   2017 - 48 Hours
 * Move Your DNA Weekend with Hilary McKown, Milan, June 2017 - 16 Hours
-* Balinese Massage Course with Rahasia Nyaman - Ubud, Bali, Apr 2017 - 40 Hours
+* Balinese Massage Course with Rahasia Nyaman - Ubud, Bali, Apr 2017 - 30 Hours
 * De-Mystifying Mindfulness 6 Weeks Online Course with the University of Leiden
   (equivalent of 8 weeks MBSR) - Mar - Apr 2017
 * Yoga, Qigong and Mindfulness Immersion with Mimi Kuo Deemer, London, UK, Aug
