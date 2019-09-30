@@ -138,12 +138,11 @@ focussing on restoring the functionality of everything around it. And gradually
 I have restored a strong, working core and a body that is able to support me in
 doing what I love.
 
-Trying to make my skills more useful to women who are looking to improve their
-quality of life after pregnancy and childbirth, I am currently studying Advanced
-CPD in Modern Post Natal Assessment, Core Restore & Functional Exercise
-Programming with Jenny Burrell. My passion for movement and fascination with the
-body keeps driving me to learn, research and explore new approaches and tools
-across the fields of sport science, physiotherapy and women's health.
+My passion for movement and fascination with the body keeps driving me to learn,
+research and explore new approaches and tools across the fields of exercise
+science, physiotherapy and women's health. Looking to deepen my knowledge and
+serve my clients better, I am currently studying for a MSc in Biomechanics /
+Sports and Exercise Science with University of Roehampton.
 
 And my personal journey towards a more movement-rich lifestyle continues. Over
 the last five years I've thrown out all the supportive insoles from my shoes and
