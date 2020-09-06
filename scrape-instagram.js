@@ -1,10 +1,10 @@
 const fs = require(`fs`);
+const got = require(`got`);
 const mkdirp = require(`mkdirp`);
 const rimraf = require(`rimraf`);
 const ProgressBar = require(`progress`);
 const { get } = require(`lodash`);
 const download = require(`./utils/download-file`);
-const userInstagram = require('user-instagram');
 
 const username = process.argv[2];
 
@@ -21,7 +21,7 @@ node scrape.js INSTAGRAM_USERNAME
 }
 
 // Convert timestamp to ISO 8601.
-const toISO8601 = timestamp => new Date(timestamp * 1000).toJSON();
+const toISO8601 = (timestamp) => new Date(timestamp * 1000).toJSON();
 
 // Create the progress bar
 const bar = new ProgressBar(
@@ -38,43 +38,64 @@ mkdirp.sync(`./data/images`);
 let posts = [];
 
 // Write json
-const saveJSON = _ =>
+const saveJSON = (_) =>
   fs.writeFileSync(`./data/posts.json`, JSON.stringify(posts, ``, 2));
 
-const getPosts = _ => {
-  userInstagram('movementkitchen') // Same as getUserData()
-  .then(data => {
-    data.posts
-      .map((item) => {
+const getPosts = async (_) => {
+  const url = `https://www.instagram.com/${username}/`;
+
+  try {
+    const response = await got(url, {
+      headers: {
+        'user-agent':
+          'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:80.0) Gecko/20100101 Firefox/80.0',
+      },
+    });
+    console.log('statusCode:', response.statusCode);
+
+    const body = JSON.parse(
+      response.body.split(`window._sharedData = `)[1].split(`;</script>`)[0]
+    ).entry_data.ProfilePage[0].graphql;
+
+    body.user.edge_owner_to_timeline_media.edges
+      .filter(
+        ({ node: item }) =>
+          item[`__typename`] === `GraphImage` ||
+          item[`__typename`] === `GraphSidecar`
+      )
+      .map(({ node: item }) => {
         // Parse item to a simple object
         return {
           id: get(item, `id`),
-          code: get(item, `shortCode`),
-          time: toISO8601(get(item, `timestamp`)),
-          isVideo: get(item, `isVideo`),
-          likes: get(item, `likesCount`),
-          comment: get(item, `commentsCount`),
-          text: get(item, `caption`),
-          media: get(item, `imageUrl`),
-          image: `images/${item.shortCode}.jpg`,
-          username: get(data, `username`),
-          avatar: get(data, `profilePic`),
+          code: get(item, `shortcode`),
+          time: toISO8601(get(item, `taken_at_timestamp`)),
+          type: get(item, `__typename`),
+          likes: get(item, `edge_liked_by.count`),
+          comment: get(item, `edge_media_to_comment.count`),
+          text: get(item, `edge_media_to_caption.edges[0].node.text`),
+          media: get(item, `display_url`),
+          image: `images/${item.shortcode}.jpg`,
+          username: get(body, `user.username`),
+          avatar: get(body, `user.profile_pic_url`),
         };
       })
-      .forEach(item => {
+      .forEach((item) => {
         if (posts.length >= 6) return;
 
         // Download image locally and update progress bar
         bar.total++;
-        download(item.media, `./data/images/${item.code}.jpg`, _ => bar.tick());
+        download(item.media, `./data/images/${item.code}.jpg`, (_) =>
+          bar.tick()
+        );
 
         // Add item to posts
         posts.push(item);
       });
 
     saveJSON();
-  })
-  .catch(console.error);
+  } catch (error) {
+    console.log('error:', error);
+  }
 };
 
 getPosts();
