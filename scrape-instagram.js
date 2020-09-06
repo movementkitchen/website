@@ -1,10 +1,10 @@
 const fs = require(`fs`);
-const request = require(`request`);
 const mkdirp = require(`mkdirp`);
 const rimraf = require(`rimraf`);
 const ProgressBar = require(`progress`);
 const { get } = require(`lodash`);
 const download = require(`./utils/download-file`);
+const userInstagram = require('user-instagram');
 
 const username = process.argv[2];
 
@@ -42,34 +42,23 @@ const saveJSON = _ =>
   fs.writeFileSync(`./data/posts.json`, JSON.stringify(posts, ``, 2));
 
 const getPosts = _ => {
-  const url = `https://www.instagram.com/${username}/`;
-
-  request(url, { encoding: `utf8` }, (err, res, body) => {
-    if (err) console.log(`error: ${err}`);
-
-    body = body.split(`window._sharedData = `)[1].split(`;</script>`)[0];
-    body = JSON.parse(body).entry_data.ProfilePage[0].graphql;
-
-    body.user.edge_owner_to_timeline_media.edges
-      .filter(
-        ({ node: item }) =>
-          item[`__typename`] === `GraphImage` ||
-          item[`__typename`] === `GraphSidecar`
-      )
-      .map(({ node: item }) => {
+  userInstagram('movementkitchen') // Same as getUserData()
+  .then(data => {
+    data.posts
+      .map((item) => {
         // Parse item to a simple object
         return {
           id: get(item, `id`),
-          code: get(item, `shortcode`),
-          time: toISO8601(get(item, `taken_at_timestamp`)),
-          type: get(item, `__typename`),
-          likes: get(item, `edge_liked_by.count`),
-          comment: get(item, `edge_media_to_comment.count`),
-          text: get(item, `edge_media_to_caption.edges[0].node.text`),
-          media: get(item, `display_url`),
-          image: `images/${item.shortcode}.jpg`,
-          username: get(body, `user.username`),
-          avatar: get(body, `user.profile_pic_url`),
+          code: get(item, `shortCode`),
+          time: toISO8601(get(item, `timestamp`)),
+          isVideo: get(item, `isVideo`),
+          likes: get(item, `likesCount`),
+          comment: get(item, `commentsCount`),
+          text: get(item, `caption`),
+          media: get(item, `imageUrl`),
+          image: `images/${item.shortCode}.jpg`,
+          username: get(data, `username`),
+          avatar: get(data, `profilePic`),
         };
       })
       .forEach(item => {
@@ -84,7 +73,8 @@ const getPosts = _ => {
       });
 
     saveJSON();
-  });
+  })
+  .catch(console.error);
 };
 
 getPosts();
