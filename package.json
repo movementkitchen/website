@@ -9,6 +9,7 @@
   "dependencies": {
     "emotion": "9.1.2",
     "emotion-server": "9.1.2",
+    "fast-xml-parser": "^3.17.4",
     "gatsby": "1.9.255",
     "gatsby-link": "1.6.41",
     "gatsby-plugin-catch-links": "1.0.19",
@@ -64,7 +65,7 @@
     "develop": "gatsby develop",
     "build": "npm run insta && gatsby build",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
-    "insta": "node scrape-instagram.js movementkitchen",
+    "insta": "node scrape-instagram-rss.js",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
   }
 }

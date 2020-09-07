@@ -14,8 +14,7 @@ class Home extends React.Component {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title');
     const pageTitle = get(this, 'props.data.markdownRemark.frontmatter.title');
     const pageContent = get(this, 'props.data.markdownRemark.html');
-    const posts = get(this, 'props.data.allPostsJson').edges.map(e => e.node);
-    const user = get(this, 'props.data.user').edges[0].node;
+    const posts = get(this, 'props.data.allPostsJson').edges.map((e) => e.node);
     const testimonials = get(
       this,
       'props.data.markdownRemark.frontmatter.testimonials'
@@ -69,21 +68,12 @@ export const pageQuery = graphql`
         title
       }
     }
-    user: allPostsJson(limit: 1) {
-      edges {
-        node {
-          username
-          avatar
-        }
-      }
-    }
     allPostsJson(limit: 6) {
       edges {
         node {
           id
           code
           text
-          likes
           smallImage: image {
             childImageSharp {
               small: responsiveSizes(maxWidth: 250, maxHeight: 250) {
