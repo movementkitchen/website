@@ -4,24 +4,27 @@ title: About
 
 ### About
 
-Movement coaching aims to help you overcome and prevent injuries by developing
-more sustainable movement patterns in your exercise routines and daily life.
+Movement coaching aims to help you overcome old and prevent new injuries by
+developing more sustainable movement patterns in your exercise routines and
+daily life.
 
 We will try to identify movements that could be injuring you, look into your
-alignment (positioning of your bones in use), joint angles and muscle
-recruitment strategies and test your motor control in different functional
-movements.
+alignment (positioning of your bones as you move), joint ranges of motion and
+muscle recruitment strategies and test your motor control in different
+functional movements. We will look for your weak spots and the patterns that
+weaken them and see how we can work with your body to find new ways to move.
 
-A lot of our work focuses on the nervous system and motor control. You will
-learn how to isolate and control small movements, safely building towards more
-complex and more physically demanding movements.
+A lot of our work focuses on the nervous system. You will learn how to isolate
+and control small movements, safely building towards more complex and more
+physically demanding movements. The aim of the exercises is not to challenge
+your abilities, but build new neural pathways - innervating underused areas of
+the body to get more of your body to participate in movement and build more
+balanced strength patterns.
 
-The aim of the exercises is not to challenge your abilities, but build new
-neural pathways - innervating underused areas of the body so they would
-gradually restore their function in your day-to-day life. The exercises are
-performed slowly and with as little effort as possible and ideally, integrated
-into your non-exercise time. Gradually, your body will adopt the new motor
-skills and they will become a part of your regular movement vocabulary.
+The exercises are performed slowly and with as little effort as possible and
+gradually integrated into your non-exercise time. With practice your body will
+adopt the new motor skills and they will become a part of your regular movement
+vocabulary.
 
 ### Ivana's Qualifications
 
