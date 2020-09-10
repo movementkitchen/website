@@ -12,7 +12,7 @@ alignment (positioning of your bones in use), joint angles and muscle
 recruitment strategies and test your motor control in different functional
 movements.
 
-A lot of our work focuses on the nervous system and motor programming. You will
+A lot of our work focuses on the nervous system and motor control. You will
 learn how to isolate and control small movements, safely building towards more
 complex and more physically demanding movements.
 
@@ -63,8 +63,8 @@ Other Training:
   2017 - 48 Hours
 * Move Your DNA Weekend with Hilary McKown, Milan, June 2017 - 16 Hours
 * Balinese Massage Course with Rahasia Nyaman - Ubud, Bali, Apr 2017 - 30 Hours
-* De-Mystifying Mindfulness 6 Weeks Online Course with the University of Leiden
-  (equivalent of 8 weeks MBSR) - Mar - Apr 2017
+* 6 Weeks Mindfulness Online Course with the University of Leiden (equivalent of
+  MBSR) - Mar - Apr 2017
 * Yoga, Qigong and Mindfulness Immersion with Mimi Kuo Deemer, London, UK, Aug
   2016 - 7 Hours
 * 52 Weeks of EveryBody Biomechanics with Katy Bowman, online, Jan 2016 - Jan
@@ -172,9 +172,9 @@ teach here our living space is still an ever‐changing obstacle course with
 balance boards, half domes and spiky balls lying around and me and the children
 playfully climbing over them as I'm trying to cook dinner.
 
-I aim to create the warm, homely, intimate atmosphere of the kitchen in my
-sessions too. I work a lot with biomechanics and science of movement but in a
-relaxed and informal way, guided by empathy and intuition. Instead of a lab my
-working space is a kitchen, both literally and metaphorically.
+I aim to create the homely, intimate atmosphere of the kitchen in my sessions
+too. I work a lot with biomechanics and science of movement but in a relaxed and
+informal way, guided by empathy and intuition. Instead of a lab my working space
+is a kitchen, both literally and metaphorically.
 
 [1]: https://nutritiousmovement.com/
