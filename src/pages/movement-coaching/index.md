@@ -4,7 +4,7 @@ title: Movement coaching
 
 ### Book Movement Coaching
 
-At the moment, all the coaching sessions are online, on Zoom or Skype.
+At the moment, all the coaching sessions are online – on Zoom or Skype.
 
 To book mail [ivana@movementkitchen.co.uk](ivana@movementkitchen.co.uk)
 
@@ -22,7 +22,7 @@ payment in instalments.
 
 Each coaching package includes:
 
-* Weekly 1-hour online sessions
+* Weekly 1-hour one-to-one sessions
 * Session recordings
 * At-home-practice recommendations
 * WhatsApp/email questions and catch-ups.
