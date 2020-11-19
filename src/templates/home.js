@@ -14,7 +14,7 @@ class Home extends React.Component {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title');
     const pageTitle = get(this, 'props.data.markdownRemark.frontmatter.title');
     const pageContent = get(this, 'props.data.markdownRemark.html');
-    const posts = get(this, 'props.data.allPostsJson').edges.map((e) => e.node);
+    // const posts = get(this, 'props.data.allPostsJson').edges.map((e) => e.node);
     const testimonials = get(
       this,
       'props.data.markdownRemark.frontmatter.testimonials'
@@ -31,7 +31,7 @@ class Home extends React.Component {
         <Helmet title={`${siteTitle} – ${pageTitle}`} />
         <div dangerouslySetInnerHTML={{ __html: pageContent }} />
         <Bio />
-        <Instagram posts={posts} />
+        {/* <Instagram posts={posts} /> */}
         <iframe
           style={{
             width: '100%',
@@ -68,22 +68,22 @@ export const pageQuery = graphql`
         title
       }
     }
-    allPostsJson(limit: 6) {
-      edges {
-        node {
-          id
-          code
-          text
-          smallImage: image {
-            childImageSharp {
-              small: responsiveSizes(maxWidth: 250, maxHeight: 250) {
-                src
-                srcSet
-              }
-            }
-          }
-        }
-      }
-    }
+    # allPostsJson(limit: 6) {
+    #   edges {
+    #     node {
+    #       id
+    #       code
+    #       text
+    #       smallImage: image {
+    #         childImageSharp {
+    #           small: responsiveSizes(maxWidth: 250, maxHeight: 250) {
+    #             src
+    #             srcSet
+    #           }
+    #         }
+    #       }
+    #     }
+    #   }
+    # }
   }
 `;
