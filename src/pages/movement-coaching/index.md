@@ -4,29 +4,29 @@ title: Movement coaching
 
 ### Book Movement Coaching
 
-You can choose between:
+At the moment, all the coaching sessions are online, on Zoom or Skype. To book
+mail [ivana@movementkitchen.co.uk](ivana@movementkitchen.co.uk)
 
-* Basic Package (5 weekly sessions) - price: £300
-* Full Package (10 weekly sessions + free half foam roller) - price: £500
+We will work together over a period of 5-10 weeks, so there is enough time to
+learn new motor skills and allow them to become a natural part of how you move –
+on and off the mat.
 
-To book mail [ivana@movementkitchen.co.uk](ivana@movementkitchen.co.uk)
+You can choose between two coaching packages:
 
-Movement Coaching sessions are held in our home studio in North-East London N16.
-We could also arrange a session at your home, currently in North, East and
-Central London, with travel expenses added to the price. Each individual session
-is 60 minutes long.
+* Basic (5-week coaching) - price: £300
+* Full (10-week coaching) - price: £500
 
-In case of missed/unused sessions, the package expires four weeks after the date
-of the last session attended.
+If you can't afford the price, please do get in touch and we could arrange
+payment in instalments.
 
-In a typical movement coaching session, I'll ask you to stand, sit, walk and
-perform simple everyday movements. We will look at your movement habits,
-searching for parts of the body that move too little and those that move too
-much and see what we can tweak to decrease wear and tear on individual joints
-and build more balanced strength patterns.
+Each coaching package includes:
 
-The most important part of creating a change is between our sessions – as you
-incorporate new movements/exercises into your day-to-day life, learn how to spot
-patterns that might be hurting you, learn tools that will help you relieve
-discomforts and prevent them in the first place - and gradually get to feel
-stronger, straighter and more comfortable in your body.
+* Weekly 1-hour online sessions
+* Session recordings
+* At-home-practice recommendations
+* WhatsApp/email questions and catch-ups.
+
+Neuromuscular re-training is a process. The most important part of creating a
+change is between our sessions. As you you gradually incorporate new
+movements/exercises into your day-to-day life, you will get to feel stronger,
+straighter and more comfortable in your body.
