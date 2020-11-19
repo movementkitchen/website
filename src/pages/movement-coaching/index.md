@@ -4,8 +4,9 @@ title: Movement coaching
 
 ### Book Movement Coaching
 
-At the moment, all the coaching sessions are online, on Zoom or Skype. To book
-mail [ivana@movementkitchen.co.uk](ivana@movementkitchen.co.uk)
+At the moment, all the coaching sessions are online, on Zoom or Skype.
+
+To book mail [ivana@movementkitchen.co.uk](ivana@movementkitchen.co.uk)
 
 We will work together over a period of 5-10 weeks, so there is enough time to
 learn new motor skills and allow them to become a natural part of how you move –
