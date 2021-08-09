@@ -2,7 +2,6 @@ import React from 'react';
 import styled from 'react-emotion';
 
 import profilePic from '../images/profile-pic.jpg';
-import nutritiousMovementLogo from '../images/nutritious_movement_logo.jpg';
 import { rhythm } from '../utils/typography';
 
 const BioContainer = styled.div`
@@ -15,17 +14,6 @@ const ProfileImage = styled.img`
   width: ${rhythm(5)};
   height: ${rhythm(5)};
   clip-path: circle(${rhythm(5 / 2)} at center);
-`;
-
-const NutritiousMovementLink = styled.a`
-  width: 100%;
-  display: block;
-
-  & > img {
-    width: 50%;
-    height: auto;
-    margin: 0 25%;
-  }
 `;
 
 class Bio extends React.Component {
@@ -42,9 +30,6 @@ class Bio extends React.Component {
           (pregnancy, postnatal, pre and post-menopause), empowering them to get
           stronger and more confident in their bodies.
         </p>
-        <NutritiousMovementLink href="https://www.nutritiousmovement.com/live-events/#find-teacher">
-          <img src={nutritiousMovementLogo} alt={`Nutritious Movement logo`} />
-        </NutritiousMovementLink>
       </BioContainer>
     );
   }
