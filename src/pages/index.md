@@ -25,7 +25,7 @@ for you?
 
 Movement coaching could be the very thing you are looking for.
 
-Our unique, research-based approach bridges the gap between physiotherapy and
+Our unique, evidence-based approach bridges the gap between physiotherapy and
 strength and conditioning. It aims to help you build more balanced muscle use
 patterns and more robust functional strength, so you can move with ease in
 whatever modality of exercise you choose.
