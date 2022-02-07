@@ -134,18 +134,18 @@ completed a MSc in Biomechanics / Sports and Exercise Science with University of
 Roehampton.
 
 Bit by bit, I have managed to restore my core and get stronger and more
-resilient than in my twenties, and my personal journey towards a more
-movement-rich lifestyle continues. Over the last five years I've removed the
-supportive insoles from my shoes and gradually replaced the heeled shoes with
-wide and flexible minimal ones. Our family got rid of most of our furniture and
-equipped our house with a climbing frame and a plenty of unstable surfaces
-instead. We started spending a lot of our time outside, moving in nature. I
-started looking at my environment differently, finding movement opportunities
-where there were none: noticing all the trees for climbing on my walks, walking
-much more barefoot and on varied surfaces, using the children playground time to
-hang, climb and play with them instead of just standing around.
+resilient than in my twenties, but my personal journey into a more movement-rich
+lifestyle continues. Over the last five years I've removed the supportive
+insoles from my shoes and gradually replaced the heeled shoes with wide and
+flexible minimal ones. Our family got rid of most of our furniture and equipped
+our house with a climbing frame and a plenty of unstable surfaces instead. We
+started spending a lot of our time outside, moving in nature. I started looking
+at my environment differently, finding movement opportunities where there were
+none: noticing all the trees for climbing on my walks, walking much more
+barefoot and on varied surfaces, using the children playground time to hang,
+climb and play with them instead of just standing around.
 
-> Longer I work with movement and the body, more I realise, the progress is
+> Longer I work with movement and the body, more I realise, the p rogress is
 > defined not by one time achievements, but by general blurring of the border
 > between exercise and life.
 
