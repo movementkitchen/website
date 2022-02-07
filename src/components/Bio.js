@@ -23,7 +23,7 @@ class Bio extends React.Component {
         <p>
           <ProfileImage src={profilePic} alt={`Ivana Miletic Demmel`} />
           Hi, I’m Ivana, a human movement scientist, movement coach, mover,
-          maker and a mum. I'm passionate about improving human biological
+          maker and a mum. I'm excited about improving human biological
           performance and quality of life through movement. Over the years, I've
           developed a particular interest in women's neuromusculoskeletal health
           – supporting women through pregnancy, postnatal period, perimenopause
