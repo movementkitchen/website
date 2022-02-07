@@ -28,17 +28,18 @@ vocabulary.
 
 ### Ivana's Qualifications
 
-* MSc in Biomechanics / Sport and Exercise Science, University of Roehampton,
-  London, UK, September 2019 - ongoing
+* MSc in Biomechanics / Sport and Exercise Science from the University of
+  Roehampton, London, UK, October 2019 - October 2021 - with distinction
 * CPT-RES Certified Personal Trainer, Restorative Exercise Specialist,
   Certification with Nutritious Movement Center Northwest, Sequim, WA, USA under
   Katy Bowman, training completed 2015-2017
 * Yoga as Therapy TTC from The Yoga Institute Santacruz Mumbai, India, July -
   Nov 2012 - 900 Hours Residential Course
 * Yoga TTC from The Yoga Federation of Serbia, Apr - Dec 2011 - 200 Hours
-* Master of Laws (LLM) from Vrije Universiteit Amsterdam, The Netherlands
-  2008-2009
-* Bachelor of Laws (LLB) from the University of Belgrade, Serbia, 2000-2005
+* LLM in International Business Law from Vrije Universiteit Amsterdam, The
+  Netherlands 2008-2009
+* LLB (Hons) in International Law from the University of Belgrade, Serbia,
+  2000-2005
 
 Other Training:
 
@@ -123,28 +124,14 @@ instead of looking into what had caused it.
 
 Looking for answers I started obsessively researching and learning different
 approaches to movement and bodywork. Questioning, deconstructing and learning
-again from various teachers across the fields of yoga, pilates, physiotherapy,
-movement and dance therapy, Structural Integration, soft tissue therapy and
-massage.
-
-In 2015 I discovered the work of biomechanist and researcher Katy Bowman looking
-into loads and forces of physics created by movement. I felt I finally found a
-missing piece I was looking for in my journey to heal the abdominal separation
-without a surgery. I started the 2-year certification with Katy Bowman's
-Nutritious Movement Institute and in October 2017 got qualified as a Nutritious
-Movement™ certified Restorative Exercise Specialist. Studying biomechanics and
-science of movement felt like peeling off layer by layer of all I knew about
-movement, rebuilding and reconnecting everything again. I quickly gave up on the
-surgery idea and instead of focussing on the separation itself I started
-focussing on restoring the functionality of everything around it. And gradually
-I have restored a strong, working core and a body that is able to support me in
-doing what I love.
-
-My passion for movement and fascination with the body keeps driving me to learn,
-research and explore new approaches and tools across the fields of exercise
-science, physiotherapy and women's health. Looking to deepen my knowledge and
-serve my clients better, I am currently studying for a MSc in Biomechanics /
-Sports and Exercise Science with University of Roehampton.
+across the fields of yoga, pilates, physiotherapy, restorative exercise,
+movement therapy, Nutritious Movement, Structural Integration, soft tissue
+therapy and massage. My passion for movement and fascination with the body kept
+driving me to learn, research and explore new approaches and tools across the
+fields of exercise science, physiotherapy and women's health. Digging deeper
+into understanding human movement and mechanisms of injuries, I recently
+completed a MSc in Biomechanics / Sports and Exercise Science with University of
+Roehampton.
 
 And my personal journey towards a more movement-rich lifestyle continues. Over
 the last five years I've thrown out all the supportive insoles from my shoes and
