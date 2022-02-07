@@ -30,12 +30,12 @@ vocabulary.
 
 * MSc in Biomechanics / Sport and Exercise Science from the University of
   Roehampton, London, UK, October 2019 - October 2021 - with distinction
-* CPT-RES Certified Personal Trainer, Restorative Exercise Specialist,
-  Certification with Nutritious Movement Center Northwest, Sequim, WA, USA under
-  Katy Bowman, training completed 2015-2017
+* CPT-RES Certified Personal Trainer - Restorative Exercise Specialist with
+  Nutritious Movement Center Northwest, Sequim, WA, USA, training completed
+  2015-2017
 * Yoga as Therapy TTC from The Yoga Institute Santacruz Mumbai, India, July -
   Nov 2012 - 900 Hours Residential Course
-* Yoga TTC from The Yoga Federation of Serbia, Apr - Dec 2011 - 200 Hours
+* Yoga TTC from The Yoga Federation of Serbia, Apr - Dec 2011 - 260 Hours
 * LLM in International Business Law from Vrije Universiteit Amsterdam, The
   Netherlands 2008-2009
 * LLB (Hons) in International Law from the University of Belgrade, Serbia,
