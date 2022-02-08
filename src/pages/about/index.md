@@ -95,8 +95,8 @@ fragile to follow my pace of life.
 In 2008 I left a career in corporate law with recurrent back and shoulder pain
 and not being able to feel parts of my left foot. I found that yoga was helping
 me, so, geeky and thorough as I was, I went to study yoga. I completed my first
-200 hour yoga teacher training with the Yoga Federation of Serbia, back in my
-home country. In 2012 I continued my yoga studies at the Yoga Institute
+hour yoga teacher training in 2011 with the Yoga Federation of Serbia, back in
+my home country. In 2012 I continued my yoga studies at the Yoga Institute
 Santacruz in Mumbai, India focussing on the therapeutic aspects of yoga. I spent
 three months living and studying full time (900 hours) at the Institute,
 assisting and teaching at health camps and workshops that the Institute
@@ -122,38 +122,33 @@ instead of looking into what had caused it.
 > I wanted to understand why injuries happen and how to avoid them in the first
 > place
 
-Looking for answers I started obsessively researching and learning different
-approaches to movement and bodywork. Questioning, deconstructing and learning
-across the fields of yoga, pilates, physiotherapy, restorative exercise,
-movement therapy, Nutritious Movement, Structural Integration, soft tissue
-therapy and massage. My passion for movement and fascination with the body kept
-driving me to learn, research and explore new approaches and tools across the
-fields of exercise science, physiotherapy and women's health. Digging deeper
-into understanding human movement and mechanisms of injuries, I recently
-completed a MSc in Biomechanics / Sports and Exercise Science with University of
-Roehampton.
+Looking for answers I started researching and learning different modalities of
+therapeutic movement and bodywork, questioning, deconstructing and diving deep
+into the fields of yoga, pilates, restorative exercise, somatics, movement and
+dance therapy, soft tissue therapy and massage. My passion for movement and
+fascination with the body kept driving me to learn new approaches and tools
+across the fields of sport and exercise science, physiotherapy and women's
+health. Digging deeper into understanding human movement and mechanisms of
+injuries, I recently completed a MSc in Biomechanics / Sports and Exercise
+Science with University of Roehampton.
 
 Bit by bit, I have managed to restore my core and get stronger and more
 resilient than in my twenties, but my personal journey into a more movement-rich
-lifestyle continues. Over the last five years I've removed the supportive
-insoles from my shoes and gradually replaced the heeled shoes with wide and
-flexible minimal ones. Our family got rid of most of our furniture and equipped
-our house with a climbing frame and a plenty of unstable surfaces instead. We
-started spending a lot of our time outside, moving in nature. I started looking
-at my environment differently, finding movement opportunities where there were
-none: noticing all the trees for climbing on my walks, walking much more
-barefoot and on varied surfaces, using the children playground time to hang,
-climb and play with them instead of just standing around.
+lifestyle continues.
 
-> Longer I work with movement and the body, more I realise, the progress is
-> defined not by one time achievements, but by general blurring of the border
-> between exercise and life.
+Over the last five years I've removed the supportive insoles from my shoes and
+gradually replaced the heeled shoes with wide and flexible minimal ones. Our
+family got rid of most of our furniture and equipped our house with a climbing
+frame and a plenty of unstable surfaces instead. We started spending a lot of
+our time outside, moving in nature. I started looking at my environment
+differently, finding movement opportunities where there were none: noticing all
+the trees for climbing on my walks, walking much more barefoot and on varied
+surfaces, using the children playground time to hang, climb and play with them
+instead of just standing around.
 
-Exercise is not enough - I realised, we need MOVEMENT to thrive. Our bodies are
-beautifully malleable and adapt to the way we use them. You can create an
-environment that requires you to move more frequently and move more parts of you
-as you go about your everyday life. Each little change creates a thousand
-ripples.
+Longer I work with movement and the body, more I realise, the progress is
+defined not by one time achievements, but by general blurring of the border
+between exercise and life.
 
 ### About Movement Kitchen
 
@@ -167,5 +162,3 @@ I aim to create the homely, intimate atmosphere of the kitchen in my sessions
 too. I work a lot with biomechanics and science of movement but in a relaxed and
 informal way, guided by empathy and intuition. Instead of a lab my working space
 is a kitchen, both literally and metaphorically.
-
-[1]: https://nutritiousmovement.com/
