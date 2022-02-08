@@ -41,8 +41,7 @@ sessions are outside, walking in nature.
 ### Parkour for Mums
 
 This playful outdoor movement workshop explores all the things you can do while
-your children play at the playground to strengthen your body. Hint: it's not
-looking at your phone :)
+your children play at the playground to strengthen your body.
 
 [Register your interest][2] to be notified when the courses start.
 
