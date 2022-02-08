@@ -145,7 +145,7 @@ none: noticing all the trees for climbing on my walks, walking much more
 barefoot and on varied surfaces, using the children playground time to hang,
 climb and play with them instead of just standing around.
 
-> Longer I work with movement and the body, more I realise, the p rogress is
+> Longer I work with movement and the body, more I realise, the progress is
 > defined not by one time achievements, but by general blurring of the border
 > between exercise and life.
 
