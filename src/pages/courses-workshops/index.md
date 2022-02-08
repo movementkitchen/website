@@ -2,7 +2,7 @@
 title: Courses and workshops
 ---
 
-### Whole Body Core Strength 8-Week Course
+### Whole Woman Core Strength 8-Week Course
 
 * Do you have persistent back pain, back spasms or sciatica that affect your
   quality of life?

@@ -1,8 +1,8 @@
 ---
-title: Whole Body Core Strength 8-Week Course
+title: Whole Woman Core Strength 8-Week Course
 ---
 
-### Whole Woman Core Strength 8-Week In-person Course + Online Resources
+### Whole Woman Core Strength 8-Week Course
 
 This course brings together everything I've learnt through my professional and
 personal journey of healing a severe abdominal separation and restoring a
