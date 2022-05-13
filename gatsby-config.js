@@ -36,7 +36,7 @@ module.exports = {
       //   hero: '/images/beach_ride.jpg',
       // },
       {
-        uri: 'https://medium.com/@zzuuu',
+        uri: '/blog/',
         label: 'Blog',
       },
     ],
@@ -49,13 +49,13 @@ module.exports = {
         name: 'pages',
       },
     },
-    // {
-    //   resolve: `gatsby-source-filesystem`,
-    //   options: {
-    //     path: `${__dirname}/data`,
-    //     name: `data`,
-    //   },
-    // },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/blog`,
+        name: `blog`,
+      },
+    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {

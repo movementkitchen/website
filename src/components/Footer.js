@@ -52,7 +52,7 @@ class Footer extends React.Component {
             ivana@movementkitchen.co.uk
           </a>
           {' | '}
-          🗺&nbsp;<a href="https://www.google.co.uk/maps/place/Movement+Kitchen/@51.5729593,-0.0756381,15z/data=!4m5!3m4!1s0x0:0x63290ee9190cbacb!8m2!3d51.57656!4d-0.061476">
+          🗺&nbsp;<a href="https://www.google.co.uk/maps/place/Movement+Kitchen/@51.5669652,-0.0379511,16.21z/data=!4m5!3m4!1s0x48761c47a16c9833:0x63290ee9190cbacb!8m2!3d51.5670449!4d-0.0347802">
             Find us on Google Maps
           </a>
           {' | '}

@@ -6,3 +6,4 @@ public
 .cache/
 data
 .dccache
+.vscode

@@ -10,37 +10,71 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       graphql(
         `
           {
-            allMarkdownRemark(limit: 1000) {
+            allBlogPosts: allMarkdownRemark(
+              filter: { fileAbsolutePath: { regex: "/blog/" } }
+            ) {
               edges {
                 node {
+                  frontmatter {
+                    title
+                    template
+                  }
                   fields {
                     slug
                   }
+                }
+              }
+            }
+            allPages: allMarkdownRemark(
+              filter: { fileAbsolutePath: { regex: "/pages/" } }
+            ) {
+              edges {
+                node {
                   frontmatter {
+                    title
                     template
+                  }
+                  fields {
+                    slug
                   }
                 }
               }
             }
           }
         `
-      ).then(result => {
+      ).then((result) => {
         if (result.errors) {
           console.log(result.errors);
           reject(result.errors);
         }
 
         // Create pages.
-        result.data.allMarkdownRemark.edges.forEach(edge => {
+        result.data.allPages.edges.forEach(({ node }) => {
           createPage({
-            path: edge.node.fields.slug,
+            path: node.fields.slug,
             component: path.resolve(
-              edge.node.frontmatter.template
-                ? `./src/templates/${edge.node.frontmatter.template}.js`
+              node.frontmatter.template
+                ? `./src/templates/${node.frontmatter.template}.js`
                 : './src/templates/page.js'
             ),
             context: {
-              slug: edge.node.fields.slug,
+              slug: node.fields.slug,
+            },
+          });
+        });
+
+        // Create blog posts.
+        result.data.allBlogPosts.edges.forEach(({ node }) => {
+          createPage({
+            path: '/blog' + node.fields.slug,
+            component: path.resolve(
+              node.frontmatter.template
+                ? `./src/templates/${node.frontmatter.template}.js`
+                : './src/templates/blog-post.js'
+            ),
+            context: {
+              slug: node.fields.slug,
+              postPath: node.fields.slug,
             },
           });
         });

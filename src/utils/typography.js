@@ -30,6 +30,11 @@ const theme = {
       'a:hover': {
         color: options.brandColorPrimaryRed,
       },
+      figcaption: {
+        ...scale(-1 / 5),
+        marginBottom: rhythm(1),
+        textAlign: 'center',
+      },
       blockquote: {
         ...scale(0.3),
         lineHeight: 1.4,
@@ -42,6 +47,9 @@ const theme = {
       'h1:not(:first-child),h2:not(:first-child),h3:not(:first-child),h4:not(:first-child),h5:not(:first-child),h6:not(:first-child)': {
         marginTop: rhythm(1.75),
         marginBottom: rhythm(1),
+      },
+      h2: {
+        ...scale(0.35),
       },
       h4: {
         ...scale(0.25),

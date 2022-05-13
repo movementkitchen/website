@@ -38,7 +38,7 @@ export default class Testimonials extends React.Component {
       <div>
         <h3>Testimonials</h3>
         <TestimonialsList>
-          {this.props.testimonials.map(testimonial => (
+          {this.props.testimonials.map((testimonial) => (
             <Testimonial key={testimonial.url}>
               <TestimonialAvatar src={testimonial.avatar} />
               <TestimonialName>{testimonial.name}</TestimonialName>

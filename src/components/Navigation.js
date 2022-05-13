@@ -61,7 +61,7 @@ const Nav = styled.nav`
   display: flex;
 
   ${DEFAULT_MEDIA_QUERY} {
-    display: ${props => (props.menuOpen ? 'block' : 'none')};
+    display: ${(props) => (props.menuOpen ? 'block' : 'none')};
     bottom: 0;
   }
 `;
@@ -128,9 +128,10 @@ class Navigation extends React.Component {
 
   render() {
     const { navItems } = this.props;
-    const currentNavItem = navItems.find(el => {
+    const currentNavItem = navItems.find((el) => {
       return el.uri === this.props.location.pathname;
     });
+    const isBlog = /\/blog\//.test(this.props.location.pathname);
     const heroImage =
       currentNavItem && currentNavItem.hero
         ? currentNavItem.hero
@@ -143,7 +144,7 @@ class Navigation extends React.Component {
         </LogoButton>
         <Nav menuOpen={this.state.menuOpen}>
           <NavList>
-            {navItems.map(navItem => (
+            {navItems.map((navItem) => (
               <NavItem key={navItem.uri}>
                 {navItem.uri.indexOf('http') === 0 ? (
                   <HeadingStyleExternalLink href={navItem.uri}>
@@ -170,7 +171,7 @@ class Navigation extends React.Component {
             ))}
           </NavList>
         </Nav>
-        <Hero imageURI={heroImage} />
+        {!isBlog && <Hero imageURI={heroImage} />}
         <MenuToggleButton onClick={this.toggleMenuBound}>
           {menuSVG}
         </MenuToggleButton>
