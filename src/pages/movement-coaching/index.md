@@ -30,9 +30,9 @@ Each package includes:
 - Homework/practice recommendations
 - WhatsApp or email questions and catch-ups.
 
-You can reschedule your sessions up to 24 hours beforehand. In case of
-missed/unused sessions, the package expires four weeks after the date of the
-last session attended.
+You can reschedule your sessions up to 24 hours beforehand. In case of missed or
+unused sessions, the package expires four weeks after the date of the last
+session attended.
 
 The continuity of practice is the key as neuromuscular retraining is a process.
 The most important part of creating a change is between our sessions.
