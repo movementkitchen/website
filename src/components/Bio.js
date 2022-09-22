@@ -22,15 +22,14 @@ class Bio extends React.Component {
       <BioContainer>
         <p>
           <ProfileImage src={profilePic} alt={`Ivana Miletic Demmel`} />
-          Hi, I’m Ivana, a human movement scientist, movement coach, mover,
-          maker and a mum. I'm passionate about helping people break out of
-          patterns of recurrent injuries and get stronger and more confident in
-          their bodies. Over the years, I've developed a particular interest in
-          women's neuromusculoskeletal health – supporting women through
+          Hi, I’m Ivana, an exercise scientist, movement coach, writer, mum,
+          maker and mover. I'm passionate about helping people break out of
+          recurrent injuries and get stronger and more confident in their
+          bodies. Over the last 11 years, I've developed a particular interest
+          in women's neuromusculoskeletal health – supporting women through
           pregnancy, postnatal period, perimenopause and menopause. When I'm not
-          researching, writing or teaching movement, you can usually find me
-          drawing in tall grass, singing on the bicycle or making up stories for
-          6- and 8-year-olds.
+          researching or teaching movement, you can find me singing on the
+          bicycle or making up stories for 7- and 9-year-olds.
         </p>
       </BioContainer>
     );
