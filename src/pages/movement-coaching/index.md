@@ -4,30 +4,28 @@ title: Movement coaching
 
 ### Book Movement Coaching
 
-Movement coaching is offered as face-to-face sessions in our East London studio
-and online – on Zoom or Skype.
-
 To book email [ivana@movementkitchen.co.uk](ivana@movementkitchen.co.uk) or
-WhatsApp me on 07935348233
+WhatsApp me on 07935348233.
 
-We start with an initial session (price: £100) that includes a qualitative
-movement screening and creating an action plan for your custom-made coaching
-package.
+Movement coaching is offered as face-to-face sessions in our East London studio
+and on Zoom. We will work together over a period of 6-12 weeks, so there is
+enough time to learn new motor skills and allow them to become a natural part of
+how you move – in both exercise and daily life.
 
-We will work together over a period of 5-10 weeks, so there is enough time to
-learn new motor skills and allow them to become a natural part of how you move –
-on and off the mat.
+If we've never worked together, we'll start with an initial face-to-face session
+(duration: 75 min, price: £100) that includes a qualitative movement assessment
+and creating an action plan for your custom-made coaching package.
 
-You can choose between two movement coaching packages:
+After this, depending on your time and commitment, you can choose between:
 
-- Basic (5-week coaching) - price: £400
-- Full (10-week coaching) - price: £700
+- Basic coaching package (6 sessions) - price: £400
+- Full coaching package (12 sessions) - price: £720.
 
-Each coaching package includes:
+Each package includes:
 
-- Weekly 1-hour one-to-one sessions
+- Weekly 60 min one-to-one sessions
 - Session recordings
-- At-home-practice recommendations
+- Homework/practice recommendations
 - WhatsApp/email questions and catch-ups.
 
 You can reschedule your sessions up to 24 hours beforehand. In case of
