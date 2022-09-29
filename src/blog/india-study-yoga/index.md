@@ -19,7 +19,7 @@ Please don’t take me wrong, that is a completely viable reason to do a yoga te
 
 Being able to earn more money from teaching yoga is also fine. If that is your aim, that is completely understandable. But do you really need to go to India for that? Maybe you can do it a whole lot cheaper somewhere in Europe? At least the flight wouldn’t be that expensive.
 
-![Laundy lines](laundry.jpeg)
+![Laundry lines](laundry.jpeg)
 
 > For me personally, the highest value of studying yoga in India was being pushed out of my comfort zone and getting a chance to take a look at my whole value system afresh.
 
