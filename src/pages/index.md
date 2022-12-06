@@ -29,10 +29,10 @@ testimonials:
 ---
 
 Do you have an injury that keeps coming back? You try exercising at the gym,
-practising yoga, Pilates or running but keep getting hurt? Do you have back pain
+running, practising yoga or Pilates but keep getting hurt? Do you have back pain
 every time you lift or carry your child or grandchild? Or maybe you feel that
-things never quite got back to normal after having a baby? You might have tried
-various approaches with mixed results but the pain keeps returning.
+things never quite got back to normal post-baby? You might have tried various
+approaches with mixed results but the pain keeps returning.
 
 Are you a curious mind, interested in understanding why you get injured and
 determined to step by step reclaim a strong body and an active lifestyle,
@@ -42,7 +42,7 @@ Precision rehab personal training could be the very thing you are looking for.
 
 Our unique, evidence-based approach bridges the gap between physiotherapy and
 strength and conditioning. Using an elite athlete coaching approach, we will
-figure out:
+figure out together:
 
 1. What is the problem?
 2. Why did it happen?
