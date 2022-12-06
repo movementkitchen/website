@@ -4,16 +4,15 @@ title: About
 
 ### About
 
-My name is Ivana. I’m a sport and exercise scientist with a MSc in Biomechanics
-and a special interest in mechanisms of injuries, ageing and women’s health. I
-have more than a decade of experience working with movement and rehabilitation
-and have published [research on ageing master endurance athletes]
-[https://commons.nmu.edu/isbs/vol40/iss1/36/]. Learning from the best across
-various movement and bodywork modalities, my training included 1000+ hours of
-yoga and yoga therapy education, restorative/corrective exercise, Pilates,
-pregnancy and postnatal fitness, physiotherapy, somatics and massage. I’m
-passionate about using the learning from elite athletes to improve quality of
-life of everyday people, especially mums.
+Hi there! I’m Ivana, a sports and exercise scientist with a Master's degree in
+Biomechanics and a special interest in mechanisms of injuries, ageing, and
+women's health. I have over a decade of experience working with movement and
+rehabilitation and have [published research on ageing master endurance athletes]
+[https://commons.nmu.edu/isbs/vol40/iss1/36/]. I’m passionate about using the
+learning from elite athletes to improve quality of life of everyday people,
+especially new and not so new mums. When I don't research or coach, you can
+usually find me singing on the bicycle or drawing in Walthamstow Marshes with my
+7- and 9-year olds.
 
 ### My Qualifications
 
@@ -50,10 +49,10 @@ Other Relevant Training:
 - Move Your DNA: Going Beyond The Points with Katy Bowman, Online Course, Oct
   2017 - 8 Hours
 - Advanced Biomechanics with Katy Bowman, online course - 27 hours, Aug-Oct 2017
-- Shoulders and Neck Yoga and Franklin Method workshop with Mollie McClelland
-  Morris, London, UK, July 2017 - 3 Hours
-- RES Certification Week with Katy Bowman, Castricum, The Netherlands, July
-  2017 - 48 Hours
+- Franklin Method Shoulders and Neck Workshop with Mollie McClelland Morris,
+  London, UK, July 2017 - 3 Hours
+- Restorative Exercise Specialist Certification Week with Katy Bowman,
+  Castricum, The Netherlands, July 2017 - 48 Hours
 - Move Your DNA Weekend with Hilary McKown, Milan, June 2017 - 16 Hours
 - Balinese Massage Course with Rahasia Nyaman - Ubud, Bali, Apr 2017 - 30 Hours
 - 6 Weeks Mindfulness Online Course with the University of Leiden (equivalent of
@@ -68,9 +67,9 @@ Other Relevant Training:
   UK, June 2015 - 10 Hours
 - Yoga Therapy: Practical Philosophy Of Healing with Mark Beuvain, Yogacampus,
   London, UK, Jan 2015 - 12 Hours
-- Firing Order In Sequencing, And Resetting The Body’s Internal GPS with Doug
+- Firing Order In Sequencing and Resetting The Body’s Internal GPS with Doug
   Keller, Yogacampus, London, UK, Oct 2014 - 32 Hours
-- Assisting and Adjusting Workshop with Emma Henry, London, UK, July 2014 - 3
-  Hours
+- Assisting and Adjusting yoga workshop with Emma Henry, London, UK, July 2014 -
+  3 Hours
 - Buggy Fit and Postnatal Exercise with GLL Better, London, UK, July 2014 - 4
   Hours
