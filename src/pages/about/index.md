@@ -4,14 +4,7 @@ title: About
 
 ### About
 
-Hi there! I’m Ivana, a sports and exercise scientist with a Master's degree in
-Biomechanics and a special interest in mechanisms of injuries, ageing, and
-women's health. I have over a decade of experience working with movement and
-rehabilitation and have [published research on ageing master endurance athletes](https://commons.nmu.edu/isbs/vol40/iss1/36/). I’m passionate about using the
-learning from elite athletes to improve quality of life of everyday people,
-especially new and not so new mums. When I don't research or coach, you can
-usually find me singing on the bicycle or drawing in Walthamstow Marshes with my
-7- and 9-year olds.
+Hi there! I’m Ivana, a sports and exercise scientist with a Master's degree in Biomechanics and over a decade of experience working with movement and rehabilitation. I have a special interest in mechanisms of injuries, ageing, and women's health and have published [research on ageing master endurance athletes](https://commons.nmu.edu/isbs/vol40/iss1/36/). I’m passionate about using the learning from elite athletes to improve quality of life of everyday people, especially mums. When I don't research or coach, you can usually find me singing on the bicycle or drawing in Walthamstow Marshes with my 7- and 9-year olds. 
 
 ### My Qualifications
 

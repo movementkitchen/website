@@ -2,30 +2,21 @@
 title: Home
 template: home
 testimonials:
-  - url: https://goo.gl/maps/D56zydaNCKJ2
+  - url: https://goo.gl/maps/bpiLkt6YPvfWMVnH9
     text:
-      Working with Ivana has really helped me to get more in touch with my body.
-      She is lovely to work with - very gentle, understanding and supportive. I
-      now have much more ingrained understanding about how my body is
-      functioning.
-    name: Kate
-    avatar: /images/kate.jpg
-  - url: https://goo.gl/maps/fAyJetHc9XQ2
+      After five sessions with Ivana I am moving better and breathing better. I feel better! I can feel my body's limits and its tensions. This means when I take a yoga or pilates class I know how to avoid pushing my body too far towards injury and strain. I have a deeper understanding of and respect for my body.
+    name: Isabelle de Grave 
+    avatar: /images/isabelle.jpg
+  - url: https://goo.gl/maps/qxn1Br6ySvTWnmCQA
     text:
-      For someone who hasn't done yoga or movement workshops before I found
-      working with Ivana really useful - she was great at explaining what the
-      each exercise was about. I learnt a lot and am looking forward to fixing
-      my body.
-    name: Masood
-    avatar: /images/masood.jpg
-  - url: https://www.facebook.com/galia.galabova/posts/10215484660055335:0
+     Ivana has been so helpful in the process of regaining strength in the muscles my brain had forgotten and abandoned through years of habitual movements, and releasing those which were overworked. I am now much more aware of my body, the position and movement of my pelvis, and how much difference a small adjustment can make to how I feel. 
+    name: Annika McSeveny
+    avatar: /images/annika.jpg
+  - url: https://goo.gl/maps/DLPoxjGhD2qiwhneA
     text:
-      Ivana was really supportive as I went to her studio with my newborn and
-      she not only helped me to better understand how to recover my diastasis,
-      but even managed to calm and put my baby to sleep while explaining and
-      training me.
-    name: Galina
-    avatar: /images/galina.jpg
+      Through challenging but accessible and well explained exercises I was able to understand different mechanics and healing in a new way. As much as a physical practice our time together was also incredibly educational and I have multiple take-aways I can apply in my life as I move forward. 
+    name: Solene Fabios
+    avatar: /images/Solene.jpg
 ---
 
 Do you have an injury that keeps coming back? You try exercising at the gym,
@@ -36,9 +27,7 @@ approaches with mixed results but the pain keeps returning.
 
 Are you a curious mind, interested in understanding why you get injured and
 determined to step by step reclaim a strong body and an active lifestyle,
-whatever that might mean for you?
-
-Precision rehab personal training could be the very thing you are looking for.
+whatever that might mean for you? Precision rehab personal training could be the very thing you are looking for.
 
 Our unique, evidence-based approach bridges the gap between physiotherapy and
 strength and conditioning. Using an elite athlete coaching approach, we will
@@ -49,3 +38,5 @@ figure out together:
 3. What is the recovery strategy?
 4. What is the timeline of recovery and return to your chosen physical activity
    (running, weight training, dance, gardening, carrying your children)?
+
+Email me at ivana@movementkitchen.co.uk to book your free 10-min telephone/Zoom consultation.
