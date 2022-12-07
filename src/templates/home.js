@@ -38,7 +38,8 @@ class Home extends React.Component {
             height: '50vh',
             marginBottom: rhythm(2),
           }}
-          src="https://maps.google.com/maps?q=movement%20kitchen&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=&amp;output=embed"
+          loading="lazy"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9087.014566459668!2d-0.03998082621051141!3d51.564043040424174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761c47a16c9833%3A0x63290ee9190cbacb!2sMovement%20Kitchen!5e0!3m2!1sen!2sus!4v1670433805610!5m2!1sen!2sus"
           frameBorder="0"
         />
         <Testimonials testimonials={testimonials} />
