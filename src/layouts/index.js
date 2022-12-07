@@ -6,7 +6,7 @@ import Footer from '../components/Footer';
 
 class Template extends React.Component {
   render() {
-    const { location, children, data } = this.props;
+    const { children, data } = this.props;
 
     return (
       <div>

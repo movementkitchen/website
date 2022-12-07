@@ -73,7 +73,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                 : './src/templates/blog-post.js'
             ),
             context: {
-              slug: node.fields.slug,
+              slug: '/blog' + node.fields.slug,
               postPath: node.fields.slug,
             },
           });

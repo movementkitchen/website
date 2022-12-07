@@ -19,7 +19,7 @@ class Home extends React.Component {
       this,
       'props.data.markdownRemark.frontmatter.testimonials'
     );
-
+    
     return (
       <div
         style={{

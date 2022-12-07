@@ -2,21 +2,18 @@
 title: Home
 template: home
 testimonials:
-  - url: https://goo.gl/maps/bpiLkt6YPvfWMVnH9
-    text:
-      After five sessions with Ivana I am moving better and breathing better. I feel better! I can feel my body's limits and its tensions. This means when I take a yoga or pilates class I know how to avoid pushing my body too far towards injury and strain. I have a deeper understanding of and respect for my body.
-    name: Isabelle de Grave 
-    avatar: /images/isabelle.jpg
-  - url: https://goo.gl/maps/qxn1Br6ySvTWnmCQA
-    text:
-      Ivana has been so helpful in the process of regaining strength in the muscles my brain had forgotten and abandoned through years of habitual movements, and releasing those which were overworked. I am now much more aware of my body, the position and movement of my pelvis, and how much difference a small adjustment can make to how I feel. 
-    name: Annika McSeveny
-    avatar: /images/annika.jpg
-  - url: https://goo.gl/maps/DLPoxjGhD2qiwhneA
-    text:
-      Through challenging but accessible and well explained exercises I was able to understand different mechanics and healing in a new way. As much as a physical practice our time together was also incredibly educational and I have multiple take-aways I can apply in my life as I move forward. 
-    name: Solene Fabios
-    avatar: /images/Solene.jpg
+- url: https://goo.gl/maps/bpiLkt6YPvfWMVnH9
+  text: After five sessions with Ivana I am moving better and breathing better. I feel better! I can feel my body's limits and its tensions. This means when I take a yoga or pilates class I know how to avoid pushing my body too far towards injury and strain. I have a deeper understanding of and respect for my body.
+  name: Isabelle de Grave 
+  avatar: /images/isabelle.jpeg
+- url: https://goo.gl/maps/qxn1Br6ySvTWnmCQA
+  text: Ivana has been so helpful in the process of regaining strength in the muscles my brain had forgotten and abandoned through years of habitual movements, and releasing those which were overworked. I am now much more aware of my body, the position and movement of my pelvis, and how much difference a small adjustment can make to how I feel. 
+  name: Annika McSeveny
+  avatar: /images/annika.jpg
+- url: https://goo.gl/maps/DLPoxjGhD2qiwhneA
+  text: Through challenging but accessible and well explained exercises I was able to understand different mechanics and healing in a new way. As much as a physical practice our time together was also incredibly educational and I have multiple take-aways I can apply in my life as I move forward. 
+  name: Solene Fabios
+  avatar: /images/Solene.jpg
 ---
 
 Do you have an injury that keeps coming back? You try exercising at the gym,
