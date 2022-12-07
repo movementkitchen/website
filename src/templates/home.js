@@ -30,7 +30,7 @@ class Home extends React.Component {
       >
         <Helmet title={`${siteTitle} – ${pageTitle}`} />
         <div dangerouslySetInnerHTML={{ __html: pageContent }} />
-        <Bio />
+        {/* <Bio /> */}
         {/* <Instagram posts={posts} /> */}
         <iframe
           style={{

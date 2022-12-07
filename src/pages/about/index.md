@@ -7,8 +7,7 @@ title: About
 Hi there! I’m Ivana, a sports and exercise scientist with a Master's degree in
 Biomechanics and a special interest in mechanisms of injuries, ageing, and
 women's health. I have over a decade of experience working with movement and
-rehabilitation and have [published research on ageing master endurance athletes]
-[https://commons.nmu.edu/isbs/vol40/iss1/36/]. I’m passionate about using the
+rehabilitation and have [published research on ageing master endurance athletes](https://commons.nmu.edu/isbs/vol40/iss1/36/). I’m passionate about using the
 learning from elite athletes to improve quality of life of everyday people,
 especially new and not so new mums. When I don't research or coach, you can
 usually find me singing on the bicycle or drawing in Walthamstow Marshes with my
@@ -29,8 +28,9 @@ usually find me singing on the bicycle or drawing in Walthamstow Marshes with my
 - LLB (Hons) in International Law from the University of Belgrade, Serbia,
   2000-2005
 
-Other Relevant Training:
+Other Training:
 
+- Pelvis Pro Miniseries online course with Dr Sarah Duvall, November 2022
 - Move Your DNA + Fundamentals of Natural Movement Intensive with Katy Bowman,
   Cambridge, UK, Aug 2019 - 8 Hours
 - Boomerang Pilates, MoveSMART Weekend of workshops with Alison Crouch: Hips,
