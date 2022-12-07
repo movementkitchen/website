@@ -22,7 +22,7 @@ const Testimonial = styled.li`
 `;
 
 const TestimonialAvatar = styled.img`
-  max-width: 120px;
+  width: 120px;
   clip-path: circle(60px at center);
   margin: 0 auto;
   display: block;

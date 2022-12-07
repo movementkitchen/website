@@ -10,8 +10,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       graphql(
         `
           {
-            allBlogPosts: allMarkdownRemark(
-              filter: { fileAbsolutePath: { regex: "/blog/" } }
+            allPages: allMarkdownRemark(
+              filter: { fileAbsolutePath: { regex: "/pages/" } }
             ) {
               edges {
                 node {
@@ -25,8 +25,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                 }
               }
             }
-            allPages: allMarkdownRemark(
-              filter: { fileAbsolutePath: { regex: "/pages/" } }
+            allBlogPosts: allMarkdownRemark(
+              filter: { fileAbsolutePath: { regex: "/blog/" } }
             ) {
               edges {
                 node {
@@ -92,6 +92,11 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
       name: `slug`,
       node,
       value,
+    });
+    createNodeField({
+      name: `type`,
+      node,
+      value: node.fileAbsolutePath.includes("blog") ? "blog" : "page",
     });
   }
 };

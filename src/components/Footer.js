@@ -64,7 +64,7 @@ class Footer extends React.Component {
             Open source on Github
           </a>
           {' | '}
-          <a href="https://www.netlify.com/">Hosted by Netlify</a>
+          <a href="https://pages.github.com">Hosted by Github Pages</a>
         </small>
       </Wrapper>
     );

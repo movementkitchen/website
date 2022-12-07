@@ -32,6 +32,7 @@ class Home extends React.Component {
         <div dangerouslySetInnerHTML={{ __html: pageContent }} />
         {/* <Bio /> */}
         {/* <Instagram posts={posts} /> */}
+        <h3>Where to find us</h3>
         <iframe
           style={{
             width: '100%',
@@ -52,7 +53,7 @@ export default Home;
 
 export const pageQuery = graphql`
   query IndexQuery($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+    markdownRemark(fields: { slug: { eq: $slug }, type: { eq: "page"} }) {
       html
       frontmatter {
         title
