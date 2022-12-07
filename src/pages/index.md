@@ -9,7 +9,7 @@ testimonials:
     avatar: /images/isabelle.jpg
   - url: https://goo.gl/maps/qxn1Br6ySvTWnmCQA
     text:
-     Ivana has been so helpful in the process of regaining strength in the muscles my brain had forgotten and abandoned through years of habitual movements, and releasing those which were overworked. I am now much more aware of my body, the position and movement of my pelvis, and how much difference a small adjustment can make to how I feel. 
+      Ivana has been so helpful in the process of regaining strength in the muscles my brain had forgotten and abandoned through years of habitual movements, and releasing those which were overworked. I am now much more aware of my body, the position and movement of my pelvis, and how much difference a small adjustment can make to how I feel. 
     name: Annika McSeveny
     avatar: /images/annika.jpg
   - url: https://goo.gl/maps/DLPoxjGhD2qiwhneA
