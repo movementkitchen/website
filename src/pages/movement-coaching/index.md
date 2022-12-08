@@ -2,8 +2,6 @@
 title: Movement coaching
 ---
 
-### What is Precision Rehab Movement Coaching?
-
 In professional sports, each injured athlete receives a personalised support with an aim of returning to play quickly and fully recovered. So the rehab needs to be smart, focused and effective - setting clear milestones and reaching them one by one until the final goal. 
 
 But what if we apply this model to let's say postnatal recovery? Or after having thrown out your back gardening? So, instead of going for a massage or one-off session at the physio you would go through a solid rehab plan where we will work out:
