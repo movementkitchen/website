@@ -38,56 +38,27 @@ figure out together:
 
 Email me at ivana@movementkitchen.co.uk to book your free 10-min telephone/Zoom consultation.
 
-### Featured videos
+### Featured Videos
 
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QxKWMU4C6Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This is a great place to start strengthening your abdominal muscles after pregnancy and childbirth or abdominal surgery. You can try this sequence as soon as you get a green light from your doctor. We need to make sure the lower segments of the abdominal muscles are responding to breathing before adding the leg movements. Make sure you can maintain an easy, flowing breath as you move through the sequence. You might want to practise only the exercises with the pelvis on the ground at first, and once they feel easy, you can progress to keeping the pelvis slightly above the ground.
+This is a great place to start strengthening your abdominal muscles after pregnancy and childbirth or abdominal surgery[......](https://www.youtube.com/watch?v=QxKWMU4C6Y4)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yTU6doX7bmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Can you have a strong upper body workout with a weakened core?[......](https://www.youtube.com/watch?v=yTU6doX7bmU) 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A0oJMoF9PHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A 19-min exercise class using feet and hands to dynamically challenge your core  
-Props: 2 yoga blocks + a strap
+Props: 2 yoga blocks + a strap[......](https://www.youtube.com/watch?v=A0oJMoF9PHM)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HZQ_RGZsBFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This is my favourite little pick-me-up sequence lately, integrating hand, arm and calf exercises in this short but punchy whole-body workout.
+This is my favourite little pick-me-up sequence lately, integrating hand, arm and calf exercises in this short but punchy whole-body workout[......](https://www.youtube.com/watch?v=HZQ_RGZsBFo)
 
-I find that my clients often skip calf exercises. So now we try and sneak them into larger movements. The same thing with hand exercises, hardly anyone will find the time to do them in isolation.
 
-For an extra calf (soleus muscle) challenge, add a series of dynamic bent knees calf raises/heel drops into each version of the squats.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yTU6doX7bmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Can you have a strong upper body workout with a weakened core?
-
-Yes, you can. As long as you make sure that:
-
-1. Your/your client's intraabdominal pressure is in check
-2. Their abdominal muscles are able to switch on across all layers and
-3. They use arms without straining the midsection.
-
-Diastasis recti is technically a repetitive strain injury, as it is linked to certain movement and breathing patterns that strain the tendinous tissue running across the front of the abdomen, which then keeps getting reinjured and takes a while to heal.
-
-The only way to rebuild a tendinous tissue is to load it. But you want to make sure that the 3 checkboxes above are always ticked. This means, increasing weight/intensity very gradually.
-
-Here is a short upper body sequence I've recorded for a client of mine, a mum healing from diastasis recti who is just starting to work with small weights.
-
-We used the stick exercises as a buildup towards the biceps and triceps weights exercises, challenging the stabilising muscles of the upper torso to work both eccentrically and concentrically before adding the extra weight.
-
-Variations:
-
-1. Pulling the stick apart
-2. Compressing the stick (pulling the sides to the middle).
-
-Some useful hints:
-
-* Strong feet, pressing into the ground.
-* Easy flowing breath throughout the movement. We also used a humming sound at exhalation, to help her engage transverse abdominals organically.
-* Hold the stick in front of you with the elbows pointing down - externally rotated arms.
-* The arms move only as far up as it is possible without the rib flare or the shoulder girdle lifting up.
-* As the arms bend, the elbows point forward and press towards each other (I find it helpful to imagine holding a beach ball in between the elbows) - to avoid internal rotation of the humerus and stabilise the elbow in all three planes.
 
 <!-- markdownlint-restore -->
