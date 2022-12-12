@@ -7,6 +7,7 @@ import Helmet from 'react-helmet';
 import Bio from '../components/Bio';
 import Instagram from '../components/Instagram';
 import Testimonials from '../components/Testimonials';
+import Head from '../components/Head';
 import { rhythm } from '../utils/typography';
 
 class Home extends React.Component {
@@ -19,7 +20,7 @@ class Home extends React.Component {
       this,
       'props.data.markdownRemark.frontmatter.testimonials'
     );
-    
+
     return (
       <div
         style={{
@@ -28,7 +29,8 @@ class Home extends React.Component {
           margin: '0 auto',
         }}
       >
-        <Helmet title={`${siteTitle} – ${pageTitle}`} />
+        {/* <Helmet title={`${siteTitle} – ${pageTitle}`} /> */}
+        <Head />
         <div dangerouslySetInnerHTML={{ __html: pageContent }} />
         {/* <Bio /> */}
         {/* <Instagram posts={posts} /> */}
@@ -53,7 +55,7 @@ export default Home;
 
 export const pageQuery = graphql`
   query IndexQuery($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug }, type: { eq: "page"} }) {
+    markdownRemark(fields: { slug: { eq: $slug }, type: { eq: "page" } }) {
       html
       frontmatter {
         title
