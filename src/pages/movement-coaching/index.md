@@ -50,8 +50,12 @@ Each coaching package includes:
 - Exercise recordings
 - WhatsApp questions and catch-ups.
 
-You can choose between face-to-face sessions in our East London studio, online coaching on Zoom/Skype or the physical-online combination.
+You can choose between in-person sessions in our East London studio, online sessions or the physical-online combination.
 
-Please note that 5-week packages need to be used within 8 weeks and 10-week packages within 15 weeks. After this, any unused sessions expire and can not be refunded. Expired sessions can be activated by puchasing another package.
+With online sessions you can log in on two devices, so we can have a view from two different angles. You also get the bonus of full session recordings for you to keep.
+
+Please note that 5-week packages need to be used within 8 weeks and 10-week packages within 16 weeks.
+
+After this, any unused sessions expire and can not be refunded. Expired sessions can be activated by puchasing another package.
 
 You can reschedule your sessions up to 24 hours beforehand.
