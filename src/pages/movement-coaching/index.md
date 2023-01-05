@@ -2,19 +2,12 @@
 title: Movement coaching
 ---
 
-In professional sports, each injured athlete receives a personalised support with an aim of returning to play quickly and fully recovered. So the rehab needs to be smart, focused and effective - setting clear milestones and reaching them one by one until the final goal. 
+In professional sports, each injured athlete receives a personalised support with an aim of returning to play quickly yet recovered. So the rehab needs to be smart, focused and effective - setting clear milestones and timeline of the return to sport. But what if we apply this model to, let's say, postnatal recovery? Or after having thrown out your back gardening? So, instead of going for a massage or one-off session at the physio you would go through a progressive rehab plan. 
 
-But what if we apply this model to, let's say, postnatal recovery? Or after having thrown out your back gardening? So, instead of going for a massage or one-off session at the physio you would go through a solid rehab plan where we will work out:
-
-1. What is going on?
-2. What was the mechanism of injury (and how to avoid it happening again)?
-3. What is a realistic recovery strategy?
-4. What is the timeline of your recovery and the milestones?
-
-Step by step, with consistency and persistence you can reach your dream outcome - which might be jumping on a trampoline without leaking, running a marathon after the baby, going skiing, surfing or whatever matters to you. My task is to break this goal into smaller achievable ones.
+We will work together to understand the mechanism of your injury and create a realistic recovery strategy and a timeline of your return to the activities you love. Step by step, with consistency of practice, you can go back to jumping on a trampoline without leaking, running a marathon after the baby, going on a ski holiday, surfing or whatever matters to you. My task is to break this goal into smaller achievable ones.
 
 
-To book your free 10-min telephone consultation email [ivana@movementkitchen.co.uk](ivana@movementkitchen.co.uk) or WhatsApp me on 07935348233. 
+To book your free 15-min telephone consultation email [ivana@movementkitchen.co.uk](ivana@movementkitchen.co.uk) or WhatsApp me on 07935348233. 
 
 ![Squat](/images/squat.jpg)
 

@@ -36,7 +36,7 @@ figure out together:
 4. What is the timeline of recovery and return to your chosen physical activity
    (running, weight training, dance, gardening, carrying your children)?
 
-Email me at ivana@movementkitchen.co.uk to book your free 10-min telephone/Zoom consultation.
+Email me at ivana@movementkitchen.co.uk to book your free 15-min telephone/Zoom consultation.
 
 ### Featured Videos
 
