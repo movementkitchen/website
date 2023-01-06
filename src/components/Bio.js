@@ -22,7 +22,7 @@ class Bio extends React.Component {
       <BioContainer>
         <p>
           <ProfileImage src={profilePic} alt={`Ivana Miletic Demmel`} />
-          Hi there! I’m Ivana, a sports and exercise scientist with a Master's degree in Biomechanics and a special interest in mechanisms of injuries, aging, and women's health. I have over a decade of experience working with movement and rehabilitation and have published research on aging master endurance athletes. I’m passionate about using the learning from elite athletes to improve quality of life of everyday people, especially mums.
+          Hi there! I’m Ivana, a sports and exercise scientist with a Master's degree in Biomechanics and a special interest in mechanisms of injuries, ageing, and women's health. I have over a decade of experience working with movement and rehabilitation and have published research on ageing in elite endurance runners. I’m passionate about using my learning from elite athletes to improve quality of life of everyday mums.
         </p>
       </BioContainer>
     );
