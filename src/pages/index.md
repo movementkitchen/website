@@ -24,7 +24,7 @@ approaches with mixed results but the pain keeps returning.
 
 Are you a curious mind, interested in understanding why you get injured and
 determined to step by step reclaim a strong body and an active lifestyle,
-whatever that might mean for you? Precision rehab personal training could be the very thing you are looking for.
+whatever that might mean for you? Precision rehab could be the very thing you are looking for.
 
 Our unique, evidence-based approach bridges the gap between physiotherapy and
 strength and conditioning. Using an elite athlete coaching approach, we will
