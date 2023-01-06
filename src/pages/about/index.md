@@ -15,12 +15,11 @@ fragile to follow my pace of life.
 
 In 2008 I left a career in corporate law with recurrent back and shoulder pain
 and not being able to feel parts of my left foot. I found that yoga was helping
-me, so, I went to study yoga. I completed my first 200-hour yoga teacher training in 2011 with the Yoga Federation of Serbia, back in my home country. In 2012 I continued my yoga studies at the Yoga Institute Santacruz in Mumbai, India, focussing on yoga therapy. I spent
-three months living and studying full time (900 hours) at the Institute,
+me, so, I went to study yoga. 
+
+I completed my first 200-hour yoga teacher training in 2011 with the Yoga Federation of Serbia, back in my home country. In 2012 I continued my yoga studies in India, at The Yoga Institute in Mumbai, focussing on yoga therapy. I spent three months living and studying full time (900 hours) at the Institute,
 assisting and teaching at health camps and workshops that the Institute
-regularly held for the locals. Back in the UK, I continued studying with
-Yogacampus in London. After years of learning, teaching and a dedicated daily
-practice I managed to fully restore my feet and rarely had any back pain. 
+regularly held for the locals. Back in the UK, I continued studying with Yogacampus in London. After years of learning, teaching and a dedicated daily practice I managed to fully restore my feet and rarely had any back pain. 
 
 I specialised in teaching pregnancy and postpartum yoga classes, which allowed me to continue teaching throughout my both pregnancies and the births of my children in 2013 and 2015. But after my first baby was born, I suffered a severe abdominal separation - diastasis recti, recurring lower back spasms and De Quervain's tendinosis on both wrists. After the birth of my second child, my core was completely destroyed. It was incredibly frustrating to get re-injured and in pain every time I practised yoga or carried my baby. 
 
