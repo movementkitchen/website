@@ -47,8 +47,6 @@ You can choose between in-person sessions in our East London studio, online sess
 
 With online sessions you can log in on two devices, so we can have a view from two different angles. You also get the bonus of full session recordings for you to keep.
 
-Please note that 5-week packages need to be used within 8 weeks and 10-week packages within 16 weeks.
+Please note that 5-week packages need to be used within 2 months and 10-week packages within 4 months. After this, any unused sessions expire and can not be refunded. Expired sessions can be activated by puchasing another package.
 
-After this, any unused sessions expire and can not be refunded. Expired sessions can be activated by puchasing another package.
-
-You can reschedule your sessions up to 24 hours beforehand.
+You can reschedule each session up to 24 hours beforehand.
