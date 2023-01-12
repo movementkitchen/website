@@ -62,7 +62,7 @@ is a kitchen, both literally and metaphorically.
   2000-2005
 
 Other Training:
-
+- 'Go-To' Physio Clinical Reasoning Challenge with Dave O’Sullivan, The ProSport Academy, January 2023
 - Pelvis Pro Miniseries online course with Dr Sarah Duvall, November 2022
 - Move Your DNA + Fundamentals of Natural Movement Intensive with Katy Bowman,
   Cambridge, UK, Aug 2019 - 8 Hours
