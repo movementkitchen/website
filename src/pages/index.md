@@ -16,27 +16,17 @@ testimonials:
   avatar: /images/Solene.jpg
 ---
 
-Do you have an injury that keeps coming back? You try exercising at the gym,
-running, practising yoga or Pilates but keep getting hurt? Do you have back pain
-every time you lift or carry your child or grandchild? Or maybe you feel that
-things never quite got back to normal post-baby? You might have tried various
-approaches with mixed results but the pain keeps returning.
+Are you a new (or not so new) mum who feels that things have never quite got back to normal after the baby? You crave an active lifestyle but you feel your body can not quite support you? Your belly might feel weak and protruded. Or maybe you leak when you cough, run or jump. 
 
-Are you a curious mind, interested in understanding why you get injured and
-determined to step by step reclaim a strong body and an active lifestyle,
-whatever that might mean for you? Precision rehab could be the very thing you are looking for.
+Or maybe you've never been pregnant, but you have a back, hip or pelvic pain that keeps coming back whenever you exercise, carry your groceries or lift something heavy. You have tried various types of therapy and training, but the symptoms keep returning.
 
-Our unique, evidence-based approach bridges the gap between physiotherapy and
-strength and conditioning. Using an elite athlete coaching approach, we will
-figure out together:
+Are you a curious mind, interested in looking deeper into what might be causing your symptoms and determined to rebuild your strength and get back to an active lifestyle?
 
-1. What is the problem?
-2. Why did it happen?
-3. What is the recovery strategy?
-4. What is the timeline of recovery and return to your chosen physical activity
-   (running, weight training, dance, gardening, carrying your children)?
+Movement Kitchen bridges the gap between physiotherapy and strength and conditioning for women, bringing an athlete-level rehabilitation to any woman, through pregnancy, postnatal period, perimenopause and menopause. Rather than a one-off fix for your symptoms, we offer a personalised rehabilitation programme. 
 
-Email me at ivana@movementkitchen.co.uk to book your free 15-min telephone/Zoom consultation.
+We will work together to create a strategy and a realistic timeline of your return to the activities you love. Step by step, you can go back to jumping on a trampoline without leaking, running a marathon after the baby, lifting weights, going to yoga/Pilates, carrying children, skiing, surfing, climbing or whatever matters to you. My task is to break this goal into smaller achievable ones.
+
+Book your introductory session [here](https://calendly.com/movementkitchen/initial-assessment).
 
 ### Featured Videos
 
