@@ -18,7 +18,7 @@ In 2008 I left a career in corporate law with recurrent back and shoulder pain a
 
 My first baby was born in 2013, by an emergency C-section that left me feeling weak and defeated. In the first days after the surgery, I could not straighten up to standing, but luckily, the scar healed well. After the routine 6-week postpartum check-up I got a green light for returning to exercise. So, I went straight back to teaching yoga and shortly after, took up teaching an advanced level at the gym. 
 
-I might have been around two months postpartum when after demonstrating the "wild thing" - a pose that combines an inversion, twist and backband, I found myself with a fist-width hole in the connective tissue running across my midline. My linea alba was literally gone in that whole area. The belly was bulging and deforming at movements that used to be easy. It turned out I had a severe abdominal separation (diastasis recti). 
+I might have been around two months postpartum when, after demonstrating the "wild thing" - a pose that combines an inversion, twist and backband – I found myself with a fist-width hole in the connective tissue running across my midline. My linea alba was literally gone in that whole area. The belly was bulging and deforming at movements that used to be easy. It turned out I had a severe abdominal separation (diastasis recti). 
 
 For things to be even sadder, I've also gradually developed De Quervain's tendinosis ("mother's wrist") on both my wrists and could not bear weight on my arms. It was incredibly frustrating to get re-injured and in pain every time I exercised or carried my baby. 
 
