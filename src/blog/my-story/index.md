@@ -1,10 +1,10 @@
 ---
 title: "My Story"
 subTitle: "How I've Discovered My Passion For Women's Health"
-date: "2015-11-09T10:00:00.000Z"
-path: "/the-forgotten-art/"
+date: "2022-11-27T10:00:00.000Z"
+path: "/my-story/"
 tags: ["biomechanics", "women's health"]
-featuredImage: tail.png
+featuredImage: 40-weeks-pregnant-with-my-first.png
 ---
 
 ![Pregnancy Yoga](40-weeks-pregnant-with-my-first.png)
