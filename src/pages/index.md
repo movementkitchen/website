@@ -21,7 +21,7 @@ Or maybe you feel that things never quite got back to normal after you've had a 
 
 Are you a curious mind, interested in looking deeper into what might be causing your symptoms and determined to rebuild your strength and get back to an active lifestyle?
 
-Movement Kitchen bridges the gap between physiotherapy and strength and conditioning for women, bringing an athlete-level rehabilitation to any woman, through pregnancy, postnatal period, perimenopause and menopause. Rather than a one-off fix for your symptoms, we offer a personalised rehabilitation programme. 
+Movement Kitchen bridges the gap between physiotherapy and strength and conditioning, bringing an athlete-level rehabilitation to anyone, especially women going through pregnancy, postnatal period, perimenopause and menopause. Rather than a one-off fix for your symptoms, we offer a personalised rehabilitation programme. 
 
 We will work together to create a strategy and a realistic timeline of your return to the activities you love. Step by step, you can go back to jumping on a trampoline without leaking, running a marathon after the baby, lifting weights, going to yoga/Pilates, carrying children, skiing, surfing, climbing or whatever matters to you. My task is to break this goal into smaller achievable ones.
 
