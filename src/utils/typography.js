@@ -57,7 +57,13 @@ const theme = {
       table: {
         ...scale(-1 / 5),
       },
+      p: {
+        lineHeight: 1.8,
+        letterSpacing: '0.1em',
+      },
       li: {
+        lineHeight: 1.8,
+        letterSpacing: '0.1em',
         marginBottom: rhythm(1 / 8),
       },
       // Mobile styles.
