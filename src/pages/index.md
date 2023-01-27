@@ -17,7 +17,7 @@ testimonials:
 ---
 Do you have back, hip or pelvic pain that keeps coming back whenever you exercise, carry your groceries or lift something heavy? You crave an active lifestyle but feel your body can not quite support you? 
 
-Or maybe you feel that things never quite got back to normal after you've had a baby? Your belly might feel weak and protruded. Or maybe you leak when you cough, run or jump. You have tried various types of therapy and exercise, but the symptoms keep returning.
+Or maybe you feel that your body has never got back to normal after you had a baby? Your belly might feel weak and protruded. Maybe you leak when you cough, run or jump. You have tried various types of therapy and exercise, but the symptoms keep returning.
 
 Are you a curious mind, interested in looking deeper into what might be causing your symptoms and determined to rebuild your strength and get back to an active lifestyle?
 
