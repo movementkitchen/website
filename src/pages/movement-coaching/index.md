@@ -43,7 +43,7 @@ You can reschedule any session up to 24 hours beforehand.
 
 In the early stages of coaching, you will learn tools to relieve pain so you can handle flare-ups. As we progress, we will work on preventing the pain before it happens.
 
-Each week we will create an action plan with exercises that you can practise until your next session. As you meet your milestones, we can progress further, step by step to your goal.
+Following each one-to-one session, we will create an action plan with exercises that you can practise until your next session. As you meet your milestones, we can progress further, step by step to your goal.
 
 The exercises are performed with focus and precision – working out smarter, not necessarily harder. A lot of our work focuses on the nervous system and motor control. You will learn how to isolate and control small movements, building towards more complex and more physically demanding movements as you get stronger.
 
