@@ -15,9 +15,9 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Do you have back, hip or pelvic pain that keeps coming back whenever you exercise, carry your groceries or lift something heavy? You crave an active lifestyle but feel your body can not quite support you? 
+Do you have persistent back, hip or pelvic pain that affects your quality of life? You try exercising at the gym, practising yoga or Pilates and keep getting hurt. 
 
-Or maybe you feel that your body has never got back to normal after you had a baby? Your belly might feel weak and protruded. Maybe you leak when you cough, run or jump. You have tried various types of therapy and exercise, but the symptoms keep returning.
+Or maybe you feel that your body has never got back to normal after you had a baby? Your belly might feel weak and protruded. Maybe you leak when you cough, run or jump. You have tried various approaches, but nothing has made a lasting difference.
 
 Are you a curious mind, interested in looking deeper into what might be causing your symptoms and determined to rebuild your strength and get back to an active lifestyle?
 
