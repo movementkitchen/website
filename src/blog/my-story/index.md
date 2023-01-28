@@ -26,7 +26,7 @@ I spent 1.5 years being able to practise only very gentle pregnancy yoga. I visi
 
 I was wondering if I would ever be able to practise anything but extremely gentle low-impact exercise. Doing even a simple sun salutation or dynamic lunges would leave me with back and hip spasms for days. 
 
-I found that there was little support offered by the healthcare and very little published research on diastasis recti, especially its connection with back and pelvic pain and dysfunction. I couldn’t find a single physiotherapist who had an experience with diastasis recti. The separation was seen as a cosmetic problem and most of the solutions focused on patching the gap instead of looking into what had caused it. 
+I found that there was little support offered by the healthcare and very little published research on diastasis recti, especially its connection with back and pelvic pain and dysfunction. The separation was seen as a cosmetic problem and most of the solutions focused on patching the gap instead of looking into what had caused it. 
 
 > I couldn’t help wondering: if diastasis recti is just an aesthetic issue, why do I need a painkiller to sleep?
 
