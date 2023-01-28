@@ -46,9 +46,9 @@ Most of biomechanics studies seemed to focus on healthy, male athletes in their 
 
 Also, until recently, there was hardly any recognition of a need for postnatal rehabilitation. Female athletes would be expected to return to competitions within weeks of giving birth and without receiving adequate support. What are we then to expect for ordinary women?
 
-In my early forties, I suddenly found myself in a waking nightmare of perimenopause. Another thing nobody ever tells you about! I found out that menopause was not just a moment when the periods stop – at once, like pressing the light switch - as I had thought. 
+In my early forties, I suddenly found myself in a waking nightmare of perimenopause. Another thing nobody ever tells you about! It turns out menopause is not just a moment when the periods stop – at once, like pressing the light switch - as I had thought. 
 
-> Menopausal transition is a process that lasts around five years on average, and in some women might extend to over ten years. 
+> The menopausal transition is a process that lasts five years on average, but in some women might extend to over ten years. 
 
 I thought I was losing my mind. I had brain fog, irritability and symptoms of a constant bladder infection. Thank goodness for the body identical HRT! This experience has made me further evolve my approach to exercise to meet the needs of one more transition in a women’s life.
 
