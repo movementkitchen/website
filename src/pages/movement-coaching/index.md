@@ -1,6 +1,8 @@
 ---
 title: Movement coaching
 ---
+We will work together to create a strategy and a realistic timeline of your return to the activities you love. Step by step, you can go back to jumping on a trampoline without leaking, running a marathon after the baby, lifting weights, going to yoga/Pilates, carrying children, skiing, surfing, climbing or whatever matters to you. My task is to break this goal into smaller achievable ones.
+
 You can choose between in-person sessions in our London E10 studio, online sessions or the physical-online combination. 
 
 With online sessions you can log in on two devices, so we can have a view from two different angles. You also get the bonus of full session recordings for you to keep.
