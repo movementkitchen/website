@@ -4,8 +4,7 @@ title: Courses and workshops
 
 ### Stronger After the Baby 8-Week Course
 
-* Do you feel your abdomen is too weak to support you while carrying groceries
-  or lifting your children?
+* Do you feel your abdomen is too weak to support you while lifting your children?
 * Or maybe you had your children years ago but still look five months pregnant?
 * Do you leak when you cough or sneeze?
 

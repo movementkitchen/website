@@ -15,13 +15,16 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Do you have persistent back, hip or pelvic pain that affects your quality of life? You try exercising at the gym, practising yoga or Pilates and keep getting hurt. 
+Movement Kitchen offers a personalised, athlete-level of rehabilitation and support to any woman who wants to reclaim a strong body after pregnancy or injuries and return to an active lifestyle.
 
-Or maybe you feel that your body has never got back to normal after you had a baby? Your belly might feel weak and protruded. Maybe you leak when you cough, run or jump. You have tried various approaches, but nothing has made a lasting difference.
+Bridging physiotherapy and strength and conditioning, we offer precision training for mums or any humans who want to
+•	Stop having back spasms after carrying groceries/opening heavy doors
+•	Stop having leaking accidents when they sneeze or jump
+•	Be able to run without pain or a feeling of heaviness in their pelvis
+•	Be able to join a fun exercise class without being in pain afterwards
+•	Dance, surf, ski, climb, run a marathon without pain and discomfort, feeling good in their bodies
 
-Are you a curious mind, interested in looking deeper into what might be causing your symptoms and determined to rebuild your strength and get back to an active lifestyle?
-
-Movement Kitchen bridges the gap between physiotherapy and strength and conditioning, bringing an athlete-level rehabilitation to anyone, especially women going through pregnancy, postnatal period, perimenopause and menopause. Rather than a one-off fix for your symptoms, we offer a personalised rehabilitation programme.
+Working together we will create a realistic strategy and weekly milestones to help you build from where you are now to being strong enough to do whatever physical activity you love, feeling strong and comfortable in your body. 
 
 Book your introductory session [here](https://calendly.com/movementkitchen/initial-assessment).
 
