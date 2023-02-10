@@ -17,14 +17,15 @@ testimonials:
 ---
 Movement Kitchen offers a personalised, athlete-level of rehabilitation and support to any woman who wants to reclaim a strong body after pregnancy or injuries and return to an active lifestyle.
 
-Bridging physiotherapy and strength and conditioning, we offer precision training for mums or any humans who want to
-•	Stop having back spasms after carrying groceries/opening heavy doors
-•	Stop having leaking accidents when they sneeze or jump
-•	Be able to run without pain or a feeling of heaviness in their pelvis
-•	Be able to join a fun exercise class without being in pain afterwards
-•	Dance, surf, ski, climb, run a marathon without pain and discomfort, feeling good in their bodies
+Bridging physiotherapy and strength and conditioning, we offer precision training for mums or any humans who want to:
 
-Working together we will create a realistic strategy and weekly milestones to help you build from where you are now to being strong enough to do whatever physical activity you love, feeling strong and comfortable in your body. 
+* Stop having back spasms after carrying groceries/opening heavy doors
+* Stop having leaking accidents when they sneeze or jump
+* Be able to run without pain or a feeling of heaviness in their pelvis
+* Be able to join a fun exercise class without being in pain afterwards
+* Dance, surf, ski, climb, run a marathon without pain or discomfort.
+
+Working together we will create an action plan with weekly milestones to help you build from where you are now to being strong enough to do the activities you love with confidence in your body. 
 
 Book your introductory session [here](https://calendly.com/movementkitchen/initial-assessment).
 
