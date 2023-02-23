@@ -4,7 +4,7 @@ title: About
 
 ### About me
 
-Hi there! I’m Ivana, a sports and exercise biomechanics scientist, coach and therapist with over a decade of experience supporting women through pregnancy, postnatal recovery and through menopause. I have a special interest in mechanisms of injuries, ageing, and women's health and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I’m passionate about bringing elite-athlete-level rehabilitation to everyday humans, especially mums, who could never afford a team of experts standing behind them. I'm also a mum of two, born by a C-section and a post-Caesarean homebirth, with a lived experience of overcoming a severe diastasis recti and chronic back pain. When I don't research, teach or write, you can usually find me drawing in Walthamstow Marshes with my 7- and 9-year-olds
+Hi there! I’m Ivana, a sports and exercise biomechanics scientist, coach and therapist with over a decade of experience supporting women through pregnancy, postnatal recovery and through menopause. I have a special interest in mechanisms of injuries, ageing, and women's health and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I’m passionate about bringing elite-athlete-level of care to everyday mums who could never afford a team of experts standing behind them. I'm also a mum of two, born by a C-section and a post-Caesarean homebirth, with a lived experience of overcoming a severe diastasis recti and chronic back pain. When I don't research, teach or write, you can usually find me drawing in Walthamstow Marshes with my 7- and 9-year-olds
 
 ### About Movement Kitchen
 
