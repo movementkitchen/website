@@ -7,7 +7,7 @@ We will work together to figure out:
 3.	What is the recovery strategy?
 4.	What is the timeline of your recovery and building back towards your fitness goals?
 
-My task is to break your big goals into smaller achievable ones. Step by step, you can go back to jumping on a trampoline without leaking, running a marathon after the baby, lifting weights, going to yoga/Pilates, carrying children, skiing, surfing, climbing or whatever matters to you. 
+My task is to break your big goals into smaller achievable ones.
 
 You can choose between in-person sessions in our London E10 studio, online sessions or the physical-online combination. 
 
