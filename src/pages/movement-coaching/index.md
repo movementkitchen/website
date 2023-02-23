@@ -1,7 +1,13 @@
 ---
 title: Movement coaching
 ---
-We will work together to create a strategy and a realistic timeline of your return to the activities you love. Step by step, you can go back to jumping on a trampoline without leaking, running a marathon after the baby, lifting weights, going to yoga/Pilates, carrying children, skiing, surfing, climbing or whatever matters to you. My task is to break this goal into smaller achievable ones.
+We will work together to figure out:
+1.	What is the problem?
+2.	What is the mechanism of injury/reinjury?
+3.	What is the recovery strategy?
+4.	What is the timeline of your recovery and building back towards your fitness goals?
+
+My task is to break your big goals into smaller achievable ones. Step by step, you can go back to jumping on a trampoline without leaking, running a marathon after the baby, lifting weights, going to yoga/Pilates, carrying children, skiing, surfing, climbing or whatever matters to you. 
 
 You can choose between in-person sessions in our London E10 studio, online sessions or the physical-online combination. 
 
