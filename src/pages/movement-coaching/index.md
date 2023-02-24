@@ -16,15 +16,12 @@ With online sessions you can log in on two devices, so we can have a view from t
 ### Practical Details
 
 If we've never worked together, we'll start with a longer introductory session
-(70 min, £90) that includes a qualitative movement assessment
+(duration 75 min, price £100) that includes a qualitative movement assessment
 and creating your coaching strategy.
 
 You can book your Introductory Session [here](https://calendly.com/movementkitchen/initial-assessment).
 
 Then, depending on your goals and commitment, you can choose between:
-
-- Basic coaching package - £400
-- Full coaching package - £700
 
 #### Basic coaching package
 - 5 X one-to-one sessions (60 min each)
@@ -32,7 +29,8 @@ Then, depending on your goals and commitment, you can choose between:
 - Photos and video snippets of movements
 - Short custom made exercise sequences
 - WhatsApp support for your questions and exercise modifications
-- Valid for 3 months
+- Valid for 2 months
+- Price £400
 
 #### Full coaching package
 - 10 X one-to-one sessions (60 min each)
@@ -40,9 +38,10 @@ Then, depending on your goals and commitment, you can choose between:
 - Photos and video snippets of movements
 - Short custom made exercise sequences
 - WhatsApp support for your questions and exercise modifications
-- Valid for 6 months
+- Valid for 4 months
+- Price £700
 
-You can reschedule any session up to 24 hours beforehand.
+You can reschedule each individal session up to 24 hours beforehand.
 
 ![Squat](/images/squat.jpg)
 
