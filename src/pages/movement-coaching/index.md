@@ -54,6 +54,6 @@ Following each one-to-one session, we will create an action plan with exercises 
 
 The exercises are performed with focus and precision – working out smarter, not necessarily harder. A lot of our work focuses on the nervous system and motor control. You will learn how to isolate and control small movements, building towards more complex and more physically demanding movements as you get stronger.
 
-It is crucial that you do your exercises for at least 10 min daily. If you don't yet exercise regularly, it’s the easiest if you tie the new practice to an existing habit, e.g. brushing teeth or do them as a first or last thing in the day.
+It is crucial that you do your exercises for at least 10 min daily. If you don't yet exercise regularly, it’s the easiest if you tie the new practice to an existing habit, e.g. straight before or right after brushing your teeth or do them as a first or last thing in the day.
 
 It is very important to keep consistency of daily practice during the whole 3/6 months of coaching, so you can meet your weekly milestones and progress towards your goal.
