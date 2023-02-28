@@ -22,7 +22,7 @@ Bridging physiotherapy and strength and conditioning, we offer precision trainin
 * Run and jump without leaking or a feeling of heaviness in their pelvis
 * Lift and carry their children or groceries without pain and discomfort
 * Lift weights or join a fun exercise class without being in pain afterwards
-* Dance, hike, surf, ski, climb, etc. feeling strong and comfortable in their bodies
+* Climb, hike, dance, surf, skate feeling strong and comfortable in their bodies
 * Return to competitive sports
 
 Working together we will create an action plan with weekly milestones to help you build from where you are now to being strong enough to do the activities you love.
