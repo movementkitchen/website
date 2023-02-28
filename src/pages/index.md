@@ -19,13 +19,12 @@ Movement Kitchen offers a personalised, athlete-level of rehabilitation and supp
 
 Bridging physiotherapy and strength and conditioning, we offer precision training for mums or any humans who want to:
 
-* Stop leaking when they sneeze or jump
-* Stop having back pain after carrying children or opening heavy doors
-* Be able to run without pain or a feeling of heaviness in their pelvis
-* Be able to join a fun exercise class without being in pain afterwards
-* Dance, hike, climb, surf, ski, run a marathon or return to competitive sports. 
+* Run and jump without leaking or a feeling of heaviness in their pelvis
+* Lift and carry their children and groceries without pain and discomfort
+* Dance, hike, climb, surf, ski or join any fun exercise class without being in pain afterwards
+* Return to competitive sports
 
-Working together we will create an action plan with weekly milestones to help you build from where you are now to being able to do the activities you love without discomfort - feeling strong and comfortable in your body.
+Working together we will create an action plan with weekly milestones to help you build from where you are now to being able to do the activities you love feeling strong and comfortable in your body.
 
 Book your introductory session [here](https://calendly.com/movementkitchen/initial-assessment).
 
