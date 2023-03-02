@@ -19,9 +19,9 @@ Movement Kitchen offers a personalised, athlete-level of rehabilitation and supp
 
 Bridging physiotherapy and strength and conditioning, we offer precision training for mums or any humans who want to:
 
-* Run and jump without leaking or a feeling of heaviness in their pelvis
 * Lift and carry their children or groceries without pain and discomfort
 * Lift weights or join a fun exercise class without being in pain afterwards
+* Run and jump without leaking or a feeling of heaviness in their pelvis
 * Climb, hike, dance, surf, skate feeling strong and comfortable in their bodies
 * Return to competitive sports
 
