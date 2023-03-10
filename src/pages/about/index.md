@@ -13,31 +13,26 @@ The name Movement Kitchen stands for weaving movement into the everyday, reclaim
 Instead of a lab, my working space is a kitchen, both literally and metaphorically. I aim to recreate a homely and informal atmosphere of the kitchen in my sessions too. I work with biomechanics and the science of movement but guided by empathy and intuition. My aim is to provide a safe and empowering environment for you to get to know your body and its limits and how they change, and develop a nurturing long-term relationship with exercise. 
 
 
-### My Qualifications
+### My Education
 
 - MSc in Biomechanics / Sport and Exercise Science from the University of
   Roehampton, London, UK, October 2019 - October 2021 - with distinction
-- Advanced CPD in Modern Post Natal Assessment, Core Restore & Functional Exercise Programming with Jenny Burrell,
-  Burrell Education, Online Course, completed January - March 2023
-- CPT-RES Certified Personal Trainer - Restorative Exercise Specialist with
-  Nutritious Movement Center Northwest, Sequim, WA, USA, training completed
-  2015-2017
-- Yoga as Therapy 900 Hour Residential Teacher Training with The Yoga Institute Santacruz Mumbai, India, July -
-  Nov 2012
-- Yoga Teacher Training with Yoga Federation of Serbia, Apr - Dec 2011 - 260 Hours
 - LLM in International Business Law from Vrije Universiteit Amsterdam, The
   Netherlands 2008-2009
 - LLB (Hons) in International Law from the University of Belgrade, Serbia,
   2000-2005
 
-Other Training:
+### Professional Qualifications and Training
+
+- Advanced CPD in Modern Post Natal Assessment, Core Restore & Functional Exercise Programming with Jenny Burrell,
+  Burrell Education, Online Course, completed January - March 2023
 - 'Go-To' Physio Clinical Reasoning Challenge with Dave O’Sullivan, The ProSport Academy, January 2023
 - Pelvis Pro Miniseries online course with Sarah Ellis Duvall, Core Exercise Solutions, November 2022
 - Move Your DNA + Fundamentals of Natural Movement Intensive with Katy Bowman,
-  Cambridge, UK, Aug 2019 - 8 Hours
+  Cambridge, UK, - 8 Hours, Aug 2019 
 - Boomerang Pilates, MoveSMART Weekend of workshops with Alison Crouch: Hips,
   Shoulders, Knees & Toes Workshop, Happy Hip Hinge Workshop, Supple Spine
-  Workshop, Psoas Workshop, London, UK, 7-8 June 2019 - 12 Hours
+  Workshop, Psoas Workshop, London, UK,  - 12 Hours, 7-8 June 2019
 - Pilates for Modern Bodies - Fundamentals of Flexion - 6 Weeks Online Course
   with Alison Crouch, March - Apr 2019
 - Womb Care Massage Course with Barbara Loomis, 8 Modules Online Course - Spring
@@ -45,31 +40,35 @@ Other Training:
 - Abdominal Adhesions Massage Course with Barbara Loomis, 9 Modules Online
   Course - Winter 2018/2019
 - Nutritious Movement Study Group Rhomboid Pushup, Head and Neck, Online, May
-  2018 - 3 Hours
-- Move Your DNA: Going Beyond The Points with Katy Bowman, Online Course, Oct
-  2017 - 8 Hours
+  2018
+- Move Your DNA: Going Beyond The Points with Katy Bowman, Online Course, 8 Hours, Oct
+  2017
+  - CPT-RES Certified Personal Trainer - Restorative Exercise Specialist with
+  Nutritious Movement Center Northwest, Sequim, WA, USA, training completed
+  2015-2017
 - Advanced Biomechanics with Katy Bowman, online course - 27 hours, Aug-Oct 2017
 - Franklin Method Shoulders and Neck Workshop with Mollie McClelland Morris,
-  London, UK, July 2017 - 3 Hours
+  London, UK, 3 Hours, July 2017
 - Restorative Exercise Specialist Certification Week with Katy Bowman,
-  Castricum, The Netherlands, July 2017 - 48 Hours
+  Castricum, The Netherlands,  48 Hours, July 2017
 - Move Your DNA Weekend with Hilary McKown, Milan, June 2017 - 16 Hours
-- Balinese Massage Course with Rahasia Nyaman - Ubud, Bali, Apr 2017 - 30 Hours
+- Balinese Massage Course with Rahasia Nyaman - Ubud, Bali, 30 Hours, Apr 2017
 - 6 Weeks Mindfulness Online Course with the University of Leiden (equivalent of
   MBSR) - Mar - Apr 2017
-- Yoga, Qigong and Mindfulness Immersion with Mimi Kuo Deemer, London, UK, Aug
-  2016 - 7 Hours
+- Yoga, Qigong and Mindfulness Immersion with Mimi Kuo Deemer, London, UK, 7 Hours, Aug
+  2016
 - 52 Weeks of EveryBody Biomechanics with Katy Bowman, online, Jan 2016 - Jan
   2017
 - BodyReading 101: Visual Assessment with Tom Myers (Anatomy Trains), DVD
   course, Nov-Dec 2015
 - Total Yoga Nidra Foundation Course with Uma Dinsmore Tuli, Yogacampus, London,
-  UK, June 2015 - 10 Hours
+  UK, 10 Hours, June 2015
 - Yoga Therapy: Practical Philosophy Of Healing with Mark Beuvain, Yogacampus,
-  London, UK, Jan 2015 - 12 Hours
+  London, UK, 12 Hours, Jan 2015
 - Firing Order In Sequencing and Resetting The Body’s Internal GPS with Doug
-  Keller, Yogacampus, London, UK, Oct 2014 - 32 Hours
-- Assisting and Adjusting yoga workshop with Emma Henry, London, UK, July 2014 -
-  3 Hours
-- Buggy Fit and Postnatal Exercise with GLL Better, London, UK, July 2014 - 4
-  Hours
+  Keller, Yogacampus, London, UK, 32 Hours, Oct 2014
+- Assisting and Adjusting yoga workshop with Emma Henry, London, UK, 3 Hours, July 2014
+- Buggy Fit and Postnatal Exercise with GLL Better, London, UK, 4 Hours, July 2014
+  - Yoga as Therapy 900 Hour Residential Teacher Training with The Yoga Institute Santacruz Mumbai, India, July -
+  Nov 2012
+- Yoga Teacher Training with Yoga Federation of Serbia, 260 Hours, Apr - Dec 2011
