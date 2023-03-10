@@ -17,12 +17,14 @@ Instead of a lab, my working space is a kitchen, both literally and metaphorical
 
 - MSc in Biomechanics / Sport and Exercise Science from the University of
   Roehampton, London, UK, October 2019 - October 2021 - with distinction
+- Advanced CPD in Modern Post Natal Assessment, Core Restore & Functional Exercise Programming with Jenny Burrell,
+  Burrell Education, Online Course, completed January - March 2023
 - CPT-RES Certified Personal Trainer - Restorative Exercise Specialist with
   Nutritious Movement Center Northwest, Sequim, WA, USA, training completed
   2015-2017
-- Yoga as Therapy TTC from The Yoga Institute Santacruz Mumbai, India, July -
-  Nov 2012 - 900 Hours Residential Course
-- Yoga TTC from The Yoga Federation of Serbia, Apr - Dec 2011 - 260 Hours
+- Yoga as Therapy 900 Hour Residential Teacher Training with The Yoga Institute Santacruz Mumbai, India, July -
+  Nov 2012
+- Yoga Teacher Training with Yoga Federation of Serbia, Apr - Dec 2011 - 260 Hours
 - LLM in International Business Law from Vrije Universiteit Amsterdam, The
   Netherlands 2008-2009
 - LLB (Hons) in International Law from the University of Belgrade, Serbia,
@@ -30,7 +32,7 @@ Instead of a lab, my working space is a kitchen, both literally and metaphorical
 
 Other Training:
 - 'Go-To' Physio Clinical Reasoning Challenge with Dave O’Sullivan, The ProSport Academy, January 2023
-- Pelvis Pro Miniseries online course with Dr Sarah Duvall, November 2022
+- Pelvis Pro Miniseries online course with Sarah Ellis Duvall, Core Exercise Solutions, November 2022
 - Move Your DNA + Fundamentals of Natural Movement Intensive with Katy Bowman,
   Cambridge, UK, Aug 2019 - 8 Hours
 - Boomerang Pilates, MoveSMART Weekend of workshops with Alison Crouch: Hips,
@@ -40,8 +42,6 @@ Other Training:
   with Alison Crouch, March - Apr 2019
 - Womb Care Massage Course with Barbara Loomis, 8 Modules Online Course - Spring
   2019
-- Advanced Postnatal Exercise and Soft Tissue Therapy Course with Jenny Burrell,
-  Burrell Education, Online Course, Modules 1 and 2 - Jan-Feb 2019
 - Abdominal Adhesions Massage Course with Barbara Loomis, 9 Modules Online
   Course - Winter 2018/2019
 - Nutritious Movement Study Group Rhomboid Pushup, Head and Neck, Online, May
