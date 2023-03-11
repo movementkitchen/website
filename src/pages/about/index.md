@@ -27,7 +27,7 @@ Instead of a lab, my working space is a kitchen, both literally and metaphorical
 - Advanced CPD in Modern Post Natal Assessment, Core Restore & Functional Exercise Programming with Jenny Burrell,
   Burrell Education, Online Course, completed January - March 2023
 - 'Go-To' Physio Clinical Reasoning Challenge with Dave O’Sullivan, The ProSport Academy, January 2023
-- Pelvis Pro Miniseries online course with Sarah Ellis Duvall, Core Exercise Solutions, November 2022
+- Pelvis Pro Miniseries with Sarah Ellis Duvall, Core Exercise Solutions, Online Course, November 2022
 - Move Your DNA + Fundamentals of Natural Movement Intensive with Katy Bowman,
   Cambridge, UK, - 8 Hours, Aug 2019 
 - Boomerang Pilates, MoveSMART Weekend of workshops with Alison Crouch: Hips,
