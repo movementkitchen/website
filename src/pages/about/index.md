@@ -43,7 +43,7 @@ Instead of a lab, my working space is a kitchen, both literally and metaphorical
   2018
 - Move Your DNA: Going Beyond The Points with Katy Bowman, Online Course, 8 Hours, Oct
   2017
-  - CPT-RES Certified Personal Trainer - Restorative Exercise Specialist with
+- CPT-RES Certified Personal Trainer - Restorative Exercise Specialist with
   Nutritious Movement Center Northwest, Sequim, WA, USA, training completed
   2015-2017
 - Advanced Biomechanics with Katy Bowman, online course - 27 hours, Aug-Oct 2017
