@@ -59,7 +59,7 @@ Instead of a lab, my working space is a kitchen, both literally and metaphorical
   2016
 - 52 Weeks of EveryBody Biomechanics with Katy Bowman, online, Jan 2016 - Jan
   2017
-- BodyReading 101: Visual Assessment with Tom Myers (Anatomy Trains), DVD
+- Anatomy Trains BodyReading 101: Visual Assessment with Tom Myers, Online
   course, Nov-Dec 2015
 - Total Yoga Nidra Foundation Course with Uma Dinsmore Tuli, Yogacampus, London,
   UK, 10 Hours, June 2015
@@ -69,6 +69,6 @@ Instead of a lab, my working space is a kitchen, both literally and metaphorical
   Keller, Yogacampus, London, UK, 32 Hours, Oct 2014
 - Assisting and Adjusting yoga workshop with Emma Henry, London, UK, 3 Hours, July 2014
 - Buggy Fit and Postnatal Exercise with GLL Better, London, UK, 4 Hours, July 2014
-  - Yoga as Therapy 900 Hour Residential Teacher Training with The Yoga Institute Santacruz Mumbai, India, July -
+- Yoga as Therapy 900 Hour Residential Teacher Training with The Yoga Institute Santacruz Mumbai, India, July -
   Nov 2012
 - Yoga Teacher Training with Yoga Federation of Serbia, 260 Hours, Apr - Dec 2011
