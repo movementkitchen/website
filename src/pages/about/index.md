@@ -8,9 +8,9 @@ Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist with
 
 ### About Movement Kitchen
 
-The name Movement Kitchen stands for weaving movement into the everyday, reclaiming the right to move your body on your own terms, in your own space. A gym can be an intimidating and unwelcoming environment for women, non-binary people and anyone who doesn’t conform to the masculine no-pain-no-gain culture of exercise. But the kitchen is a space for creating - intentionally and serendipitously, for tinkering and making a mess. Anything is allowed in the kitchen, no make-up required, no dress code, no obsession with body image. You can relax and be you.
+The name Movement Kitchen stands for reclaiming the right to move your body on your own terms, feeling safe and being yourself. Kitchen is a feminine and nurturing environment, with hardly anything in common with the masculine no-pain-no-gain culture of sport and exercise. It's a space for creating - intentionally and serendipitously, for playing and trying things out. Anything is allowed in the kitchen, no make-up required, no dress code, no body image obsession. You can relax and be you.
 
-Instead of a lab, my working space is a kitchen, both literally and metaphorically. I aim to recreate a homely and informal atmosphere of the kitchen in my sessions too. I work with biomechanics and the science of movement but guided by empathy and intuition. My aim is to provide a safe and empowering environment for you to get to know your body and its limits and how they change, and develop a nurturing long-term relationship with exercise. 
+My studio really is a kitchen. With large floor to ceiling mirrors, a climbing frame and a variety of exercise props. I try to recreate a safe and intimate atmosphere of the kitchen in my sessions too. My work is rooted in evidence from research and clinical practice but guided by empathy and intuition. I aim to provide a supportive and encouraging environment for you to get to know your body and its limits and how they change, and develop a nourishing long-term relationship with exercise. 
 
 
 ### My Education
