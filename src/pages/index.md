@@ -17,7 +17,7 @@ testimonials:
 ---
 Movement Kitchen offers a personalised, athlete-level of rehabilitation and support to any woman who wants to reclaim a strong body after pregnancy or injuries and return to an active lifestyle.
 
-Bridging physiotherapy and strength and conditioning, we offer precision training for mums or any humans who want to:
+Bridging physiotherapy and strength and conditioning, we offer evidence-based training for mums or any humans who want to:
 
 * Lift and carry their children or groceries without pain and discomfort
 * Lift weights or join a fun exercise class without being in pain afterwards
