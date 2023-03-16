@@ -23,10 +23,9 @@ My studio really is a kitchen. With large floor to ceiling mirrors, a climbing f
   2000-2005
 
 ### Professional Qualifications and Training
-
-- Advanced CPD in Modern Post Natal Assessment, Core Restore & Functional Exercise Programming with Jenny Burrell,
-  Burrell Education, Online Course, completed January - March 2023
-- 'Go-To' Physio Clinical Reasoning Challenge with Dave O’Sullivan, The ProSport Academy, January 2023
+- Stop Hurting Women with Exercise Part 2 - 5 Key Concepts to Help Female Athletes with Antony Lo, The Physio Detective, Online Course with Embodia Academy - March 2023
+- Advanced CPD in Modern Post Natal Assessment, Core Restore & Functional Exercise Programming with Jenny Burrell, Burrell Education, Online Course, completed January - March 2023
+- 'Go-To' Physio Online Clinical Reasoning Challenge with Dave O’Sullivan, The ProSport Academy, January 2023
 - Pelvis Pro Miniseries with Sarah Ellis Duvall, Core Exercise Solutions, Online Course, November 2022
 - Move Your DNA + Fundamentals of Natural Movement Intensive with Katy Bowman,
   Cambridge, UK, - 8 Hours, Aug 2019 
