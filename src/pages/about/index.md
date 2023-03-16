@@ -8,9 +8,9 @@ Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist with
 
 ### About Movement Kitchen
 
-The name Movement Kitchen stands for reclaiming the right to move your body on your own terms, feeling safe and being yourself. Kitchen is a feminine and nurturing environment, with hardly anything in common with the tough no-pain-no-gain culture of sport and exercise. It's a space for creating - intentionally and serendipitously, for playing and trying things out. Anything is allowed in the kitchen, no make-up required, no dress code, no body image obsession. You can relax and be you.
+The name Movement Kitchen stands for reclaiming the right to move your body on your own terms, in a safe and supportive environment. Kitchen is a feminine and nurturing space, with hardly anything in common with the tough no-pain-no-gain culture of sport and exercise. It's a space for creating - intentionally and serendipitously, for playing and trying things out. Anything is allowed in the kitchen, no make-up required, no dress code, no body image obsession. You can relax and be you.
 
-My studio really is a kitchen. With large floor to ceiling mirrors, a climbing frame and a variety of exercise props. I try to recreate a safe and intimate atmosphere of the kitchen in my sessions too. My work is rooted in evidence from research and clinical practice but guided by empathy and intuition. I aim to provide a supportive and encouraging environment for you to get to know your body and its limits and how they change, and develop a nourishing long-term relationship with exercise. 
+My studio really is a kitchen. With large floor to ceiling mirrors, a climbing frame and a variety of exercise props. I try to recreate a safe and intimate atmosphere of the kitchen in my sessions too. My work is rooted in evidence from research and clinical practice but guided by empathy and intuition. I aim to provide homely and encouraging environment for you to get to know your body and its limits and how they change, and develop a nourishing long-term relationship with exercise. 
 
 
 ### My Education
