@@ -8,7 +8,7 @@ Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist with
 
 ### About Movement Kitchen
 
-The name Movement Kitchen stands for weaving movement into the everyday, reclaiming the right to move your body on your own terms, in your own space. Kitchen is a feminine and nurturing environment, with hardly anything in common with the tough no-pain-no-gain culture of sport and exercise. It's a space for creating - intentionally and serendipitously, for playing and trying things out. Anything is allowed in the kitchen, no make-up required, no dress code, no body image obsession. You can relax and be you.
+The name Movement Kitchen stands for weaving movement into the everyday, reclaiming the right to move your body on your own terms, in your own space. Kitchen is a feminine and nurturing environment with hardly anything in common with the tough no-pain-no-gain culture of sport and exercise. It's a space for creating - intentionally and serendipitously, for playing and trying things out. Anything is allowed in the kitchen, no make-up required, no dress code, no body image obsession. You can relax and be you.
 
 My studio really is a kitchen. With large floor to ceiling mirrors, a climbing frame and a variety of exercise props. I try to recreate the safe and intimate atmosphere of a kitchen in my sessions too. My approach is based on research and clinical practice but guided by empathy and intuition. It offers a supportive environment for you to get to know your body and its capabilities, and develop a nourishing long-term relationship with exercise. 
 
