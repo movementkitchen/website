@@ -23,7 +23,7 @@ My studio really is a kitchen. With large floor to ceiling mirrors, a climbing f
   2000-2005
 
 ### Professional Qualifications and Training
-- Hormones Matter: Considerations for Treating Women with Musculoskeletal Problems with SUsan CLinton and Carolyn Vandyken, Embodia Academy, April 2023
+- Hormones Matter: Considerations for Treating Women with Musculoskeletal Problems with Susan Clinton and Carolyn Vandyken, Embodia Academy, April 2023
 - Intraabdominal Pressure and Strength Training with Antony Lo, The Physio Detective, Embodia Academy, March 2023
 - Stop Hurting Women with Exercise - 5 Key Concepts to Help Female Athletes with Antony Lo, The Physio Detective, Embodia Academy, March 2023
 - Advanced CPD in Modern Post Natal Assessment, Core Restore & Functional Exercise Programming with Jenny Burrell, Burrell Education, completed January - March 2023
