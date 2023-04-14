@@ -23,24 +23,23 @@ My studio really is a kitchen. With large floor to ceiling mirrors, a climbing f
   2000-2005
 
 ### Professional Qualifications and Training
-- Hormones Matter: Considerations for Treating Women with Musculoskeletal Problems with Susan Clinton and Carolyn Vandyken, Embodia Academy, April 2023
-- Intraabdominal Pressure and Strength Training with Antony Lo, The Physio Detective, Embodia Academy, March 2023
-- Stop Hurting Women with Exercise - 5 Key Concepts to Help Female Athletes with Antony Lo, The Physio Detective, Embodia Academy, March 2023
-- Advanced CPD in Modern Post Natal Assessment, Core Restore & Functional Exercise Programming with Jenny Burrell, Burrell Education, completed January - March 2023
-- 'Go-To' Physio Clinical Reasoning Challenge with Dave O’Sullivan, The ProSport Academy, January 2023
-- Pelvis Pro Miniseries with Sarah Ellis Duvall, Core Exercise Solutions, November 2022
+- Pelvic Floor Dysfunction - The Missing Link in Persistent Lower Back Pain? - Online Workshop with Carolyn Vandyken, Embodia Academy, April 2023
+- Hormones Matter: Considerations for Treating Women with Musculoskeletal Problems - Online Workshop with Susan Clinton and Carolyn Vandyken, Embodia Academy, April 2023
+- Intraabdominal Pressure and Strength Training - Online Workshop with Antony Lo, Embodia Academy, March 2023
+- Stop Hurting Women with Exercise - 5 Key Concepts to Help Female Athletes - Online Workshop with Antony Lo, The Physio Detective, Embodia Academy, March 2023
+- Advanced CPD in Modern Post Natal Assessment, Core Restore & Functional Exercise Programming - 6-Module Online Course with Jenny Burrell, Burrell Education, completed January - March 2023
+- 'Go-To' Physio Clinical Reasoning Challenge - Online Workshop with Dave O’Sullivan, The ProSport Academy, January 2023
+- Pelvis Pro Miniseries - Online Workshop with Sarah Ellis Duvall, Core Exercise Solutions, November 2022
 - Move Your DNA + Fundamentals of Natural Movement Immersion with Katy Bowman,
   Cambridge, UK, - 8 Hours, Aug 2019 
 - Boomerang Pilates, MoveSMART Weekend Immersion with Alison Crouch, London, UK - 12 Hours, 7-8 June 2019
-- Womb Care Massage Course with Barbara Loomis, 8 Modules Online Course - April - June 2019
-- Pilates for Modern Bodies - Fundamentals of Flexion - 6 Weeks Online Course
-  with Alison Crouch, March - Apr 2019
-- Abdominal Adhesions Massage Course with Barbara Loomis, 9 Modules Online
-  Course - Winter 2018/2019
+- Womb Care Massage Course with Barbara Loomis, 8-Module Online Course - April - June 2019
+- Pilates for Modern Bodies - Fundamentals of Flexion - 6-Week Online Course with Alison Crouch, London, UK, March - Apr 2019
+- Abdominal Adhesions Massage Course with Barbara Loomis, 9-Module Online Course - Winter 2018/2019
   2018
 - Move Your DNA: Going Beyond The Points with Katy Bowman, Online Course, 8 Hours, Oct 2017
 - CPT-RES Certified Personal Trainer - Restorative Exercise Specialist with Nutritious Movement Center Northwest, Sequim, WA, USA, training completed 2015-2017
-- Advanced Biomechanics with Katy Bowman, online course - 27 hours, Aug-Oct 2017
+- Advanced Biomechanics 27-hour Online Course with Katy Bowman, Aug-Oct 2017
 - Franklin Method Shoulders and Neck Workshop with Mollie McClelland Morris,
   London, UK, 3 Hours, July 2017
 - Restorative Exercise Specialist Certification Week with Katy Bowman,
