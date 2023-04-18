@@ -46,4 +46,4 @@ During my master's studies, I suddenly found myself in perimenopause. Another th
 
 I thought I was losing my mind. I had brain fog, irritability and symptoms of a constant bladder infection. Thank goodness for the body identical HRT! This experience has made me further evolve my approach to exercise to meet the needs of one more transition in a women’s life.
 
-My academic, professional and lived experience of the gap in addressing women’s health came together and I realised that I wanted to be a part of the change. Instead of staying in academia and pursuing a PhD, I wanted to use my knowledge to support women through pregnancy, postnatal rehabilitation and the menopausal transition. I am passionate about improving the quality of life of both women athletes and ordinary mums.
+My academic, professional and lived experience of the gap in addressing women’s health came together and I realised that I wanted to be a part of the change - using my knowledge to support women through pregnancy, postnatal rehabilitation and the menopausal transition. I am passionate about improving the quality of life of both women athletes and ordinary mums.
