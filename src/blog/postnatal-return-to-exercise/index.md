@@ -31,7 +31,7 @@ Another great approach I found was [Brianna Battles’](https://www.briannabattl
 
  Then, I was blown away by [Anthony Lo's](https://mypteducation.com/) work with female athletes returning to sport after childbirth, often with severe diastasis recti and prolapse. Antony is known for his sharp clinical reasoning skills and the “do something different” credo. Through Antony Lo I discovered [Embodia](https://embodiaapp.com/) physiotherapy training platform and found plenty of great content there on female athletes, pelvic floors and hormones. Highly recommended for any health or fitness professional working with women! 
  
- Through case studies of female athletes I've learnt that intra-abdominal pressure management is a motor skill you can learn. 
+ Through case studies of female athletes, I've learnt that intra-abdominal pressure management is a motor skill you can learn. 
  
  > You can lift heavy after having babies, even with abdominal separation and prolapse – as long as you train just below the symptom threshold.
 
