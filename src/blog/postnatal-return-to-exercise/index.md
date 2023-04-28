@@ -1,7 +1,7 @@
 ---
 title: "Training After the Baby"
 subTitle: "What is the Current Evidence and Clinical Practice?"
-date: "2023-04-17T10:00:00.000Z"
+date: "2023-04-27T10:00:00.000Z"
 path: "/postnatal-return-to-exercise/"
 tags: ["biomechanics", "women's health"]
 featuredImage: female-athlete2.jpg
