@@ -60,10 +60,8 @@ So, what did I do?
 I focused on improving my thoracic mobility – releasing the erector spinae on a foam roller or rolling over a pool noodle horizontally placed across my back to fit in between the vertebrae and massage the back of the ribs. Even after minutes of rolling I could already feel more even movement across the torso at inhalation, instead of just my belly inflating. Finally, I could “breathe into the lats”!
 
 2.	Exhalation  
-I needed to downregulate the external obliques, so they don’t keep driving the exhalation and pushing the abdominal content down.
-
-I practised placing the hands just under the lower ribs and trying to keep this area relaxed while exhaling – using humming sound would help me to reflexively engage the deep abdominal muscles.
-
+I needed to downregulate the external obliques, so they don’t keep driving the exhalation and pushing the abdominal content down.  
+I practised placing the hands just under the lower ribs and trying to keep this area relaxed while exhaling – using humming sound would help me to reflexively engage the deep abdominal muscles.  
 Also, I learnt how to spot and avoid bearing down – thinking of lifting up from the base of the torso at exhalation instead (effort 2/10). 
 
 Rebuilding the foundation, I could stop creating the outward and downward pressure. And now I had a much better foundation on which I could build up intensity and impact.
