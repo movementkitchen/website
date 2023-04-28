@@ -1,6 +1,6 @@
 ---
-title: "Postnatal Return to Exercise - Are we asking the right questions?"
-subTitle: " "
+title: "Training After the Baby"
+subTitle: "Are we asking the right questions?"
 date: "2023-04-17T10:00:00.000Z"
 path: "/postnatal-return-to-exercise/"
 tags: ["biomechanics", "women's health"]
@@ -48,10 +48,10 @@ These strategies in combination made it very difficult for my body to heal the m
 
 So, what did I do? – went back all the way to breathing and rebuilt from there
 
-1.	Inhalation
+1.	Inhalation  
 I focused on improving my thoracic mobility – releasing the erector spinae on a foam roller or rolling over a pool noodle horizontally placed across my back to fit in between the vertebrae and massage the back of the ribs. Even after minutes of rolling I could already feel more even movement across the torso at inhalation, instead of just my belly inflating. Finally, I could “breathe into the lats”!
 
-2.	Exhalation
+2.	Exhalation  
 I needed to downregulate the external obliques, so they don’t keep driving the exhalation and pushing the abdominal content down.
 
 I practised placing the hands just under the lower ribs and trying to keep this area relaxed while exhaling – using humming sound would help me to reflexively engage the deep abdominal muscles.
