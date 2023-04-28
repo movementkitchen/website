@@ -4,13 +4,11 @@ title: About
 
 ### About me
 
-Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist with over a decade of experience supporting women through pregnancy, postnatal recovery and menopause. I have a special interest in mechanisms of injuries, ageing, and women's health and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I’m passionate about bringing elite-athlete-level of care to everyday mums who could never afford a team of experts standing behind them. I'm also a mum of two (born by a C-section and a homebirth after cesaerean) with a lived experience of overcoming a severe diastasis recti and chronic back pain. When I don't research, teach or write, you can usually find me drawing in Walthamstow Marshes with my 7- and 9-year-olds.
+Hi there! I’m Ivana, a sports biomechanics scientist, coach and writer with over a decade of experience supporting women through pregnancy, postnatal recovery and menopause. I have a special interest in mechanisms of injuries, ageing, and women's health and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I’m passionate about bringing elite-athlete-level of care to any mum. I'm also a mum of two (born by a C-section and a homebirth after cesaerean) with a lived experience of overcoming a severe diastasis recti and chronic back pain. When I don't research, teach or write, you can usually find me drawing in Walthamstow Marshes with my 7- and 9-year-olds.
 
 ### About Movement Kitchen
 
-The name Movement Kitchen stands for weaving movement into the everyday, reclaiming the right to move your body on your own terms, in your own space. Kitchen is a feminine and nurturing environment, with hardly any overlaps with the tough, no-pain-no-gain culture of sport and exercise. It's a space for creating - intentionally and serendipitously, for playing and trying things out. Anything is allowed in the kitchen, no make-up required, no dress code, no body image obsession. You can relax and be you.
-
-My studio really is a kitchen. With large floor to ceiling mirrors, a climbing frame and a variety of exercise props. I try to recreate the safe and intimate atmosphere of a kitchen in my sessions too. My approach is based on research and clinical practice but guided by empathy and intuition. It offers a supportive environment for you to get to know your body and its capabilities, and develop a nourishing long-term relationship with exercise. 
+Kitchen is a feminine and nurturing environment, a space for creating, playing and experimenting. My studio really is a kitchen. With large floor to ceiling mirrors, a climbing frame and a variety of exercise props. I try to recreate the safe and intimate atmosphere of a kitchen in my sessions too. My approach is based on research and clinical practice but guided by empathy and intuition. It offers a supportive environment for you to get to know your body and its capabilities, and develop a nourishing long-term relationship with exercise. 
 
 
 ### My Education
