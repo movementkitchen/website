@@ -8,7 +8,7 @@ Hi there! I’m Ivana, a sports biomechanics scientist, coach and writer with ov
 
 ### About Movement Kitchen
 
-Kitchen is a feminine and nurturing environment, a space for creating, playing and experimenting. My studio really is a kitchen. With large floor to ceiling mirrors, a climbing frame and a variety of exercise props. I try to recreate the safe and intimate atmosphere of a kitchen in my sessions too. My approach is based on research and clinical practice but guided by empathy and intuition. It offers a supportive environment for you to get to know your body and its capabilities, and develop a nourishing long-term relationship with exercise. 
+Kitchen is a feminine and nurturing environment, a space for creating, playing and experimenting. My studio really is a kitchen – with large mirrors, a climbing frame and a variety of exercise props. I aim to create the safe and intimate atmosphere of a kitchen in my sessions too. My approach is based on research and clinical practice but guided by empathy and intuition. Movement Kitchen offers a safe and supportive environment for you to get to know your body and its abilities, as they change, and develop a nourishing long-term relationship with exercise. 
 
 
 ### My Education
