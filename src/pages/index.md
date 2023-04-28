@@ -39,11 +39,16 @@ This is a great place to start strengthening your abdominal muscles after pregna
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yTU6doX7bmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Once the deep core is working, we can add three-dimensional movements and extra weight.[......](https://youtu.be/V3MOofTKTo0) 
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yTU6doX7bmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Can you have a strong upper body workout with a weakened core?[......](https://www.youtube.com/watch?v=yTU6doX7bmU) 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V3MOofTKTo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Once the deep core is working, we can add three-dimensional movements and extra weight[......](https://youtu.be/V3MOofTKTo0) 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3D Core and Pelvic Floor Vipr Sequence - 3D Core and Pelvic Floor Vipr Sequence [......](https://youtu.be/T4adDYory84) 
+" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+3D Core and Pelvic Floor Vipr Sequence - A great progression for a nearly recovered new mum[......](https://youtu.be/T4adDYory84) 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A0oJMoF9PHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
