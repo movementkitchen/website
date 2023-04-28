@@ -33,7 +33,7 @@ Another great approach I found was [Brianna Battles’](https://www.briannabattl
  
  Through case studies of female athletes I've learnt that intra-abdominal pressure management is a motor skill you can learn. You can lift heavy after having babies, even with abdominal separation and prolapse, without making them worse. 
  
- > The trick is to train below the symptom threshold.
+ > The trick is to train just below the symptom threshold.
 
 Luckily, the sport medicine and science research is slowly picking up too and there are now multiple teams of (often all female) scientists and clinicians fighting to fill the gap in studying women. In the last 3-4 years, there have been a couple of great studies on postnatal return to sport, and running in particular (check out Donnelly et al., 2020, 2021; Deering et al, 2020; Christopher et al., 2022; Selman et al, 2022). I will link the studies in the resources below.
 
