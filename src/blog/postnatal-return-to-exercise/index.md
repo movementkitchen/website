@@ -78,7 +78,7 @@ But the thing is, we can. The pelvic floor is a sling of muscles that are, as an
 
 > There is evidence that high impact whole-body exercises are as effective at training the pelvic floor muscles as the current gold standard.
 
-We need to build multi-disciplinary support networks for mums returning to exercise, and as musculoskeletal specialists we need to do our part. We need to ask the right questions to make our clients feel safe and heard and think about their pelvic floors when designing the exercise programmes. Pelvic floor health needs to be out of the taboo domain. Don’t be afraid to ask!
+We need to build multi-disciplinary support networks for mums returning to exercise, and as musculoskeletal specialists we need to do our part. We need to ask the right questions to make the women feel safe and heard and think about their pelvic floors when designing the exercise programmes. Pelvic floor health needs to be out of the taboo domain. Don’t be afraid to ask!
 
 In the next post I will list concrete ways in which we can support our female clients with their pelvic floor health – within the scope of the musculoskeletal approach.
 
