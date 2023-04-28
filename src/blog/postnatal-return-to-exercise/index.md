@@ -1,6 +1,6 @@
 ---
 title: "Training After the Baby"
-subTitle: "Are we asking the right questions?"
+subTitle: "What is the Current Evidence and Clinical Practice?"
 date: "2023-04-17T10:00:00.000Z"
 path: "/postnatal-return-to-exercise/"
 tags: ["biomechanics", "women's health"]
@@ -11,25 +11,31 @@ featuredImage: female-athlete2.jpg
 
 Trying to solve a puzzle of my postnatal re-injuries, I ended up at a master’s degree programme in sports biomechanics. Even after years of working with pregnant and postnatal women, completing numerous courses and learning on my own body, I always thought there was something out there I still didn’t know and if I only understood that one more piece, I’d figure out why my body never felt the same after the babies.  
 
-It was my belly that felt weak and unable to support me in building up my training intensity. Even though I was seemingly recovered from the severe abdominal separation I suffered after the birth of my first child 9 years ago, whenever I lifted something heavy, I still felt like my belly would fall apart. Following any bout of intense exercise that would require my abdominals to do their part I would feel bloated and weak for days, as if I had regressed to being freshly postnatal. I just couldn’t understand why my body struggled with regulating the pressure inside my abdomen – even 7 years after my last pregnancy. I was worried that my lack of abdominal integrity could get worse with ageing and cause other problems, such as pelvic organ prolapse, as there is some evidence that abdominal separation makes you more likely to have a pelvic floor disorder with menopause (Harada, 2020). I had no answers – I felt stuck.
+> My belly felt weak and unable to support me in building up my training intensity.
+
+Even though I was seemingly recovered from the severe abdominal separation I suffered after the birth of my first child 9 years ago, whenever I lifted something heavy, I still felt like my belly would fall apart. Following any bout of intense exercise that would require my abdominals to do their part I would feel bloated and weak for days, as if I had regressed to being freshly postnatal. I just couldn’t understand why my body struggled with regulating the pressure inside my abdomen – even 7 years after my last pregnancy. I was worried that my lack of abdominal integrity could get worse with ageing and cause other problems, such as pelvic organ prolapse, as there is some evidence that abdominal separation makes you more likely to have a pelvic floor disorder with menopause (Harada, 2020). I had no answers – I felt stuck.
 
 But sport science offered little answers. I had expected that the childbirth, as the most challenging athletic endeavour in a woman’s lifetime, would imply a rehab similar to the ones following sports injuries, but there was hardly any evidence or guidelines for female athletes who wanted to continue to train while pregnant and return to sport after having a baby. 
 
-The sport science seemed barely interested in studying women, even before postnatal injuries. I was shocked to find out that [only 4 - 13% of all sport medicine and science studies had exclusively female participants](https://journals.humankinetics.com/view/journals/ijsnem/32/2/article-p114.xml), even though, roughly half of participants in athletic events nowadays, such as the Tokyo 2020 Olympics, would be women. Traditionally, sport science studies have the “typical 70 kg man” as a reference participant, and the findings are by proxy applied to women. 
+The sport science seemed barely interested in studying women, even before postnatal injuries. 
+
+> I was shocked to find out that only [4 - 13% ](https://journals.humankinetics.com/view/journals/ijsnem/32/2/article-p114.xml) of sport medicine and science studies were focused on women, even though half of participants in athletic events nowadays, such as the Tokyo 2020 Olympics, are female. 
+
+Traditionally, sport science studies have the “typical 70 kg man” as a reference participant, and the findings are by proxy applied to women. 
 
 So, even though I spent the two years of my part-time master’s using every opportunity to research women in sport and graduated with a distinction, most of what I learnt about postnatal recovery was outside of my master’s programme. 
 
-I was fortunate to discover [Jenny Burrell](https://www.burrelleducation.com/) and her work with active pregnant and postnatal women that focused on core and pelvic floor rehab – starting from breathing and soft tissue releases and building all the way up to strength and plyometrics. Jenny comes from fitness background and her experience of hysterectomy and stress incontinence made her dedicate her entire career to serving women and training fitness professionals in women’s health. What I really appreciate about her is her generalist mind and constant learning (she is just finishing her masters in psychology of mental health). She is brilliant at bringing together great minds across a variety of fields related to women’s health and integrating all these approaches into practical, no-nonsense courses and resources. Check out Burrell Education website and her Vimeo account for a lot of useful and up-to-date content. 
+I was fortunate to discover [Jenny Burrell](https://www.burrelleducation.com/) and her work with active pregnant and postnatal women that focused on core and pelvic floor rehab – starting from breathing and soft tissue releases and building all the way up to strength and plyometrics. Jenny comes from fitness background and her experience of hysterectomy and stress incontinence made her dedicate her entire career to serving women and training fitness professionals in women’s health. What I really appreciate about her is her generalist mind and constant learning (she is just finishing her masters in psychology of mental health). She is brilliant at bringing together great minds across a variety of fields related to women’s health and integrating all these approaches into practical, no-nonsense courses and resources. Check out Burrell Education website and her [Vimeo](https://vimeo.com/user9926600) for a lot of useful and up-to-date content. 
 
-Another great approach I found was [Brianna Battles’](https://www.briannabattles.com/) take on pregnancy and postnatal athleticism, drawing onto her own athletic background, clinical practice and research. Brianna was part of a team that recently published an excellent peer-reviewed article on postpartum return to sport, that included a concrete timeline and a plan for musculoskeletal rehabilitation from week 0 to weeks 13+ postpartum. Her Instagram and the website have an abundance of free resources on weightlifting and CrossFit in pregnancy and after the baby, for both fitness professionals and the mums themselves.
+Another great approach I found was [Brianna Battles’](https://www.briannabattles.com/) take on pregnancy and postnatal athleticism, drawing onto her own athletic background, clinical practice and research. Brianna was part of a team that recently published an excellent peer-reviewed [article](https://ijspt.scholasticahq.com/article/37863-maximizing-recovery-in-the-postpartum-period-a-timeline-for-rehabilitation-from-pregnancy-through-return-to-sport) on postpartum return to sport, that included a concrete timeline and a plan for musculoskeletal rehabilitation from week 0 to weeks 13+ postpartum. Her  website has an abundance of free resources on weightlifting and CrossFit in pregnancy and after the baby for both fitness professionals and new mums.
 
- Then, I was blown away by the work of [Anthony Lo](https://mypteducation.com/), The Physio Detective, with female athletes returning to sport after childbirth, often with severe diastasis recti and prolapse. Antony is known for his sharp clinical reasoning skills and the “do something different” credo. Watching his intriguing case studies of postpartum athletes, I’ve learnt that intra-abdominal pressure management is a motor skill you can learn and you can lift heavy after having babies, even with abdominal separation and prolapse, without making them worse. The trick is to train below the symptom threshold.
+ Then, I was blown away by [Anthony Lo's](https://mypteducation.com/) work with female athletes returning to sport after childbirth, often with severe diastasis recti and prolapse. Antony is known for his sharp clinical reasoning skills and the “do something different” credo. Through Antony Lo I discovered [Embodia](https://embodiaapp.com/) physiotherapy training platform and found plenty of great content there on female athletes, pelvic floors and hormones. Highly recommended for any health or fitness professional working with women! 
+ 
+ Through case studies of female athletes I've learnt that intra-abdominal pressure management is a motor skill you can learn. You can lift heavy after having babies, even with abdominal separation and prolapse, without making them worse. 
+ 
+ > The trick is to train below the symptom threshold.
 
-Through Antony Lo I discovered [Embodia](https://embodiaapp.com/) physiotherapy training platform and found plenty of great content there on female athletes, pelvic floors and hormones. Highly recommended for any health or fitness professional working with women!
-
-Luckily, the sport medicine and science research is slowly picking up too and there are now multiple teams of (often all female) scientists and clinicians fighting to fill the gap in studying women. In the last 3-4 years, there have been a couple of great studies on postnatal return to sport, and running in particular (check out Donnelly et al., 2020, 2021; Deering et al, 2020; Christopher et al., 2022; Selman et al, 2022…). I will link the studies in the resources below.
-
-All these were pretty revolutionary ideas compared to what was available when I had my babies 9 and 7 years ago and the advice was either ‘don’t lie on your back’, “don’t lift anything heavier than a yoga brick” or ‘look, I can do a handstand with a 35-week bump!’ – extremely confusing and contradictory.
+Luckily, the sport medicine and science research is slowly picking up too and there are now multiple teams of (often all female) scientists and clinicians fighting to fill the gap in studying women. In the last 3-4 years, there have been a couple of great studies on postnatal return to sport, and running in particular (check out Donnelly et al., 2020, 2021; Deering et al, 2020; Christopher et al., 2022; Selman et al, 2022). I will link the studies in the resources below.
 
 Back to my story: why did I have trouble with regulating my intra-abdominal pressure – years after my second baby was born?
 
@@ -46,7 +52,9 @@ Also, as I learnt how to externally palpate the pelvic floor during exercises (I
 
 These strategies in combination made it very difficult for my body to heal the midline. Probably with time, my pelvic floor would have started to give in too.
 
-So, what did I do? – went back all the way to breathing and rebuilt from there
+So, what did I do? 
+
+> I went back all the way to breathing and rebuilt from there.
 
 1.	Inhalation  
 I focused on improving my thoracic mobility – releasing the erector spinae on a foam roller or rolling over a pool noodle horizontally placed across my back to fit in between the vertebrae and massage the back of the ribs. Even after minutes of rolling I could already feel more even movement across the torso at inhalation, instead of just my belly inflating. Finally, I could “breathe into the lats”!
@@ -62,13 +70,15 @@ Rebuilding the foundation, I could stop creating the outward and downward pressu
 
 And this made me think: was I asking the right questions in my postnatal return to exercise? 
 
-Did I have the right tools to spot that I was pushing my organs down – especially when I thought that my pelvic floor was contracting?
+I realised that, in the 10+ years of my work with pregnant and postnatal women, I asked little about the pelvic floor. 
 
-I realised that, in the 10+ years of my work with pregnant and postnatal women, I asked little about the pelvic floor and I probably often missed what was going on under the surface of my clients’ postnatal recovery stories. 
+> Many postnatal symptoms, like diastasis recti, pelvic girdle pain and back pain have to do with pelvic floor muscle strength and coordination. 
 
-Many seemingly unrelated postnatal symptoms, like diastasis recti, pelvic girdle pain and back pain have to do with pelvic floor muscle strength and coordination. Yet, women usually don’t talk about pelvic floors unless you ask. Sometimes, it's just too awkward or they just don’t think a musculoskeletal professional is a person who could help them.
+Yet, women usually don’t talk about pelvic floors unless you ask. Sometimes, it's just too awkward or they just don’t think a musculoskeletal professional is a person who could help them.
 
-But the thing is, we can. The pelvic floor is a sling of muscles, the same as any other striated muscles across the body, meant to generate force. They work together with the rest of the musculoskeletal system and respond to training. And it’s not just the isolated pelvic floor exercises that count. There is evidence that dynamic, whole-body training is equally effective in training the pelvic floor muscles (Luginbuehl, 2022; Fricke; 2023).
+But the thing is, we can. The pelvic floor is a sling of muscles that are, as any other striated muscles across the body, meant to generate force. They work together with the rest of the musculoskeletal system and respond to training. And it’s not just the isolated pelvic floor exercises that count (Luginbuehl, 2022; Fricke; 2023). 
+
+> There is evidence that high impact whole-body exercises are as effective at training the pelvic floor muscles as the current gold standard.
 
 We need to build multi-disciplinary support networks for mums returning to exercise, and as musculoskeletal specialists we need to do our part. We need to ask the right questions and make our clients feel safe and heard. Pelvic floor health needs to be out of the taboo domain. Don’t be afraid to ask!
 
