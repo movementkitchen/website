@@ -3,7 +3,7 @@ title: "Training After the Baby"
 subTitle: "What is the Current Evidence and Clinical Practice?"
 date: "2023-04-27T10:00:00.000Z"
 path: "/postnatal-return-to-exercise/"
-tags: ["biomechanics", "women's health"]
+tags: ["postpartum exercise", "women's health" "pelvic floor" "diastasis recti" "pelvic health" "female athlete" "sport science"]
 featuredImage: female-athlete2.jpg
 ---
 
@@ -72,7 +72,7 @@ I realised that, in the 10+ years of my work with pregnant and postnatal women, 
 
 > Many seemingly unrelated postnatal symptoms, like diastasis recti, pelvic girdle pain and back pain have to do with pelvic floor muscle coordination. 
 
-And it's not always about the weak muscles that need to be strengthened. Pelvic floor symptoms, such as sneeze-pee or leaking at impact could sometimes be a sign of a tight pelvic floor that gets fatigued and can’t coordinate the tasks. Many female athletes indeed have a pelvic floor that is overactive rather than weak, even postnatally.
+And it's not always about the weak muscles that need to be strengthened. Pelvic floor symptoms, such as sneeze-pee or leaking at impact, could sometimes be a sign of a tight pelvic floor that gets fatigued and can’t coordinate the tasks. Many female athletes indeed have a pelvic floor that is overactive rather than weak, even postnatally.
 
 Women usually don’t talk about pelvic floors unless you ask. Sometimes, it's just too awkward or they just don’t think a musculoskeletal professional is a person who could help them. 
 
