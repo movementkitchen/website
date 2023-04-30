@@ -70,13 +70,13 @@ And this made me think: was I asking the right questions in my postnatal return 
 
 I realised that, in the 10+ years of my work with pregnant and postnatal women, I asked little about the pelvic floor. 
 
-> Many postnatal symptoms, like diastasis recti, pelvic girdle pain and back pain have to do with pelvic floor muscle strength and coordination. 
+> Many seemingly unrelated postnatal symptoms, like diastasis recti, pelvic girdle pain and back pain have to do with pelvic floor muscle coordination. 
 
-Yet, women usually don’t talk about pelvic floors unless you ask. Sometimes, it's just too awkward or they just don’t think a musculoskeletal professional is a person who could help them.
+And it's not always about the weak muscles that need to be strengthened. Pelvic floor symptoms, such as sneeze-pee or leaking at impact could sometimes be a sign of a tight pelvic floor that gets fatigued and can’t coordinate the tasks. Many female athletes indeed have a pelvic floor that is overactive rather than weak, even postnatally.
 
-But the thing is, we can. The pelvic floor is a sling of muscles that are, as any other striated muscles across the body, meant to generate force. They work together with the rest of the musculoskeletal system and respond to training. And it’s not just the isolated pelvic floor exercises that count (Luginbuehl, 2022; Fricke; 2023). 
+Women usually don’t talk about pelvic floors unless you ask. Sometimes, it's just too awkward or they just don’t think a musculoskeletal professional is a person who could help them. 
 
-> There is evidence that high impact whole-body exercises are as effective at training the pelvic floor muscles as the current gold standard.
+But the thing is, we can. The pelvic floor is a sling of muscles that are, as any other striated muscles across the body, meant to generate force. They work together with the rest of the musculoskeletal system and respond to training. And it’s not just the isolated pelvic floor exercises that count. There is evidence that high impact whole-body exercises are at least as effective at training the pelvic floor muscles (Luginbuehl, 2022; Fricke; 2023).
 
 We need to build multi-disciplinary support networks for mums returning to exercise, and as musculoskeletal specialists we need to do our part. We need to ask the right questions to make the mums feel safe and heard and think about their pelvic floors when designing the exercise programmes. Pelvic floor health needs to be out of the taboo domain. Don’t be afraid to ask!
 
