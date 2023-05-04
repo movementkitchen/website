@@ -3,7 +3,7 @@ title: "Training After the Baby"
 subTitle: "What is the Current Evidence and Clinical Practice?"
 date: "2023-04-27T10:00:00.000Z"
 path: "/postnatal-return-to-exercise/"
-tags: ["postpartum exercise", "women's health" "pelvic floor" "diastasis recti" "pelvic health" "female athlete" "sport science"]
+tags: ["postpartum exercise", "women's health", "pelvic floor", "diastasis recti", "pelvic health", "female athlete", "sport science"]
 featuredImage: female-athlete2.jpg
 ---
 
