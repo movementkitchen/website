@@ -2,12 +2,10 @@
 title: Movement coaching
 ---
 We will work together to figure out:
-1.	What is the problem?
-2.	What is the mechanism of injury/reinjury?
-3.	What is the recovery strategy?
-4.	What is the timeline of your recovery and building back towards your fitness goals?
-
-My task is to break your big goals into smaller achievable ones.
+1. What is your fitness goal?
+2. Where are you right now? - symptoms? movement strategies? mechanisms of injuries? strength and endurance?
+3. What is the action plan for reaching your goal?
+4. What are milestones and a realistic timeline?
 
 You can choose between in-person sessions in our London E10 studio, online sessions or the physical-online combination. 
 
@@ -29,7 +27,7 @@ Then, depending on your goals and commitment, you can choose between:
 - Photos and video snippets of movements
 - Short custom made exercise sequences
 - WhatsApp support for your questions and exercise modifications
-- Valid for 2 months
+- Valid for 8 weeks
 - Price £400
 
 #### Full coaching package
@@ -38,7 +36,7 @@ Then, depending on your goals and commitment, you can choose between:
 - Photos and video snippets of movements
 - Short custom made exercise sequences
 - WhatsApp support for your questions and exercise modifications
-- Valid for 4 months
+- Valid for 15 weeks
 - Price £700
 
 You can reschedule each individal session up to 24 hours beforehand.
@@ -50,10 +48,8 @@ You can reschedule each individal session up to 24 hours beforehand.
 
 In the early stages of coaching, you will learn tools to relieve pain so you can handle flare-ups. As we progress, we will work on preventing the pain before it happens.
 
-Following each one-to-one session, we will create an action plan with exercises that you can practise until your next session. As you meet your milestones, we can progress further, step by step to your goal.
+Each week, we will create an action plan with exercises that you can practise until your next session. As you meet your milestones, we can progress further, step by step to your goal.
 
 The exercises are performed with focus and precision – working out smarter, not necessarily harder. A lot of our work focuses on the nervous system and motor control. You will learn how to isolate and control small movements, building towards more complex and more physically demanding movements as you get stronger.
 
-It is crucial that you do your exercises for at least 10 min daily. If you don't yet exercise regularly, it’s the easiest if you tie the new practice to an existing habit, e.g. straight before or right after brushing your teeth or do them as a first or last thing in the day.
-
-It is very important to keep consistency of daily practice during the whole 3/6 months of coaching, so you can meet your weekly milestones and progress towards your goal.
+It is important to keep consistency of practice during the whole period of coaching, so you can meet your weekly milestones and progress towards the goal.

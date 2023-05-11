@@ -25,7 +25,7 @@ You might be going through perimenopause and want to build training to help you 
 
 Working together, we will create an action plan with weekly milestones to help you reach your health and fitness goals – from rehab to performance.  
 
-Book your introductory session[here](https://calendly.com/movementkitchen/initial-assessment).
+Book your introductory session [here](https://calendly.com/movementkitchen/initial-assessment).
 
 
 ### Featured Videos
