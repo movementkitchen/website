@@ -23,7 +23,7 @@ Maybe you are an expectant mum unsure how to adapt your training as your pregnan
 
 You might be going through perimenopause and want to build training to help you gain muscle, increase energy levels and feel your best through the menopausal transition. Or maybe you are post-menopausal, looking to build strength, improve pelvic health, build strong bones and stay active for decades to come. 
 
-Working together, we will create an action plan with weekly milestones to help you reach your health and fitness goals –from rehab to performance.  
+Working together, we will create an action plan with weekly milestones to help you reach your health and fitness goals – from rehab to performance.  
 
 Book your introductory session[here](https://calendly.com/movementkitchen/initial-assessment).
 
