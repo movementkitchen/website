@@ -13,13 +13,15 @@ Trying to solve a puzzle of my postnatal re-injuries, I ended up at a master’s
 
 > My belly felt weak and unable to support me in building up my training intensity.
 
-Even though I was seemingly recovered from the severe abdominal separation I suffered after the birth of my first child 9 years ago, whenever I lifted something heavy, I felt like my belly would fall apart. Following any bout of intense exercise that would require my abdominals to do their part, I would feel bloated and weak for days, as if I had regressed to being freshly postnatal. I just couldn’t understand why my body struggled with regulating the pressure inside my abdomen – even 7 years after my last pregnancy. I was worried that my lack of abdominal integrity could get worse with ageing and cause other problems, such as pelvic organ prolapse, as there is some evidence that abdominal separation makes you more likely to have a pelvic floor disorder with menopause (Harada, 2020). I had no answers – I felt stuck.
+Even though I was seemingly recovered from the severe abdominal separation I suffered after the birth of my first child 9 years ago, whenever I lifted something heavy, I felt like my belly would fall apart. Following any bout of intense exercise that would require my abdominals to do their part, I would feel bloated and weak for days, as if I had regressed to being freshly postnatal. 
+
+I just couldn’t understand why my body struggled with regulating the pressure inside my abdomen – even 7 years after my last pregnancy. I was worried that my lack of abdominal integrity could get worse with ageing and cause other problems, such as pelvic organ prolapse, as there is some evidence that abdominal separation makes you more likely to have a pelvic floor disorder with menopause (Harada, 2020). I had no answers – I felt stuck.
 
 But sport science offered little answers. I had expected that the childbirth, as the most challenging athletic endeavour in a woman’s lifetime, would imply a rehab similar to the ones following sports injuries, but there was hardly any evidence or guidelines for female athletes who wanted to continue to train while pregnant and return to sport after having a baby. 
 
 The sport science seemed barely interested in studying women, even before postnatal injuries. 
 
-> I was shocked to find out that only [4 - 13% ](https://journals.humankinetics.com/view/journals/ijsnem/32/2/article-p114.xml) of sport medicine and science studies were focused on women, even though half of participants in athletic events nowadays, such as the Tokyo 2020 Olympics, are female. 
+> I was shocked to find out that only [4 - 13% ](https://journals.humankinetics.com/view/journals/ijsnem/32/2/article-p114.xml) of sport medicine and science studies were focused on women, even though half of participants in athletic events nowadays, such as the Tokyo 2020 Olympics, would be female. 
 
 Traditionally, sport science studies have the “typical 70 kg man” as a reference participant, and the findings are by proxy applied to women. 
 
@@ -29,13 +31,13 @@ I was fortunate to discover [Jenny Burrell](https://www.burrelleducation.com/) a
 
 Another great approach I found was [Brianna Battles’](https://www.briannabattles.com/) take on pregnancy and postnatal athleticism, drawing onto her own athletic background, clinical practice and research. Brianna was part of a team that recently published an excellent peer-reviewed [article on postpartum return to sport](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9528725/) in the International Journal of Sports Physical Therapy, with a detailed [protocol for designing exercise from the beginning of pregnancy to weeks 13+ postpartum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9528725/table/attachment-97437/?report=objectonly). Her  website has an abundance of free resources on weightlifting and CrossFit in pregnancy and after the baby for both fitness professionals and new mums.
 
- Then, I was blown away by [Anthony Lo's](https://mypteducation.com/) work with female athletes returning to sport after childbirth, often with severe diastasis recti and prolapse. Antony is known for his sharp clinical reasoning skills and the “do something different” credo. Through Antony Lo I discovered [Embodia](https://embodiaapp.com/) physiotherapy training platform and found plenty of great content there on female athletes, pelvic floors and hormones. Highly recommended for any health or fitness professional working with women! 
- 
- Through case studies of female athletes, I've learnt that intra-abdominal pressure management is a motor skill you can learn. 
+ Then, I was blown away by [Anthony Lo's](https://mypteducation.com/) work with female athletes returning to sport after childbirth, often with severe diastasis recti and prolapse. Antony is known for his sharp clinical reasoning skills and the “do something different” credo. Going through multiple case studies of female athletes, I’ve learnt that intra-abdominal pressure management is a motor skill you can learn. 
  
  > You can lift heavy after having babies, even with abdominal separation and prolapse – as long as you train just below the symptom threshold.
 
-Luckily, the sport medicine and science research is slowly picking up too and there are now multiple teams of (often all female) scientists and clinicians fighting to fill the gap in studying women. In the last 3-4 years, there have been a couple of great studies on postnatal return to sport, and running in particular (check out Donnelly et al., 2020, 2021; Deering et al, 2020; Christopher et al., 2022; Selman et al, 2022). I will link the studies in the resources below.
+Through Antony Lo I discovered [Embodia](https://embodiaapp.com/) physiotherapy training platform and found plenty of great content there on female athletes, pelvic floors and hormones. Highly recommended for any health or fitness professional working with women! 
+
+Luckily, the sport medicine and science research is slowly picking up too and there are now multiple teams of (often all-female) scientists and clinicians fighting to fill the gap in studying women. In the last 3-4 years, there have been a couple of great studies on postnatal return to sport, and running in particular (check out Donnelly et al., 2020, 2021; Deering et al, 2020; Christopher et al., 2022; Selman et al, 2022. I will link the studies in the resources below).
 
 Back to my story: why did I have trouble with regulating my intra-abdominal pressure – years after my second baby was born?
 
@@ -64,7 +66,7 @@ I needed to downregulate the external obliques, so they don’t keep driving the
 I practised placing the hands just under the lower ribs and trying to keep this area relaxed while exhaling – using humming sound would help me to reflexively engage the deep abdominal muscles.  
 Also, I learnt how to spot and avoid bearing down – thinking of lifting up from the base of the torso at exhalation instead (effort 2/10). 
 
-Rebuilding the foundation, I could stop creating the outward and downward pressure. And now I had a much better foundation on which I could build up intensity and impact.
+By rebuilding the foundation, I could stop creating the outward and downward pressure. And now I had a much better foundation on which I could build up intensity and impact.
 
 And this made me think: was I asking the right questions in my postnatal return to exercise? 
 
