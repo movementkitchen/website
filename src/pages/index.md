@@ -17,7 +17,7 @@ testimonials:
 ---
 Movement Kitchen offers an evidence-based precision training for women bridging physiotherapy and strength and conditioning - focusing on women’s musculoskeletal, pelvic and hormonal needs in a particular stage of their lives – pregnancy, postnatal period, perimenopause and menopause.
 
-You might feel that conventional exercise is not serving you – e.g., you keep getting injured at the gym, hurt for days after training. Or maybe you live with endometriosis, back pain, pelvic organ prolapse or another chronic health condition and want to find a way how to exercise and get stronger in a way that works for you.
+You might feel that conventional exercise is not serving you – you keep getting injured at the gym or hurt for days after training. Or maybe you live with endometriosis, back pain, pelvic organ prolapse or another chronic health condition and want to find a way how to exercise and get stronger in a way that works for you.
 
 Maybe you are an expectant mum who is not sure how to exercise and adapt your training as your pregnancy progresses, or a postpartum mum who wants to reclaim a strong body after having a baby and return to exercise or competitive sports. Or maybe you’ve a baby years ago but feel that your core and the pelvic floor never fully recovered. 
 
