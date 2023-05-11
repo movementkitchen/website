@@ -9,7 +9,7 @@ We will work together to figure out:
 
 You can choose between in-person sessions in our London E10 studio, online sessions or the physical-online combination. 
 
-With online sessions you can log in on two devices, so we can have a view from two different angles. You also get the bonus of full session recordings for you to keep.
+With online sessions you can log in on two devices, so we can have a view from two different angles. You also get the bonus of session recordings.
 
 ### Practical Details
 
