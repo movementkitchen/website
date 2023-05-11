@@ -15,7 +15,7 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers evidence-based precisiontraining for women that bridges physiotherapy and strength and conditioning -addressing women's musculoskeletal, pelvic, and hormonal needs during differentlife stages (such as pregnancy, postpartum, perimenopause, and menopause). 
+Movement Kitchen offers evidence-based precision training for women that bridges physiotherapy and strength and conditioning -addressing women's musculoskeletal, pelvic, and hormonal needs during different life stages (such as pregnancy, postpartum, perimenopause, and menopause). 
 
 You might feel that conventional exercise isnot serving you well – you keep getting injured at the gym or hurt for daysafter training. Or maybe you live with a chronic health condition likeendometriosis, pelvic organ prolapse or back pain and want to find a way toexercise and get stronger without aggravating symptoms. 
 
