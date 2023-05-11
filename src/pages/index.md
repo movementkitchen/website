@@ -15,19 +15,18 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers a personalised, athlete-level of rehabilitation and support to any woman who wants to reclaim a strong body after pregnancy or injuries and return to an active lifestyle.
+Movement Kitchen offers an evidence-based precision training for women bridging physiotherapy and strength and conditioning - focusing on women’s musculoskeletal, pelvic and hormonal needs in a particular stage of their lives – pregnancy, postnatal period, perimenopause and menopause.
 
-Bridging physiotherapy and strength and conditioning, we offer evidence-based training for mums or any humans who want to:
+You might feel that conventional exercise is not serving you – e.g., you keep getting injured at the gym, hurt for days after training. Or maybe you live with endometriosis, back pain, pelvic organ prolapse or another chronic health condition and want to find a way how to exercise and get stronger in a way that works for you.
 
-* Lift and carry their children or groceries without pain and discomfort
-* Lift weights or join a fun exercise class without being in pain afterwards
-* Run and jump without leaking or a feeling of heaviness in their pelvis
-* Climb, hike, dance, surf, skate feeling strong and comfortable in their bodies
-* Return to competitive sports
+Maybe you are an expectant mum who is not sure how to exercise and adapt your training as your pregnancy progresses, or a postpartum mum who wants to reclaim a strong body after having a baby and return to exercise or competitive sports. Or maybe you’ve a baby years ago but feel that your core and the pelvic floor never fully recovered. 
 
-Working together we will create an action plan with weekly milestones to help you build from where you are now to being strong enough to do the activities you love.
+Maybe you are going through perimenopause and want to build training a way that will help you gain muscle, increase energy levels and feel your best through the menopausal transition. Or you might be post-menopausal, looking to build strength, improve pelvic health, build strong bones and stay active for decades to come.
+
+Working together we will create an action plan with weekly milestones to help you reach your health and fitness goals – from rehab to performance. 
 
 Book your introductory session [here](https://calendly.com/movementkitchen/initial-assessment).
+
 
 ### Featured Videos
 
