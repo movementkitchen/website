@@ -17,13 +17,13 @@ testimonials:
 ---
 Movement Kitchen offers evidence-based precision training that bridges physiotherapy and strength and conditioning - focusing on women's musculoskeletal, pelvic, and hormonal needs during different life stages (such as pregnancy, postpartum or menopause). 
 
-You might feel that conventional exercise doesn't serve you well – you keep getting injured at the gym or hurt for days after training. Or maybe you live with a chronic health condition like endometriosis, pelvic organ prolapse or back pain and want to find a way to exercise and get stronger without aggravating symptoms. 
+You might be an expectant mum unsure how to adapt your training as your pregnancy progresses or a postpartum mum who wants to reclaim a strong body after having a baby and return to exercise or competitive sports. Or maybe you had a baby years ago, but your core and the pelvic floor never fully recovered. 
 
-Maybe you are an expectant mum unsure how to adapt your training as your pregnancy progresses or a postpartum mum who wants to reclaim a strong body after having a baby and return to exercise or competitive sports. Or maybe you had a baby years ago, but your core and the pelvic floor never fully recovered.  
+Maybe you feel that conventional exercise doesn't serve you well – you keep getting injured at the gym or hurt for days after training. Or maybe you live with a chronic health condition like endometriosis, pelvic organ prolapse or back pain and want to find a way to exercise and get stronger without aggravating symptoms. 
 
 You might be going through perimenopause and want to build training to help you gain muscle, increase energy levels and feel your best through the menopausal transition. Or maybe you  are postmenopausal, looking to build strength, improve pelvic health, build strong bones and stay active for decades to come. 
 
-Working together, we will create an action plan with weekly milestones to help you reach your health and fitness goals – from rehab to performance.  
+Wherever you are in your life, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals – from rehab to performance.  
 
 Book your introductory session [here](https://calendly.com/movementkitchen/initial-assessment).
 
