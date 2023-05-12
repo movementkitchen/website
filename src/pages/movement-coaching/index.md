@@ -25,7 +25,7 @@ Then, depending on your goals and commitment, you can choose between:
 - 5 X one-to-one sessions (60 min each)
 - Post-session action plans
 - Photos and video snippets of movements
-- Short custom made exercise sequences
+- Short custom-made exercise sequences
 - WhatsApp support for your questions and exercise modifications
 - Valid for 8 weeks
 - Price £400
@@ -34,12 +34,12 @@ Then, depending on your goals and commitment, you can choose between:
 - 10 X one-to-one sessions (60 min each)
 - Post-session action plans
 - Photos and video snippets of movements
-- Short custom made exercise sequences
+- Short custom-made exercise sequences
 - WhatsApp support for your questions and exercise modifications
 - Valid for 15 weeks
 - Price £700
 
-You can reschedule each individal session up to 24 hours beforehand.
+You can reschedule each individual session up to 24 hours beforehand.
 
 ![Squat](/images/squat.jpg)
 
