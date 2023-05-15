@@ -19,9 +19,9 @@ There are a couple of things to think of before using this clue. The ‘tuck the
 
 > A more pelvic-floor-friendly way to perform mulabandha, would be to try to initiate the lift from midway in between the openings without tucking the tailbone. 
 
-Can you lift with the tailbone untucked? This way we can contract the pelvic floor muscles both eccentrically (as they lengthen) and as they shorten (concentric contraction).
+This way we can contract the pelvic floor muscles both eccentrically (as they lengthen) and as they shorten (concentric contraction).
 
-To be able to identify the right muscle, instead of focusing on action of the tailbone I find it useful to *pay attention to action of sitbones*, which with the lift of the pelvic floor come closer and with the release slide apart.
+To be able to identify the right muscles, instead of focusing on action of the tailbone I find it useful to *pay attention to action of sitbones*, which with the lift of the pelvic floor come closer and with the release slide apart.
 
 There is no need to actively squeeze the sphincters, but just allow the area midway between the openings to gently lift up. I usually say ‘*lift from the base of the torso*’. This way we can promote the toning action of the pelvic floor, without overdoing it.
 
