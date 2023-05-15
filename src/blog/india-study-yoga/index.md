@@ -1,5 +1,5 @@
 ---
-title: "Why go to India to study yoga?"
+title: "Going to India to Study Yoga"
 subTitle: "Maybe we need a cultural shock to experience what it really means to live yoga"
 date: "2015-03-05T10:00:00.000Z"
 path: "/india-study-yoga/"
