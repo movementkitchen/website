@@ -15,7 +15,7 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers evidence-based precision training that **bridges physiotherapy and strength and conditioning** - focusing on women's musculoskeletal, pelvic, and hormonal needs during different life stages (such as pregnancy, postpartum or menopause). 
+Movement Kitchen offers evidence-based precision training that bridges physiotherapy and strength and conditioning - focusing on women's musculoskeletal, pelvic, and hormonal needs during different life stages (such as pregnancy, postpartum or menopause). 
 
 You might be an expectant mum unsure how to adapt your training as your **pregnancy** progresses or a **postpartum** mum who wants to reclaim a strong body after having a baby and return to exercise or competitive sports. Or maybe you had a baby years ago, but your core and the pelvic floor **never fully recovered**. 
 
