@@ -9,9 +9,9 @@ featuredImage: yoga.jpeg
 
 ![Sketches of people doing yoga poses](yoga.jpeg)
 
-It is quite common to hear yoga teachers saying ‘tuck the tailbone under’ when they want to initiate action from the core (mulabandha). This might be useful sometimes, especially working with people who don’t have much awareness of their pelvic floor yet and thinking of tucking the tailbone under can help them access the muscles their brain doesn’t ‘talk to’. But the tucking hint is used way too much and often unnecessarily. Some yoga styles even encourage keeping the tailbone tucked under in most poses for stability.
+It is quite common to hear yoga teachers saying ‘tuck the tailbone under’ when they want to initiate action from the core (mulabandha). This might be useful sometimes, especially working with people who don’t have much awareness of their pelvic floor yet and thinking of tucking the tailbone under can help them access the muscles their brain doesn’t ‘talk to’. But the tucking hint is used way too much and often unnecessarily. Some yoga styles even encourage keeping the tailbone tucked under in most poses, for stability.
 
-There are a couple of things to think of before using this clue. The ‘tuck the tailbone under’ instruction could be:
+There are a couple of things to think of before using this clue. ‘Tuck the tailbone under’ could be:
 
 1. *Misleading* — The pelvic floor lift in yoga (mulabandha) is meant to come from lifting at the central tendon of the pelvic floor (between the openings) and not from the action of the tailbone. Telling students to tuck the tailbone makes them over-activate wrong muscles — gripping the gluteals, tightening the hamstrings, the deep hip rotators and the very back of the pelvic floor, without lifting the central tendon.
 2. *Changing how your core fires* — When you curl the tailbone under trying to stabilise the body, tightening your glutes and the hips together with the rectus abdominis flattens the lower back. [This interferes with the stabilising action of the transversus abdominis (TrA) in front and the lumbar multifidus muscles in the back](http://alinenewton.com/pdf-articles/core.htm). The multifidi can’t work effectively when the back is flat. This is why a lot of people end up with back pain after classes that focus on core strength.
