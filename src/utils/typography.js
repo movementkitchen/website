@@ -36,13 +36,15 @@ const theme = {
         textAlign: 'center',
       },
       blockquote: {
-        ...scale(0.3),
-        lineHeight: 1.4,
+        ...scale(0.2),
         fontWeight: '400',
         color: '#777777',
         paddingLeft: rhythm(5 / 4),
         marginLeft: 0,
         marginRight: 0,
+      },
+      'blockquote p': {
+        lineHeight: 1.5,
       },
       'h1:not(:first-child),h2:not(:first-child),h3:not(:first-child),h4:not(:first-child),h5:not(:first-child),h6:not(:first-child)': {
         marginTop: rhythm(1.75),
@@ -60,6 +62,11 @@ const theme = {
       p: {
         lineHeight: 1.8,
         letterSpacing: '0.1em',
+      },
+      em: {
+        color: options.brandColorPrimaryGreen,
+        fontWeight: '600',
+        fontStyle: 'normal',
       },
       li: {
         lineHeight: 1.8,
