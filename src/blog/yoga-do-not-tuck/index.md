@@ -9,7 +9,7 @@ featuredImage: yoga.jpeg
 
 ![Sketches of people doing yoga poses](yoga.jpeg)
 
-It is quite common to hear yoga teachers saying ‘tuck the tailbone under’ when they want to initiate action from the ‘core’ (mulabandha). This might be useful sometimes, especially working with people who don’t have much awareness of their pelvic floor yet and thinking of tucking the tailbone under can help them access the muscles their brain doesn’t ‘talk to’. But the tucking hint is used way too much and often unnecessarily. Some yoga styles even encourage keeping the tailbone tucked under in most poses for ‘stability’.
+It is quite common to hear yoga teachers saying ‘tuck the tailbone under’ when they want to initiate action from the core (mulabandha). This might be useful sometimes, especially working with people who don’t have much awareness of their pelvic floor yet and thinking of tucking the tailbone under can help them access the muscles their brain doesn’t ‘talk to’. But the tucking hint is used way too much and often unnecessarily. Some yoga styles even encourage keeping the tailbone tucked under in most poses for stability.
 
 There are a couple of things to think of before using this clue. The ‘tuck the tailbone under’ instruction could be:
 
