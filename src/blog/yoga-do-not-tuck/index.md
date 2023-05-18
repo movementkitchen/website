@@ -1,7 +1,7 @@
 ---
 title: "Why not to ‘tuck the tailbone’ in a yoga class"
 subTitle: "A couple of ideas on having a more pelvic-floor-friendly yoga practice"
-date: "2015-10-16T10:00:00.000Z"
+date: "2015-12-16T10:00:00.000Z"
 path: "/yoga-do-not-tuck/"
 tags: ["biomechanics", "yoga"]
 featuredImage: yoga.jpeg
