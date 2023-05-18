@@ -53,8 +53,14 @@ const theme = {
       h2: {
         ...scale(0.35),
       },
+      h3: {
+        ...scale(0.15),
+        color: options.brandColorPrimaryGreen,
+        fontWeight: '600',
+        fontStyle: 'normal',
+      },
       h4: {
-        ...scale(0.25),
+        ...scale(0.15),
       },
       table: {
         ...scale(-1 / 5),

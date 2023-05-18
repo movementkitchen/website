@@ -13,7 +13,7 @@ I am fortunate to live next to the Lea river, in one of the greenest pockets of 
 
 Research shows that musculoskeletal pain, urinary incontinence, abdominal separation (Blyholder et al., 2016) and pelvic organ prolapse are as a matter of fact common amongst postnatal runners. But *just because something is common, it doesn’t mean that it’s normal* — writes Emma Brockwell, a Women’s Health Physiotherapist. This March, Emma teamed with two more UK based physios to publish [Returning to Running Postnatal — Guidelines for medical, health and fitness professionals](https://www.researchgate.net/publication/335928424_Returning_to_running_postnatal_-_guidelines_for_medical_health_and_fitness_professionals_managing_this_population#fullTextFileContent) who support running mums. Using the learning from clinical practice and research in the field of women's health, Brockwell's team is challenging the currently accepted 6/8 weeks timeframe for going back to vigorous exercise after the baby. Instead, they suggest a gradual return to physical activity, increasing impact and intensity with time. Running is a high impact activity, so it would be resumed 3–6 months following the childbirth.
 
-# So, what is that we need to know about running?
+> So, what is that we need to know about running?
 
 Gravity works on the body stronger when you run compared to standing or walking. Even at a moderate speed of 11 km/hour, your body has to handle ground reaction force somewhere between 1.5–2.5 times your body weight (Gottschall & Kram, 2005). And some, if not even all of this is transmitted to the pelvic floor.
 
@@ -33,11 +33,11 @@ Another thing that is a bit different now is the support for your bladder. Follo
 
 Pelvic floor exercises can be a useful tool in the short-term to help you reconnect with the muscles and help them start responding. However, for the fully functioning pelvic floor in the long-term, we want the pelvic floor muscles to reflexively activate as and when you need them. As your pelvic floor supports the weight of your organs all day long, it is already loaded. Adding extra loads needs to be gradual, so the soft tissues covering the floor of the pelvic cavity have time to restore integrity and rebuild their functional strength.
 
-# The Running Checklist for (New) Mums
+## The Running Checklist for (New) Mums
 
 If you are a mum — new or even not so new, who is considering starting to run, you might find it helpful to go through this simple checklist first.
 
-# 1. How long has it been since your baby was born?
+### 1. How long has it been since your baby was born?
 
 Before you start any high impact activity you need to make sure that your soft tissues are in a shape where they can handle the high loads — enough time has passed and the damaged tissues of the pelvic floor and the abdomen have healed.
 
@@ -47,7 +47,7 @@ And even then, it’s important not to push yourself until the proper support to
 
 In the meantime, you can enjoy long nature walks, yoga, pilates, swimming (once lochia stops) or any other gentle, low impact exercise. And you can gradually add in more physically demanding functional movements — squats, lunges, lifting, carrying — in line with the requirements of your everyday life as a mum.
 
-## 2. Can you feel anything unusual for your pre-mum body?
+### 2. Can you feel anything unusual for your pre-mum body?
 
 > Leaking or feeling of heaviness in the pelvic area is not something that you should ignore.
 
@@ -60,7 +60,7 @@ Make sure you see a women’s health physio if you have one or more of these:
 - Your abdomen feels weak, bulges or domes at some movements
 - Persistent pelvic or back pain
 
-# 3. Are you holding your breath?
+### 3. Are you holding your breath?
 
 How is your breathing? After the childbirth, it’s important to make sure to restore a synergy of the breathing and the core function. Your diaphragm, thoracic and abdominal muscles and the pelvic floor co-activate organically as you breathe.
 
@@ -72,7 +72,7 @@ First of all, before you start running make sure to spot and overcome any habit 
 
 To keep your intra-abdominal pressures in check it’s important not to strain, especially not in combination with holding the breath. In the postnatal period, a good rule is — no straining ever, not even on the toilet. Get a little stool under your feet when sitting on the toilet to decrease the anorectal angle — things go much smoother once the knees are higher than the hips.
 
-# 4. Is your body ready to take the impact?
+### 4. Is your body ready to take the impact?
 
 Before you get into running, it’s important that your body can smoothly regulate the increased intra-abdominal pressure without leaking and that your muscles are strong enough to support you.
 
@@ -87,7 +87,7 @@ For example, can you perform these without any of the symptoms above?
 
 If you struggle, it might be a good idea to work with a coach who can support you in developing better control of intra-abdominal pressure and building a robust pelvic musculature to support you while running. Here is a little sequence to help you get started: https://www.instagram.com/p/By3JkklhG7g
 
-# And once you start running:
+## And once you start running:
 
 1. *Start small* — add in 1–2-minute easy-pace runs into your walks. NHS ‘couch to 5km’ programme is a good place to start.
 
@@ -100,7 +100,6 @@ If you struggle, it might be a good idea to work with a coach who can support yo
 5. *Running is always more fun with friends.* Join your local running club for support, company and motivation.
 
 The bottom line is, always make sure your running practice really serves your body and can grow and change as you do. Enjoy running!
-
 
 References:
 
