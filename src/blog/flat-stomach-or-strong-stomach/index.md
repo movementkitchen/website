@@ -1,6 +1,6 @@
 ---
 title: "A flat stomach does not equal a strong stomach"
-subTitle: "How do you restore a core that works instead?"
+subTitle: "This is how to build a working core instead"
 date: "2023-05-18T10:00:00.000Z"
 path: "/flat-stomach-or-strong-stomach/"
 tags: ["fitness", "core stability", "back pain", "breathing mechanics", "intra-abdominal pressure"]
@@ -37,16 +37,16 @@ Here are the steps I go through with my clients:
 
 ### 1. Bring intra-abdominal pressure down to safe levels.
 
-First, we need to overcome any habits that increase the pressure within the abdominal cavity. You want to stop pulling the navel to the spine and make sure you don’t hold your breath or strain while performing any movement. Can you do the movement while maintaining an easy, flowing breath?
+First, we need to overcome any habits that increase the pressure within the abdominal cavity. You want to stop pulling the navel to the spine and make sure you don’t hold your breath or strain. Can you do the movement while maintaining an easy, flowing breath?
 
 ### 2. Restore the breath-core activation synergy
 
 ![Healthy breathing mechanics animation](breathing-core-synergy.gif)  
 Healthy breathing mechanics — the image courtesy of [Burrell Education](https://courses.burrelleducation.com/)
 
-There are many ways to breathe, but generally, we want to see an expansion of the ribcage and the abdomen in all directions with inhalation, and a retraction, a reflexive drawing in and up, at exhalation.
+There are many ways to breathe, but generally, we want to see a three-dimensional expansion of the ribcage and the abdomen with inhalation, and a retraction – a reflexive drawing in and up, at exhalation.
 
-With inhalation, the ribcage expands and the diaphragm moves down, the belly and the lower back expand, and the pelvic floor gently swells. At exhalation, the pelvic floor lifts up, the lower belly evenly empties out, the diaphragm moves up, and the ribcage narrows to expel the breath.
+With inhalation, the ribcage widens and the diaphragm moves down, the belly and the lower back expand, and the pelvic floor gently swells. At exhalation, the pelvic floor lifts up, the lower belly evenly empties out, the diaphragm moves up, and the ribcage narrows to expel the breath.
 
 > Healthy breathing mechanics reflectively engages the abdominals and the pelvic floor. This is a three-dimensional, 360-degree activation, rather than pulling the navel to the spine.
 
