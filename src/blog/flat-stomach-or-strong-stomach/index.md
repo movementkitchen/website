@@ -27,44 +27,49 @@ Looking from the inside, pulling the navel in decreases the space inside the abd
 ![Photo of a hand squeezing a balloon](balloon.jpg)
 Decreasing the volume increases the pressure.
 
-Carrying around high pressure inside the abdominal cavity is like having an overfilled balloon inside you waiting for an opportunity to burst. So, if you have a raised IAP to start with, and it happens that you need to help your friend move a piano — or do something else where your body will need to additionally raise the IAP. BOOM! — that’s an injury.
+Carrying around high pressure inside the abdominal cavity is like having an overfilled balloon inside you waiting for an opportunity to burst. So, if you have a raised IAP to start with, and it happens that you need to help your friend move a piano — or do something else where your body will need to raise the IAP additionally. BOOM! — that’s an injury.
 
-Learning how to release the belly takes time and sometimes happens in layers. Some habits are hard to let go of as they have sneakily become a part of who you are or how you like to see yourself. I remember my weakened, floppy belly after my second baby was born, the muscles that wouldn’t even talk to my brain and how desperately I was trying to keep it all in — feeling so weak and vulnerable. But once I managed to relax the belly and restore the reflexes, the muscles started firing organically, as I needed them. Through whole-body three-dimensional movements that did not focus on the abdominals in particular, my abdominal muscles gradually got toned and my belly flattened.
+Learning how to release the belly takes time and sometimes happens in layers. Some habits are hard to let go of as they have sneakily become a part of who we are or how we like to see ourselves.
+
+I remember my weakened, floppy belly after my second baby was born, the muscles that wouldn’t even talk to my brain and how desperately I was trying to keep it all in — feeling so weak and vulnerable. But once I managed to relax the belly and restore the reflexes, the muscles started firing organically, as I needed them. Through whole-body three-dimensional movements that did not focus on the abdominals in particular, my abdominal muscles gradually got toned and my belly flattened.
 
 > For people with compromised core and chronic back pain restoring reflexive core activation is a process.
 
 Here are the steps I go through with my clients:
 
-### 1. Bring intra-abdominal pressure down to safe levels.
+### 1. Drop the pressure
 
 First, we need to overcome any habits that increase the pressure within the abdominal cavity. You want to stop pulling the navel to the spine and make sure you don’t hold your breath or strain. Can you do the movement while maintaining an easy, flowing breath?
 
-### 2. Restore the breath-core activation synergy
+### 2. Restore the breath-core synergy
 
 ![Healthy breathing mechanics animation](breathing-core-synergy.gif)  
 Healthy breathing mechanics — the image courtesy of [Burrell Education](https://courses.burrelleducation.com/)
 
-There are many ways to breathe, but generally, we want to see a three-dimensional expansion of the ribcage and the abdomen with inhalation, and a retraction – a reflexive drawing in and up, at exhalation.
+There are many ways to breathe, but generally, we want to see a three-dimensional expansion of the ribcage and the abdomen with inhalation, and a retraction — a reflexive drawing in and up, at exhalation.
 
-With inhalation, the ribcage widens and the diaphragm moves down, the belly and the lower back expand, and the pelvic floor gently swells. At exhalation, the pelvic floor lifts up, the lower belly evenly empties out, the diaphragm moves up, and the ribcage narrows to expel the breath.
+With inhalation, the ribcage expands and the diaphragm moves down, the belly and the lower back widen, and the pelvic floor gently swells. At exhalation, the pelvic floor lifts up, the lower belly evenly empties out, the diaphragm moves up, and the ribcage narrows to expel the breath.
 
-> Healthy breathing mechanics reflectively engages the abdominals and the pelvic floor. This is a three-dimensional, 360-degree activation, rather than pulling the navel to the spine.
+> Breathing reflectively engages the abdominals and the pelvic floor. This is a three-dimensional, 360° activation — not the one-dimensional pulling the navel to the spine.
 
 In people with chronic back pain and after pregnancy and childbirth, the synchronisation of the movements of the ribcage and the belly in breathing is sometimes off. You might even see a reverse breathing pattern where the lower belly pushes out at exhalation, instead of drawing reflexively up and in.
 
 There is a simple visualisation I use to help my clients restore this organic *outward inward* movement at breathing.
 
-> “Imagine a jellyfish, expanding in all directions at inhalation and retracting towards its centre at exhalation — your centre being the diaphragm. Inhale grow outwards in all directions; exhale shrink back to the centre.”
+> “Imagine a jellyfish, expanding in all directions as you inhale and retracting towards its centre as you exhale — the centre being your diaphragm. Inhale grow outwards in all directions; exhale shrink back to the centre.”
 
 Then, we can play with adding downward — an upward movement to the jellyfish visualisation: *“inhale downwards and exhale upwards”*.
 
 You can also add voiced exhalation — *humming, hissing or Ujjayi breath from yoga*, which will help the deeper layers of the abdominal muscles to respond at exhalation.
 
-### 3. Master pressure management in progressively challenging movements
+### 3. No belly bulging as you progress
 
-Once the breathing-core synergy is working in static positions, you can integrate it into movements/exercises.
+Once the breath-core synergy is working in static positions, you can integrate it into movements/exercises.
 
 Belly pushing out, bulging or doming is a sign that the pressure management is off and the deeper layers of your abdominal muscles don’t fire as effectively.
+
+![Two photos of the same abdomen bulging or not bulging](Belly-bulging-or-not.jpg)
+Belly bulging (left) — only the outer layers of the abdominal muscles firing; No bulging (right) — all layers firing
 
 > Can you perform the same movement without the belly pushing out? If not, step back and do the version of the exercise where your belly is not yet bulging.
 
