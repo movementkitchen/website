@@ -7,8 +7,8 @@ tags: ["fitness", "core stability", "back pain", "breathing mechanics", "intra-a
 featuredImage: flat-belly.png
 ---
 
-![Colourful illustration of a girl ironing her belly](flat-belly.png)
-        Illustration by [Cécile Dormeau](https://cecile-dormeau.tumblr.com/)
+![Colourful illustration of a girl ironing her belly](flat-belly.jpg)
+Illustration by [Cécile Dormeau](https://cecile-dormeau.tumblr.com/)
 
 It takes much more time and effort to unlearn than to learn something from the beginning. Back in the day, my 4-year-old tried to ride a pedal bike for the first time and it worked. We took off the support wheels so he would get a chance to balance right away. Learning to cycle with the training wheels he would later need to unlearn being supported and then eventually learn balancing.
 
