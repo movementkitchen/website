@@ -22,12 +22,12 @@ Also, using the abdominal muscles always in the same way makes them adapt their 
 
 > A stomach that is always flat might not be a strong stomach, but a tight stomach.
 
-Looking from the inside, pulling the navel in decreases the space inside the abdominal cavity. Less space, higher intra-abdominal pressure (IAP) — and the viscera and the organs have to go somewhere? Pulling the navel in displaces the abdominal content into the thoracic and/or the pelvic cavity which interferes with digestion and can cause different pressure-related health issues, like haemorrhoids, diastasis recti, hernias, and pelvic floor disorders.
+Looking from the inside, pulling the navel in decreases the space inside the abdominal cavity. Less space, higher intra-abdominal pressure (IAP) — and the viscera and the organs have to go somewhere. Pulling the navel in displaces the abdominal content into the thoracic and/or the pelvic cavity which interferes with digestion and can cause different pressure-related health issues, like haemorrhoids, diastasis recti, hernias, and pelvic floor disorders.
 
 ![Photo of a hand squeezing a balloon](balloon.jpg)
 Decreasing the volume increases the pressure.
 
-Carrying around high pressure inside the abdominal cavity is like having an overfilled balloon inside you waiting for an opportunity to burst. So, if you have a raised IAP to start with, and it happens that you need to help your friend move a piano — or do something else where your body will need to raise the IAP additionally. BOOM! — that’s an injury.
+Carrying around high pressure inside the abdominal cavity is like having an overfilled balloon inside you waiting for an opportunity to burst. So, if you have a raised IAP to start with, and it happens that you need to help your friend move a piano — or do something else where your body will need to raise the IAP additionally: BOOM! — that’s an injury.
 
 Learning how to release the belly takes time and sometimes happens in layers. Some habits are hard to let go of as they have sneakily become a part of who we are or how we like to see ourselves.
 
