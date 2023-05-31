@@ -14,6 +14,12 @@ import {
 } from '../utils/typography';
 import Hero from './Hero';
 
+import instaIcon from '../images/inv_insta.svg';
+import faecesIcon from '../images/inv_faeces.svg';
+import twitterIcon from '../images/inv_twitter.svg';
+import youtubeIcon from '../images/inv_youtube.svg';
+import whatsappIcon from '../images/inv_whatsapp.svg';
+
 const Wrapper = styled.div`
   width: 100%;
   display: flex;
@@ -21,16 +27,25 @@ const Wrapper = styled.div`
   align-items: center;
 `;
 
+const LogoAndMenuButtonWrapper = styled.div`
+  width: 100%;
+  display: grid;
+  grid-template-columns: [logo] max-content [menubutton] auto;
+
+  ${MIN_DEFAULT_MEDIA_QUERY} {
+    grid-template-columns: [logo] auto;
+    place-items: center;
+  }
+`;
+
 const MenuToggleButton = styled.button`
-  position: fixed;
-  top: ${rhythm(1.5)};
-  right: ${rhythm(1 / 2)};
   padding: 0;
+  margin: auto ${rhythm(1)} auto 0;
   border: none;
   background: transparent;
   width: 50px;
   height: 50px;
-  text-shadow: 0px 0px 2px black, 0px 2px 1px black;
+  justify-self: end;
 
   ${MIN_DEFAULT_MEDIA_QUERY} {
     display: none;
@@ -42,7 +57,7 @@ const LogoButton = styled(Link)`
   border: none;
   background: transparent;
   height: ${rhythm(2)};
-  margin: ${rhythm(1.5)} ${rhythm(1)} ${rhythm(1.5)};
+  margin: ${rhythm(1.5)} 0 ${rhythm(1.5)} ${rhythm(1)};
   align-self: flex-start;
 
   & > svg {
@@ -54,6 +69,62 @@ const LogoButton = styled(Link)`
     height: ${rhythm(3)};
     margin: ${rhythm(2)};
     align-self: auto;
+  }
+`;
+
+const TopBanner = styled.div`
+  width: 100%;
+  background-color: ${typographyOptions.brandColorPrimaryGreen};
+  display: grid;
+  gap: ${rhythm(1 / 4)};
+  grid-template-columns: [newsletter] max-content [icons] auto;
+  align-content: center;
+  padding: ${rhythm(1 / 2)};
+
+  @media (max-width: ${rhythm(19)}) {
+    grid-template-columns: auto;
+    grid-template-rows: [newsletter] max-content [icons] auto;
+    place-content: center;
+    gap: ${rhythm(1 / 2)};
+  }
+`;
+
+const SocialLinks = styled.div`
+  display: flex;
+  column-gap: ${rhythm(1 / 2)};
+  justify-content: end;
+  margin: auto 0;
+`;
+
+const SocialLink = styled.a`
+  display: block;
+  height: ${rhythm(1.25)};
+  width: ${rhythm(1.25)};
+  border-radius: 50%;
+
+  & > img {
+    height: 100%;
+    width: auto;
+  }
+
+  &:hover {
+    color: white;
+    box-shadow: 0 0 6px 3px rgba(255, 255, 255, 0.3);
+  }
+`;
+
+const NewsletterButton = styled.a`
+  display: inline-flex;
+  align-items: center;
+  padding: 0 ${rhythm(1 / 4)};
+  color: white;
+  text-decoration: none;
+  border-radius: ${rhythm(1 / 2)};
+  border: 2px solid white;
+
+  &:hover {
+    color: white;
+    box-shadow: 0 0 6px 3px rgba(255, 255, 255, 0.3);
   }
 `;
 
@@ -139,9 +210,45 @@ class Navigation extends React.Component {
 
     return (
       <Wrapper>
-        <LogoButton onClick={this.onNavigationBound} to={'/'}>
-          {logoSVG}
-        </LogoButton>
+        <TopBanner>
+          <NewsletterButton href="http://eepurl.com/gsc_Ev" target="_blank">
+            <span>Sign up for our Newsletter</span>
+          </NewsletterButton>
+          <SocialLinks>
+            <SocialLink
+              href="https://www.instagram.com/movementkitchen/"
+              target="_blank"
+            >
+              <img src={instaIcon} alt={`Movement Kitchen on Instagram`} />
+            </SocialLink>
+            <SocialLink href="https://twitter.com/zzuuu" target="_blank">
+              <img src={twitterIcon} alt={`Movement Kitchen on Twitter`} />
+            </SocialLink>
+            <SocialLink
+              href="https://www.youtube.com/@movementkitchen"
+              target="_blank"
+            >
+              <img src={youtubeIcon} alt={`Movement Kitchen on Youtube`} />
+            </SocialLink>
+            <SocialLink
+              href="https://www.facebook.com/movementkitchen/"
+              target="_blank"
+            >
+              <img src={faecesIcon} alt={`Movement Kitchen on Facebook`} />
+            </SocialLink>
+            <SocialLink href="https://wa.me/447936348233" target="_blank">
+              <img src={whatsappIcon} alt={`Movement Kitchen on Whatsapp`} />
+            </SocialLink>
+          </SocialLinks>
+        </TopBanner>
+        <LogoAndMenuButtonWrapper>
+          <LogoButton onClick={this.onNavigationBound} to={'/'}>
+            {logoSVG}
+          </LogoButton>
+          <MenuToggleButton onClick={this.toggleMenuBound}>
+            {menuSVG}
+          </MenuToggleButton>
+        </LogoAndMenuButtonWrapper>
         <Nav menuOpen={this.state.menuOpen}>
           <NavList>
             {navItems.map((navItem) => (
@@ -172,9 +279,6 @@ class Navigation extends React.Component {
           </NavList>
         </Nav>
         {!isBlog && <Hero imageURI={heroImage} />}
-        <MenuToggleButton onClick={this.toggleMenuBound}>
-          {menuSVG}
-        </MenuToggleButton>
       </Wrapper>
     );
   }
