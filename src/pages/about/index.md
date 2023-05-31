@@ -2,13 +2,15 @@
 title: About
 ---
 
-### About me
+### About
 
-Hi there! I’m Ivana, a sports biomechanics scientist, coach and writer with over a decade of experience supporting women through pregnancy, postnatal recovery and menopause. I have a special interest in women's health, ageing and mechanisms of injuries and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I'm also a mum of two (born by a C-section and a home birth after a caesarean (HBAC)) with a lived experience of severe diastasis recti and chronic back pain. When I don't research, teach or write, you can find me drawing in Walthamstow Marshes with my 7- and 9-year-olds.
+Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist. I am passionate about women's health, ageing and mechanisms of injuries and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I'm also a mum of two (born by a C-section and a home birth after a caesarean (HBAC)) with a lived experience of severe diastasis recti and chronic back pain.
 
-### About Movement Kitchen
+Movement Kitchen evolved through 12 years of my work with movement and rehabilitation as a precision training for women who want to reclaim an active lifestyle through different life stages - especially in cases where it's not straightforward to train.
 
-Kitchen is a feminine and nurturing environment, a space for creating, playing and experimenting. My studio really is a kitchen – with large mirrors, a climbing frame and a variety of exercise props. I aim to create the safe and intimate atmosphere of a kitchen in my sessions too. My approach is based on research and clinical practice but guided by empathy and intuition. Movement Kitchen offers a supportive environment for you to get to know your body and its abilities, as they change, and develop a nourishing long-term relationship with exercise. 
+Many people who would come to see me had found themselves bouncing back and forth between physiotherapy and the gym – getting the all-clear from the physio and going back to training just to get injured and back to physiotherapy, again and again. This is why I developed an approach with one foot in rehabilitation and another in strength and conditioning. 
+
+I see kitchen as a feminine, nurturing environment, a space for creating, playing and experimenting. My studio really is a kitchen – with large mirrors, a climbing frame and a variety of exercise props. I aim to create the safe and intimate atmosphere of a kitchen in my sessions too. My approach is based on research and clinical practice but guided by empathy and intuition. Movement Kitchen offers a supportive environment for you to get to know your body and its abilities, as they change, and develop a nourishing long-term relationship with exercise. 
 
 
 ### My Education
@@ -63,3 +65,5 @@ Kitchen is a feminine and nurturing environment, a space for creating, playing a
 - Yoga as Therapy 900 Hour Residential Teacher Training with The Yoga Institute Santacruz Mumbai, India, July -
   Nov 2012
 - Yoga Teacher Training with Yoga Federation of Serbia, 260 Hours, Apr - Dec 2011
+
+I am fully insured with Balens, a specialist insurance broker for health, fitness & wellbeing professionals.
