@@ -74,6 +74,13 @@ const theme = {
         fontWeight: '600',
         fontStyle: 'normal',
       },
+      small: {
+        display: 'inline-block',
+        lineHeight: 1.5,
+        textAlign: 'center',
+        width: '100%',
+        letterSpacing: '0.07em',
+      },
       li: {
         lineHeight: 1.8,
         letterSpacing: '0.1em',

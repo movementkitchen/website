@@ -14,7 +14,7 @@ Even though we are lucky not to live in the age of wasp-waist corsets and crinol
 The consumer society, as a culture of abundance and overeating, favours slim, narrow-waisted female silhouettes. The ideals of women’s beauty are always something difficult to reach — the prehistoric civilisations with their lack of reliable food sources idealised a female figure with folding layers of fat. Remember the Palaeolithic fertility goddess sculpture Venus of Willendorf? She would have probably looked very different had they had a McDonald’s just around the corner from the cave.
 
 ![The changing ideal of the female body](venus.webp)
-    The changing ideal of the female body — from Alan F. Dixson, Barnaby J. Dixson, “Venus Figurines of the European Paleolithic: Symbols of Fertility or Attractiveness?”, Journal of Anthropology, vol. 2011, Article ID 569120, 11 pages, 2011. https://doi.org/10.1155/2011/569120
+<small>The changing ideal of the female body — from Alan F. Dixson, Barnaby J. Dixson, “Venus Figurines of the European Paleolithic: Symbols of Fertility or Attractiveness?”, Journal of Anthropology, vol. 2011, Article ID 569120, 11 pages, 2011. https://doi.org/10.1155/2011/569120</small>
 
 Interestingly, our standard clothing sizes look at women’s bodies as static, optimising for looks rather than comfort. I wear a UK size 10 and even if I buy jeans or dresses in my size, I would need to unbutton or unzip them after a big meal. Most female clothes seem to be tailored to plastic mannequins rather than flesh-and-blood humans — ignorant of the physiological processes that happen inside the abdomen.
 
@@ -33,7 +33,7 @@ And what about long-legged, models in beauty magazines in high-heeled shoes? Whe
 There seem to be some parallels between high heels and the ancient Chinese practice of foot binding.
 
 ![Foot binding](foot_binding.webp)
-This image is part of the photo series [Living History by Jo Farrell](http://www.livinghistory.photography/images.html)
+<small>This image is part of the photo series [Living History by Jo Farrell](http://www.livinghistory.photography/images.html)</small>
 
 The custom of foot binding was widely spread in China from around the 10th century until the beginning of the 20th century, especially amongst wealthy families. Starting from a very early age (3–4 years old) feet of young girls would be gradually deformed into a shape of a pointed lotus flower. Having bound feet was considered very attractive at the time and a prerequisite to a good marriage.
 
@@ -46,7 +46,7 @@ A study published in the Journal of Theoretical Biology in 2015 found that incre
 Shortened calf muscles would change how the ankle, knee and hip joints work together and require the joints across the body to compensate. This is why wearing high heels has been linked with foot pain (bunions, metatarsalgia), back pain and decreased bone density.
 
 ![High heels angles](heels.webp)
-    Image courtesy of erikdalton.com
+<small>Image courtesy of erikdalton.com</small>
 
 You can see on the graphic above how an elevated heel decreases the angle between the lower leg and the ground, making your whole body lean forward. You need to tighten the muscles across the front of the body to stay upright. The higher the heel, the more extreme the compensations.
 

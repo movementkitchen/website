@@ -8,7 +8,7 @@ featuredImage: flat-belly.png
 ---
 
 ![Colourful illustration of a girl ironing her belly](flat-belly.jpg)
-Illustration by [Cécile Dormeau](https://cecile-dormeau.tumblr.com/)
+<small>Illustration by [Cécile Dormeau](https://cecile-dormeau.tumblr.com/)</small>
 
 It takes much more time and effort to unlearn than to learn something from the beginning. Back in the day, my 4-year-old tried to ride a pedal bike for the first time and it worked. We took off the support wheels so he would get a chance to balance right away. Learning to cycle with the training wheels he would later need to unlearn being supported and then eventually learn balancing.
 
@@ -25,7 +25,7 @@ Also, using the abdominal muscles always in the same way makes them adapt their 
 Looking from the inside, pulling the navel in decreases the space inside the abdominal cavity. Less space, higher intra-abdominal pressure (IAP) — and the viscera and the organs have to go somewhere. Pulling the navel in displaces the abdominal content into the thoracic and/or the pelvic cavity which interferes with digestion and can cause different pressure-related health issues, like haemorrhoids, diastasis recti, hernias, and pelvic floor disorders.
 
 ![Photo of a hand squeezing a balloon](balloon.jpg)
-Decreasing the volume increases the pressure.
+<small>Decreasing the volume increases the pressure.</small>
 
 Carrying around high pressure inside the abdominal cavity is like having an overfilled balloon inside you waiting for an opportunity to burst. So, if you have a raised IAP to start with, and it happens that you need to help your friend move a piano — or do something else where your body will need to raise the IAP additionally: BOOM! — that’s an injury.
 
@@ -44,7 +44,7 @@ First, we need to overcome any habits that increase the pressure within the abdo
 ### 2. Restore the breath-core synergy
 
 ![Healthy breathing mechanics animation](breathing-core-synergy.gif)  
-Healthy breathing mechanics — the image courtesy of [Burrell Education](https://courses.burrelleducation.com/)
+<small>Healthy breathing mechanics — the image courtesy of [Burrell Education](https://courses.burrelleducation.com/)</small>
 
 There are many ways to breathe, but generally, we want to see a three-dimensional expansion of the ribcage and the abdomen with inhalation, and a retraction — a reflexive drawing in and up, at exhalation.
 
@@ -69,7 +69,7 @@ Once the breath-core synergy is working in static positions, you can integrate i
 Belly pushing out, bulging or doming is a sign that the pressure management is off and the deeper layers of your abdominal muscles don’t fire as effectively.
 
 ![Two photos of the same abdomen bulging or not bulging](Belly-bulging-or-not.jpg)
-Belly bulging (left) — only the outer layers of the abdominal muscles firing; No bulging (right) — all layers firing
+<small>Belly bulging (left) — only the outer layers of the abdominal muscles firing; No bulging (right) — all layers firing</small>
 
 > Can you perform the same movement without the belly pushing out? If not, step back and do the version of the exercise where your belly is not yet bulging.
 

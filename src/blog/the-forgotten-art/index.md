@@ -8,7 +8,7 @@ featuredImage: tail.png
 ---
 
 ![Squatting different ways](tail.png)
-<figcaption>Illustration by Jillian Nicol at www.livealigned.ca</figcaption>
+<small>Illustration by Jillian Nicol at www.livealigned.ca</small>
 
 I’ve been spending most of my time lately learning about biomechanics, healthy alignment and how movement affects our bodies on cellular level. The research from the last few years shows that the way we move affect us not only mechanically, as it was previously thought, but also causes biochemical changes in our cells, changing us from inside out. This process of the body adapting to and being shaped by movement is called mechanotransduction.
 
