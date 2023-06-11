@@ -9,14 +9,18 @@ featuredImage: Spencer_corset_1941_before_after.jpg
 
 ![Lady without and with a corset](Spencer_corset_1941_before_after.jpg)
 
-Even though we are lucky not to live in the age of wasp-waist corsets and crinolines, most clothing women wear in the 21st century still doesn’t leave space for the body’s biological processes — like digestion, ovulation and periods, lymph and blood flow and sometimes even breathing.
+Which of the two photos do you prefer? 
+
+In the early 1940-es when this ad campaign was created, it was probably a no-brainer to choose the picture on the right - a smiling women, made to please, moulded into a shape the current fashion required - which was already incomparably better than the cruel tight-laced corsets that women wore from the 14th century until the 1920-es, when the physical corsets were replaced by an invention of dieting, as a psychological corset. 
+
+Now, in 2023, as the body positivity movement slowly reaches into the mainstream, the message of this 1940-es ad is not that strong. Yet, many physical and, even more, psychological corsets remain a part of the 21st-century woman's image.
 
 The consumer society, as a culture of abundance and overeating, favours slim, narrow-waisted female silhouettes. The ideals of women’s beauty are always something difficult to reach — the prehistoric civilisations with their lack of reliable food sources idealised a female figure with folding layers of fat. Remember the Palaeolithic fertility goddess sculpture Venus of Willendorf? She would have probably looked very different had they had a McDonald’s just around the corner from the cave.
 
 ![The changing ideal of the female body](venus.webp)
-<small>The changing ideal of the female body — from Alan F. Dixson, Barnaby J. Dixson, “Venus Figurines of the European Paleolithic: Symbols of Fertility or Attractiveness?”, Journal of Anthropology, vol. 2011, Article ID 569120, 11 pages, 2011. https://doi.org/10.1155/2011/569120</small>
+<small>The changing ideal of the female body — from Dixson, 2011, https://doi.org/10.1155/2011/569120</small>
 
-Interestingly, our standard clothing sizes look at women’s bodies as static, optimising for looks rather than comfort. I wear a UK size 10 and even if I buy jeans or dresses in my size, I would need to unbutton or unzip them after a big meal. Most female clothes seem to be tailored to plastic mannequins rather than flesh-and-blood humans — ignorant of the physiological processes that happen inside the abdomen.
+It's striking how much of women's clothing you can find in shops today, doesn't leave space for the body's biological processes - like digestion, ovulation and periods, lymph and blood flow and sometimes even breathing. I wear a UK size 10 and even if I buy jeans or dresses in my size, I would need to unbutton or unzip them after a big meal.
 
 > Standard clothing sizes don’t take into account a change in volumes of your stomach and bladder with liquid and food intake nor the change in the ovarian and uterine size through the menstrual cycle.
 
