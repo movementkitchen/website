@@ -38,8 +38,7 @@ Wherever you are in your life, we will work together to create an action plan wi
 
 Movement Kitchen is LGBTQ+ friendly. Every human is welcome, whatever their gender identity.
 
-Find out how we can work together [here](https://www.movementkitchen.co.uk/movement-coaching/).
-
+Find out how we can work together [here](/movement-coaching/).
 
 ### Featured Videos
 
