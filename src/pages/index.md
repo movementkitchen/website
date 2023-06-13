@@ -15,13 +15,23 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers evidence-based precision training that bridges physiotherapy and strength and conditioning - focusing on women's musculoskeletal, pelvic, and hormonal needs during different life stages (such as pregnancy, postpartum or menopause). 
+Movement Kitchen offers evidence-based precision training bridging physiotherapy and strength and conditioning to allow you to strengthen your body though pregnancy and postpartum period, menopause or after injuries and reclaim an active lifestyle. 
 
-You might be an expectant mum unsure how to adapt your training as your *pregnancy* progresses or a *postpartum* mum who wants to reclaim a strong body after having a baby and return to exercise or competitive sports. Or maybe you had a baby years ago, but your core and the pelvic floor *never fully recovered*. 
+You might be a new or not-so-new mum who wants to: 
 
-Maybe you feel that conventional exercise doesn't serve you well – you keep getting injured at the gym or hurt for days after training. Or maybe you *live with a chronic health condition* like endometriosis, pelvic organ prolapse or back pain and want to find a way to exercise and get stronger without aggravating symptoms. 
+- Heal *diastasis recti* and tone up your postpartum body
+- Find a way to train and get stronger with a prolapse or stress/urge incontinence
+- Lift and carry your children or groceries with ease
+- Lift weights or join a fun exercise class without being in pain afterwards 
+- Climb, hike, dance, surf, skate feeling strong and comfortable in your body 
+- Return to competitive sports 
 
-You might be going through *perimenopause* and want to build training to help you gain muscle, increase energy levels and feel your best through the menopausal transition. Or maybe you are past *menopause*, looking to build strength, improve pelvic health, build strong bones and stay active for decades to come. 
+Or maybe you never had children, but you:  
+
+- Keep getting injured or hurt for days after training 
+- Live with a chronic health condition* like endometriosis, pelvic organ prolapse or back pain and want to find a way to exercise and get stronger without aggravating symptoms
+- Want to gain muscle, increase energy levels, build strong bones and feel your best through menopausal transition. 
+- Fid a way to be active with a hip/knee replacement and stay active for decades to come.
 
 Wherever you are in your life, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals – *from rehab to performance*.  
 
