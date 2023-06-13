@@ -19,7 +19,7 @@ Movement Kitchen offers evidence-based precision training bridging physiotherapy
 
 You might be a new or not-so-new mum who wants to: 
 
-- Heal *diastasis recti* and tone up your postpartum body
+- Heal diastasis recti and tone up your postpartum body
 - Find a way to train and get stronger with a prolapse or stress/urge incontinence
 - Lift and carry your children or groceries with ease
 - Lift weights or join a fun exercise class without being in pain afterwards 
@@ -29,7 +29,7 @@ You might be a new or not-so-new mum who wants to:
 Or maybe you never had children, but you:  
 
 - Keep getting injured or hurt for days after training 
-- Live with a chronic health condition* like endometriosis, pelvic organ prolapse or back pain and want to find a way to exercise and get stronger without aggravating symptoms
+- Live with a chronic health condition like endometriosis, pelvic organ prolapse or back pain and want to find a way to exercise and get stronger without aggravating symptoms
 - Want to gain muscle, increase energy levels, build strong bones and feel your best through menopausal transition. 
 - Fid a way to be active with a hip/knee replacement and stay active for decades to come.
 
