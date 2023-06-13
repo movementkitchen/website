@@ -20,22 +20,25 @@ Movement Kitchen offers evidence-based precision training bridging physiotherapy
 You might be a new or not-so-new mum who wants to: 
 
 - Heal diastasis recti and tone up your postpartum body
-- Find a way to train and get stronger with a prolapse or stress/urge incontinence
+- Find a way to train and get stronger with a pelvic organ prolapse
+- Lift weights or join a fun exercise class without leaking or being in pain afterwards 
 - Lift and carry your children or groceries with ease
-- Lift weights or join a fun exercise class without being in pain afterwards 
 - Climb, hike, dance, surf, skate feeling strong and comfortable in your body 
 - Return to competitive sports
 
 Or maybe you've never had children, but you:  
 
-- Keep getting injured or hurt for days after training 
-- Live with a chronic health condition like endometriosis, pelvic organ prolapse or back pain and want to find a way to exercise and get stronger without aggravating symptoms
+- Feel that the traditional abdominal and core exercises don't work for you
+- Have been stuggling with a hernia or recurring back pain
+- Live with chronic pelvic pain, endometriosis or a pelvic floor disorder and want to find a way to exercise and get stronger without aggravating symptoms
 - Want to gain muscle, increase energy levels, build strong bones and feel your best through menopausal transition. 
 - Want to find a way to train with a hip/knee replacement and stay active for decades to come.
 
 Wherever you are in your life, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals – *from rehab to performance*.  
 
-Book your introductory session [here](https://calendly.com/movementkitchen/initial-assessment).
+Movement Kitchen is LGBTQ+ friendly. Not just women, every human is welcome, whatever their gender identity.
+
+Find out how we can work together [here](https://www.movementkitchen.co.uk/movement-coaching/).
 
 
 ### Featured Videos
