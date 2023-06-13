@@ -31,7 +31,7 @@ Or maybe you've never had children, but you:
 - Keep getting injured or hurt for days after training 
 - Live with a chronic health condition like endometriosis, pelvic organ prolapse or back pain and want to find a way to exercise and get stronger without aggravating symptoms
 - Want to gain muscle, increase energy levels, build strong bones and feel your best through menopausal transition. 
-- Fid a way to train with a hip/knee replacement and stay active for decades to come.
+- Want to find a way to train with a hip/knee replacement and stay active for decades to come.
 
 Wherever you are in your life, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals – *from rehab to performance*.  
 
