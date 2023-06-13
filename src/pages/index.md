@@ -26,7 +26,7 @@ You might be a new or not-so-new mum who wants to:
 - Climb, hike, dance, surf, skate feeling strong and comfortable in your body 
 - Return to competitive sports 
 
-Or maybe you never had children, but you:  
+Or maybe you've never had children, but you:  
 
 - Keep getting injured or hurt for days after training 
 - Live with a chronic health condition like endometriosis, pelvic organ prolapse or back pain and want to find a way to exercise and get stronger without aggravating symptoms
