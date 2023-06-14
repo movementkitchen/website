@@ -19,7 +19,7 @@ Movement Kitchen offers evidence-based precision training bridging physiotherapy
 
 You might be a new or not-so-new mum who wants to: 
 
-- Heal diastasis recti and tone up your postpartum body
+- Heal diastasis recti and strengthen your core postpartum
 - Find a way to train and get stronger with a pelvic organ prolapse
 - Lift weights or join a fun exercise class without leaking or being in pain afterwards 
 - Lift and carry your children or groceries with ease
