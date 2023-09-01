@@ -33,7 +33,7 @@ Movement Kitchen offers evidence-based personal training for active women - *fro
 
 Wherever you are in your life, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals.  
 
-Movement Kitchen is LGBTQ+ friendly. Every human is welcome, whatever their gender identity.
+Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity.
 
 Find out how we can work together [here](/movement-coaching/).
 
