@@ -15,7 +15,7 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers evidence-based personal training for active women - from rehab to performance, specifically tailored to women's physiology and the life stage.
+Movement Kitchen offers evidence-based personal training for active women - *from rehab to performance*, specifically tailored to women's physiology and the life stage.
 
 ### You might want to: 
 
