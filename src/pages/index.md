@@ -26,9 +26,9 @@ Movement Kitchen offers evidence-based personal training for active women - *fro
 
 ### Or maybe you've never had children, but you:  
 
-- Feel that the traditional abdominal exercises don't work for you
-- Have been stuggling with recurring back pain or a hernia
-- Live with chronic pelvic pain, endometriosis or another women's health issue and want to find a way to exercise and get stronger in a way that works for your body
+- Have been stuggling with a recurring injury or chronic pain
+- Feel that the traditional core exercises don't work for you
+- Live with endometriosis, pelvic pain or another women's health issue and want to find a way to exercise and get stronger in a way that works for your body
 - Want to gain muscle, increase energy levels, build strong bones and feel your best through perimenopause and after menopause
 
 Wherever you are in your life, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals.  
@@ -48,10 +48,6 @@ This is a great place to start strengthening your abdominal muscles after pregna
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yTU6doX7bmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Can you have a strong upper body workout with a weakened core?[......](https://www.youtube.com/watch?v=yTU6doX7bmU) 
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V3MOofTKTo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Once the deep core is working, we can add three-dimensional movements and extra weight[......](https://youtu.be/V3MOofTKTo0) 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T4adDYory84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

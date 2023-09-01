@@ -10,7 +10,7 @@ Movement Kitchen evolved through 12 years of my work with movement and rehabilit
 
 Many people who would come to see me had found themselves bouncing back and forth between physiotherapy and the gym – getting the all-clear from the physio and going back to training just to get injured and back to physiotherapy, again and again. This is why I developed an approach with one foot in rehabilitation and another in strength and conditioning. 
 
-I see kitchen as a feminine, nurturing environment, a space for creating, playing and experimenting. My studio really is a kitchen – with large mirrors, a climbing frame and a variety of exercise props. I aim to create the safe and intimate atmosphere of a kitchen in my sessions too. My approach is based on research and clinical practice but guided by empathy and intuition. Movement Kitchen offers a supportive environment for you to get to know your body and its abilities, as they change, and develop a nourishing long-term relationship with exercise. 
+I see kitchen as a feminine, nurturing environment, a space for creating, playing and experimenting. My studio really is a kitchen – with large mirrors, a climbing frame and a variety of exercise props. I strive to create the safe and intimate atmosphere of a kitchen in my sessions too. My approach is based on research and clinical practice but guided by empathy and intuition. I aim to build a supportive environment for you to get to know and work with your body towards reaching your optimum fitness and performance level. 
 
 
 ### My Education
