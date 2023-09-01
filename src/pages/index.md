@@ -15,26 +15,23 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers evidence-based precision training bridging physiotherapy and strength and conditioning to allow you to strengthen your body though pregnancy and postpartum period, menopause or after injuries and reclaim an active lifestyle. 
+Movement Kitchen offers evidence-based personal training for active women - from rehab to performance, specifically tailored to women's physiology and the life stage.
 
-You might be a new or not-so-new mum who wants to: 
+### You might want to: 
 
-- Heal diastasis recti and strengthen your core postpartum
-- Find a way to train and get stronger with a pelvic organ prolapse
-- Lift weights or join a fun exercise class without leaking or being in pain afterwards 
-- Lift and carry your children or groceries with ease
-- Climb, hike, dance, surf, skate feeling strong and comfortable in your body 
-- Return to competitive sports
+- Adapt your training through your pregnancy
+- Return to competitive sports after the baby
+- Find a way to train and get stronger with incontinence or a pelvic organ prolapse
+- Carry your children, lift weights, climb, hike, dance, surf, feeling strong and comfortable in your body 
 
-Or maybe you've never had children, but you:  
+### Or maybe you've never had children, but you:  
 
-- Feel that the traditional abdominal and core exercises don't work for you
-- Have been stuggling with a hernia or recurring back pain
-- Live with chronic pelvic pain, endometriosis or a pelvic floor disorder and want to find a way to exercise and get stronger without aggravating symptoms
-- Want to gain muscle, increase energy levels, build strong bones and feel your best through menopausal transition. 
-- Want to find a way to train with a hip/knee replacement and stay active for decades to come.
+- Feel that the traditional abdominal exercises don't work for you
+- Have been stuggling with recurring back pain or a hernia
+- Live with chronic pelvic pain, endometriosis or another women's health issue and want to find a way to exercise and get stronger in a way that works for your body
+- Want to gain muscle, increase energy levels, build strong bones and feel your best through perimenopause and after menopause
 
-Wherever you are in your life, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals – *from rehab to performance*.  
+Wherever you are in your life, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals.  
 
 Movement Kitchen is LGBTQ+ friendly. Every human is welcome, whatever their gender identity.
 
