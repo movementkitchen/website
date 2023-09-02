@@ -19,19 +19,19 @@ Movement Kitchen offers evidence-based personal training for active women - *fro
 
 ### You might want to: 
 
+- Get stronger, increase energy levels and feel your best in perimenopause and after menopause
 - Adapt your training through your pregnancy
 - Return to competitive sports after the baby
 - Find a way to train and get stronger with incontinence or a pelvic organ prolapse
 - Carry your children, lift weights, climb, hike, dance, surf, feeling strong and comfortable in your body 
 
-### Or maybe you've never had children, but you:  
+### Or maybe you:  
 
 - Have been stuggling with a recurring injury or chronic pain
 - Feel that the traditional core exercises don't work for you
 - Live with endometriosis, pelvic pain or another women's health issue and want to find a way to exercise and get stronger in a way that works for your body
-- Want to gain muscle, increase energy levels, build strong bones and feel your best through perimenopause and after menopause
 
-Wherever you are in your life, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals.  
+Taking into account your needs and the stage in your life, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals.  
 
 Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity.
 
