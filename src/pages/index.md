@@ -19,12 +19,11 @@ Movement Kitchen offers evidence-based personal training for active women - *fro
 
 ### You might want to: 
 
-- Get stronger and increase your energy levels in perimenopause 
-- Feel your best after menopause
+- Train and feel your best through the menopause
 - Adapt your training through your pregnancy
-- Return to competitive sports after the baby
-- Find a way to train and get stronger with incontinence or a pelvic organ prolapse
-- Carry your children, lift weights, climb, hike, dance, surf, feeling strong and comfortable in your body 
+- Return to exercise or competitive sports after the baby
+- Get stronger with incontinence or a pelvic organ prolapse
+- Carry your children, lift weights, climb, hike, dance, surf, feeling confident and comfortable in your body 
 
 ### Or maybe you:  
 
