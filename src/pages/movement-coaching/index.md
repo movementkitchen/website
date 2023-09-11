@@ -17,9 +17,9 @@ If we've never worked together, we'll start with a longer introductory session
 (duration 75 min, price £100) that includes a qualitative movement assessment
 and creating your coaching strategy.
 
-You can book your Introductory Session [here](https://calendly.com/movementkitchen/initial-assessment).
+To book your Introductory Session email me at ivana@movementkitchen.co.uk.
 
-Then, depending on your goals and commitment, you can choose between:
+After your initial assessment, depending on your goals and commitment, you can choose between:
 
 #### Basic coaching package
 - 5 X one-to-one sessions (60 min each)
