@@ -17,11 +17,11 @@ If we've never worked together, we'll start with a longer introductory session
 (duration 75 min, price £100) that includes a qualitative movement assessment
 and creating your coaching strategy.
 
-To book your Introductory Session email me at ivana@movementkitchen.co.uk.
+To book your Assessment Session email [ivana@movementkitchen.co.uk](mailto:ivana@movementkitchen.co.uk).
 
-After your initial assessment, depending on your goals and commitment, you can choose between:
+After this, depending on your goals and commitment, you can choose between:
 
-#### Basic coaching package
+### Basic coaching package
 - 5 X one-to-one sessions (60 min each)
 - Post-session action plans
 - Photos and video snippets of movements
@@ -30,7 +30,7 @@ After your initial assessment, depending on your goals and commitment, you can c
 - Valid for 8 weeks
 - Price £400
 
-#### Full coaching package
+### Full coaching package
 - 10 X one-to-one sessions (60 min each)
 - Post-session action plans
 - Photos and video snippets of movements
