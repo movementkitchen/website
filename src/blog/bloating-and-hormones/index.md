@@ -21,9 +21,7 @@ The water retention peaks at the onset of menstrual bleeding, then, the feeling 
 
 ![Menstrual Cycle Phases](cycle-phases.png)
 
-It is not clear what role progesterone plays in bloating. Some studies find that it might act as a diuretic (help release water). However, it's a complex interplay of the two hormones that matters. 
-
-Also, there is evidence that oestrogen has *relaxant effect on smooth muscles*, so it could play a role in maintaining healthy bowel movements (Hogan, 2009).
+It is not clear what role progesterone plays in bloating. Some studies find that it might act as a diuretic (help release water). However, it's a balance between the two hormones that matters. 
 
 If you suspect your bloating could be related to hormones, it might be a good idea to *track your periods* and notice when the symptoms appear. Generally, estrogen levels are higher in the first half of your cycle, and progesterone in the second half. So, this might help you get an idea of where your hormone levels are. 
 
