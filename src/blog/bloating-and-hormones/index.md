@@ -13,11 +13,11 @@ It turns out me and my friend are not alone. In a recent [survey on perimenopaus
 
 > So, how do hormones affect digestion?
 
-Looking at research, there is evidence that women tend to show irritable bowel syndrome (IBS) symptoms more frequently than men in general. The digestive problems, including bloating in premenopausal women vary throughout the menstrual cycle with changing hormone levels (Hogan, 2009).
+Looking at research, there is evidence that women tend to show irritable bowel syndrome (IBS) symptoms more frequently than men in general. The digestive problems, including bloating in premenopausal women, vary throughout the menstrual cycle with changing hormone levels (Hogan, 2009).
 
 Oestrogen plays a role in *water retention*. When its levels are high, the body accumulates fluid and you might feel bloated and puffy. Since 1930-es studies reported increased weight and swelling in women in the days leading up to the period (for example, Dignam, 1956). 
 
-The water retention increases and peaks at the onset of menstrual bleeding, then, the feeling of puffiness and bloating gradually decreases during the follicular phase, and starts increasing again after the ovulation (White, 2000). 
+The water retention peaks at the onset of menstrual bleeding, then, the feeling of puffiness and bloating gradually decreases during the follicular phase, and starts increasing again after the ovulation (White, 2000). 
 
 ![Menstrual Cycle Phases](cycle-phases.png)
 
@@ -29,9 +29,9 @@ If you suspect your bloating could be related to hormones, it might be a good id
 
 During the *menopausal transition*, as the levels of oestrogen drop, the metabolism slows down, the production of bile decreases and the body gets less efficient at digesting fats. Many women develop food sensitivities to foods that they could eat just fine before their forties. This is where a food diary could be helpful. 
 
-Interestingly, the composition of bacteria in the gut changes in perimenopause. Dropping oestrogen levels lead to *loss of lactobacillus strains* and generally less diversity in the gut (Shin, 2019). This is why probiotics targeted specifically at women often contain various Lactobacillus strains.
+Interestingly, the composition of bacteria in the gut changes in perimenopause. Dropping oestrogen levels lead to *loss of lactobacillus strains* and generally less diversity in the gut (Shin, 2019). This is why probiotics targeted specifically at women contain various Lactobacillus strains.
 
-On the other hand, it seems that some bacterial species are capable of producing oestrogen in the gut - look up [*estrobolome*](https://www.maturitas.org/article/S0378-5122(17)30650-3/fulltext) (Baker, 2017). This was a breakthrough finding that changed the way we see the connection of the gut and hormones. Crazily enough, it might be possible to manipulate the gut microbiome with things like fecal transplant (Yes, it is what it sounds, lol!) and targeted probiotic treatments and increase the estrogen levels in the rest of the body through the gut.
+On the other hand, it seems that some bacterial species are capable of producing oestrogen in the gut - look up [*estrobolome*](https://www.maturitas.org/article/S0378-5122(17)30650-3/fulltext) (Baker, 2017). This was a breakthrough finding that changed the way we see the connection of the gut and hormones. Crazily enough, it might be possible to manipulate the gut microbiome with things like fecal transplant (Yes, it is what it sounds, lol!) and targeted probiotic treatments, and increase the estrogen levels in the rest of the body through the gut.
 
 In the meantime, *HRT* could help smoothen out the menopause transition and ease the symptoms, amongst other bloating. New generation of HRT, with body identical transdermal oestrogen derived from yam plants and micronised progesterone, has minimum side effects and is well tolerable by most women. I've been on HRT since May 2022 and I'm so grateful it exists! You can discuss different options with your GP or a fertility/menopause specialist. 
 
