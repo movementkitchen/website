@@ -29,7 +29,7 @@ Also, *probiotic supplements* can help reduce gas and bloating, especially bifid
 
 You can also try incorporating some of these foods into your diet:
 
-1. *Probiotic-rich foods*: Yogurt, kefir, sauerkraut, kimchi contain strains of bacteria that support a healthy gut. If you find lactose difficult to digest, go for the lactose-free of no-dairy probiotics.
+1. *Probiotic-rich foods*: Yogurt, kefir, sauerkraut, kimchi contain strains of bacteria that support a healthy gut. If you find lactose difficult to digest, go for the lactose-free or no-dairy probiotics.
 
 2. *Peppermint*: Peppermint tea/oil can help relax the muscles of the gastrointestinal tract.
 
