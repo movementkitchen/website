@@ -13,7 +13,7 @@ It turns out me and my friend are not alone. In a recent [survey on perimenopaus
 
 > So, how do hormones affect digestion?
 
-Looking at research, there is evidence that women tend to show irritable bowel syndrome (IBS) symptoms more frequently than men in general. The digestive problems, including bloating in premenopausal women, vary throughout the menstrual cycle with changing hormone levels (Hogan, 2009).
+Looking at research, there is evidence that premenopausal women tend to show irritable bowel syndrome (IBS) symptoms more frequently than men, and their digestive problems, including bloating, vary throughout the menstrual cycle with changing hormone levels (Hogan, 2009).
 
 Oestrogen plays a role in *water retention*. When its levels are high, the body accumulates fluid and you might feel bloated and puffy. Since 1930-es studies reported increased weight and swelling in women in the days leading up to the period (for example, Dignam, 1956). 
 
