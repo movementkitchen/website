@@ -1,6 +1,6 @@
 ---
 title: "Hormones and The Gut"
-subTitle: "About Eestrogen, Gut Microbiome and Menopause"
+subTitle: "About Oestrogen, Gut Microbiome and Menopause"
 date: "2023-09-10T10:00:00.000Z"
 path: "/hormones-and-the-gut/"
 tags: ["women's health", "bloating", "nutrition", "perimenopause", "menopause"]
@@ -9,7 +9,7 @@ featuredImage: "bloating-and-hormones.png"
 
 ![Bloating and Hormones](bloating-and-hormones.png)
 
-It turns out, my friend and I aren’t the only people being bothered by bloating. In a recent [survey on perimenopause](https://www.forthwithlife.co.uk/blog/perimenopause-symptoms-statistics-2023/) by the British startup Forth, focusing on 6,806 UK women, most of them between the ages of 30 and 49, 78% of the participants reported bloating and digestive complaints. This is the age range when most women start to feel the symptoms of perimenopause – the gradual transition between the reproductive and postreproductive stage in a woman’s life, with sometimes erratic hormonal fluctuations. 
+It turns out, my friend and I aren’t bloating alone. In a recent [survey on perimenopause](https://www.forthwithlife.co.uk/blog/perimenopause-symptoms-statistics-2023/) by the British startup Forth, focusing on 6,806 UK women, most of them between the ages of 30 and 49, 78% of the participants reported bloating and digestive complaints. This is the age range when most women start to feel the symptoms of perimenopause – the gradual transition between the reproductive and postreproductive stage in a woman’s life, with sometimes erratic hormonal fluctuations. 
 
 > So, how do hormones affect bloating?
 
@@ -29,9 +29,13 @@ If you suspect your bloating could be related to hormones, it might be a good id
 
 During the *menopausal transition*, as the levels of oestrogen drop, the metabolism slows down, the production of bile decreases and the body gets less efficient at digesting fats. Many women develop food sensitivities to foods that they could eat just fine before their forties. This is where a food diary could be helpful. 
 
-The composition of bacteria in the gut gradually changes. Dropping levels of oestrogen lead to a loss of lactobacillus strains and decreased diversity in the gut (Shin, 2019). Having a less diverse gut microbiome could lead to microbial imbalance, aka gut dysbiosis, which creates systemic inflammation and weakens the immune system. This is why probiotics targeted specifically at women contain various Lactobacillus species.
+> In perimenopause, dropping levels of oestrogen lead to a loss of lactobacillus strains and decreased diversity in the gut (Shin, 2019).
 
-At the same time, our gut bacteria is capable of producing oestrogen. The genetic material of various bacteria, also known as the [*estrobolome*](https://www.maturitas.org/article/S0378-5122(17)30650-3/fulltext), merges to metabolise estrogen in the gut, which then enters the bloodstream and spreads across the body (Baker, 2017). 
+Having a less diverse gut microbiome could lead to microbial imbalance, aka gut dysbiosis, which creates systemic inflammation and weakens the immune system. This is why probiotics targeted specifically at women contain various Lactobacillus species.
+
+> At the same time, our gut bacteria is capable of producing oestrogen. 
+
+The genetic material of various bacteria, also known as the [*estrobolome*](https://www.maturitas.org/article/S0378-5122(17)30650-3/fulltext), merges to metabolise estrogen in the gut, which then enters the bloodstream and spreads across the body (Baker, 2017). 
 
 This was a breakthrough finding that changed the way we see the connection between the gut and hormones. Crazily enough, it might be possible to manipulate the gut microbiome with things like faecal transplant (Yes, it is what it sounds, lol!) and increase the estrogen levels in the rest of the body through the gut.
 
