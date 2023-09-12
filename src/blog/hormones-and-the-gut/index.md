@@ -4,14 +4,14 @@ subTitle: "About Oestrogen, Gut Microbiome and Menopause"
 date: "2023-09-10T10:00:00.000Z"
 path: "/hormones-and-the-gut/"
 tags: ["women's health", "bloating", "nutrition", "perimenopause", "menopause"]
-featuredImage: "bloating-and-hormones.png"
+featuredImage: "hormones-and-the-gut.png"
 ---
 
-![Bloating and Hormones](bloating-and-hormones.png)
+![Hormones and The Gut](hormones-and-the-gut.png)
 
 It turns out, my friend and I aren’t bloating alone. In a recent [survey on perimenopause](https://www.forthwithlife.co.uk/blog/perimenopause-symptoms-statistics-2023/) by the British startup Forth, focusing on 6,806 UK women, most of them between the ages of 30 and 49, 78% of the participants reported bloating and digestive complaints. This is the age range when most women start to feel the symptoms of perimenopause – the gradual transition between the reproductive and postreproductive stage in a woman’s life, with sometimes erratic hormonal fluctuations. 
 
-> So, how do hormones affect bloating?
+### So, how do hormones affect bloating?
 
 Looking at research, there is evidence that premenopausal women tend to show irritable bowel syndrome (IBS) symptoms more frequently than men, and their digestive problems, including bloating, vary throughout the menstrual cycle with changing hormone levels (Hogan, 2009).
 
@@ -25,11 +25,11 @@ It is not clear what role progesterone plays in bloating. Some studies find that
 
 If you suspect your bloating could be related to hormones, it might be a good idea to *track your periods* and notice when the symptoms appear. Generally, estrogen levels are higher in the first half of your cycle, and progesterone in the second half. So, this might help you get an idea of where your hormone levels are. 
 
-> Perimenopause and The Gut
+### Perimenopause and The Gut
 
 During the *menopausal transition*, as the levels of oestrogen drop, the metabolism slows down, the production of bile decreases and the body gets less efficient at digesting fats. Many women develop food sensitivities to foods that they could eat just fine before their forties. This is where a food diary could be helpful. 
 
-> In perimenopause, dropping levels of oestrogen lead to a loss of lactobacillus strains and decreased diversity in the gut (Shin, 2019).
+> In perimenopause, the gut microbiome gradually changes; As oestrogen levels drop, we lose lactobacillus strains and diversity in the gut decreases (Shin, 2019).
 
 Having a less diverse gut microbiome could lead to microbial imbalance, aka gut dysbiosis, which creates systemic inflammation and weakens the immune system. This is why probiotics targeted specifically at women contain various Lactobacillus species.
 
