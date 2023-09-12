@@ -31,7 +31,7 @@ During the *menopausal transition*, as the levels of oestrogen drop, the metabol
 
 The composition of bacteria in the gut gradually changes. Dropping levels of oestrogen lead to a loss of lactobacillus strains and decreased diversity in the gut (Shin, 2019). Having a less diverse gut microbiome could lead to microbial imbalance, aka gut dysbiosis, which creates systemic inflammation and weakens the immune system. This is why probiotics targeted specifically at women contain various Lactobacillus species.
 
-At the same time, our gut bacteria is capable of producing oestrogen. The genetic material of various bacteria, also known as the [*estrobolome*](https://www.maturitas.org/article/S0378-5122(17)30650-3/fulltext), merges to metabolise estrogen in the gut, which then enters the blood stream and spreads accross the body (Baker, 2017). 
+At the same time, our gut bacteria is capable of producing oestrogen. The genetic material of various bacteria, also known as the [*estrobolome*](https://www.maturitas.org/article/S0378-5122(17)30650-3/fulltext), merges to metabolise estrogen in the gut, which then enters the bloodstream and spreads across the body (Baker, 2017). 
 
 This was a breakthrough finding that changed the way we see the connection between the gut and hormones. Crazily enough, it might be possible to manipulate the gut microbiome with things like faecal transplant (Yes, it is what it sounds, lol!) and increase the estrogen levels in the rest of the body through the gut.
 
