@@ -9,7 +9,7 @@ featuredImage: "bloating-and-hormones.png"
 
 ![Bloating and Hormones](bloating-and-hormones.png)
 
-It turns out me and my friend are not alone. In a recent [survey on perimenopause](https://www.forthwithlife.co.uk/blog/perimenopause-symptoms-statistics-2023/) by the British startup Forth, focusing on 6,806 UK women between the ages of 30 and 49, 78% of the participants reported bloating and digestive complaints. This is the age range when most women start to feel the symptoms of perimenopause – the gradual transition between the reproductive and postreproductive stage in a woman’s life, with sometimes erratic hormonal fluctuations. 
+It turns out, my friend and me are not alone. In a recent [survey on perimenopause](https://www.forthwithlife.co.uk/blog/perimenopause-symptoms-statistics-2023/) by the British startup Forth, focusing on 6,806 UK women between the ages of 30 and 49, 78% of the participants reported bloating and digestive complaints. This is the age range when most women start to feel the symptoms of perimenopause – the gradual transition between the reproductive and postreproductive stage in a woman’s life, with sometimes erratic hormonal fluctuations. 
 
 > So, how do hormones affect digestion?
 
