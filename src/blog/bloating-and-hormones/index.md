@@ -1,7 +1,7 @@
 ---
 title: "Bloating and Hormones"
 subTitle: "Oestrogen, Progesterone and The Gut"
-date: "2023-09-09T10:00:00.000Z"
+date: "2023-09-10T10:00:00.000Z"
 path: "/bloating-and-hormones/"
 tags: ["women's health", "bloating", "nutrition", "perimenopause", "menopause"]
 featuredImage: "bloating-and-hormones.png"
