@@ -17,7 +17,7 @@ Looking at research, there is evidence that premenopausal women tend to show irr
 
 Oestrogen plays a role in *water retention*. When its levels are high, the body accumulates fluid and you might feel bloated and puffy. Since 1930-es studies reported increased weight and swelling in women in the days leading up to the period (for example, Dignam, 1956). 
 
-The water retention peaks at the onset of menstrual bleeding, then, the feeling of puffiness and bloating gradually decreases during the follicular phase, and starts increasing again after the ovulation (White, 2000). 
+The water retention peaks at the onset of menstrual bleeding, then, the feeling of puffiness and bloating gradually decreases during the follicular phase, and starts increasing again after the ovulation (White, 2011). 
 
 ![Menstrual Cycle Phases](cycle-phases.png)
 
