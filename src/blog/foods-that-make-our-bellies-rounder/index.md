@@ -29,27 +29,25 @@ Also, *probiotic supplements* can help reduce gas and bloating, especially bifid
 
 You can also try incorporating some of these foods into your diet:
 
-1. *Probiotic-rich foods*: Yogurt, kefir, sauerkraut & kimchi contain beneficial bacteria that support a healthy gut. If you find lactose difficult to digest, go for the lactose-free of no-dairy probiotics.
+1. *Probiotic-rich foods*: Yogurt, kefir, sauerkraut, kimchi contain strains of bacteria that support a healthy gut. If you find lactose difficult to digest, go for the lactose-free of no-dairy probiotics.
 
 2. *Peppermint*: Peppermint tea/oil can help relax the muscles of the gastrointestinal tract.
 
-3. *Fennel*: Fennel seeds/bulbs can help with digestion and reduce gas.
+3. *Fennel*: Fennel seeds/bulbs can stimulate digestion and reduce gas.
 
-4. *Ginger*: Ginger has anti-inflammatory properties and contains enzymes that help break down protein.
+4. *Ginger*: Ginger has anti-inflammatory properties and contains enzymes that help breaking down proteins.
 
 5. *Lemon* - Lemon juice is similar in acidity to our digestive juices and boosts digestion.
 
 6. *Bananas*: They are gentle on the stomach and can help regulate bowel movements.
 
-7. *Pineapple*: Contains bromelain, an enzyme that can help with digestion.
+7. *Oats*: High in soluble fibre, oats can promote regular bowel movements and reduce constipation.
 
-8. *Oats*: High in soluble fibre, oats can promote regular bowel movements and reduce constipation.
+8. *Lean proteins*: Lean sources of protein like poultry, fish, and tofu are much easier to digest than fatty meats.
 
-9. *Lean proteins*: Opt for lean sources of protein like poultry, fish, and tofu instead of fatty meats, which can be harder to digest.
+9.  *Herbal teas*: Chamomile and dandelion tea may help soothe the digestive system.
 
-10. *Herbal teas*: Chamomile and dandelion tea may help soothe the digestive system.
-
-11. *Water-rich foods*: Cucumber, watermelon, and celery have high water content and can help flush excess sodium from the body.
+10. *Water-rich foods*: Cucumber, watermelon, and celery have high water content and can help flush excess sodium from the body.
 
 Again, everyone is different, listen to your body and observe which foods work or don't work for you.
 
