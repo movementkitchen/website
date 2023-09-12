@@ -2,7 +2,7 @@
 title: "Foods That Make Our Bellies Rounder"
 subTitle: "Welcome to the Bloating Series"
 date: "2023-09-08T10:00:00.000Z"
-path: "/bloating-and-food-choices/"
+path: "/foods-that-make-our-bellies-rounder/"
 tags: ["women's health", "bloating", "nutrition", "perimenopause", "menopause"]
 featuredImage: "bloating-and-food-1.png"
 ---
