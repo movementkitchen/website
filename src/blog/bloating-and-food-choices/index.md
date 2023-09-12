@@ -23,7 +23,7 @@ If you think certain foods could be a cause of your bloating, it might be a good
 
 One of the common culprits could be *artificial sweeteners*. 
 
-In the last decade or so, researchers identified a group of poorly absorbed sugars (FODMAPs) that get fermented in the gut producing methane and carbon dioxide and wracking havoc with digestion in general. The notorious FODMAPs include fructose, lactose and artificial sweeteners (such as sorbitol, mannitol, xylitol, and glycerol). There is evidence that removing these from your diet could decrease symptoms of bloating (see Lacy, 2020). Look up the *Low FODMAP diet* for ideas. 
+In the last decade or so, researchers identified a group of poorly absorbed sugars (FODMAPs) that get fermented in the gut producing methane and carbon dioxide and wracking havoc with digestion in general. The notorious FODMAPs include fructose, lactose and artificial sweeteners (such as sorbitol, mannitol, xylitol, and glycerol). There is evidence that removing these from your diet could decrease symptoms of bloating (see Lacy, 2020). Look up the [*Low FODMAP diet*](https://www.medicalnewstoday.com/articles/319722) for ideas. 
 
 Also, *probiotic supplements* can help reduce gas and bloating, especially bifidobacteria strains, which don't create gas with fermentation (Check Foley, 2014).
 
