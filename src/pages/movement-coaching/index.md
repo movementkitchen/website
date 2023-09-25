@@ -7,7 +7,7 @@ We will work together to figure out:
 3. What is the action plan for reaching your goal?
 4. What are milestones and a realistic timeline?
 
-You can choose between in-person sessions in our London E10 studio, online sessions or the physical-online combination. 
+I coach online and in-person, at our East London studio. 
 
 With online sessions you can log in on two devices, so we can have a view from two different angles. You also get the bonus of session recordings.
 
