@@ -3,7 +3,7 @@ title: Movement coaching
 ---
 We will work together to figure out:
 1. What is your fitness goal?
-2. Where are you right now? - symptoms? movement strategies? mechanisms of injuries? strength and endurance?
+2. Where are you right now?
 3. What is the action plan for reaching your goal?
 4. What are milestones and a realistic timeline?
 
@@ -50,6 +50,6 @@ In the early stages of coaching, you will learn tools to relieve pain so you can
 
 Each week, we will create an action plan with exercises that you can practise until your next session. As you meet your milestones, we can progress further, step by step to your goal.
 
-The exercises are performed with focus and precision – working out smarter, not necessarily harder. A lot of our work focuses on the nervous system and motor control. You will learn how to isolate and control small movements, building towards more complex and more physically demanding movements as you get stronger.
+The exercises are performed with focus and precision – working out smarter, not necessarily harder. A lot of our work focuses on the nervous system and motor control. You will learn how to isolate and control small movements, building towards more complex and more physically demanding movements as you get stronger. Once you master the basics, we gradually add weights and impact.
 
 It is important to keep consistency of practice during the whole period of coaching, so you can meet your weekly milestones and progress towards the goal.

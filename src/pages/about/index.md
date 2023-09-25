@@ -4,14 +4,27 @@ title: About
 
 ### About
 
-Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist. I am passionate about women's health, ageing and mechanisms of injuries and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I'm also a mum of two (born by a C-section and a home birth after a caesarean (HBAC)) with a lived experience of severe diastasis recti and chronic back pain.
+Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist. I am passionate about women's health, ageing and core rehab and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I'm also a mum of two (born by a C-section and a home birth after a caesarean (HBAC)) with a lived experience of severe diastasis recti and chronic back pain.
 
-Movement Kitchen evolved through 12 years of my work with movement and rehabilitation as a precision training for women who want to reclaim an active lifestyle through different life stages - especially in cases where it's not straightforward to train.
+Movement Kitchen evolved through 12 years of my work with movement and rehabilitation as a precision training for people who want to get stronger when it's not straightforward to train.
 
 Many people who would come to see me had found themselves bouncing back and forth between physiotherapy and the gym – getting the all-clear from the physio and going back to training just to get injured and back to physiotherapy, again and again. This is why I developed an approach with one foot in rehabilitation and another in strength and conditioning. 
 
-I see kitchen as a feminine, nurturing environment, a space for creating, playing and experimenting. My studio really is a kitchen – with large mirrors, a climbing frame and a variety of exercise props. I strive to create the safe and intimate atmosphere of a kitchen in my sessions too. My approach is based on research and clinical practice but guided by empathy and intuition. I aim to build a supportive environment for you to get to know and work with your body towards reaching your optimum fitness and performance level. 
+I see kitchen as a nurturing environment, a space for creating, playing and experimenting. My studio really is a kitchen – with large mirrors, a climbing frame and a variety of exercise props. I aim to recreate the safe and nourishing atmosphere of a kitchen in my sessions too. My approach is based on research and clinical practice but guided by empathy and intuition. I strive to create a supportive space for you to get to know your body and get stronger on your own terms.
 
+### My Story
+
+It was my own injuries that drew me to this field. In my late twenties, I developed chronic lower back pain and lost sensation in a large part of my left foot. I was a corporate lawyer at the time and would spend hours drafting contracts and then trying to make up for it at the gym. Eventually, my lower back gave in. My neurologist said it was part of a slow degenerative process and I'd have to get used to it. But luckily, I didn't. I decided to quit my lawyer job and follow my passion for movement instead. With little sitting and consistent physical activity, my lower back recovered and I restored the sensation in my entire left foot.
+
+Over the years, I developed a particular interest in working with women. Specialising in teaching pregnancy and postpartum yoga and fitness classes, I continued teaching throughout my both pregnancies. But after the birth of my two children, in short succession, I ended up with a severe abdominal separation (diastasis recti), that at some point was around 6 fingers wide. The belly was bulging and deforming at movements that used to be easy. Even a year after the birth, I looked seven months pregnant. My core was not working and my lower back and hip muscles would get into spasm every time I carried my children or opened a heavy door.
+
+Back in the days, few medical professionals understood my problem and there was hardly any research published on diastasis recti and its connection with back and pelvic pain. The separation was seen as a cosmetic problem and most of the solutions focused on patching the gap instead of understanding what caused it. I couldn’t help wondering: if diastasis recti is just an aesthetic issue, why do I need a painkiller to sleep?
+
+Feeling lost and unsupported by healthcare, I studied across various disciplines to be able to manage my symptoms and continue to move and teach. I searched for answers across yoga, Pilates, soft tissue therapy, corrective exercise, sport science and medicine, physiotherapy and women's health. Digging deeper and deeper eventually brought me to a master's degree in sports science, focusing on biomechanics and mechanisms of injuries.
+
+Along the way, I've worked with many women trapped in the cracks of an exercise culture that doesn't understand nor prioritise women's needs. I got fascinated by female athletes' training during pregnancy and postpartum return to sport, especially, training with diastasis recti, prolapse, hernias, incontinence and other pressure management issues.
+
+I am passionate about supporting people in reclaiming strong bodies that can support them in everything they want to do, from lifting their children to paddleboarding, weightlifting, rock climbing, surfing, skiing or running a marathon.
 
 ### My Education
 

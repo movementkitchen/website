@@ -15,23 +15,22 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers evidence-based personal training for active women - *from rehab to performance*, specifically tailored to women's physiology and the life stage.
+Movement Kitchen offers evidence-based health and strength training for people stuck in the physio-gym-physio loop, who want to train on their own terms and reclaim a strong body and an active lifestyle.
 
 ### You might want to: 
 
-- Train and feel your best through the menopause
-- Adapt your training through your pregnancy
-- Return to exercise or competitive sports after the baby
+- Rebuild your core postpartum - 3 or 30 years after the baby
 - Get stronger with incontinence or a pelvic organ prolapse
 - Carry your children, lift weights, climb, hike, dance, surf, feeling confident and comfortable in your body 
+- Return to exercise or competitive sports
 
 ### Or maybe you:  
 
-- Have been stuggling with a recurring injury or chronic pain
-- Feel that the traditional core exercises don't work for you
-- Live with endometriosis, pelvic pain or another women's health issue and want to find a way to exercise and get stronger in a way that works for your body
+- Have been stuggling with recurring back pain or hernias
+- Keep getting injured at the gym or every time you lift something heavy
+- Feel that the traditional abdominal / core exercises don't work for you
 
-Taking into account your needs and the stage in your life, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals.  
+Wherever you are, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals.  
 
 Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity.
 
