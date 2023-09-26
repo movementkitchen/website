@@ -2,7 +2,7 @@
 title: About
 ---
 
-Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist. I am passionate about women's health, ageing and core rehab and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I'm also a mum of two, born by a C-section and a home birth after a caesarean (HBAC) with a lived experience of chronic back pain (scroll all the way down to read my story).
+Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist. I am passionate about women's health, ageing and core rehab and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I'm also a mum of two, born by a C-section and a home birth after a caesarean (HBAC) with a lived experience of a severe abdominal separation and chronic back pain (scroll all the way down to read my story).
 
 Feel free to get in touch with any questions or collaboration suggestions or just to say hi. I'm always open for new ideas!
 
