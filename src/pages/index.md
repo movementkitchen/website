@@ -19,7 +19,7 @@ Movement Kitchen offers evidence-based health and strength training for women st
 
 ### You might want to: 
 
-- Rebuild your core postpartum - 3 or 30 years after the baby
+- Rebuild your core postpartum - 6 weeks or 16 years after the baby
 - Get stronger with incontinence or a pelvic organ prolapse
 - Carry your children, lift weights, climb, hike, dance, surf, feeling confident and comfortable in your body 
 - Return to exercise or competitive sports
