@@ -6,7 +6,7 @@ title: About
 
 Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist. I am passionate about women's health, ageing and core rehab and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I'm also a mum of two (born by a C-section and a home birth after a caesarean (HBAC)) with a lived experience of severe diastasis recti and chronic back pain.
 
-Movement Kitchen evolved through 12 years of my work with movement and rehabilitation as a precision training for people who want to get stronger when it's not straightforward to train.
+Movement Kitchen evolved through 12 years of my work with movement and rehabilitation as a precision training for women who want to get stronger when it's not straightforward to train.
 
 Many people who would come to see me had found themselves bouncing back and forth between physiotherapy and the gym – getting the all-clear from the physio and going back to training just to get injured and back to physiotherapy, again and again. This is why I developed an approach with one foot in rehabilitation and another in strength and conditioning. 
 
