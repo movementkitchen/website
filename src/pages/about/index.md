@@ -2,9 +2,9 @@
 title: About
 ---
 
-Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist. I am passionate about women's health, ageing and core rehab and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I'm also a mum of two, born by a C-section and a home birth after a caesarean (HBAC) with a lived experience of severe diastasis recti and chronic back pain (scroll all the way down to read my story).
+Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist. I am passionate about women's health, ageing and core rehab and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I'm also a mum of two, born by a C-section and a home birth after a caesarean (HBAC) with a lived experience of chronic back pain (scroll all the way down to read my story).
 
-Feel free to get in touch with any questions or collaaboration suggestions or just to say hi. I'm always open for new ideas!
+Feel free to get in touch with any questions or collaboration suggestions or just to say hi. I'm always open for new ideas!
 
 Love and muscles,
 
@@ -99,7 +99,9 @@ I found that there was little support offered by the healthcare and very little 
 
 Feeling lost and unsupported by healthcare, I studied across various disciplines to be able to manage my symptoms and continue to move and teach. I searched for answers across yoga, Pilates, soft tissue therapy, corrective exercise, sport science and medicine, physiotherapy and women's health. Digging deeper and deeper eventually brought me to a master's degree in sports science, focusing on biomechanics and mechanisms of injuries.
 
-I realised that diastasis recti was not a problem in itself, but a symptom of my poor intra-abdominal pressure management that would have sooner or later led to an injury. If it wasn't diastasis it would have maybe been a slipped disc in my spine, or a hernia, or a pelvic organ prolapse. I needed to learn how to use the pressure inside my belly effectively. This meant, first, I needed to go back to breathing and build back up from there.
+> I realised that diastasis recti was not a problem in itself, but a symptom of poor intra-abdominal pressure management that would have sooner or later led to an injury.
+
+If it wasn't diastasis it would have maybe been a slipped disc in my spine, or a hernia, or a pelvic organ prolapse. I needed to learn how to use the pressure inside my belly effectively. This meant, first, I needed to go back to breathing and build back up from there.
 
 I started from retraining my diaphragm, pelvic floor and deep abdominal muscles, restoring the mobility of my pelvis and the ribs. I learnt how to manage the pressure inside my belly when I move and then gradually added weight and built muscles to support me. Over time, I managed to restore a functional core and get stronger and more resilient than in my twenties.
 
