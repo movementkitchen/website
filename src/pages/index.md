@@ -15,7 +15,7 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers evidence-based health and strength training for women stuck in the physio-gym-physio loop who want to reclaim a strong body and an active lifestyle.
+Movement Kitchen offers evidence-based health and strength training for people with a weakened core who who want to reclaim a strong body and an active lifestyle.
 
 ### You might want to: 
 
