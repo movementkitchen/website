@@ -15,24 +15,24 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers evidence-based 1:1 health and strength coaching for women with a weakened core and back pain, bridging physiotheraphy and strength and conditioning.
+Movement Kitchen offers evidence-based 1:1 coaching for women with a weakened core – bridging physiotheraphy and strength and conditioning to help you reclaim a strong body and an active lifestyle.
+
+### Maybe you:  
+
+- Have been stuggling with recurring back pain or hernias
+- Keep getting injured at the gym or every time you lift something heavy
+- Feel that the traditional abdominal / core exercises don't work for you. 
 
 ### You might want to: 
 
 - Rebuild your core postpartum - 6 weeks or 16 years after the baby
 - Get stronger with incontinence or a pelvic organ prolapse
 - Carry your children, lift weights, climb, hike, dance, surf, feeling confident and comfortable in your body 
-- Return to exercise or competitive sports
+- Return to competitive sports. 
 
-### Or maybe you:  
+Wherever you are, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals. 
 
-- Have been stuggling with recurring back pain or hernias
-- Keep getting injured at the gym or every time you lift something heavy
-- Feel that the traditional abdominal / core exercises don't work for you
-
-Wherever you are, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals.  
-
-Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity.
+Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity. 
 
 Find out how we can work together [here](/movement-coaching/).
 
