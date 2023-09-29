@@ -12,7 +12,7 @@ Ivana xx
 
 ### My Approach
 
-Movement Kitchen evolved through 12 years of my work with movement and rehabilitation as a precision training for women who want to get stronger when it's not straightforward to train.
+Movement Kitchen evolved through 12 years of my work with movement and rehabilitation as personalised health and strength coaching for women who want to get stronger when it's not straightforward to train.
 
 Many people who would come to see me had found themselves bouncing back and forth between physiotherapy and the gym – getting the all-clear from the physio and going back to training just to get injured and back to physiotherapy, again and again. This is why I developed an approach with one foot in rehabilitation and another in strength and conditioning. 
 
@@ -99,7 +99,7 @@ I found that there was little support offered by the healthcare and very little 
 
 Feeling lost and unsupported by healthcare, I studied across various disciplines to be able to manage my symptoms and continue to move and teach. I searched for answers across yoga, Pilates, soft tissue therapy, corrective exercise, sport science and medicine, physiotherapy and women's health. Digging deeper and deeper eventually brought me to a master's degree in sports science, focusing on biomechanics and mechanisms of injuries.
 
-> I realised that diastasis recti was not a problem in itself, but a symptom of poor intra-abdominal pressure management that would have sooner or later led to an injury.
+> I realised that my diastasis recti was not a problem in itself, but a symptom of non-optimal intra-abdominal pressure management that would have sooner or later led to an injury.
 
 If it wasn't diastasis it would have maybe been a slipped disc in my spine, or a hernia, or a pelvic organ prolapse. I needed to learn how to use the pressure inside my belly effectively. This meant, first, I needed to go back to breathing and build back up from there.
 
