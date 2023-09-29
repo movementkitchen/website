@@ -63,7 +63,7 @@ class Hero extends React.Component {
             backgroundImage: `url(${this.props.imageURI})`,
           }}
         />
-        <ShadyHeadline>From Rehab to Performance</ShadyHeadline>
+        <ShadyHeadline>Health and Strength Coaching</ShadyHeadline>
       </Wrapper>
     );
   }
