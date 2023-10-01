@@ -49,7 +49,7 @@ Turns out I was still belly-breathing – inflating the belly at inhalation, eve
 
 When I tried to “breathe into the side ribs” with my hands on the ribcage or “breathe into the lats” there is some costal movement but not much. My ribs would do with some mobility work it seemed.
 
-Also, as I learnt how to externally palpate the pelvic floor during exercises (I will write a separate blog post about it), I found out about my habit of bearing down when I thought that my pelvic floor was activating concentrically. This means, my perineum, especially the posterior part, was moving down at exhalation instead of drawing up into the body. 
+Also, as I learnt how to externally palpate the pelvic floor during exercises (I will write a separate blog post about it), I found out about my habit of bearing down when I thought that my pelvic floor was activating concentrically. This means, my perineum, especially the posterior part, was moving down at exhalation instead of drawing up into the body.
 
 These strategies in combination made it very difficult for my body to heal the midline. Probably with time, my pelvic floor would have started to give in too.
 
@@ -67,9 +67,9 @@ Also, I learnt how to spot and avoid bearing down – thinking of lifting up fro
 
 By rebuilding the foundation, I could stop creating the outward and downward pressure. And now I had a much better foundation on which I could build up intensity and impact.
 
-And this made me think: was I asking the right questions in my postnatal return to exercise? 
+And this made me think: was I asking the right questions in my postnatal return to exercise?
 
-I realised that, in the 10+ years of my work with pregnant and postnatal women, I asked little about the pelvic floor. 
+I realised that, in the 10+ years of my work with pregnant and postnatal women, I asked little about the pelvic floor.
 
 > Many seemingly unrelated postnatal symptoms, like diastasis recti, pelvic girdle pain and back pain have to do with pelvic floor muscle coordination.
 
