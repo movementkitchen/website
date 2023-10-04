@@ -2,7 +2,7 @@
 title: About
 ---
 
-Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist. I am passionate about women's health, ageing and core rehab and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I'm also a mum of two, born by a C-section and a home birth after a caesarean (HBAC) with a lived experience of a severe abdominal separation and chronic back pain (scroll all the way down to read my story).
+Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist. I am passionate about core rehab, ageing and women's health and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I'm also a mum of two, born by a C-section and a home birth after a caesarean (HBAC) with a lived experience of a severe abdominal separation and chronic back pain (scroll all the way down to read my story).
 
 Feel free to get in touch with any questions or collaboration suggestions or just to say hi. I'm always open for new ideas!
 
@@ -12,7 +12,7 @@ Ivana xx
 
 ### My Approach
 
-Movement Kitchen evolved through 12 years of my work with movement and rehabilitation as personalised health and strength coaching for women who want to get stronger when it's not straightforward to train.
+Movement Kitchen evolved through 12 years of my work with movement and rehabilitation as personalised coaching for people who want to get stronger when it's not straightforward to train.
 
 Many people who would come to see me had found themselves bouncing back and forth between physiotherapy and the gym – getting the all-clear from the physio and going back to training just to get injured and back to physiotherapy, again and again. This is why I developed an approach with one foot in rehabilitation and another in strength and conditioning. 
 
@@ -79,7 +79,9 @@ I am fully insured with Balens, a specialist insurance broker for health, fitnes
 
 My movement journey has been paved by various injuries and an unstoppable urge to learn in the process of overcoming them. I often felt my body was too fragile to follow my pace of life.
 
-In 2008, I left a career in corporate law with recurrent back and shoulder pain and no sensation in a half of my left foot. I found that yoga was helping my back, so I went on to study yoga. I completed 1000+ hours of yoga teacher training in Serbia, my home country, India and the UK, focusing on yoga therapy. After years of learning, teaching and dedicated daily practice I restored sensation in my whole left foot, had no back pain and even managed to grow 1.5 cm! Specialising in teaching pregnancy and postpartum yoga classes allowed me to continue teaching yoga throughout my both pregnancies and the births of my children. 
+In my late twenties, I developed chronic lower back pain and lost sensation in a large part of my left foot. I was a corporate lawyer at the time and would spend hours drafting contracts and then trying to make up for it at the gym. Eventually, my lower back gave in. My neurologist said it was part of a slow degenerative process and I'd have to get used to it. But luckily, I didn't. I decided to quit my lawyer job and follow my passion for movement instead. With little sitting and consistent physical activity, my lower back recovered and I restored the sensation in my entire left foot.
+
+Over the years, I developed a particular interest in working with women. Specialising in teaching pregnancy and postpartum yoga and fitness classes, I continued teaching throughout my both pregnancies. 
 
 My first baby was born in 2013, by an emergency C-section that left me feeling weak and defeated. In the first days after the surgery, I could not straighten up to standing, but luckily, the scar healed well. After the routine 6-week postpartum check-up I got a green light for returning to exercise. So, I went straight back to teaching yoga and shortly after, took up teaching the advanced level at the gym. 
 
@@ -93,11 +95,11 @@ I spent 1.5 years being able to practise only very gentle pregnancy yoga. I visi
 
 I was wondering if I would ever be able to practise anything but extremely gentle low-impact exercise. Doing even a simple sun salutation or dynamic lunges would leave me with back and hip spasms for days. 
 
-I found that there was little support offered by the healthcare and very little published research on diastasis recti, especially its connection with back and pelvic pain and dysfunction. I couldn’t find a single physiotherapist who had an experience with diastasis recti. The separation was seen as a cosmetic problem and most of the solutions focused on patching the gap instead of looking into what had caused it. 
+I found that there was little support offered by the healthcare and very little published research on diastasis recti, especially its connection with back and pelvic pain and dysfunction. I couldn’t find a single physiotherapist at the time who had an experience with diastasis recti. The separation was seen as a cosmetic problem and most of the solutions focused on patching the gap instead of looking into what had caused it. 
 
 > I couldn’t help wondering: if diastasis recti is just an aesthetic issue, why do I need a painkiller to sleep?
 
-Feeling lost and unsupported by healthcare, I studied across various disciplines to be able to manage my symptoms and continue to move and teach. I searched for answers across yoga, Pilates, soft tissue therapy, corrective exercise, sport science and medicine, physiotherapy and women's health. Digging deeper and deeper eventually brought me to a master's degree in sports science, focusing on biomechanics and mechanisms of injuries.
+Feeling lost and unsupported, I studied across various disciplines to be able to manage my symptoms and continue to move and teach. I searched for answers across yoga, Pilates, soft tissue therapy, corrective exercise, sport science and medicine, physiotherapy and women's health. Digging deeper and deeper eventually brought me to a master's degree in sports science, focusing on biomechanics and mechanisms of injuries.
 
 > I realised that my diastasis recti was not a problem in itself, but a symptom of non-optimal intra-abdominal pressure management that would have sooner or later led to an injury.
 
@@ -105,6 +107,6 @@ If it wasn't diastasis it would have maybe been a slipped disc in my spine, or a
 
 I started from retraining my diaphragm, pelvic floor and deep abdominal muscles, restoring the mobility of my pelvis and the ribs. I learnt how to manage the pressure inside my belly when I move and then gradually added weight and built muscles to support me. Over time, I managed to restore a functional core and get stronger and more resilient than in my twenties.
 
-Alongside my personal journey, I've worked with many women trapped in the cracks of an exercise culture that doesn't understand nor prioritise women's needs. I got fascinated by female athletes' postpartum return to sport, especially, training with diastasis recti, prolapse, hernias, incontinence and other pressure management issues.
+Alongside my personal journey, I've worked with many people, especially women trapped in the cracks of an exercise culture that doesn't understand nor prioritise women's needs. I got fascinated by athletes' postpartum return to sport, especially, training with diastasis recti, prolapse, hernias, incontinence and other pressure management issues.
 
 I am passionate about using my knowlegde and personal experience to support people in reclaiming strong bodies that could support them in everything they want to do, from lifting their children to paddleboarding, weightlifting, rock climbing, surfing, skiing or running a marathon.

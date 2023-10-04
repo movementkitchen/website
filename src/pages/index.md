@@ -15,18 +15,20 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers evidence-based 1:1 coaching for women with a weakened core – bridging physiotheraphy and strength and conditioning to help you reclaim a strong body and an active lifestyle.
+Movement Kitchen offers 1:1 coaching bridging physiotheraphy and strength and conditioning to help you strengthen your core inside out and return to an active lifestyle.
 
 ### Maybe you:  
 
+- Feel that your body can't support you in doing the activities you love
 - Have been stuggling with recurring back pain or hernias
-- Keep getting injured at the gym or every time you lift something heavy
-- Feel that the traditional abdominal / core exercises don't work for you. 
+- Keep getting injured every time you lift your kid out of the bath
+- Have weakened abs that don't seem to respond to training
+- Leak when you jump, cough or sneeze
 
-### You might want to: 
+### You want to: 
 
-- Rebuild your core postpartum - 6 weeks or 16 years after the baby
-- Get stronger with incontinence or a pelvic organ prolapse
+- Rebuild your core postpartum - 6 weeks or 20 years after the baby
+- Find a way to train and get stronger with a pelvic organ prolapse
 - Carry your children, lift weights, climb, hike, dance, surf, feeling confident and comfortable in your body 
 - Return to competitive sports. 
 
