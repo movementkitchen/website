@@ -12,9 +12,7 @@ Ivana xx
 
 ### My Approach
 
-Movement Kitchen evolved through 12 years of my work with movement and rehabilitation as personalised coaching for people who want to get stronger when it's not straightforward to train.
-
-Many people who would come to see me had found themselves bouncing back and forth between physiotherapy and the gym – getting the all-clear from the physio and going back to training just to get injured and back to physiotherapy, again and again. This is why I developed an approach with one foot in rehabilitation and another in strength and conditioning. 
+Movement Kitchen evolved through 12 years of my work with movement and rehabilitation. Many people who would come to see me had found themselves bouncing back and forth between physiotherapy and the gym – getting the all-clear from the physio and going back to training just to get injured and back to physiotherapy, again and again. This is why I developed an approach with one foot in rehabilitation and another in strength and conditioning. 
 
 I see kitchen as a nurturing environment, a space for creating, playing and experimenting. My studio really is a kitchen – with large mirrors, a climbing frame and a variety of exercise props. I aim to recreate the safe and nourishing atmosphere of a kitchen in my sessions too. My approach is based on research and clinical practice but guided by empathy and intuition. I strive to create a supportive space for you to get to know your body and get stronger on your own terms.
 
