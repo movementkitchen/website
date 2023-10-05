@@ -87,7 +87,7 @@ I might have been around two months postpartum when, after demonstrating the "wi
 
 For things to be even sadder, I've also gradually developed De Quervain's tendinosis ("mother's wrist") on both my wrists and could not bear weight on my arms. It was incredibly frustrating to get re-injured and in pain every time I exercised or carried my baby. 
 
-> It struck me how many postnatal issues you never ever hear about until you are unlucky to get them.
+> It struck me how many postpartum issues you never ever hear about until you are unlucky to get them.
 
 I spent 1.5 years being able to practise only very gentle pregnancy yoga. I visited numerous physios who had no idea how to help me. And then I got pregnant again. My second child was born in 2015, this time naturally, at home, but I had a 2nd-degree tear, lost a lot of blood and my abdominal separation was now around 6 fingers wide. Even at 1 year postpartum I felt weak and looked 5 months pregnant - a shopkeeper in a local grocery shop congratulated me on already being pregnant with the third child. 
 
