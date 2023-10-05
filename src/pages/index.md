@@ -19,7 +19,7 @@ Movement Kitchen offers 1:1 coaching bridging physiotheraphy and strength and co
 
 ### Maybe you:  
 
-- Feel that your body can't support you in doing the activities you love
+- Feel that your body can't support you when lifting heavy things
 - Have been stuggling with recurring back pain or hernias
 - Keep getting injured every time you lift your kid out of the bath
 - Have weakened abs that don't seem to respond to training
@@ -30,7 +30,7 @@ Movement Kitchen offers 1:1 coaching bridging physiotheraphy and strength and co
 - Rebuild your core postpartum - 6 weeks or 20 years after the baby
 - Find a way to train and get stronger with a pelvic organ prolapse
 - Carry your children, lift weights, climb, hike, dance, surf, feeling confident and comfortable in your body 
-- Return to competitive sports. 
+- Return to competitive sports
 
 Wherever you are, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals. 
 
