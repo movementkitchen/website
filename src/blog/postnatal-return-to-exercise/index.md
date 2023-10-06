@@ -53,37 +53,27 @@ Also, as I learnt how to externally palpate the pelvic floor during exercises (I
 
 These strategies in combination made it very difficult for my body to heal the midline. Probably with time, my pelvic floor would have started to give in too.
 
-So, what did I do?
+> So, what did I do?
 
-> I went back all the way to breathing and rebuilt from there.
+1. *I learnt how to spot and avoid bearing down at exhalation* – thinking of lifting up from the base of the torso instead (effort 2/10).
+   
+2. *I focused on improving my thoracic mobility*, so the pressure wouldn't just drop down.
 
-1. Inhalation  
-I focused on improving my thoracic mobility – releasing the erector spinae on a foam roller or rolling over a pool noodle horizontally placed across my back to fit in between the vertebrae and massage the back of the ribs. Even after minutes of rolling I could already feel more even movement across the torso at inhalation, instead of just my belly inflating. Finally, I could “breathe into the lats”!
+I would release the erector spinae on a foam roller or rolling over a pool noodle horizontally placed across my back to fit in between the vertebrae and massage the back of the ribs. Even after minutes of rolling I could already feel more even movement across the torso at inhalation, instead of just my belly inflating. Finally, I could “breathe into the lats”!
 
-1. Exhalation  
-I needed to downregulate the external obliques, so they don’t keep driving the exhalation and pushing the abdominal content down.  
+3. *I downregulated the external obliques*
+
+My external obliques were stronger than the internal obliques and the transversus abdominis. They kept driving the exhalation and pushing the abdominal content down.
+
 I practised placing the hands just under the lower ribs and trying to keep this area relaxed while exhaling – using humming sound would help me to reflexively engage the deep abdominal muscles.  
-Also, I learnt how to spot and avoid bearing down – thinking of lifting up from the base of the torso at exhalation instead (effort 2/10).
 
 By rebuilding the foundation, I could stop creating the outward and downward pressure. And now I had a much better foundation on which I could build up intensity and impact.
 
-And this made me think: was I asking the right questions in my postnatal return to exercise?
+4. *I used progressive overload to train all the layers of my abdominal muscles*.
 
-I realised that, in the 10+ years of my work with pregnant and postnatal women, I asked little about the pelvic floor.
-
-> Many seemingly unrelated postnatal symptoms, like diastasis recti, pelvic girdle pain and back pain have to do with pelvic floor muscle coordination.
-
-And it's not always about the weak muscles that need to be strengthened. Pelvic floor symptoms, such as sneeze-pee or leaking at impact, could sometimes be a sign of a tight pelvic floor that gets fatigued and can’t coordinate the tasks. Many female athletes indeed have a pelvic floor that is overactive rather than weak, even postnatally.
-
-Women usually don’t talk about pelvic floors unless you ask. Sometimes, it's just too awkward or they just don’t think a musculoskeletal professional is a person who could help them.
-
-But the thing is, we can. The pelvic floor is a sling of muscles that are, as any other striated muscles across the body, meant to generate force. They work together with the rest of the musculoskeletal system and respond to training. And it’s not just the isolated pelvic floor exercises that count. There is evidence that high impact whole-body exercises are at least as effective at training the pelvic floor muscles (Luginbuehl, 2022; Fricke; 2023).
-
-We need to build multi-disciplinary support networks for mums returning to exercise, and as musculoskeletal specialists we need to do our part. We need to ask the right questions to make the mums feel safe and heard and think about their pelvic floors when designing the exercise programmes. Pelvic floor health needs to be out of the taboo domain. Don’t be afraid to ask!
+All these together made a huge shift in my recovery. I am finally, no longer postpartum! My body is able to manage pressue wall and handle loads without bearing down.
 
 ### Resources:
-
-#### Postnatal Return to Sport:
 
 1. Christopher, S.M., Gallagher, S., Olson, A., Cichowski, S. and Deering, R.E. (2022). Rehabilitation of the Postpartum Runner: A 4-Phase Approach. Journal of Women’s Health Physical Therapy, [online] 46(2), pp.73–86. doi:10.1097/JWH.0000000000000230
 2. Davenport, M. H., Ray, L., Nesdoly, A., Thornton, J., Khurana, R., & McHugh, T. F. (2023). We're not Superhuman, We're Human: A Qualitative Description of Elite Athletes' Experiences of Return to Sport After Childbirth. Sports medicine (Auckland, N.Z.), 53(1), 269–279. https://doi.org/10.1007/s40279-022-01730-y
@@ -95,9 +85,3 @@ We need to build multi-disciplinary support networks for mums returning to exerc
 8. James, M., Moore, I. S., Donnelly, G., Brockwell, E., Perkins, J., & Coltman, C. (2022). Running During Pregnancy and Postpartum, Part A: Why Do Women Stop Running During Pregnancy and Not Return to Running in the Postpartum Period? Journal of Women’s Health Physical Therapy, 1-13. https://doi.org/10.1097/JWH.0000000000000228
 9. Selman, R., Early, K., Battles, B., Seidenburg, M., Wendel, E., & Westerlund, S. (2022). Maximizing Recovery in the Postpartum Period: A Timeline for Rehabilitation from Pregnancy through Return to Sport. International journal of sports physical therapy, 17(6), 1170–1183. https://doi.org/10.26603/001c.37863
 10. Wieloch, N., Klostermann, A., Kimmich, N., Spörri, J., & Scherr, J. (2022). Sport and exercise recommendations for pregnant athletes: a systematic scoping review. BMJ open sport & exercise medicine, 8(4), e001395. https://doi.org/10.1136/bmjsem-2022-001395
-
-#### Pelvic Floor Health
-
-1. Fricke, Anja MSc1; Fink, Philip W. PhD2; Rowlands, David PhD3; Lark, Sally D. PhD1; Mundel, Toby PhD2; Shultz, Sarah P. PhD1,4. Mini-Trampoline Jumping as an Exercise Intervention for Postmenopausal Women. Journal of Women's & Pelvic Health Physical Therapy 47(1):p 19-25, January/March 2023. | DOI: 10.1097/JWH.0000000000000257
-2. Harada, B. S., De Bortolli, T. T., Carnaz, L., De Conti, M. H. S., Hijaz, A., Driusso, P., & Marini, G. (2022). Diastasis recti abdominis and pelvic floor dysfunction in peri- and postmenopausal women: a cross-sectional study. Physiotherapy theory and practice, 38(10), 1538–1544. https://doi.org/10.1080/09593985.2020.1849476
-3. Luginbuehl, H., Radlinger, L., Lehmann, C., Kuhn, A., & Koenig, I. (2022). Intervention effects maintenance: 6-month randomized controlled trial follow-up of standard and reflexive pelvic floor muscle training. AJOG global reports, 2(4), 100089. https://doi.org/10.1016/j.xagr.2022.100089
