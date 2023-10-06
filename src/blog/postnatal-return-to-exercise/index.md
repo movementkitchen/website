@@ -21,7 +21,9 @@ But sport science offered little answers. I had expected that the childbirth, as
 
 The sport science seemed barely interested in studying women, even before postnatal injuries. 
 
-> I was shocked to find out that only [4 - 13%](https://journals.humankinetics.com/view/journals/ijsnem/32/2/article-p114.xml) of sport medicine and science studies were focused on women, even though half of participants in athletic events nowadays, such as the Tokyo 2020 Olympics, would be female.
+> I was shocked to find out that only [4 - 13%](https://journals.humankinetics.com/view/journals/ijsnem/32/2/article-p114.xml) of sport medicine and science studies were focused on women.
+
+Even though half of participants in athletic events nowadays, such as the Tokyo 2020 Olympics, would be female.
 
 Traditionally, sport science studies have the “typical 70 kg man” as a reference participant, and the findings are by proxy applied to women.
 
