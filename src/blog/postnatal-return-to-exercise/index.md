@@ -1,6 +1,6 @@
 ---
 title: "Training After the Baby"
-subTitle: "From Research to Practice"
+subTitle: "How to Build Up Your Training Intensity With Diastasis Recti"
 date: "2023-04-27T10:00:00.000Z"
 path: "/postnatal-return-to-exercise/"
 tags: ["postpartum exercise", "women's health", "pelvic floor", "diastasis recti", "pelvic health", "female athlete", "sport science"]
