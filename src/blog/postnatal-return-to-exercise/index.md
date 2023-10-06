@@ -59,24 +59,44 @@ These strategies in combination made it very difficult for my body to heal the m
 
 > So, what did I do?
 
-1. *I learnt how to spot and avoid bearing down at exhalation* – thinking of lifting up from the base of the torso instead (effort 2/10).
+1. *Stopped bearing down at exhalation*
+
+I learnt how to recognise and feel bearing down and use breath to support me when I find the movement challenging.
+
+I practised exhaling at effort and thinking of zipping up from the base of the torso to support my spine and the organs (effort 2/10).
    
-2. *I focused on improving my thoracic mobility*, so the pressure wouldn't just drop down.
+1. *Improved my thoracic mobility* - so the pressure wouldn't just drop down.
 
-I would release the erector spinae on a foam roller or rolling over a pool noodle horizontally placed across my back to fit in between the vertebrae and massage the back of the ribs. Even after minutes of rolling I could already feel more even movement across the torso at inhalation, instead of just my belly inflating. Finally, I could “breathe into the lats”!
+First, I used passive mobilisation, rolling over a pool noodle horizontally placed across my back to fit in between the vertebrae and massage the back and sides of of the ribcage on a soft, partially deflated ball. 
 
-3. *I downregulated the external obliques*
+This helped me feel more even movement across the torso at inhalation, instead of just my belly inflating. Finally, I could “breathe into the lats”!
+
+Then, I added rotational and multiplanar ribcage movements into my training.
+
+3. *Downregulated the external obliques*
 
 My external obliques were stronger than the internal obliques and the transversus abdominis. They kept driving the exhalation and pushing the abdominal content down.
 
 I practised placing the hands just under the lower ribs and trying to keep this area relaxed while exhaling – using humming sound would help me to reflexively engage the deep abdominal muscles.  
 
-By rebuilding the foundation, I could stop creating the outward and downward pressure. And now I had a much better foundation on which I could build up intensity and impact. 
+4. *Trained the deep core*
+
+My body body wasn't used using the deep abdominal muscles, so I literally needed to reconnect them to the brain.
+
+I found it helpful to use voiced exhalation and the actions of the feet and hands hands pressing into the ground (or an object) to help me reflexively engage the deep abdominals.
+
+I trained the deep core muscles both in isolation and and in whole-body dynamic movements.
+
+5. *Improved the pelvic and hip stability* 
+
+I trained the glutes and the deep hip rotators adding resistance and loading them in whole-body movements. Then I progressed to assymetric and multiplanar movements.
 
 And finally,
 
-4. *I used progressive overload to train all the layers of my abdominal muscles*.
+6. *Used progressive overload to train all the layers of my abdominal muscles*
 
+Increasing intensity over time I could create muscle hypertrophy and learn how to manage increased pressure without getting injured. 
+   
 All these together made a huge shift in my recovery. I am finally, no longer postpartum! My body is able to manage pressue well and handle increasing loading without bearing down.
 
 ### Resources:
