@@ -39,7 +39,9 @@ Through Antony Lo I discovered [Embodia](https://embodiaapp.com/) physiotherapy 
 
 Luckily, the sport medicine and science research is slowly picking up too and there are now multiple teams of (often all-female) scientists and clinicians fighting to fill the gap in studying women. In the last 3-4 years, there have been a couple of great studies on postnatal return to sport, and running in particular (check out Donnelly et al., 2020, 2021; Deering et al, 2020; Christopher et al., 2022; Selman et al, 2022. I will link the studies in the resources below).
 
-Back to my story: why did I have trouble with regulating my intra-abdominal pressure – years after my second baby was born?
+Back to my story
+
+> Why did I have trouble increasing my training intensity – even years after my second baby was born?
 
 Turns out I was still belly-breathing – inflating the belly at inhalation, even though I thought I didn’t. Huh! I filmed myself and noticed that my ribcage was hardly moving as I breathe in. You can see this pattern on the video below.
 
