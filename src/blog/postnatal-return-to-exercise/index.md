@@ -23,7 +23,7 @@ The sport science seemed barely interested in studying women, even before postna
 
 > I was shocked to find out that only [4 - 13%](https://journals.humankinetics.com/view/journals/ijsnem/32/2/article-p114.xml) of sport medicine and science studies were focused on women.
 
-Even though half of participants in athletic events nowadays, such as the Tokyo 2020 Olympics, would be female.
+Even though half of participants in athletic events nowadays, such as the Tokyo 2020 Olympics, would be female!
 
 Traditionally, sport science studies have the “typical 70 kg man” as a reference participant, and the findings are by proxy applied to women.
 
@@ -71,11 +71,13 @@ My external obliques were stronger than the internal obliques and the transversu
 
 I practised placing the hands just under the lower ribs and trying to keep this area relaxed while exhaling – using humming sound would help me to reflexively engage the deep abdominal muscles.  
 
-By rebuilding the foundation, I could stop creating the outward and downward pressure. And now I had a much better foundation on which I could build up intensity and impact.
+By rebuilding the foundation, I could stop creating the outward and downward pressure. And now I had a much better foundation on which I could build up intensity and impact. 
+
+And finally,
 
 4. *I used progressive overload to train all the layers of my abdominal muscles*.
 
-All these together made a huge shift in my recovery. I am finally, no longer postpartum! My body is able to manage pressue wall and handle loads without bearing down.
+All these together made a huge shift in my recovery. I am finally, no longer postpartum! My body is able to manage pressue well and handle increasing loading without bearing down.
 
 ### Resources:
 
