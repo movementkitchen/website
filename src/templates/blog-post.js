@@ -23,24 +23,21 @@ class BlogPostTemplate extends React.Component {
       >
         <Helmet title={`${title} | ${siteTitle}`} />
         <h1 style={{ ...scale(0.5), textAlign: 'center' }}>{title}</h1>
-        <p
-          style={{
-            ...scale(-1 / 5),
-            display: 'block',
-            textAlign: 'center',
-            marginBottom: rhythm(2),
-            marginTop: rhythm(-0.5),
-          }}
-        >
-          {date}
-        </p>
-        <p style={{ textAlign: 'center' }}>{subTitle}</p>
+        {date && 
+          <p
+            style={{
+              ...scale(-1 / 5),
+              display: 'block',
+              textAlign: 'center',
+              marginBottom: rhythm(2),
+              marginTop: rhythm(-0.5),
+            }}
+          >
+            {date}
+          </p>
+        }
+        {subTitle && <p style={{ textAlign: 'center' }}>{subTitle}</p>}
         <div dangerouslySetInnerHTML={{ __html: html }} />
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
       </div>
     );
   }

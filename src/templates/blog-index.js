@@ -17,7 +17,9 @@ const BlogPostExcerptList = styled.ul`
 
 const BlogPostExcerpt = styled.li`
   flex: 0 1 100%;
-  margin-top: ${rhythm(1)};
+  margin: ${rhythm(1)} 0;
+  display: flex;
+  flex-direction: column;
 
   ${MIN_DEFAULT_MEDIA_QUERY} {
     flex: 0 1 30%;
@@ -29,7 +31,7 @@ class BlogIndex extends React.Component {
     const pageLinks = [];
     const posts = get(this, 'props.data.allBlogPosts.edges');
     posts.forEach(({ node: { frontmatter, excerpt } }) => {
-      console.log(frontmatter);
+      // console.log(frontmatter);
       pageLinks.push(
         <BlogPostExcerpt key={frontmatter.path}>
           <Link
@@ -56,6 +58,8 @@ class BlogIndex extends React.Component {
                 boxShadow: 'none',
                 height: '280px',
                 width: '100%',
+                marginTop: 'auto',
+                marginBottom: rhythm(0.5)
               }}
               to={'/blog' + frontmatter.path}
             >

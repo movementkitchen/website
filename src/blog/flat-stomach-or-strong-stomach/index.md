@@ -4,7 +4,7 @@ subTitle: "This is how to build a working core instead"
 date: "2023-05-18T10:00:00.000Z"
 path: "/flat-stomach-or-strong-stomach/"
 tags: ["fitness", "core stability", "back pain", "breathing mechanics", "intra-abdominal pressure"]
-featuredImage: flat-belly.png
+featuredImage: flat-belly.jpg
 ---
 
 ![Colourful illustration of a girl ironing her belly](flat-belly.jpg)
