@@ -19,7 +19,7 @@ Movement Kitchen offers precision coaching bridging physiotheraphy and strength 
 
 ### Maybe you:  
 
-- Train at the gym or take up exercise classes but keep getting injured
+- Keep getting injured at the gym or in exercise classes
 - Feel that your body isn't strong enough to support you when lifting heavy things
 - Keep hurting your lower back when carrying groceries or lifting your child out of the bath
 - Have weak, protruding abs that don't seem to respond to training
