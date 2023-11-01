@@ -15,28 +15,30 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers 1:1 coaching bridging physiotheraphy and strength and conditioning to help you strengthen your core inside out and return to an active lifestyle.
+Movement Kitchen offers precision coaching bridging physiotheraphy and strength and conditioning to help you break out of the weakness and re-injury loop and get stronger for good.
 
 ### Maybe you:  
 
-- Feel that your body can't support you when lifting heavy things
-- Have been stuggling with recurring back pain or hernias
-- Keep getting injured every time you lift your kid out of the bath
-- Have weakened abs that don't seem to respond to training
-- Leak when you jump, cough or sneeze
+- Keep getting injured at the gym or in exercise classes
+- Struggle to carry your groceries or lift your child out of the bath 
+- Keep hurting your lower back every time you lift something heavy
+- Have weak, protruding abs that don't seem to respond to training
+- Leak when you run, jump, cough or sneeze
+- Have tried many different approaches but nothing quite worked
 
-### You want to: 
+### You want: 
 
-- Rebuild your core postpartum - 6 weeks or 20 years after the baby
-- Find a way to train and get stronger with a pelvic organ prolapse
-- Carry your children, lift weights, climb, hike, dance, surf, feeling confident and comfortable in your body 
-- Return to competitive sports
+- To carry your kid on your shoulders without worrying about your back
+- A pain-free body, flatter belly and a healthy, strong core that can support you without you having to think about it
+- To go back to lifting weights, running or jumping on a trampoline without leaking
+- To take up any fun and challenging exercise class without a fear of being reinjured
+- To return to competitive or recreational sports
 
 Wherever you are, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals. 
 
 Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity. 
 
-Find out how we can work together [here](/movement-coaching/).
+<a class="big" href="https://forms.gle/iKvN7bYCmohmQ8Wy8">Apply for coaching</a>
 
 ### Featured Videos
 
