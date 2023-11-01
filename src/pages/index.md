@@ -19,20 +19,20 @@ Movement Kitchen offers precision coaching bridging physiotheraphy and strength 
 
 ### Maybe you:  
 
-- Keep getting injured at the gym or in exercise classes
+- Feel that your body is not strong enough to support in you doing the activities you love
+- Keep hurting your lower back whenever you lift something heavier
 - Struggle to carry your groceries or lift your child out of the bath 
-- Keep hurting your lower back every time you lift something heavy
 - Have weak, protruding abs that don't seem to respond to training
 - Leak when you run, jump, cough or sneeze
 - Have tried many different approaches but nothing quite worked
 
-### You want: 
+### You want to: 
 
-- To carry your kid on your shoulders without worrying about your back
-- A pain-free body, flatter belly and a healthy, strong core that can support you without you having to think about it
-- To go back to lifting weights, running or jumping on a trampoline without leaking
-- To take up any fun and challenging exercise class without a fear of being reinjured
-- To return to competitive or recreational sports
+- Carry your kid on your shoulders without worrying about your back
+- Have a pain-free body, flatter belly and a healthy, strong core that can support you without you having to think about it
+- Go back to lifting weights, running or jumping on a trampoline without leaking
+- Take up any fun and challenging exercise class without a fear of being reinjured
+- Return to competitive or recreational sports
 
 Wherever you are, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals. 
 
