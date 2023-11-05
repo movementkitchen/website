@@ -24,11 +24,11 @@ module.exports = {
         label: 'Coaching',
         hero: '/images/stepping_up.jpg',
       },
-      {
-        uri: '/courses-workshops/',
-        label: 'Workshops',
-        hero: '/images/beach_ride.jpg',
-      },
+      // {
+      //   uri: '/courses-workshops/',
+      //   label: 'Workshops',
+      //   hero: '/images/beach_ride.jpg',
+      // },
       // {
       //   uri: '/resources/',
       //   label: 'Resources',
