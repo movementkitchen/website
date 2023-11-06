@@ -7,9 +7,8 @@ import { rhythm, scale } from '../utils/typography';
 class BlogPostTemplate extends React.Component {
   render() {
     const {
-      id,
       html,
-      frontmatter: { title, subTitle, date, featuredImage },
+      frontmatter: { path, title, subTitle, date, tags, featuredImage: {childImageSharp: {sizes: {src}}} },
     } = this.props.data.markdownRemark;
     const siteTitle = get(this.props, 'data.site.siteMetadata.title');
 
@@ -21,7 +20,23 @@ class BlogPostTemplate extends React.Component {
           margin: '0 auto',
         }}
       >
-        <Helmet title={`${title} | ${siteTitle}`} />
+        <Helmet>
+          <title>{`${title} | ${siteTitle}`}</title>
+          <meta name="description" content={`${subTitle} | ${tags.join(', ')}`} />
+          <meta http-equiv='content-language' content='en-gb' />
+
+          <meta property="og:type" content="website" />
+          <meta property="og:url" content={`https://www.movementkitchen.co.uk/blog${path}`} />
+          <meta property="og:title" content={`${title} | ${siteTitle}`} />
+          <meta property="og:description" content={`${subTitle} | ${tags.join(', ')}`} />
+          <meta property="og:image" content={`https://www.movementkitchen.co.uk${src}`} />
+
+          <meta property="twitter:card" content="summary_large_image" />
+          <meta property="twitter:url" content={`https://www.movementkitchen.co.uk/blog${path}`} />
+          <meta property="twitter:title" content={`${title} | ${siteTitle}`} />
+          <meta property="twitter:description" content={`${subTitle} | ${tags.join(', ')}`} />
+          <meta property="twitter:image" content={`https://www.movementkitchen.co.uk${src}`} />
+        </Helmet>
         <h1 style={{ ...scale(0.5), textAlign: 'center' }}>{title}</h1>
         {date && 
           <p
@@ -59,6 +74,15 @@ export const pageQuery = graphql`
       frontmatter {
         title
         subTitle
+        tags
+        path
+        featuredImage {
+          childImageSharp {
+            sizes {
+              src
+            }
+          }
+        }
         date(formatString: "DD MMMM YYYY")
       }
     }
