@@ -7,6 +7,7 @@ export default () =>
         <title>Movement Kitchen – Home</title>
         <meta name="title" content="Movement Kitchen – Home" />
         <meta name="description" content="Bridging the gap between physiotherapy and strength and conditioning" />
+        <meta http-equiv='content-language' content='en-gb' />
 
         {/* <!-- Open Graph / Facebook --> */}
         <meta property="og:type" content="website" />
