@@ -6,10 +6,6 @@ Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist. I a
 
 Feel free to get in touch with any questions or collaboration suggestions or just to say hi. I'm always open for new ideas!
 
-Love and muscles,
-
-Ivana xx
-
 ### My Approach
 
 *The Core rePower method* evolved through 12 years of my work with movement and rehabilitation, mostly focused on people with weakened core and intra-abdominal pressure management issues (diastasis recti, hernias, pelvic organ prolapse, lower back pain) and my own long and painful journey of healing from a severe abdominal separation and chronic low back pain.
