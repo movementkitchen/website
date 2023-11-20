@@ -21,41 +21,27 @@ So I dug myself up into medical journals looking for answers and recorded some v
 
 If you think certain foods could be a cause of your bloating, it might be a good idea to write a *food diary* for a couple of days/weeks and see what makes your symptoms worse. 
 
-One of the common culprits could be *artificial sweeteners*. 
-
+Do you use *artificial sweeteners*?
 In the last decade or so, researchers identified a group of poorly absorbed sugars (FODMAPs) that get fermented in the gut producing methane and carbon dioxide and wracking havoc with digestion in general. The notorious FODMAPs include fructose, lactose and artificial sweeteners (such as sorbitol, mannitol, xylitol, and glycerol). There is evidence that removing these from your diet could decrease symptoms of bloating (see Lacy, 2020). Look up the [*Low FODMAP diet*](https://www.medicalnewstoday.com/articles/319722) for ideas. 
 
-Also, *probiotic supplements* can help reduce gas and bloating, especially bifidobacteria strains, which don't create gas with fermentation (Check Foley, 2014).
+Another controversial food are *cruciferous vegetables* (kale, broccoli, cauliflower, cabbage, Brussels sprouts and other vegetables with flowers whose four petals resemble a cross). One one hand, they contain raffinose, a gas-producing sugar that could make you bloated. On the other hand, they are crucial for oestrogen metabolism and healthy hormonal balance in mid-life women (see Fowke, 2000). Also, they contain glucosinolate which are found to have a strong protective effect against cancer (see Esteve, 2020) – definitely not a good idea to chuck them out completely! You could try steaming or cooking your broccollis and cauliflowers, to make them easier to digest.
 
-You can also try incorporating some of these foods into your diet:
+*Beans, lentils and peas* could also cause excessive gas. They do contain plenty of protein, but also sugars that and fibers that our bodies can't fully break down. This is why it makes sense to soak them the night before, or at least quick-soak them in warm water before cooking. Another trick is to combine legumes with easily digestible grains like rice or quinoa. We want the body to get used to fiber-rich foods that in a long-run keep the gut healthy.
 
-1. *Probiotic-rich foods*: Yogurt, kefir, sauerkraut, kimchi contain strains of bacteria that support a healthy gut. If you find lactose difficult to digest, go for the lactose-free or no-dairy probiotics.
+*Dairy* could be a problem for some people. If you are lactose-intolerant, you miss the enzymes needed to digest lactose (the milk sugar) and poorly digested sugar means extra gas and bloating. But before you cut out dairy completely, you might want to try a lactase enzyme supplement to see if it helps you digest dairy.
 
-2. *Peppermint*: Peppermint tea/oil can help relax the muscles of the gastrointestinal tract.
+There is evidence that *probiotic supplements* can help reduce gas and bloating, especially bifidobacteria strains, which don't create gas with fermentation (Check Foley, 2014).
 
-3. *Fennel*: Fennel seeds/bulbs can stimulate digestion and reduce gas.
+You can try incorporating *probiotic-rich foods* into your diet, such as yogurt, kefir, sauerkraut, kimchi contain strains of bacteria that support a healthy gut. If you find lactose difficult to digest, go for the lactose-free or no-dairy probiotics.
 
-4. *Ginger*: Ginger has anti-inflammatory properties and contains enzymes that help breaking down proteins.
-
-5. *Lemon* - Lemon juice is similar in acidity to our digestive juices and boosts digestion.
-
-6. *Bananas*: They are gentle on the stomach and can help regulate bowel movements.
-
-7. *Oats*: High in soluble fibre, oats can promote regular bowel movements and reduce constipation.
-
-8. *Lean proteins*: Lean sources of protein like poultry, fish, and tofu are much easier to digest than fatty meats.
-
-9.  *Herbal teas*: Chamomile and dandelion tea may help soothe the digestive system.
-
-10. *Water-rich foods*: Cucumber, watermelon, and celery have high water content and can help flush excess sodium from the body.
-
-Again, everyone is different, listen to your body and observe which foods work or don't work for you.
-
-Generally, a *balanced diet*, plenty of *water* and *moderate portion sizes* will help make a difference.
+Again, everyone is different, listen to your body and observe which foods work or don’t work for you. But as a rule of thumb, a *balanced diet*, plenty of *water* and *moderate portion sizes* are a good start.
 
 Stay tuned for the next post on bloating, exploring how hormones influence digestion in women.
 
-### Resources:
+### References:
 
-1. Foley, A., Burgell, R., Barrett, J. S., & Gibson, P. R. (2014). Management Strategies for Abdominal Bloating and Distension. Gastroenterology & hepatology, 10(9), 561–571.
-2. Lacy, B.E., Cangemi, D. and Vazquez-Roque, M. (2020). Management of Chronic Abdominal Distension and Bloating. Clinical Gastroenterology and Hepatology, 19(2). doi:https://doi.org/10.1016/j.cgh.2020.03.056.
+1. Esteve M. (2020). Mechanisms Underlying Biological Effects of Cruciferous Glucosinolate-Derived Isothiocyanates/Indoles: A Focus on Metabolic Syndrome. Frontiers in nutrition, 7, 111. https://doi.org/10.3389/fnut.2020.00111
+2. Foley, A., Burgell, R., Barrett, J. S., & Gibson, P. R. (2014). Management Strategies for Abdominal Bloating and Distension. Gastroenterology & hepatology, 10(9), 561–571.
+3. Fowke, J. H., Longcope, C., & Hebert, J. R. (2000). Brassica vegetable consumption shifts estrogen metabolism in healthy postmenopausal women. Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology, 9(8), 773–779.
+4. Lacy, B.E., Cangemi, D. and Vazquez-Roque, M. (2020). Management of Chronic Abdominal Distension and Bloating. Clinical Gastroenterology and Hepatology, 19(2). doi:https://doi.org/10.1016/j.cgh.2020.03.056.
+5. Njoumi S, Josephe Amiot M, Rochette I, Bellagha S, Mouquet-Rivier C. Soaking and cooking modify the alpha-galacto-oligosaccharide and dietary fibre content in five Mediterranean legumes. International Journal of Food Sciences and Nutrition. 2019;70(5):551-561. doi:10.1080/09637486.2018.1544229
