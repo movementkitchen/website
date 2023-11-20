@@ -12,17 +12,17 @@ Ivana xx
 
 ### Core rePower Method
 
-*The Core rePower method* evolved through 12 years of my work with movement and rehabilitation, mostly focused on people with weakened core and intra-abdominal pressure management issues (diastasis recti, hernias, pelvic organ prolapse, lower back pain) and my own long and painful journey of healing from a severe abdominal separation and chronic low back pain.
+The Core rePower method evolved through 12 years of my work with movement and rehabilitation, mostly focused on people with weakened core and intra-abdominal pressure management issues (diastasis recti, hernias, pelvic organ prolapse, lower back pain) and my own long and painful journey of healing from a severe abdominal separation and chronic low back pain.
 
 Many people who would come to see me had found themselves bouncing back and forth between physiotherapy and the gym – getting the all-clear from the physio and going back to training just to get injured and back to physiotherapy, again and again. This is why I developed an approach that seemlesly connects rehabilitation and strength and conditioning training.
 
 Each Core rePower journey includes five stages:
 
-1. RELEASE - releasing pressure and muscle tension, relieving pain
-2. RECONNECT - restoring reflexive core activation
-3. REBUILD - building muscles, mastering motor control and learning to manage pressure in dynamic workouts
-4. REPOWER - progressive overload + increasing pressure tolerance
-5. REINFORCE - injury-proof the core,  training in vulnerable positions.
+1. *RELEASE* - releasing pressure and muscle tension, relieving pain
+2. *RECONNECT* - restoring reflexive core activation
+3. *REBUILD* - building muscles, mastering motor control and learning to manage pressure in dynamic workouts
+4. *REPOWER* - progressive overload + increasing pressure tolerance
+5. *REINFORCE* - injury-proof the core,  training in vulnerable positions.
 
 ### Why Movement Kitchen?
 
