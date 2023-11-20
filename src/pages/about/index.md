@@ -10,7 +10,7 @@ Love and muscles,
 
 Ivana xx
 
-### Core rePower Method
+### Core rePower
 
 The Core rePower method evolved through 12 years of my work with movement and rehabilitation, mostly focused on people with weakened core and intra-abdominal pressure management issues (diastasis recti, hernias, pelvic organ prolapse, lower back pain) and my own long and painful journey of healing from a severe abdominal separation and chronic low back pain.
 
