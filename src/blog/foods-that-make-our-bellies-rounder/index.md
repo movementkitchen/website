@@ -34,7 +34,7 @@ There is evidence that *probiotic supplements* can help reduce gas and bloating,
 
 You can try incorporating *probiotic-rich foods* into your diet, such as yogurt, kefir, sauerkraut, kimchi contain strains of bacteria that support a healthy gut. If you find lactose difficult to digest, go for the lactose-free or no-dairy probiotics.
 
-Again, everyone is different, listen to your body and observe which foods work or don’t work for you. But as a rule of thumb, a *balanced diet*, plenty of *water* and *moderate portion sizes* are a good start.
+Again, everyone is different, listen to your body and observe which foods work or don’t work for you. But as a rule of thumb, a *balanced diet*, plenty of *water* and *moderate portion sizes* could be a good start.
 
 Stay tuned for the next post on bloating, exploring how hormones influence digestion in women.
 
