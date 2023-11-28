@@ -11,7 +11,7 @@ featuredImage: coughing.png
 
 It's this time of the year again. The runny noses and coughs - coming and going. And sometimes staying for a while.
 
-Do you ever leak when you cough or sneeze? Many people do, especially women after childbirth or menopause. I remember a lady who would skip coming to yoga classes saying that she had a lingering cough. I didn’t really understand what she meant at the time, until I was freshly postnatal the second time around. As it turns out, in the first 3 months after the baby, 1 in 3 women battles with leaking.
+Do you ever leak when you cough or sneeze? Many people do, especially women after childbirth or menopause. I remember a lady who would skip coming to yoga classes saying that she had a lingering cough. I didn’t really understand what she meant at the time, until I was freshly postnatal the second time around. As it turns out, in the first 3 months after the baby, 1 in 3 women in the UK battles with leaking.
 
 But why does it happen and can we do anything about it?
 
