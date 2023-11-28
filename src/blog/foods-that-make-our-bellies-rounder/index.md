@@ -13,7 +13,7 @@ Do you ever experience this uncomfortable feeling of belly tightness, pressure a
 
 I went out with a friend the other night and she complained about the same thing. So, I thought: why wouldn’t I research and write about abdominal bloating, especially its mechanical factors, e.g. how it affects breathing and torso mechanics? 
 
-So I dug myself up into medical journals looking for answers and recorded some videos with solutions that I’ve been using personally and with my clients. But it turned out there was way too much material for one post, so I ended up creating a series exploring different aspects of bloating as a multi-factorial and so much more than an aesthetic problem.
+So I dug myself up into medical journals and recorded some videos with solutions that I’ve been using personally and with my clients. But it turned out there was way too much material for one post, so I ended up creating a series exploring different aspects of bloating as a multi-factorial and so much more than an aesthetic problem.
 
 ### Let's start with food and bloating. 
 
@@ -38,7 +38,7 @@ Again, everyone is different, listen to your body and observe which foods work o
 
 Stay tuned for the next post on bloating, exploring how hormones influence digestion in women.
 
-### References:
+### Dig more about this:
 
 1. Esteve M. (2020). Mechanisms Underlying Biological Effects of Cruciferous Glucosinolate-Derived Isothiocyanates/Indoles: A Focus on Metabolic Syndrome. Frontiers in nutrition, 7, 111. https://doi.org/10.3389/fnut.2020.00111
 2. Foley, A., Burgell, R., Barrett, J. S., & Gibson, P. R. (2014). Management Strategies for Abdominal Bloating and Distension. Gastroenterology & hepatology, 10(9), 561–571.

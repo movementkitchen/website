@@ -1,7 +1,7 @@
 ---
 title: My 5 Tricks for Relieving Abdominal Bloating
 subTitle: ""
-date: 2023-10-06T13:38:13.545Z
+date: 2023-09-17T13:38:13.545Z
 path: /my-5-tricks-for-relieving-abdominal-bloating/
 tags:
   - Women's

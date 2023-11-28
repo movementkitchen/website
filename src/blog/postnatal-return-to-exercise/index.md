@@ -47,7 +47,7 @@ Back to my story:
 
 Turns out I was still belly-breathing – inflating the belly at inhalation, even though I thought I didn’t. Huh! I filmed myself and noticed that my ribcage was hardly moving as I breathe in. You can see this pattern on the video below.
 
-<video controls width="100%">
+<video muted loop="true" autoplay="autoplay" width="100%">
     <source src="belly-breathing-pattern.mp4" type="video/mp4">
 </video>
 
