@@ -11,7 +11,7 @@ featuredImage: 5-signs-cover.png
 
 Greetings from Loire-Atlantique! We are just swapping homes here in a small village somewhere in the Loire River Valley. 
 
-If you are a parent, you know that children holidays, as fun as they are, are also hard work. I started writing this email twice and got interrupted, and in the end, I had to write this post after everyone had gone to sleep. Haha!
+If you are a parent, you know that children holidays, as fun as they are, are also hard work. I started writing this post twice and got interrupted, and in the end, I had to write it after everyone had gone to sleep. Haha!
 
 I wrote about the pelvic floor last week, which is one of the postural muscles making your deep core. And this time, I thought let’s widen the lens and look at the whole deep core as a system – What is it? Why does it matter? And how do you know that it needs some attention?
 
