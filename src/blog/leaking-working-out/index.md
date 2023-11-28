@@ -9,7 +9,7 @@ featuredImage: leaking.png
 
 ![Kite](leaking.png)
 
-Last week was World Continence Week so I thought I’d dedicate this edition of the newsletter to leaking during workouts. 
+Last week was World Continence Week so I thought I’d dedicate a post to leaking during workouts. 
 
 Bladder leaking is much more common than you’d expect. According to the House of Commons research briefing from a couple of days ago, *14 million people in the UK have some form of urinary incontinence*. 
 
