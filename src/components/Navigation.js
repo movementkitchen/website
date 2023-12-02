@@ -221,9 +221,6 @@ class Navigation extends React.Component {
             >
               <img src={instaIcon} alt={`Movement Kitchen on Instagram`} />
             </SocialLink>
-            <SocialLink href="https://twitter.com/zzuuu" target="_blank">
-              <img src={twitterIcon} alt={`Movement Kitchen on Twitter`} />
-            </SocialLink>
             <SocialLink
               href="https://www.youtube.com/@movementkitchen"
               target="_blank"
