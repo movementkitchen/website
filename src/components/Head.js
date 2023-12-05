@@ -14,12 +14,13 @@ export default () =>
         <meta property="og:url" content="https://www.movementkitchen.co.uk/" />
         <meta property="og:title" content="Movement Kitchen – Home" />
         <meta property="og:description" content="Bridging the gap between physiotherapy and strength and conditioning" />
-        <meta property="og:image" content="/images/meta.jpg" />
+        <meta property="og:image:secure_url" itemprop="image" content="https://www.movementkitchen.co.uk/images/meta.jpg" />
+        <meta property="og:image" itemprop="image" content="https://www.movementkitchen.co.uk/images/meta.jpg" />
 
         {/* <!-- Twitter --> */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://www.movementkitchen.co.uk/" />
         <meta property="twitter:title" content="Movement Kitchen – Home" />
         <meta property="twitter:description" content="Bridging the gap between physiotherapy and strength and conditioning" />
-        <meta property="twitter:image" content="/images/meta.jpg" />
+        <meta property="twitter:image" content="https://www.movementkitchen.co.uk/images/meta.jpg" />
     </Helmet>
