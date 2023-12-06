@@ -1,5 +1,5 @@
 ---
-title: "Can We Turn Coughing Into Core Training?"
+title: "Can We Cough Better?"
 subTitle: ""
 date: "2023-11-24T15:17:57.457Z"
 path: "/coughing/"
