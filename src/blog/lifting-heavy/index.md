@@ -9,7 +9,7 @@ featuredImage: lifting-weights.jpg
 
 ![Kite](lifting-weights.jpg)
 
-I’ve been writing a lot about heavy lifting lately. Did you know that the same weight could feel heavier or lighter for your body depending on how you lift it?
+Did you know that the same weight could feel heavier or lighter for your body depending on how you lift it?
 
 If you are struggling with abdominal weakness, back pain or prolapse, you might have heard million times that you "shouldn't lift heavy".
 
