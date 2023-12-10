@@ -12,7 +12,7 @@ module.exports = {
       {
         uri: '/',
         label: 'Home',
-        hero: '/images/walking_on_a_branch.jpg',
+        hero: '/images/hero-home2.png',
       },
       {
         uri: '/about/',
@@ -22,7 +22,7 @@ module.exports = {
       {
         uri: '/movement-coaching/',
         label: 'Coaching',
-        hero: '/images/stepping_up.jpg',
+        hero: '/images/walking_on_a_branch.jpg',
       },
       // {
       //   uri: '/courses-workshops/',
