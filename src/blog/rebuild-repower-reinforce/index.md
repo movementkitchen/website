@@ -1,5 +1,5 @@
 ---
-title: "Progressing Your Training From Pain To Athleticism "
+title: "Progressing Your Training From Rehab To Athleticism "
 subTitle: "Core rePower - Phases 3-5 "
 date: "2023-12-12T11:57:20.261Z"
 path: "/rebuild-repower-reinforce/"
