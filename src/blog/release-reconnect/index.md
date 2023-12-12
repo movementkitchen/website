@@ -1,6 +1,6 @@
 ---
 title: "Core rePower Explained"
-subTitle: "Part 1"
+subTitle: "The first two phases in rebuilding your core"
 date: "2023-12-08T20:45:31.759Z"
 path: "/release-reconnect/"
 tags: ["Diastasis Recti", "Intraabdominal Pressure", "Back Pain", "Prolapse", "Core Rehab", ""]
