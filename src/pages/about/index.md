@@ -80,8 +80,6 @@ I value evidence-based solutions and precise, focused training where everything 
   Nov 2012
 - Yoga Teacher Training with Yoga Federation of Serbia, 260 Hours, Apr - Dec 2011
 
-I am fully insured with Balens, a specialist insurance broker for health, fitness & wellbeing professionals.
-
 ### My Story
 
 My movement journey has been paved by various injuries and an unstoppable urge to learn in the process of overcoming them. I often felt my body was too fragile to follow my pace of life.
