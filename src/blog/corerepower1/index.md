@@ -7,7 +7,7 @@ tags: ["Diastasis Recti", "Intraabdominal Pressure", "Back Pain", "Prolapse", "C
 featuredImage: ivana-blue.png
 ---
 
-![Kite](ivana-blue.png)  
+![Me](ivana-blue.png)  
 
 After 12 years of working with movement and rehabilitation, I finally got to the point where I felt ready to create my signature method. Well, I always wanted to create my own system but I didn’t dare. Over the years, as I educated myself ferociously in everything related to biomechanics, ageing and women’s health, this tapestry of approaches started to merge and transform into something new. But I wasn’t sure I had the courage to name it.
 
