@@ -1,7 +1,7 @@
 ---
 title: "Self-Care For The Holiday Season"
 subTitle: ""
-date: "2023-12-24T14:22:23.440Z"
+date: "2023-12-25T14:22:23.440Z"
 path: "/christmas-self-care/"
 tags: ["Women's Health", "Menopause", "Digestion", "Relaxation", "Pelvic Floor"]
 featuredImage: christmas-cards.jpg
