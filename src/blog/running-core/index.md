@@ -1,6 +1,6 @@
 ---
 title: "Should I Run On Asphalt Or Grass?"
-subTitle: "And how to start running with a weakened core"
+subTitle: 
 date: "2024-01-10T18:22:47.661Z"
 path: "/running-core/"
 tags: ["Motor Control", "Brain", "Diastasis Recti", "Intraabdominal Pressure", "Back Pain", "Prolapse", "Core Rehab", ""]
