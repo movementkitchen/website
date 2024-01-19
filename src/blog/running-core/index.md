@@ -1,7 +1,7 @@
 ---
 title: "Should I Run On Asphalt Or Grass?"
 subTitle: 
-date: "2024-01-10T18:22:47.661Z"
+date: "2024-01-15T18:22:47.661Z"
 path: "/running-core/"
 tags: ["Motor Control", "Brain", "Diastasis Recti", "Intraabdominal Pressure", "Back Pain", "Prolapse", "Core Rehab", ""]
 featuredImage: leg-strengthening-exercises-for-runners-2.jpg
@@ -9,19 +9,12 @@ featuredImage: leg-strengthening-exercises-for-runners-2.jpg
 
 ![Kite](leg-strengthening-exercises-for-runners-2.jpg)
 
-Last week we spoke about the brain’s role in movement and injuries and how sometimes there is a gap between the brain's estimation of the demands of a movement and reality. Remember the Cirque du Soleil acrobats who kept injuring their Achilles tendons landing on the concrete beams while expecting the soft, bouncy floor of the stage?
-
-And you probably saw that all of the resources I linked last week were from the research on running. So, I thought, let's talk a bit more about the brain and movement in the context of running, especially since a few people on this mailing list are running regularly.
-
-* * * 
-
-> Will running on softer ground prevent injuries?
-
 If you are a runner, you might have heard that running on soft surfaces, like grass, or sand, helps prevent injuries. But interestingly, a different surface softness/hardness just means different tissues will bear the brunt of running. 
 
-As you remember from last week, as we run, before touching the ground, our brain pre-activates muscles in anticipation of the ground contact and adjusts the stiffness of the leg to match the stiffness of the ground. The stiffness here refers to keeping the leg together, so it doesn’t fall apart as it hits the ground. 
+As you remember from [the post on the brain's anticipation of movement](https://www.movementkitchen.co.uk/blog/brain-movement/), as we run, before touching the ground, our brain pre-activates muscles in anticipation of the ground contact and adjusts the stiffness of the leg to match the stiffness of the ground. The stiffness here refers to keeping the leg together, so it doesn’t fall apart as it hits the ground. 
 
-As we run, each leg behaves like a spring - stirring and releasing elastic energy, which we then use together with the muscle power to propel us forward. The stiffer the leg, the faster we can run.  
+When we run, each leg behaves like a spring - storing and releasing elastic energy, which we then use together with the muscle power to propel us forward.
+The stiffer the leg, the faster we can run.  
 
 ![Alt text](spring.jpg)  
 

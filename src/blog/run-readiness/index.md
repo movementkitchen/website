@@ -1,7 +1,7 @@
 ---
 title: "Taking Up Running with A Weakened Core"
 subTitle: ""
-date: "2024-01-15T17:48:25.548Z"
+date: "2024-01-10T17:48:25.548Z"
 path: "/run-readiness/"
 tags: ["Diastasis Recti", "Postpartum", "Intraabdominal Pressure", "Back Pain", "Prolapse", "Core Rehab", "Running"]
 featuredImage: running-weak-core.jpg
