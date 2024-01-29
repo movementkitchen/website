@@ -9,7 +9,7 @@ featuredImage: LBPexercise.jpg
 
 ![back pain after exercise](LBPexercise.jpg)
 
-After I had my two children, around 1.5 year apart, my lower back and the left hip would hurt after most exercises. I couldn’t do lunges, or yoga warriors or sun salutations. Hardly anything in a pilates class either. For years after my babies were born, I practised only pregnancy and postpartum exercise scared to try anything more challenging. 
+After I had my two children, around 1.5 years apart, my lower back and the left hip would hurt after most exercises. I couldn’t do lunges, or yoga warriors or sun salutations. Hardly anything in a pilates class either. For years after my babies were born, I practised only pregnancy and postpartum exercise scared to try anything more challenging. 
 
 And then, during my Master’s programme, I had a chance to measure my joint angles and muscular forces in the lab with a 12-infrared-camera motion capture system and discovered that my body didn’t know how to stabilise my pelvis.  
 
