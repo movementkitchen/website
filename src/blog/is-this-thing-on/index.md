@@ -3,11 +3,11 @@ title: "Is This Thing On?"
 subTitle: "How Do I know If My Core Is Working?"
 date: "2023-07-16T23:35:11.783Z"
 path: "/is-this-thing-on/"
-tags: ["Diastasis Recti", "Intraabdominal Pressure", "Back Pain", "Prolapse", "Core Rehab", ""]
+tags: ["Diastasis Recti", "Intraabdominal Pressure", "Back Pain", "Prolapse", "Core Rehab"]
 featuredImage: working-core.png
 ---
 
-![Kite](working-core.png)
+![working core](working-core.png)
 
 Over the years, I’ve worked with many people with weakened core and recurring back pain. And what I keep seeing over and over is the belly pushing out at effort (left), instead of drawing into the body to protect the spine (right). I call this muscle use pattern the bulging belly. 
 
