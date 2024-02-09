@@ -9,7 +9,7 @@ featuredImage: breathing.jpg
 
 ![breathing](breathing.jpg)
 
-The other day I received an interesting feedback after an initial assessment with a young woman, who in the end decided not to continue working with me. She said that I didn’t help her learn how to breathe correctly. And this made me think. It’s been a while since I stopped trying to teach people the right way to breathe. Now, let me explain.
+The other day, a young woman explained in her initial consultation that she would want to learn how to breathe correctly. And this made me think. It’s been a while since I stopped trying to teach people the right way to breathe. This might sound strange. Now, let me explain.
 
 There are two questions here. First, is there such a thing as breathing correctly? And then, even if there is, can we override incorrect breathing at will?  
 
