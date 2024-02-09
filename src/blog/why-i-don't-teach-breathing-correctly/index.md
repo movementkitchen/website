@@ -15,7 +15,7 @@ There are two questions here. First, is there such a thing as breathing correctl
 
 > Is there correct breathing?
 
-Breathing is a reflexive action, so, it’s in the domain of the autonomic nervous system - our bodies breathe without us having to think about it. 
+Breathing is a reflexive action, so, it’s in the domain of the autonomic nervous system - our bodies breathe without us having to think about it. Physiological breathing is a result of the nervous, respiratory and musculoskeletal systems working in harmony.
 
 There is more than one correct way to breathe. Our bodies optimise breathing for how much oxygen you need for an activity – if you run, you will breathe deeper than when you are lying down and reading a book. Our breathing speeds up when we are excited or slows down just before falling asleep.   
 
