@@ -4,12 +4,10 @@ subTitle: ""
 date: "2024-02-20T16:18:28.464Z"
 path: "/no-barbie-feet/"
 tags: ["foot health", "pelvic health", "biomechanics", "ankle power", "ageing"]
-featuredImage: mario.jpg
+featuredImage: mystery-blockic.jpg
 ---
 
-![Super Mario](mario.jpg)
-
-I’ve finally got around to dedicate an entire post to the feet. Why feet? - you might wonder. No, I am not a foot fetishist! My motive is purely biomechanical.
+![Super Mario](mystery-blockic.jpg)
 
 A good part of my job is about helping people discover the spots in their bodies that we need to strengthen in order to make the greatest difference in their symptoms or performance. I like to think of these as "mystery blocks" in Super Mario - the challenges overcoming which rewards you with a pile of gold coins or an extra life. And for most people, we find at least one "mystery block" in their feet.
 
