@@ -14,11 +14,11 @@ Many people who would come to see me had found themselves bouncing back and fort
 
 Each Core rePower journey includes five stages:
 
-1. *RELEASE* - releasing pressure and muscle tension, relieving pain
-2. *RECONNECT* - restoring the breath-core and limb-core connections 
-3. *REBUILD* - building muscle, learning to manage pressure in dynamic workouts
+1. *RELEASE* - releasing muscle tension, relieving pain
+2. *RECONNECT* - reconnecting muscles to the brain, restoring reflexes
+3. *REBUILD* - building muscle, learning to manage pressure and stabilise joints in dynamic workouts
 4. *REPOWER* - progressive overload, increasing pressure tolerance
-5. *REINFORCE* - injury-proof the core,  train in vulnerable positions.
+5. *REINFORCE* - injury-proofing the core,  training in vulnerable positions.
 
 ### Why Movement Kitchen?
 
