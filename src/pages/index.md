@@ -19,7 +19,7 @@ Movement Kitchen offers women's health focused 1:1 and small group coaching to h
 
 ### Conventional exercise doesn't work for everyone. 
 
-Some people's bellies don't respond to sit-ups, straight leg lifts, yoga boats or Pilates hundreds. Some people throw their back every time they go to the gym. Some people need to remember to wear a pad before going to any exercise class that includes running or jumping. 
+Some people's bellies don't respond to sit-ups, straight leg lifts, yoga boats or Pilates hundreds. Some people throw their back every time they go to the gym. Some people need to remember to wear a pad before going to any exercise class that includes skipping or jumping. 
 
 No, you are not broken. You just need a smarter, more effective way to exercise, *tailored to you and your very body*.
 
