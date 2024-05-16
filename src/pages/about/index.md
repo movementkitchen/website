@@ -2,13 +2,15 @@
 title: About
 ---
 
-Hi there! I’m Ivana, a sports biomechanics scientist, coach and therapist. I am passionate about core rehab, ageing and women's health and have published [research on ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/). I'm also a mum of two, born by a C-section and a home birth after a caesarean (HBAC) with a lived experience of a severe abdominal separation and chronic back pain (scroll all the way down to read my story).
+Hi there! I'm Ivana, a sports biomechanics scientist and a coach passionate about women's health, things like healthy pelvises, bellies and pressure inside them. Another of my passions is ageing well, longevity. I used to [research ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/) and how high levels of training can slow down ageing. I'm also a mum of two, born by a C-section and a home birth after a caesarean (HBAC) who used to struggle with a 6-finger-wide abdominal separation and chronic back pain.
 
 Feel free to get in touch with any questions or collaboration suggestions or just to say hi. I'm always open for new ideas!
 
+Ivana xx
+
 ### My Approach
 
-*The Core rePower method* evolved through 12 years of my work with movement and rehabilitation, mostly focused on people with weakened core and intra-abdominal pressure management issues (diastasis recti, hernias, pelvic organ prolapse, back pain) and my own long and painful journey of healing from a severe abdominal separation and chronic low back pain.
+I developed the Core rePower method through 12+ years of working with women struggling with prolapse, diastasis recti, hernias and my own journey of overcoming chronic lower back pain.
 
 Many people who would come to see me had found themselves bouncing back and forth between physiotherapy and the gym – getting the all-clear from the physio and going back to training just to get injured and back to physiotherapy, again and again. This is why I developed an approach that seemlesly connects rehabilitation and strength and conditioning training.
 

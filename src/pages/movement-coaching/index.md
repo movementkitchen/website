@@ -7,7 +7,7 @@ With online sessions you log in on two devices, so we can see each of your movem
 
 <a class="big" href="https://forms.gle/iKvN7bYCmohmQ8Wy8">Apply for coaching</a>
 
-If we never worked together, you will need an initial assessment (duration: 1 hour; fee: £100) where we will explore:
+If we never worked together, you will need a detailed initial assessment (fee: £99) where we will explore:
 
 1. Where are you right now? - breathing and pressure management strategies, motor control, strength, endurance
 2. What is your fitness goal?

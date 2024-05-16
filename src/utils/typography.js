@@ -97,6 +97,21 @@ const theme = {
         letterSpacing: '0.1em',
         marginBottom: rhythm(1 / 8),
       },
+      "div.vertical-video-container": {
+        width: "70%",
+        position: "relative",
+        "padding-bottom": "88%",
+        height: 0,
+        overflow: "hidden",
+        marginBottom: rhythm(1)
+      },
+      "div.vertical-video-container iframe": {
+        position: "absolute",
+        top:0,
+        left: 0,
+        width: "100%",
+        height: "100%",
+      },
       // Mobile styles.
       [TABLET_MEDIA_QUERY]: {
         html: {
@@ -106,6 +121,10 @@ const theme = {
           marginLeft: rhythm(-3 / 4),
           marginRight: 0,
           paddingLeft: rhythm(1 / 2),
+        },
+        "div.vertical-video-container": {
+          width: "100%",
+          "padding-bottom": "127%",
         },
       },
     };

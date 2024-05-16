@@ -15,22 +15,29 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers precision coaching bridging physiotheraphy and strength and conditioning to help you break out of the weakness and re-injury loop and get stronger for good.
+Movement Kitchen offers women's health focused 1:1 and small group coaching to help you break out of the physio-gym loop and get stronger for good. Lower-back and pelvic-floor-friendly workouts, always.
+
+### Conventional exercise doesn't work for everyone. 
+
+Some people's bellies don't respond to sit-ups, straight leg lifts, yoga boats or Pilates hundreds. Some people throw their back every time they go to the gym. Some people need to remember to wear a pad before going to any exercise class that includes running or jumping. 
+
+No, you are not broken. You just need a smarter, more effective way to exercise, *tailored to you and your very body*.
 
 ### Maybe you:  
 
-- Keep getting injured at the gym, carrying groceries, or lifting your child out of the bath
-- Feel that your body isn't strong enough to support you when lifting heavy things
-- Have weak, protruding abs that don't seem to respond to training
-- Leak when you run, jump, cough or sneeze
-- Have tried many different approaches but nothing quite worked
+- Used to love exercise, but aren't sure what is safe for you to do and the idea of being in pain again frightens you
+- Feel that your body has never fully gone back to normal after babies or maybe some postpartum symptoms like leaking or heaviness down below started creeping back, years after your pregnancies
+- Have a weak, protruding lower belly - You sometimes need to wear a larger-size top to fit over your belly
+- You have a weak bladder, need toilet frequently, can't make it to the toilet in time or leak when you cough, sneeze or try any intense workout
+- Your lower back aches after exercise, carrying a heavy grocery bag up the stairs or lifting your kids out of the bath
+- You keep trying different exercise classes or going to the gym but aren't sure if exercise is helping or making your symptoms worse.
 
 ### You want to: 
 
-- Carry your kid on your shoulders without worrying about your back
-- Have a pain-free body, flatter belly and a healthy, strong core that can support you without you having to think about it
-- Go back to lifting weights, running or jumping on a trampoline without leaking
+- Carry your little one on your shoulders without worrying about your back
+- Wear a crop top when when you feel like it or rock a swimming suit on the beach this summer without having to self-consciously suck your belly in at all times
 - Take up any fun and challenging exercise class without the fear of being re-injured
+- Go back to lifting weights, running or jumping on a trampoline without leaking
 - Return to competitive or recreational sports
 
 Wherever you are, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals. 
@@ -43,27 +50,26 @@ Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their ge
 
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QxKWMU4C6Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This is a great place to start strengthening your abdominal muscles after pregnancy and childbirth or abdominal surgery[......](https://www.youtube.com/watch?v=QxKWMU4C6Y4)
+<div class="vertical-video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/e4IxFIb0Qy8" title="Lower Belly Doesn't Respond to Training - We Might Need to Reconnect it to The Brain First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yTU6doX7bmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="vertical-video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/DUDWQaMhrw0" title="How to Protect Your Lower Back When Bending Forward" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-Can you have a strong upper body workout with a weakened core?[......](https://www.youtube.com/watch?v=yTU6doX7bmU) 
+<div class="vertical-video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/5FBw6h2VsXY" title="Do Crunches Hurt Your Lower Back? Try These Instead" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T4adDYory84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="vertical-video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/WbuUc79CAyw" title="1 Weight - Whole-Body🔥 (pelvic-health-friendly workout)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-3D Core and Pelvic Floor Vipr Sequence - A great progression for a nearly recovered new mum[......](https://youtu.be/T4adDYory84) 
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A0oJMoF9PHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-A 19-min exercise class using feet and hands to dynamically challenge your core  
-Props: 2 yoga blocks + a strap[......](https://www.youtube.com/watch?v=A0oJMoF9PHM)
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HZQ_RGZsBFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-This is my favourite little pick-me-up sequence lately, integrating hand, arm and calf exercises in this short but punchy whole-body workout[......](https://www.youtube.com/watch?v=HZQ_RGZsBFo)
-
+<div class="vertical-video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/NHwnicgodVU" title="Lower Back Pain After Exercise? - Kickbacks Edition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 <!-- markdownlint-restore -->
