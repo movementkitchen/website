@@ -28,7 +28,6 @@ No, you are not broken. You just need a smarter, more effective way to exercise,
 - Used to love exercise, but aren't sure what is safe for you to do and the idea of being in pain again frightens you
 - Feel that your body has never fully gone back to normal after babies or maybe some postpartum symptoms like leaking or heaviness down below started creeping back, years after your pregnancies
 - Have a weak, protruding lower belly - You sometimes need to wear a larger-size top to fit over your belly
-- You have a weak bladder, need toilet frequently, can't make it to the toilet in time or leak when you cough, sneeze or try any intense workout
 - Your lower back aches after exercise, carrying a heavy grocery bag up the stairs or lifting your kids out of the bath
 - You keep trying different exercise classes or going to the gym but aren't sure if exercise is helping or making your symptoms worse.
 
