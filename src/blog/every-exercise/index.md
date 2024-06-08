@@ -3,11 +3,11 @@ title: "Every Exercise Can Be A Core Strengthening Exercise"
 subTitle: "...if we add these secret ingredients"
 date: "2024-05-03T18:34:43.483Z"
 path: "/every-exercise/"
-tags: ["Diastasis Recti", "Back Pain", "Prolapse", "Core Rehab", ""]
+tags: ["Diastasis Recti", "Back Pain", "Prolapse", "Core Rehab"]
 featuredImage: every-exercise.jpg
 ---
 
-![Kite](src/blog/every-exercise/every-exercise.jpg)
+![Kite](every-exercise.jpg)
 
 Every exercise becomes a pelvic floor exercise if we add these secret ingredients:
 

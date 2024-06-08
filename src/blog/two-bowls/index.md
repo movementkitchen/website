@@ -3,11 +3,11 @@ title: "Sore Back When Bending Forward?"
 subTitle: ""
 date: "2024-05-09T18:20:42.060Z"
 path: "/two-bowls/"
-tags: [core, pelvic health, women's health, diastasis recti, back pain]
+tags: [core, pelvic health, "women's health", diastasis recti, back pain]
 featuredImage: two-bowls-of-soup.jpg
 ---
 
-![Kite](src/blog/two-bowls/two-bowls-of-soup.jpg)
+![Kite](two-bowls-of-soup.jpg)
 
 Sore back when bending forward? This trick has been a game changer for many of my clients.
 
