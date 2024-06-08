@@ -7,7 +7,7 @@ tags: [menopause, perimenopause, women's health, hormones, strength training, mu
 featuredImage: src/blog/happyhormones/muscle-mass-homones.jpg
 ---
 
-[More muscle means happy hormones](muscle-mass-homones.jpg)
+![More muscle means happy hormones](muscle-mass-homones.jpg)
 
 Did you know that the more muscle we have in 40s, the easier it is for the body to manage stress, regulate blood sugar levels and handle the changing hormones?
 
