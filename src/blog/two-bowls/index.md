@@ -1,7 +1,7 @@
 ---
 title: "Sore Back When Bending Forward?"
 subTitle: "Try this trick"
-date: "2024-05-09T18:20:42.060Z"
+date: "2024-04-09T18:20:42.060Z"
 path: "/two-bowls/"
 tags: [core, pelvic health, "women's health", diastasis recti, back pain]
 featuredImage: two-bowls-of-soup.jpg

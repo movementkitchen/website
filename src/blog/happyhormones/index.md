@@ -11,7 +11,7 @@ featuredImage: happy-hormones.jpg
 
 ### Did you know that muscle mass helps balance out our hormones?
 
-The more lean muscle we have in 40s, the easier it is for the body to manage stress, regulate blood sugar levels and handle the changing hormones?
+The more lean muscle we have in our 40s, the easier it is for the body to manage stress, regulate blood sugar levels and handle the changing hormones?
 
 As we approach menopause, the drop in oestrogen makes us *more stress-sensitive, but insulin-insensitive* and prone to blood sugar spikes.
 

@@ -1,7 +1,7 @@
 ---
 title: "Window Shopping Physiology"
 subTitle: ""
-date: "2024-03-15T13:42:32.745Z"
+date: "2024-04-15T13:42:32.745Z"
 path: "/window-shopping-physiology/"
 tags: ["intra-abdominal pressure", "Core Rehab", "Back Pain"]
 featuredImage: window-shopping.jpg
