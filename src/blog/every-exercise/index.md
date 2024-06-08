@@ -9,7 +9,7 @@ featuredImage: every-exercise.jpg
 
 ![Kite](every-exercise.jpg)
 
-Every exercise becomes a pelvic floor exercise if we add these secret ingredients:
+Every exercise becomes a core and pelvic floor exercise if we add these secret ingredients:
 
 ✔️ Strong feet - think of making deeper footprints on the floor with every exhalation 🦶⬇️
 
