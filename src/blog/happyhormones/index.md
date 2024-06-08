@@ -5,6 +5,7 @@ date: "2024-06-08T18:01:54.360Z"
 path: "/happyhormones/"
 tags: [menopause, perimenopause, women's health, hormones, strength training, muscle]
 featuredImage: src/blog/happyhormones/muscle-mass-homones.jpg
+---
 
 [More muscle means happy hormones](muscle-mass-homones.jpg)
 
