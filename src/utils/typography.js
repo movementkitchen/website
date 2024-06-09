@@ -30,16 +30,22 @@ const theme = {
       'a:hover': {
         color: options.brandColorPrimaryRed,
       },
-      'a.big': {
+      '.big': {
         backgroundColor: options.brandColorPrimaryGreen,
         color: 'white',
         padding: `${rhythm(0.75)} ${rhythm(1)}`,
         borderRadius: rhythm(0.5),
+        borderStyle: 'none',
         textDecoration: 'none',
         textAlign: 'center',
         display: 'block',
         width: 'fit-content',
-        fontSize: rhythm(0.85)
+        fontSize: rhythm(0.85),
+        cursor: 'pointer'
+      },
+      '.big:hover': {
+        color: 'white',
+        textDecoration: 'underline',
       },
       figcaption: {
         ...scale(-1 / 5),
