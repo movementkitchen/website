@@ -12,7 +12,7 @@ class EmailPage extends React.Component {
 		const pageContent = get(this, "props.data.markdownRemark.html");
 		const resourcePath = get(
 			this,
-			"props.data.markdownRemark.frontmatter.resource_path",
+			"props.data.markdownRemark.frontmatter.resourcePath",
 		);
 		const formHeading = get(this, "props.data.markdownRemark.frontmatter.formHeading");
 		const submitLabel = get(this, "props.data.markdownRemark.frontmatter.submitLabel");
@@ -41,9 +41,9 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        resource_path
-		formHeading
-		submitLabel
+        resourcePath
+        formHeading
+        submitLabel
       }
     }
     site {

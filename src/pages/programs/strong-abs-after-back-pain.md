@@ -3,7 +3,6 @@ template: email
 title: Strong Abs After Back Pain
 formHeading: Sign up
 submitLabel: Subscribe
-resource_path: 
 ---
 
 ## Strong Abs After Back Pain
