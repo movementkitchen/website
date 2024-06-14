@@ -7,10 +7,10 @@ With online sessions you log in on two devices, so we can see each of your movem
 
 <a class="big" href="https://forms.gle/iKvN7bYCmohmQ8Wy8">Apply for coaching</a>
 
-If we never worked together, you will need a detailed initial assessment (fee: £99) where we will explore:
+If we never worked together, you will need a detailed initial assessment and movement screen (fee: £129) where we will explore:
 
 1. Where are you right now? - breathing and pressure management strategies, motor control, strength, endurance
-2. What is your fitness goal?
+2. What is your goal?
 3. What is the action plan for reaching your goal?
 4. What are the milestones and a realistic timeline?
 
