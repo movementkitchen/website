@@ -15,7 +15,7 @@ If we never worked together, you will need a detailed initial assessment. Depend
 4. What is the action plan for reaching your goal?
 5. What are the milestones and a realistic timeline?
 
-*During the month of June, we have a 30% discount on both initial assessments. So, instead of £129 you pay £90. Discount code: JUNE24*
+*During the month of June, we have a 30% discount on Detailed Core Health and Strength Assessment. So, instead of £129 you pay £90. Just type in the promotion code JUNE24* [when making the payment](https://buy.stripe.com/7sI01u2WX4YVdzy5kn).
 
 After the initial assessment, we can create your unique coaching package where besides coaching you get access to resources and ongoing support. I usually work with people over a period of 12 - 16 months of weekly coaching and then move on to maintanance sessions 2-3 times a month or short catchups. The price of coaching packages ranges from £250 - £375 per month depending on the level of support. If booking individual sessions, my hourly rate is £90. 
 
