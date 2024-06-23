@@ -7,15 +7,15 @@ With online sessions you log in on two devices, so we can see each of your movem
 
 <a class="big" href="https://movementkitchen.simplybook.it/v2/#book">Book a Session</a>
 
-If we never worked together, you will need a detailed initial assessment. Depending on your needs, you can choose a more specific [*core health and strength screen*](https://movementkitchen.simplybook.it/v2/#book/service/36/count/1/) or a general [*whole-body movement screen*](https://movementkitchen.simplybook.it/v2/#book/service/37/count/1/). In this 1.5 hour session we will explore:
+If we never worked together, you will need a [*Detailed Core Health and Strength Assessment - Initial Consultation*](https://movementkitchen.simplybook.it/v2/#book/service/36/count/1/). In this 1.5 hour session we will explore:
 
-1. Your movement history - injuries, surgeries
-2. Where are you right now? - breathing, pressure management, functional movement strategies, motor control, strength, endurance
+1. Your health and fitness history
+2. Where are you right now? - breathing, pressure management, preferred movement strategies in different functional and sports movements, motor control, strength, endurance
 3. What is your goal?
 4. What is the action plan for reaching your goal?
 5. What are the milestones and a realistic timeline?
 
-*During the month of June, we have a 30% discount on Detailed Core Health and Strength Assessment. So, instead of £129 you pay £90. Just type in the promotion code JUNE24* [when making the payment](https://buy.stripe.com/7sI01u2WX4YVdzy5kn).
+*During the month of June, we have a 30% discount on the initial assessments. So, instead of £129 you pay £90. Just type in the promotion code JUNE24* [when making the payment](https://buy.stripe.com/7sI01u2WX4YVdzy5kn).
 
 After the initial assessment, we can create your unique coaching package where besides coaching you get access to resources and ongoing support. I usually work with people over a period of 12 - 16 months of weekly coaching and then move on to maintanance sessions 2-3 times a month or short catchups. The price of coaching packages ranges from £250 - £375 per month depending on the level of support. If booking individual sessions, my hourly rate is £90. 
 
