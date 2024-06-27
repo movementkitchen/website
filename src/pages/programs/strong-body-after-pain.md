@@ -11,7 +11,7 @@ Strong Body After Pain is an 8-week self-paced online course for people who donâ
 
 This programme is designed as an 8-week transformation from being scared to move to feeling strong and confident in your body and its abilities. 
 
-![alt text](strong-body-after-pain.jpg)
+![alt text](summer-abs-cover.png)
 
 At the end of the course, you will be able to 
 1.	Go to the gym without worrying about pulling your back out
