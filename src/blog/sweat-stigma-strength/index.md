@@ -44,18 +44,16 @@ The research on training while pregnant and returning to training postpartum is 
 
 ### Inventing Exercise
 
-Reading Let’s Get Physical, I’ve learnt about women pioneers of fitness. Did you know who invented barre workouts? I didn't know either. In late 1950s, Lotte Berk, a London-based German-Jewish dancer came up with the brilliant idea of opening dance studios for women who weren't ballerinas but would like to look like one. Drawing from ballet and modern dance, she imagined barre to be a sex-enhancing workout for women, with the primary movement being hip thrust - tucking your pelvis under dynamically. Lotte continued teaching well into her eighties, you could see her with her signature whip teaching a class to Bond girls looking to sculpt their bodies to perfection and various British celebrities enjoying an intense workout with a touch of torture.
+Reading Let’s Get Physical, I’ve learnt about women pioneers of fitness. Did you know who invented barre workouts? I didn't know either. In late 1950s, Lotte Berk, a London-based German-Jewish dancer came up with the brilliant idea of opening dance studios for women who weren't ballerinas but would like to look like one. Drawing from ballet and modern dance, she imagined barre to be a sex-enhancing workout for women, with the primary movement being hip thrust - tucking your pelvis under dynamically. Starting her teachng career in her mid-fourties, Lotte continued teaching classes well into her eighties. You could see her with her signature whip standing in the midst of a room of Bond girls and fashionable upper-class mums looking to sculpt their bodies to perfection.
 
 
 ![alt text](Lotte_Esther2.png)
 
-Around the similar time accross the Atlantic Ocean, a PE teacher Bonnie Prudden started a fitness revolution. Originally passionate about improving fitness in American school children, Bonnie lobbied for more physical activity for the whole family and eventually got the 1950-es suburban housewives to exercise along their TV-sets. In the beginning, Bonnie Bonnie needed to improvise with the outfits, as fintess clothing for women simply didn't exist. So, she teamed up with clothing manufacturers to design sexy but comfortable outfits for exercise. Hello lycra and leotards!
+Around the similar time accross the Atlantic Ocean, a PE teacher Bonnie Prudden started an exercise revolution. Originally passionate about improving fitness in American school children, Bonnie lobbied for more physical activity for the whole family and eventually got the 1950-es suburban housewives to exercise along their TV-sets. In the beginning, Bonnie Bonnie needed to improvise with the outfits, as fitness clothing for women simply didn't exist. So, she teamed up with clothing manufacturers to design sexy but comfortable outfits for exercise. Hello lycra and leotards!
 
 ![alt text](bonnie.png)
 
-In 1961, Bonnie wrote a book that she planned to name 'How to Keep Slender and Fit After Forty' - but after the persuasion from her publisher renamed to How to Keep Slender and Fit After Thirty. In the early 1960, thirty was not considered young at all. Most women had multiple children by this age and were expected to retire from public-facing professions. 
-
-But then, Bonnie’s prime started way beyond her thirties. She was famous for saying “you can’t run back the clock, but you can wind it up again” - and she did, staying active and strong until 97.
+In 1961, Bonnie wrote a book that she planned to name 'How to Keep Slender and Fit After Forty' - but after persuasion from her publisher the title was changed to 'How to Keep Slender and Fit After Thirty'. In the early 1960, thirty was not considered young at all. Most women had multiple children by this age and were expected to retire from public-facing professions. But Bonnie’s prime started way beyond her thirties. She was famous for wearing hand-cut crop tops showing her beautifully tonned mid riff in her mid-fourties. She would say “yes, you can’t run back the clock, but you can wind it up again” - and she did, staying active and strong until 97.
 
 I hope these stories have inspired you. There is no such thing as a "weaker sex". Maybe we could talk about a less trained one. But that is changing as we speak!
 
