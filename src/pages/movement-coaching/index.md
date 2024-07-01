@@ -7,17 +7,19 @@ With online sessions you log in on two devices, so we can see each of your movem
 
 <a class="big" href="https://movementkitchen.simplybook.it/v2/#book">Book a Session</a>
 
-If we never worked together, you will need a [*Detailed Core Health and Strength Assessment - Initial Consultation*](https://movementkitchen.simplybook.it/v2/#book/service/36/count/1/). In this 1.5 hour session we will explore:
+If we never worked together, you will need a [*Detailed Core Health and Strength Assessment - Initial Consultation*](https://movementkitchen.simplybook.it/v2/#book). In this 75 minute session we will explore:
 
-1. Your health and fitness history
-2. Where are you right now? - breathing, pressure management, preferred movement strategies in different functional and sports movements, motor control, strength, endurance
+1. Your health and fitness history - injuries, surgeries, chronic health conditions, unresolved pregnancy/postpartum issues
+2. Where are you right now? - abdominal wall integrity, breathing, deep core activation, pressure management, preferred movement strategies in different functional and sports movements, strength, endurance
 3. What is your goal?
 4. What is the action plan for reaching your goal?
 5. What are the milestones and a realistic timeline?
 
-*During the month of June, we have a 30% discount on the initial assessments. So, instead of £129 you pay £90. Just type in the promotion code JUNE24* [when making the payment](https://buy.stripe.com/7sI01u2WX4YVdzy5kn).
+*Fitness professionals with valid teaching certificates get a 30% discount on initial assessments. So, instead of £129 you pay £90.* [Drop me an email](mailto:ivana@movementkitchen.co.uk?subject=Peers) *to send you the code.*
 
 After the initial assessment, we can create your unique coaching package where besides coaching you get access to resources and ongoing support. I usually work with people over a period of 12 - 16 months of weekly coaching and then move on to maintanance sessions 2-3 times a month or short catchups. The price of coaching packages ranges from £250 - £375 per month depending on the level of support. If booking individual sessions, my hourly rate is £90. 
+
+If money is an issue, [please get in touch](mailto:ivana@movementkitchen.co.uk?subject=Scholarship). I offer a couple of subsidised coaching spots each quarter, providing a 40% discount on the usual coaching rates. 
 
 <video controls width="100%">
     <source src="session-snippet-3.mp4" type="video/mp4">
