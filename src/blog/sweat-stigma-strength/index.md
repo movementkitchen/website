@@ -49,7 +49,7 @@ Reading Let’s Get Physical, I’ve learnt about women pioneers of fitness. Did
 
 ![alt text](Lotte_Esther2.png)
 
-Around the similar time accross the Atlantic Ocean, a PE teacher Bonnie Prudden started an exercise revolution. Originally passionate about improving fitness in American school children, Bonnie lobbied for more physical activity for the whole family and eventually got the 1950-es suburban housewives to exercise along their TV-sets. In the beginning, Bonnie Bonnie needed to improvise with the outfits, as fitness clothing for women simply didn't exist. So, she teamed up with clothing manufacturers to design sexy but comfortable outfits for exercise. Hello lycra and leotards!
+Around the similar time accross the Atlantic Ocean, a PE teacher Bonnie Prudden started an exercise revolution. Originally passionate about improving fitness in American school children, Bonnie lobbied for more physical activity for the whole family and eventually got the 1950-es suburban housewives to exercise along their TV-sets. In the beginning, Bonnie needed to improvise with the outfits, as fitness clothing for women simply didn't exist. So, she teamed up with clothing manufacturers to design sexy but comfortable outfits for exercise. Hello lycra and leotards!
 
 ![alt text](bonnie.png)
 
