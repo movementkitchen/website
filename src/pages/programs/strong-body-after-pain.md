@@ -13,10 +13,11 @@ This programme is designed as an 8-week transformation from being scared to move
 
 ![alt text](summer-abs-cover.png)
 
-At the end of the course, you will be able to 
-1.	Go to the gym without worrying about pulling your back out
-2.	Take up any exercise class knowing how to make it work for your body so you aren’t in pain afterwards
-3.	Train independently without a fear of being injured.
+At the end of the course, you will: 
+1. Have your core muscles switched on and supporting you so you can get stronger
+2. Know how to progress you training without bringing on the symptoms
+3. Know how to manage back/hip/pelvic pain flare-ups if they do happen and build back up
+4. Be able to confidently go to the gym or take up any exercise class or train independently without a fear of being injured.  
 
 The course is designed as step-by-step roadmap. Week by week, we build up from managing pain and flare-ups to challenging the body and getting stronger. Lower back and pelvic-floor-friendly workouts, always.
 
