@@ -5,28 +5,43 @@ formHeading: Sign up
 submitLabel: Subscribe
 ---
 
-## Strong Body After Pain
+### Strong Body After Pain: Reclaim the Joy of Feeling Strong and Trusting Your Body  
 
-Strong Body After Pain is an 8-week self-paced online course for people who don’t feel comfortable doing traditional abdominal exercises (crunches, sit-ups, straight leg lifts, yoga boats, Pilates hundreds), people who hurt after exercise, or people with recurring pain or old injuries that keep coming back whenever they try being active.
+*Are you a woman who:*
+- Battles with recurring back, hip, or pelvic pain?  
+- Feels like your body never fully recovered after pregnancy and childbirth?  
+- Struggles with women's health concerns like painful periods, endometriosis, incontinence, or pelvic organ prolapse?  
+- Wants to get stronger but finds that traditional exercise approaches worsen your symptoms?  
 
-This programme is designed as an 8-week transformation from being scared to move to feeling strong and confident in your body and its abilities. 
+Introducing Strong Body After Pain: An 8-week transformative online course designed specifically for women like you who are ready to move from pain and fear of movement to strength and confidence in your body.  
 
-![alt text](summer-abs-cover.png)
+![alt text](Strong-Body-After-Pain-Yellow.jpg)  
 
-At the end of the course, you will: 
-1. Have your core muscles switched on and supporting you so you can get stronger
-2. Know how to progress you training without bringing on the symptoms
-3. Know how to manage back/hip/pelvic pain flare-ups if they do happen and build back up
+*After 8 weeks, you will:*  
+1. Have your core muscles switched on and supporting you so you can get stronger  
+2. Know how to progress you training without bringing on your symptoms  
+3. Know how to manage any future back/hip/pelvic pain flare-ups and build back up quickly  
 4. Be able to confidently go to the gym or take up any exercise class or train independently without a fear of being injured.  
 
-The course is designed as step-by-step roadmap. Week by week, we build up from managing pain and flare-ups to challenging the body and getting stronger. Lower back and pelvic-floor-friendly workouts, always.
+Our step-by-step roadmap takes you from pain management to empowered strength building. Each week features:
+- Back-friendly and pelvic floor-safe workouts
+- Progressive challenges that respect your body's limits
+- Expert guidance on form and technique  
+  
 
-This is NOT a looks-oriented, self-punishing programme. 
-It is NOT about skimming little off different parts of our bodies. 
-NO hard pushing. NO no-pain-no-gain. 
+*This is NOT:*
 
-Our starting point is seeing exercise as self-care – an expression of self-love and care for the body and it’s needs and investing in the future. Yes, expect a challenge – but with kindness towards the body, always!
+❌ A one-size-fits-all, appearance-focused program  
+❌ About spot reduction or unrealistic body changes  
+❌ Based on outdated "no pain, no gain" mentalities    
 
-### Join the waitlist
 
-To be the first to get notified when the course opens for enrolment, please leave your email below to sign up to our email list.
+*Instead, Strong Body After Pain embraces:*
+
+✅ Exercise as an act of self-care and investment in your future  
+✅ Challenging your body with kindness  
+✅ Building strength that translates to real-life confidence and capabilities  
+
+### Be the First to Know
+
+Join our exclusive waitlist to receive priority notification when enrollment opens. Enter your email below to secure your spot and take the first step towards a stronger, pain-free you.
