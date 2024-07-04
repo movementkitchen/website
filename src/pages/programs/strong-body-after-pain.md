@@ -7,7 +7,7 @@ submitLabel: Subscribe
 
 ### Strong Body After Pain: Reclaim Your Strength, Confidence, and Freedom
 
-Introducing Strong Body After Pain: An 8-week transformative online course designed for women who are ready to move from pain and fear of movement to strength and confidence in their bodies.  
+Introducing Strong Body After Pain: an 8-week transformative online course designed for women who are ready to move from pain and fear of movement to strength and confidence in their bodies.  
 
 ![alt text](Strong-Body-After-Pain-Yellow.jpg)  
 
@@ -17,6 +17,8 @@ Introducing Strong Body After Pain: An 8-week transformative online course desig
 - You feel like your body never fully got back to "normal" after having babies?
 - Or maybe you have never been pregnant, but you struggle with your pelvic health - things like pelvic pain, painful periods, endometriosis, sensitive bladder, incontinence, or pelvic organ prolapse?  
 - You used to love being active, but now you are unsure how to exercise safely, without going too far – group exercise classes or training at the gym leaves you aching for days?
+
+[<img src="Course-youtube-thumbnail.jpg">](https://youtu.be/TI8lktLtrAw)  
 
 *After 8 weeks, you will:*
 1. Have your core muscles switched on and supporting you so you can get stronger  
