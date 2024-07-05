@@ -19,7 +19,7 @@ If we never worked together, you will need a [*Detailed Core Health and Strength
 
 After the initial assessment, we can create your unique coaching package where besides coaching you get access to resources and ongoing support. I usually work with people over a period of 12 - 16 months of weekly coaching and then move on to maintanance sessions 2-3 times a month or short catchups. The price of coaching packages ranges from £250 - £375 per month depending on the level of support. If booking individual sessions, my hourly rate is £90. 
 
-If money is an issue, [please get in touch](mailto:ivana@movementkitchen.co.uk?subject=Scholarship). I offer a couple of subsidised coaching spots each quarter, providing a 40% discount on the usual coaching rates. 
+If money is an issue, [please get in touch](mailto:ivana@movementkitchen.co.uk?subject=Scholarship). I offer a couple of pay-what-you-can coaching spots each quarter. 
 
 <video controls width="100%">
     <source src="session-snippet-3.mp4" type="video/mp4">

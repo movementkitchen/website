@@ -43,7 +43,7 @@ Wherever you are, we will work together to create an action plan with weekly mil
 
 Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity. 
 
-<a class="big" href="https://movementkitchen.simplybook.it/v2/#book">Book coaching</a>
+<a class="big" href="https://movementkitchen.simplybook.it/v2/#book/service/44">Book a 30-min Clarity Call</a>
 
 ### Featured Videos
 
