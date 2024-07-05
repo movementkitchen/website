@@ -2,15 +2,24 @@
 title: About
 ---
 
-Hi there! I'm Ivana, a sports biomechanics scientist and a coach passionate about women's health, things like healthy pelvises, bellies and pressure inside them. Another of my passions is ageing well, longevity. I used to [research ageing elite endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/) and how high levels of training can slow down ageing. I'm also a mum of two, born by a C-section and a home birth after a caesarean (HBAC) who used to struggle with a 6-finger-wide abdominal separation and chronic back pain.
+Hi there! I'm Ivana, a sports biomechanics scientist and a coach passionate about women's health and biological performance - read: how to make our bodies function at their best through different stages of our lives. I love researching, writing and geeking out about healthy pelvises, bellies and pressure inside them.   
 
-Feel free to get in touch with any questions or collaboration suggestions or just to say hi. I'm always open for new ideas!
+Another half of my passion is longevity. I published research on [elite master endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/) who practically slowed down ageing with high levels of training. Yes, a good part of what we think of as 'ageing' is detraining and an adaptation to inactivity - so, totally avoidable! 
 
-Ivana xx
+
+![alt text](Ivana-bio-blue.jpg) 
+
+Over the years, I've specialised in working with people stuck in a loop between physiotherapy and the gym, people who don't seem to 'bounce back' after pregnancy and childbirth, people with mysterious 'women's health issues', people with recurring back pain and those who feel that their bodies don't respond well to conventional approaches to exercise.
+
+I was there once (or twice) myself. First time, as a desk-bound young professional in my 20s with chronic lower back pain and a half of my left foot completely numb. Second time, as a mum of two in my mid-30s with a weak, disconnected belly 2 clothing sizes up compared to the rest of my body, sneeze pee and my lower back in spasm every time I would open a heavy door.
+
+Being on the autistic spectrum, my way of dealing with problems is to throw a lot of learning at them. To dig and dig deep.
+
+So, on the way to get my body stronger and break out of the weakness and re-injury cycle, I learnt from many exceptional physiotherapists, sports, exercise, movement and bodywork professionals, completed over 1200 hours of training in yoga therapy, Pilates, corrective exercise and massage and eventually did a master's in sports science - biomechanics - digging into loads and forces behind movements and mechanisms of injuries.
 
 ### My Approach
 
-I developed the Core rePower method through 12+ years of working with women struggling with prolapse, diastasis recti, hernias and my own journey of overcoming chronic lower back pain.
+I developed the Core rePower method through 12+ years of my professional and personal journey, integrating everything I learnt into a unique approach.
 
 Many people who would come to see me had found themselves bouncing back and forth between physiotherapy and the gym – getting the all-clear from the physio and going back to training just to get injured and back to physiotherapy, again and again. This is why I developed an approach that seemlesly connects rehabilitation and strength and conditioning training.
 
@@ -81,39 +90,3 @@ I value evidence-based solutions and precise, focused training where everything 
 - Yoga as Therapy 900 Hour Residential Teacher Training with The Yoga Institute Santacruz Mumbai, India, July -
   Nov 2012
 - Yoga Teacher Training with Yoga Federation of Serbia, 260 Hours, Apr - Dec 2011
-
-### My Story
-
-My movement journey has been paved by various injuries and an unstoppable urge to learn in the process of overcoming them. I often felt my body was too fragile to follow my pace of life.
-
-In my late twenties, I developed chronic lower back pain and lost sensation in a large part of my left foot. I was a corporate lawyer at the time and would spend hours drafting contracts and then trying to make up for it at the gym. Eventually, my lower back gave in. My neurologist said it was part of a slow degenerative process and I'd have to get used to it. But luckily, I didn't. I decided to quit my lawyer job and follow my passion for movement instead. With little sitting and consistent physical activity, my lower back recovered and I restored the sensation in my entire left foot.
-
-Over the years, I developed a particular interest in working with women. Specialising in teaching pregnancy and postpartum yoga and fitness classes, I continued teaching throughout my both pregnancies. 
-
-My first baby was born in 2013, by an emergency C-section that left me feeling weak and defeated. In the first days after the surgery, I could not straighten up to standing, but luckily, the scar healed well. After the routine 6-week postpartum check-up I got a green light for returning to exercise. So, I went straight back to teaching yoga and shortly after, took up teaching the advanced level at the gym. 
-
-I might have been around two months postpartum when, after demonstrating the "wild thing" - a pose that combines an inversion, twist and backband – I found myself with a fist-width hole in the connective tissue running across my midline. My linea alba was literally gone in that whole area. The belly was bulging and deforming at movements that used to be easy. It turned out I had a severe abdominal separation (diastasis recti). 
-
-For things to be even sadder, I've also gradually developed De Quervain's tendinosis ("mother's wrist") on both my wrists and could not bear weight on my arms. It was incredibly frustrating to get re-injured and in pain every time I exercised or carried my baby. 
-
-> It struck me how many postpartum issues you never ever hear about until you are unlucky to get them.
-
-I spent 1.5 years being able to practise only very gentle pregnancy yoga. I visited numerous physios who had no idea how to help me. And then I got pregnant again. My second child was born in 2015, this time naturally, at home, but I had a 2nd-degree tear, lost a lot of blood and my abdominal separation was now around 6 fingers wide. Even at 1 year postpartum I felt weak and looked 5 months pregnant - a shopkeeper in a local grocery shop congratulated me on already being pregnant with the third child. 
-
-I was wondering if I would ever be able to practise anything but extremely gentle low-impact exercise. Doing even a simple sun salutation or dynamic lunges would leave me with back and hip spasms for days. 
-
-I found that there was little support offered by the healthcare and very little published research on diastasis recti, especially its connection with back and pelvic pain and dysfunction. The separation was seen as a cosmetic problem and most of the solutions focused on patching the gap instead of looking into what had caused it. 
-
-> I couldn’t help wondering: if diastasis recti is just an aesthetic issue, why do I need a painkiller to sleep?
-
-Feeling lost and unsupported, I studied across various disciplines to be able to manage my symptoms and continue to move and teach. I searched for answers across yoga, Pilates, soft tissue therapy, corrective exercise, sport science and medicine, physiotherapy and women's health. Digging deeper and deeper eventually brought me to a master's degree in sports science, focusing on biomechanics and mechanisms of injuries.
-
-> I realised that my diastasis recti was not a problem in itself, but a symptom of non-optimal intra-abdominal pressure management that would have sooner or later led to an injury.
-
-If it wasn't diastasis it would have maybe been a slipped disc in my spine, or a hernia, or a pelvic organ prolapse. I needed to learn how to use the pressure inside my belly effectively. This meant, first, I needed to go back to breathing and build back up from there.
-
-I started from retraining my diaphragm, pelvic floor and deep abdominal muscles, restoring the mobility of my pelvis and the ribs. I learnt how to manage the pressure inside my belly when I move and then gradually added weight and built muscles to support me. Over time, I managed to restore a functional core and get stronger and more resilient than in my twenties.
-
-Alongside my personal journey, I've worked with many people, especially women trapped in the cracks of an exercise culture that doesn't understand nor prioritise women's needs. I got fascinated by athletes' postpartum return to sport, especially, training with diastasis recti, prolapse, hernias, incontinence and other pressure management issues.
-
-I am passionate about using my knowlegde and personal experience to support people in reclaiming strong bodies that could support them in everything they want to do, from lifting their children to paddleboarding, weightlifting, rock climbing, surfing, skiing or running a marathon.
