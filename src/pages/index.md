@@ -17,7 +17,7 @@ testimonials:
 ---
 Movement Kitchen offers women's health focused 1:1 and small group coaching to help you break out of the physio-gym loop and get stronger for good. Lower-back and pelvic-floor-friendly workouts, always.
 
-<a class="big" href="https://movementkitchen.simplybook.it/v2/#book/service/44">Book a FREE 30-min Clarity Call</a>
+<a class="big" href="https://movementkitchen.simplybook.it/v2/#book/service/44">Book a FREE Clarity Call</a>
 
 ### Conventional exercise doesn't work for everyone. 
 
