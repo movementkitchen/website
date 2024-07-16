@@ -1,0 +1,27 @@
+{
+  "files": {
+    "ignore": [".cache", "public"]
+  },
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "recommended": true,
+      "style": {
+        "noUnusedTemplateLiteral": "off"
+      },
+      "suspicious": {
+        "noShadowRestrictedNames": "off"
+      }
+    }
+  },
+  "formatter": {
+    "indentStyle": "space",
+    "lineWidth": 100
+  },
+  "javascript": {
+    "formatter": {
+      "trailingCommas": "es5",
+      "quoteStyle": "single"
+    }
+  }
+}

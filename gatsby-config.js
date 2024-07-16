@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: 'Movement Kitchen',
     author: 'Ivana Miletic Demmel',
-    siteUrl: 'https://movementkitchen.co.uk/',
+    siteUrl: 'https://www.movementkitchen.co.uk',
     pathPrefix: '/',
     navigation: [
       {
@@ -105,6 +105,7 @@ module.exports = {
         pathToConfigModule: 'src/utils/typography',
       },
     },
+    `gatsby-plugin-sitemap`,
   ],
 
   developMiddleware: (app) => {
