@@ -38,7 +38,7 @@ The stabilisers are the deep abdominal muscles (the transverse abs - that wrap a
 
 Scroll to the left for 3 deep core exercise ideas.
 
-For more deep core training and inside-out core rebuilding, follow @movementkitchen and subscribe to our [weekly newsletter](http://eepurl.com/gsc_Ev).
+For more deep core training and inside-out core rebuilding, follow @movementkitchen and subscribe to our [newsletter](https://list.movementkitchen.co.uk).
 
 ❤️💪
 

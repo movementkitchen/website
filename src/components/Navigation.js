@@ -211,7 +211,7 @@ class Navigation extends React.Component {
     return (
       <Wrapper>
         <TopBanner>
-          <NewsletterButton href="http://eepurl.com/gsc_Ev" target="_blank">
+          <NewsletterButton href="https://list.movementkitchen.co.uk" target="_blank">
             <span>Sign up for our Newsletter</span>
           </NewsletterButton>
           <SocialLinks>

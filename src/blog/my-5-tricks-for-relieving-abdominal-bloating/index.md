@@ -93,4 +93,4 @@ Ivana x
 
 This post is part 3 of The Bloating Series. Part 1 is [Foods That Make Our Bellies Rounder](/blog/foods-that-make-our-bellies-rounder/) and Part 2 [Hormones and The Gut](/blog/hormones-and-the-gut/).
 
-For more of my writing connecting the fields of exercise science, women’s health and feminism and free workouts, make sure to subscribe to the Movement Kitchen [weekly newsletter](https://movementkitchen.us6.list-manage.com/subscribe?u=6ddb04df8575fd645103fa989&id=2e76a5987e).
+For more of my writing connecting the fields of exercise science, women’s health and feminism and free workouts, make sure to subscribe to the Movement Kitchen [newsletter](https://list.movementkitchen.co.uk).
