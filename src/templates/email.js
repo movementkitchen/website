@@ -16,6 +16,7 @@ class EmailPage extends React.Component {
 		);
 		const formHeading = get(this, "props.data.markdownRemark.frontmatter.formHeading");
 		const submitLabel = get(this, "props.data.markdownRemark.frontmatter.submitLabel");
+		const formAction = get(this, "props.data.markdownRemark.frontmatter.formAction");
 
 		return (
 			<div
@@ -27,7 +28,7 @@ class EmailPage extends React.Component {
 			>
 				<Helmet title={`${pageTitle} | ${siteTitle}`} />
 				<div dangerouslySetInnerHTML={{ __html: pageContent }} />
-				<EmailSignup redirectTo={resourcePath} topHeading={formHeading} submitLabel={submitLabel} />
+				<EmailSignup redirectTo={resourcePath} topHeading={formHeading} submitLabel={submitLabel} formAction={formAction} />
 			</div>
 		);
 	}
@@ -44,6 +45,7 @@ export const pageQuery = graphql`
         resourcePath
         formHeading
         submitLabel
+		formAction
       }
     }
     site {

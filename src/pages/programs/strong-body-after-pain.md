@@ -3,6 +3,7 @@ template: email
 title: Strong Body After Pain
 formHeading: Sign up
 submitLabel: Subscribe
+formAction: https://app.convertkit.com/forms/6946600/subscriptions
 ---
 
 ### Strong Body After Pain: Reclaim Your Strength, Confidence, and Freedom
