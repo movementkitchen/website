@@ -19,13 +19,14 @@ With online sessions you log in on two devices, so we can see each of your movem
  
 If we've never worked together, we'll start with a longer introductory session (duration 75 min, price £129) that includes a detailed core health and strength assessment. We are going to:
 
-- Explore your previous injuries, surgeries, chronic health conditions, unresolved pregnancy/postpartum issues, 
+- Explore your previous injuries, surgeries, chronic health conditions, unresolved pregnancy or postpartum issues, 
 - Test your abdominal wall integrity, breathing, deep core activation, pressure management, 
-- Test your preferred movement strategies in different functional and sports movements, strength and endurance. 
+- Test your preferred movement strategies in different functional and sports movements, strength and endurance,
+- Discuss your nutrition and food habits. 
 
 This will allow us to make a realistic action plan for getting you where you want to be.
 
-You can take the detailed assessment as one-off or continue, in which case we will create your unique coaching package, that includes access to live Zoom calls, resources and ongoing support. The price of coaching packages depends on the duration and level of support. My hourly rate is £80.
+You can take the detailed assessment as one-off or continue, in which case we will create your unique coaching package that includes access to live Zoom calls, resources and ongoing support. The price of coaching packages depends on the duration and level of support. My hourly rate is £90.
 
 If money is an issue, I offer a couple of Pay What You Can coaching spots each quarter. [Get in touch](mailto:ivana@movementkitchen.co.uk?subject=Scholarship) and we can figure something out.   
 
