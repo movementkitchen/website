@@ -15,10 +15,7 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers women's health focused 1:1 and small group coaching to help you break out of the physio-gym loop and get stronger for good. Lower-back and pelvic-floor-friendly workouts, always.
-
-<a class="big" href="https://movementkitchen.simplybook.it/v2/#book/service/44">Book a FREE Clarity Call</a>
-
+Movement Kitchen offers women's health focused 1:1 and small group coaching to help you break out of the physio-gym loop and get stronger for good. Lower-back and pelvic-floor-friendly workouts, always.  
 ### Conventional exercise doesn't work for everyone. 
 
 Some people's bellies don't respond well to sit-ups, straight leg lifts, yoga boats or Pilates hundreds. Some people throw their back out every time they go to the gym. Some people need to remember to wear a pad before going to any exercise class that includes skipping or jumping. 
@@ -44,6 +41,8 @@ No, you are not broken. You just need a smarter, more effective way to exercise,
 Wherever you are, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals. 
 
 Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity. 
+
+<a class="big" href="https://forms.gle/gXf6eC5YxSEP4bJt7">Coaching Waiting List</a>  
 
 ### Featured Videos
 
