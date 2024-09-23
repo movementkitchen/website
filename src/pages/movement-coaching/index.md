@@ -23,7 +23,7 @@ If we've never worked together, we'll start with a longer introductory session (
 - Test your abdominal wall integrity, breathing, deep core activation, pressure management, 
 - Test your preferred movement strategies in different functional and sports movements, strength and endurance. 
 
-This will allow us to make a realistic action plan for getting where you want to be.
+This will allow us to make a realistic action plan for getting you where you want to be.
 
 You can take the detailed assessment as one-off or continue, in which case we will create your unique coaching package, that includes access to live Zoom calls, resources and ongoing support. The price of coaching packages depends on the duration and level of support. My hourly rate is £80.
 
