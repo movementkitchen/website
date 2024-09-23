@@ -2,14 +2,13 @@
 title: Movement coaching
 ---
 
-
-<a class="big" href="https://forms.gle/gXf6eC5YxSEP4bJt7">Apply for Coaching</a>
-
 We will work together to figure out:    
 1. What is your fitness goal?  
 2. Where are you right now?  
 3. What is the action plan for reaching your goal?  
-4. What are the milestones and a realistic timeline? 
+4. What are the milestones and a realistic timeline?  
+
+<a class="big" href="https://forms.gle/gXf6eC5YxSEP4bJt7">Apply for Coaching</a>
    
 I coach online and in-person, at our East London E10 studio. 
 
