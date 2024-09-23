@@ -27,7 +27,8 @@ This will allow us to make a realistic action plan for getting where you want to
 
 You can take the detailed assessment as one-off or continue, in which case we will create your unique coaching package, that includes access to live Zoom calls, resources and ongoing support. The price of coaching packages depends on the duration and level of support. My hourly rate is £80.
 
-If money is an issue, I offer a couple of Pay What You Can coaching spots each quarter. [Get in touch](mailto:ivana@movementkitchen.co.uk?subject=Scholarship) and we can figure something out. 
+If money is an issue, I offer a couple of Pay What You Can coaching spots each quarter. [Get in touch](mailto:ivana@movementkitchen.co.uk?subject=Scholarship) and we can figure something out.   
+
 You can reschedule each individual session up to 24 hours beforehand.
 
 <video controls width="100%">
