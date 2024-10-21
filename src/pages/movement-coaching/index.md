@@ -3,7 +3,7 @@ title: Movement coaching
 ---
 
 We will work together to figure out:    
-1. What is your fitness goal?  
+1. What is your health/fitness goal?  
 2. Where are you right now?  
 3. What is the action plan for reaching your goal?  
 4. What are the milestones and a realistic timeline?  
