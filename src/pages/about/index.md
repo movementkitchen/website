@@ -33,16 +33,17 @@ I see kitchen as a nurturing environment, a space for creating, playing and expe
 
 I value evidence-based solutions and precise, focused training where everything has its 'why', but my coaching style is grounded in empathy and non-violence – challenging the body with kindness. 
 
-### My Education
+### My Qualifications
 
-- MSc in Biomechanics / Sport and Exercise Science from the University of
-  Roehampton, London, UK, October 2019 - October 2021 - with distinction
-- LLM in International Business Law from Vrije Universiteit Amsterdam, The
-  Netherlands 2008-2009
-- LLB (Hons) in International Law from the University of Belgrade, Serbia,
-  2000-2005
+- MSc in Biomechanics / Sport and Exercise Science, University of Roehampton, London, UK, 2019-2021, with distinction
+- Advanced CPD in Modern Post Natal Assessment, Core Restore & Functional Exercise Programming, Burrell Education, 2023
+- CPT-RES Certified Personal Trainer, Restorative Exercise Specialist, Nutritious Movement Center Northwest, Sequim, WA, USA, 2015-2017
+- Yoga Therapy 900 Hrs Residential Course, The Yoga Institute Santacruz Mumbai, India, 2012
+- Yoga Teacher Training 200 Hrs, The Yoga Federation of Serbia, 2011
+- LLM in International Business Law, Vrije Universiteit Amsterdam, The Netherlands, 2009
+- LLB (Hons) in International Law, University of Belgrade, Serbia, 2006
 
-### Professional Qualifications and Training
+### Additional Training
 
 - A-Z of Program Design Strength Training - Online workshop with FitPro CIMSPA, November 2024
 - Pelvic Floor Dysfunction - The Missing Link in Persistent Lower Back Pain? - Online Workshop with Carolyn Vandyken, Embodia Academy, April 2023
@@ -60,7 +61,6 @@ I value evidence-based solutions and precise, focused training where everything 
 - Abdominal Adhesions Massage Course with Barbara Loomis, 9-Module Online Course - Winter 2018/2019
   2018
 - Move Your DNA: Going Beyond The Points with Katy Bowman, Online Course, 8 Hours, Oct 2017
-- CPT-RES Certified Personal Trainer - Restorative Exercise Specialist with Nutritious Movement Center Northwest, Sequim, WA, USA, training completed 2015-2017
 - Advanced Biomechanics 27-hour Online Course with Katy Bowman, Aug-Oct 2017
 - Franklin Method Shoulders and Neck Workshop with Mollie McClelland Morris,
   London, UK, 3 Hours, July 2017
@@ -84,6 +84,3 @@ I value evidence-based solutions and precise, focused training where everything 
   Keller, Yogacampus, London, UK, 32 Hours, Oct 2014
 - Assisting and Adjusting yoga workshop with Emma Henry, London, UK, 3 Hours, July 2014
 - Buggy Fit and Postnatal Exercise with GLL Better, London, UK, 4 Hours, July 2014
-- Yoga as Therapy 900 Hour Residential Teacher Training with The Yoga Institute Santacruz Mumbai, India, July -
-  Nov 2012
-- Yoga Teacher Training with Yoga Federation of Serbia, 260 Hours, Apr - Dec 2011
