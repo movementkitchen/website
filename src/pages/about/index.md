@@ -17,14 +17,14 @@ I value evidence-based solutions and precise, focused training where everything 
 
 ### The rePower Method
 
-I developed the rePower method through 13 years of my professional and personal journey with the gloal to seemlesly connect rehabilitation and strength and conditioning training.
+I developed the rePower method through 13 years of my professional and personal journey with the goal to seemlessly connect rehabilitation and strength and conditioning training.
 
 Each rePower journey includes five stages:
 
-1. *RELEASE* - learning to manage pain flare-ups
-2. *RECONNECT* - restoring breath-core connection, learning new motor skills
-3. *REBUILD* - building muscle, learning to manage pressure and stabilise joints in dynamic workouts
-4. *REPOWER* - progressive overload, increasing pressure tolerance
+1. *RELEASE* - addressing symptoms, managing pain flare-ups
+2. *RECONNECT* - restoring breath-core connection, motor learning in static exercises
+3. *REBUILD* - building muscle, translating motor learning to dynamic workouts
+4. *REPOWER* - progressive overload, increasing intra-abdominal pressure tolerance
 5. *REINFORCE* - injury-proofing the core, training in vulnerable positions.
 
 ### Why Movement Kitchen?
