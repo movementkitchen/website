@@ -50,7 +50,6 @@ I value evidence-based solutions and precise, focused training where everything 
 - Hormones Matter: Considerations for Treating Women with Musculoskeletal Problems - Online Workshop with Susan Clinton and Carolyn Vandyken, Embodia Academy, April 2023
 - Intraabdominal Pressure and Strength Training - Online Workshop with Antony Lo, Embodia Academy, March 2023
 - Stop Hurting Women with Exercise - 5 Key Concepts to Help Female Athletes - Online Workshop with Antony Lo, The Physio Detective, Embodia Academy, March 2023
-- Advanced CPD in Modern Post Natal Assessment, Core Restore & Functional Exercise Programming - 6-Module Online Course with Jenny Burrell, Burrell Education, completed January - March 2023
 - 'Go-To' Physio Clinical Reasoning Challenge - Online Workshop with Dave O’Sullivan, The ProSport Academy, January 2023
 - Pelvis Pro Miniseries - Online Workshop with Sarah Ellis Duvall, Core Exercise Solutions, November 2022
 - Move Your DNA + Fundamentals of Natural Movement Immersion with Katy Bowman,
