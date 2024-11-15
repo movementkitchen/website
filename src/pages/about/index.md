@@ -2,34 +2,30 @@
 title: About
 ---
 
-Hi there! I'm Ivana, a sports biomechanics scientist and a coach passionate about women's health and biological performance - read: how to make our bodies function at their best through different stages of our lives. I love researching, writing and geeking out about healthy pelvises, bellies and pressure inside them.   
+Hi there! I'm Ivana, a sports biomechanics scientist and coach with 13 years of experience working with movement. I am passionate about women's health and biological performance - read: how to make our bodies function at their best through different stages of our lives. I love researching, writing and geeking out about healthy pelvises, bellies and pressure inside them.   
 
 Another half of my passion is longevity. I published research on [elite master endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/) who practically slowed down ageing with high levels of training. Yes, a good part of what we think of as 'ageing' is detraining and an adaptation to inactivity - so, totally avoidable! 
 
 
 ![alt text](Ivana-bio-blue.jpg) 
 
-Over the years, I've specialised in working with people stuck in a loop between physiotherapy and the gym, people who don't seem to 'bounce back' after pregnancy and childbirth, people with mysterious 'women's health issues', people with recurring back pain and those who feel that their bodies don't respond well to conventional approaches to exercise.
+Over the years, I've specialised in working with people with complex training needs, who struggle to break out of the pain and re-injury cycle and get stronger.
 
 I was there once (or twice) myself. First time, as a desk-bound young professional in my 20s with chronic lower back pain and a half of my left foot completely numb. Second time, as a mum of two in my mid-30s with a weak, disconnected belly 2 clothing sizes up compared to the rest of my body, sneeze pee and my lower back in spasm every time I would open a heavy door.
 
-Being on the autistic spectrum, my way of dealing with problems is to throw a lot of learning at them. To dig and dig deep.
+I value evidence-based solutions and precise, focused training where everything has its ‘why’. My coaching style is grounded in empathy and non-violence – challenging the body with kindness.
 
-So, on the way to get my body stronger and break out of the weakness and re-injury cycle, I learnt from many exceptional physiotherapists, sports, exercise, movement and bodywork professionals, completed over 1200 hours of training in yoga therapy, Pilates, corrective exercise and massage and eventually did a master's in sports science - biomechanics - digging into loads and forces behind movements and mechanisms of injuries.
+### The rePower Method
 
-### My Approach
+I developed the rePower method through 13 years of my professional and personal journey with the gloal to seemlesly connect rehabilitation and strength and conditioning training.
 
-I developed the Core rePower method through 12+ years of my professional and personal journey, integrating everything I learnt into a unique approach.
+Each rePower journey includes five stages:
 
-Many people who would come to see me had found themselves bouncing back and forth between physiotherapy and the gym – getting the all-clear from the physio and going back to training just to get injured and back to physiotherapy, again and again. This is why I developed an approach that seemlesly connects rehabilitation and strength and conditioning training.
-
-Each Core rePower journey includes five stages:
-
-1. *RELEASE* - releasing muscle tension, relieving pain
-2. *RECONNECT* - reconnecting muscles to the brain, restoring reflexes
+1. *RELEASE* - learning to manage pain flare-ups
+2. *RECONNECT* - restoring breath-core connection, learning new motor skills
 3. *REBUILD* - building muscle, learning to manage pressure and stabilise joints in dynamic workouts
 4. *REPOWER* - progressive overload, increasing pressure tolerance
-5. *REINFORCE* - injury-proofing the core,  training in vulnerable positions.
+5. *REINFORCE* - injury-proofing the core, training in vulnerable positions.
 
 ### Why Movement Kitchen?
 
@@ -48,6 +44,7 @@ I value evidence-based solutions and precise, focused training where everything 
 
 ### Professional Qualifications and Training
 
+- A-Z of Program Design Strength Training - Online workshop with FitPro CIMSPA, November 2024
 - Pelvic Floor Dysfunction - The Missing Link in Persistent Lower Back Pain? - Online Workshop with Carolyn Vandyken, Embodia Academy, April 2023
 - Hormones Matter: Considerations for Treating Women with Musculoskeletal Problems - Online Workshop with Susan Clinton and Carolyn Vandyken, Embodia Academy, April 2023
 - Intraabdominal Pressure and Strength Training - Online Workshop with Antony Lo, Embodia Academy, March 2023
