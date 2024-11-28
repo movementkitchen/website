@@ -15,34 +15,24 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers women's health focused 1:1 and small group coaching to help you break out of the physio-gym loop and get stronger for good. Lower-back and pelvic-floor-friendly workouts, always.  
+Movement Kitchen offers women's health focused 1:1 and small group coaching to help you break out of the physio-gym loop and get stronger for good. Lower-back and pelvic-floor-friendly approach to fitness.  
 ### Conventional exercise doesn't work for everyone. 
 
 Some people's bellies don't respond well to sit-ups, straight leg lifts, yoga boats or Pilates hundreds. Some people throw their back out every time they go to the gym. Some people need to remember to wear a pad before going to any exercise class that includes skipping or jumping. 
 
 No, you are not broken. You just need a smarter, more effective way to exercise, *tailored to you and your very body*.
 
-### Maybe you:  
-
-- Used to love exercise, but aren't sure what is safe for you to do and the idea of being in pain again frightens you
-- Feel that your body has never fully gone back to normal after babies or maybe some postpartum symptoms like leaking or heaviness down below started creeping back, years after your pregnancies
-- Have a weak, protruding lower belly - You sometimes need to wear a larger-size top to fit over your belly
-- Your lower back aches after exercise, carrying a heavy grocery bag up the stairs or lifting your kids out of the bath
-- You keep trying different exercise classes or going to the gym but aren't sure if exercise is helping or making your symptoms worse.
-
-### You want to: 
+Wherever you are, we will work together to create an action plan with weekly milestones to help you get stronger, so you can  
 
 - Carry your little one on your shoulders without worrying about your back
-- Wear a crop top when when you feel like it or rock a swimming suit on the beach this summer without having to self-consciously suck your belly in at all times
-- Take up any fun and challenging exercise class without the fear of being re-injured
-- Go back to lifting weights, running or jumping on a trampoline without leaking
-- Return to competitive or recreational sports
-
-Wherever you are, we will work together to create an action plan with weekly milestones to help you reach your health and fitness goals. 
+- Exercise at the gym or take up any fun and challenging class without the fear of being in pain afterwards
+- Go back to lifting weights, running or jumping on a trampoline
+- Return to competitive or recreational sports 
+- Wear a crop top when when you feel like it or rock a swimming suit on the beach without having to self-consciously suck your belly in at all times.
 
 Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity. 
 
-<a class="big" href="https://forms.gle/gXf6eC5YxSEP4bJt7">Coaching Waiting List</a>  
+<a class="big" href="https://forms.gle/FWP4U5y2kVyRzFYFA">Coaching Waiting List</a>  
 
 ### Featured Videos
 
@@ -54,15 +44,19 @@ Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their ge
 </div>
 
 <div class="vertical-video-container">
+  <iframe src="https://www.instagram.com/p/DBsvNxmIsTa/" title="Back Pain After Boxing - A Case Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="vertical-video-container">
   <iframe src="https://www.youtube-nocookie.com/embed/DUDWQaMhrw0" title="How to Protect Your Lower Back When Bending Forward" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="vertical-video-container">
-  <iframe src="https://www.youtube-nocookie.com/embed/5FBw6h2VsXY" title="Do Crunches Hurt Your Lower Back? Try These Instead" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/shorts/G4R8uDcPvzM" title="Belly Not Toning With Abdominal Exercises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="vertical-video-container">
-  <iframe src="https://www.youtube-nocookie.com/embed/WbuUc79CAyw" title="1 Weight - Whole-Body🔥 (pelvic-health-friendly workout)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/shorts/xbXV5f0hn1E" title="Lower Belly Feeling Disconnected?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="vertical-video-container">
