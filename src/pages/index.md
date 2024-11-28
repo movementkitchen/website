@@ -25,10 +25,10 @@ No, you are not broken. You just need a smarter, more effective way to exercise,
 Wherever you are, we will work together to create an action plan with weekly milestones to help you get stronger, so you can  
 
 - Carry your little one on your shoulders without worrying about your back
-- Exercise at the gym or take up any fun and challenging class without the fear of being in pain afterwards
+- Wear a crop top when when you feel like it or rock a swimming suit on the beach without having to self-consciously suck your belly in at all times.  
+- Take up any fun and challenging class without the fear of being in pain afterwards
 - Go back to lifting weights, running or jumping on a trampoline
-- Return to competitive or recreational sports 
-- Wear a crop top when when you feel like it or rock a swimming suit on the beach without having to self-consciously suck your belly in at all times.
+- Return to competitive or recreational sports.
 
 Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity. 
 
