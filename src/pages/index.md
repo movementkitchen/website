@@ -24,11 +24,10 @@ No, you are not broken. You just need a smarter, more effective way to exercise,
 
 Wherever you are, we will work together to create an action plan with weekly milestones to help you get stronger, so you can  
 
-- Carry your little one on your shoulders without worrying about your back
-- Wear a crop top when when you feel like it or rock a swimming suit on the beach without having to self-consciously suck your belly in at all times.  
-- Take up any fun and challenging class without the fear of being in pain afterwards
 - Go back to lifting weights, running or jumping on a trampoline
-- Return to competitive or recreational sports.
+- Return to competitive or recreational sports
+- Wear a crop top when when you feel like it or rock a swimming suit on the beach without having to self-consciously suck your belly in at all times.  
+- Take up any fun and challenging class without the fear of being in pain afterwards.
 
 Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity. 
 
@@ -40,11 +39,11 @@ Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their ge
 <!-- markdownlint-disable -->
 
 <div class="vertical-video-container">
-  <iframe src="https://www.youtube-nocookie.com/embed/e4IxFIb0Qy8" title="Lower Belly Doesn't Respond to Training - We Might Need to Reconnect it to The Brain First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/Rw-B9nljuzQ" title="Can I Lift Weights With History of Back Pain? #backpain #strengthen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="vertical-video-container">
-  <iframe src="https://www.instagram.com/p/DBsvNxmIsTa/" title="Back Pain After Boxing - A Case Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/UK9krjvdGSo" title="Is Your Core Working Effectively While You Train? #backpain #core" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="vertical-video-container">
@@ -52,11 +51,11 @@ Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their ge
 </div>
 
 <div class="vertical-video-container">
-  <iframe src="https://www.youtube.com/shorts/G4R8uDcPvzM" title="Belly Not Toning With Abdominal Exercises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/NLruM60WaLQ" title="Do you struggle with backache after exercise?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="vertical-video-container">
-  <iframe src="https://www.youtube.com/shorts/xbXV5f0hn1E" title="Lower Belly Feeling Disconnected?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/G4R8uDcPvzM" title="Breathing Into The Ball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="vertical-video-container">
