@@ -3,7 +3,7 @@ title: Home
 template: home
 testimonials:
 - url:
-  text: After 10 years of chronic pain, dizziness, headaches, bad mood, money waisted on different doctors, physicians, therapies, exercises… I tried it all… I can finally live my life like a normal person. This experience helped me reconnect with my body, be pain free, learn how to move freely and maintain my wellbeing. In just 2 weeks all my symptoms were gone and I was able to trust my body again and rebuild my strength.
+  text: After 10 years of chronic pain, dizziness, headaches, bad mood, money waisted on different doctors, therapies, exercises… I tried it all… I can finally live my life like a normal person. This experience helped me reconnect with my body, be pain free, learn how to move freely and maintain my wellbeing. In just 2 weeks all my symptoms were gone and I was able to trust my body again and rebuild my strength.
   name: Maja 
   avatar: /images/isabelle.jpeg
 - url: 
