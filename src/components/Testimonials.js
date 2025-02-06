@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'react-emotion';
 
 import { MIN_TABLET_MEDIA_QUERY } from 'typography-breakpoint-constants';
-import { rhythm } from '../utils/typography';
+import { options as typographyOptions, rhythm } from '../utils/typography';
 
 const TestimonialsList = styled.ul`
   list-style-type: none;
@@ -28,24 +28,24 @@ const TestimonialAvatar = styled.img`
   display: block;
 `;
 
-const TestimonialName = styled.h4`
-  text-align: center;
+const TestimonialName = styled.p`
+  color: ${typographyOptions.brandColorPrimaryGreen}
 `;
 
 export default class Testimonials extends React.Component {
   render() {
     return (
       <div>
-        <h3>Testimonials</h3>
+        <h3>What my clients say</h3>
         <TestimonialsList>
           {this.props.testimonials.map((testimonial) => (
             <Testimonial key={testimonial.url}>
-              <TestimonialAvatar src={testimonial.avatar} />
-              <TestimonialName>{testimonial.name}</TestimonialName>
+              {/* <TestimonialAvatar src={testimonial.avatar} /> */}
               <p>{testimonial.text}</p>
-              <a href={testimonial.url} target="_blank">
+              <TestimonialName>By {testimonial.name}</TestimonialName>
+              {/* <a href={testimonial.url} target="_blank" rel="noreferrer">
                 Read full testimonial
-              </a>
+              </a> */}
             </Testimonial>
           ))}
         </TestimonialsList>
