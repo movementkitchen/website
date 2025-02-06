@@ -2,19 +2,19 @@
 title: About
 ---
 
-Hi there! I'm Ivana, a sports biomechanics scientist and holistic strength coach with 13 years of experience working in health and fitness. I am passionate about women's athletic and biological performance - read: how to make our bodies function at their best through different stages of our lives. I love researching, writing and geeking out about healthy backs, pelvises, bellies and pressure inside them.   
+Hi there! I'm Ivana, a sports biomechanics scientist and holistic strength coach with 13 years of experience working in health and fitness. I am passionate about women's athletic and biological performance - read: how to make our bodies function at their best through different stages of our lives. I love researching, writing and geeking out about healthy backs, pelvises, bellies and pressure inside them.
 
-Another half of my passion is longevity. I published research on [elite master endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/) who practically slowed down ageing with high levels of training. Yes, a good part of what we think of as 'ageing' is detraining and an adaptation to inactivity - so, totally avoidable! 
-
-![alt text](Ivana-bio-blue.jpg) 
+Another half of my passion is longevity. I published research on [elite master endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/) who practically slowed down ageing with high levels of training. Yes, a good part of what we think of as 'ageing' is detraining and an adaptation to inactivity - so, totally avoidable!
 
 I value evidence-based solutions and precise, focused training where everything has its ‘why’. My coaching style is grounded in empathy and non-violence – challenging the body with kindness.
+
+![Portrait of Ivana](Ivana-bio-blue.jpg)
 
 ### I never though I would be the strongest and fittest in my life at the age of 45!
 
 The rePower Method developed over the 13 years of my personal struggle with lower back pain and a difficult postpartum recovery.
 
-Solving a puzzle of my pain and the weak, unresponsive belly, I spent years learning everything I could across the fields of movement, physiotherapy, sports and exercise science, and women's health. I was lucky to learn from and coach many incredible people along the way. I got fascinated with biological and athletic performance, which brought me to my second master's degree, in sports and exercise biomechanics. 
+Solving a puzzle of my pain and the weak, unresponsive belly, I spent years learning everything I could across the fields of movement, physiotherapy, sports and exercise science, and women's health. I was lucky to learn from and coach many incredible people along the way. I got fascinated with biological and athletic performance, which brought me to my second master's degree, in sports and exercise biomechanics.
 
 Eventually, my approach crystallised into my signature method rePower, seamlessly connecting physiotherapy with strength & conditioning training.
 
@@ -48,7 +48,7 @@ I see kitchen as a nurturing environment, a space for creating, playing and expe
 - 'Go-To' Physio Clinical Reasoning Challenge - Online Workshop with Dave O’Sullivan, The ProSport Academy, January 2023
 - Pelvis Pro Miniseries - Online Workshop with Sarah Ellis Duvall, Core Exercise Solutions, November 2022
 - Move Your DNA + Fundamentals of Natural Movement Immersion with Katy Bowman,
-  Cambridge, UK, - 8 Hours, Aug 2019 
+  Cambridge, UK, - 8 Hours, Aug 2019
 - Boomerang Pilates, MoveSMART Weekend Immersion with Alison Crouch, London, UK - 12 Hours, 7-8 June 2019
 - Womb Care Massage Course with Barbara Loomis, 8-Module Online Course - April - June 2019
 - Pilates for Modern Bodies - Fundamentals of Flexion - 6-Week Online Course with Alison Crouch, London, UK, March - Apr 2019
