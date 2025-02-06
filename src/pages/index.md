@@ -2,24 +2,27 @@
 title: Home
 template: home
 testimonials:
-- url: https://goo.gl/maps/bpiLkt6YPvfWMVnH9
-  text: After five sessions with Ivana I am moving better and breathing better. I feel better! I can feel my body's limits and its tensions. This means when I take a yoga or pilates class I know how to avoid pushing my body too far towards injury and strain. I have a deeper understanding of and respect for my body.
-  name: Isabelle de Grave 
+- url:
+  text: After 10 years of chronic pain, dizziness, headaches, bad mood, money waisted on different doctors, physicians, therapies, exercises… I tried it all… I can finally live my life like a normal person. This experience helped me reconnect with my body, be pain free, learn how to move freely and maintain my wellbeing. In just 2 weeks all my symptoms were gone and I was able to trust my body again and rebuild my strength.
+  name: Maja 
   avatar: /images/isabelle.jpeg
-- url: https://goo.gl/maps/qxn1Br6ySvTWnmCQA
-  text: Ivana has been so helpful in the process of regaining strength in the muscles my brain had forgotten and abandoned through years of habitual movements, and releasing those which were overworked. I am now much more aware of my body, the position and movement of my pelvis, and how much difference a small adjustment can make to how I feel. 
-  name: Annika McSeveny
+- url: 
+  text: Ivana has been a beam of hope for me. I was really considering surgery. I'm so glad that I found her because through her coaching I have learnt so much about the feet and their connections through the legs and pelvic floor. Everything aligns. I've noticed such an improvement that I don't have to buy tops which are a size bigger to fit my belly. I also feel stronger and reconnected to my core, now I know how it works and my awareness is better.
+  name: Shikira
   avatar: /images/annika.jpg
-- url: https://goo.gl/maps/DLPoxjGhD2qiwhneA
-  text: Through challenging but accessible and well explained exercises I was able to understand different mechanics and healing in a new way. As much as a physical practice our time together was also incredibly educational and I have multiple take-aways I can apply in my life as I move forward. 
-  name: Solene Fabios
+- url: 
+  text: I started working with Ivana after seeing the amazing progress my husband has being experiencing with her. I initially sought help for my back pain, and I have been consistently impressed with the results over the past few months. Not only has my back pain improved, but I've also noticed a significant increase in my overall well-being.
+
+  name: Monica
   avatar: /images/Solene.jpg
 ---
 Movement Kitchen helps women 40+ with history of back pain reach their athletic goals with science-backed, body-wise training. Our 1:1 and small group coaching programs blend cutting-edge biomechanics with 13 years of women's health expertise.
 
-Remember when you could bounce back from any workout? As our bodies evolve, the fitness strategies that worked in our 20s and 30s often need an upgrade. At Movement Kitchen, we understand that staying active while managing a demanding career and navigating the hormonal shifts of perimenopause, requires a smart, personalised training that works with your body, not against it. This is especially important, if you have a recurring injury, pain or a weakness. We need to build solid foundations and progress sustainably.
+### Remember when you could bounce back from any workout? 
 
-Wherever you are, we will work together to create an action plan with weekly milestones to help you reach your athletic goals.
+In our 40s and beyond, the fitness strategies that worked in our 20s and 30s often need an upgrade. At Movement Kitchen, we understand that staying active and pushing your physical boundaries while managing a demanding career and navigating the hormonal shifts of perimenopause, requires smart, personalised training. This is especially important, if you have a recurring injury, pain or a weakness. We need to build solid foundations and progress your training sustainably, working with your body, not against it.
+
+Using the rePower Method, we will work together to meet you where you are, and build up from managing back pain to getting in the best shape of your life and moving like an athlete, for the decades ahead.
 
 Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity. 
 
