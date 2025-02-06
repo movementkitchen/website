@@ -15,19 +15,11 @@ testimonials:
   name: Solene Fabios
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen offers women's health focused 1:1 and small group coaching to help you break out of the physio-gym loop and get stronger for good. Lower-back and pelvic-floor-friendly approach to fitness.  
-### Conventional exercise doesn't work for everyone. 
+Movement Kitchen helps women 40+ with history of back pain reach their athletic goals with science-backed, body-wise training. Our 1:1 and small group coaching programs blend cutting-edge biomechanics with 13 years of women's health expertise.
 
-Some people's bellies don't respond well to sit-ups, straight leg lifts, yoga boats or Pilates hundreds. Some people throw their back out every time they go to the gym. Some people need to remember to wear a pad before going to any exercise class that includes skipping or jumping. 
+Remember when you could bounce back from any workout? As our bodies evolve, the fitness strategies that worked in our 20s and 30s often need an upgrade. At Movement Kitchen, we understand that staying active while managing a demanding career and navigating the hormonal shifts of perimenopause, requires a smart, personalised training that works with your body, not against it. This is especially important, if you have a recurring injury, pain or a weakness. We need to build solid foundations and progress sustainably.
 
-No, you are not broken. You just need a smarter, more effective way to exercise, *tailored to you and your very body*.
-
-Wherever you are, we will work together to create an action plan with weekly milestones to help you get stronger, so you can  
-
-- Go back to lifting weights, running or jumping on a trampoline
-- Return to competitive or recreational sports
-- Wear a crop top when when you feel like it or rock a swimming suit on the beach without having to self-consciously suck your belly in at all times.  
-- Take up any fun and challenging class without the fear of being in pain afterwards.
+Wherever you are, we will work together to create an action plan with weekly milestones to help you reach your athletic goals.
 
 Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity. 
 

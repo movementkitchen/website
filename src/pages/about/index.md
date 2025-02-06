@@ -2,36 +2,31 @@
 title: About
 ---
 
-Hi there! I'm Ivana, a sports biomechanics scientist and coach with 13 years of experience working with movement. I am passionate about women's health and biological performance - read: how to make our bodies function at their best through different stages of our lives. I love researching, writing and geeking out about healthy pelvises, bellies and pressure inside them.   
+Hi there! I'm Ivana, a sports biomechanics scientist and holistic strength coach with 13 years of experience working in health and fitness. I am passionate about women's athletic and biological performance - read: how to make our bodies function at their best through different stages of our lives. I love researching, writing and geeking out about healthy backs, pelvises, bellies and pressure inside them.   
 
 Another half of my passion is longevity. I published research on [elite master endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/) who practically slowed down ageing with high levels of training. Yes, a good part of what we think of as 'ageing' is detraining and an adaptation to inactivity - so, totally avoidable! 
 
-
 ![alt text](Ivana-bio-blue.jpg) 
-
-Over the years, I've specialised in working with people with complex training needs, who struggle to break out of the pain and re-injury cycle and get stronger.
-
-I was there once (or twice) myself. First time, as a desk-bound young professional in my 20s with chronic lower back pain and a half of my left foot completely numb. Second time, as a mum of two in my mid-30s with a weak, disconnected belly 2 clothing sizes up compared to the rest of my body, sneeze pee and my lower back in spasm every time I would open a heavy door.
 
 I value evidence-based solutions and precise, focused training where everything has its ‘why’. My coaching style is grounded in empathy and non-violence – challenging the body with kindness.
 
-### The rePower Method
+### I never though I would be the strongest and fittest in my life at the age of 45!
 
-I developed the rePower method through 13 years of my professional and personal journey with the goal to seemlessly connect rehabilitation and strength and conditioning training.
+The rePower Method developed over the 13 years of my personal struggle with lower back pain and a difficult postpartum recovery.
 
-Each rePower journey includes five stages:
+Solving a puzzle of my pain and the weak, unresponsive belly, I spent years learning everything I could across the fields of movement, physiotherapy, sports and exercise science, and women's health. I was lucky to learn from and coach many incredible people along the way. I got fascinated with biological and athletic performance, which brought me to my second master's degree, in sports and exercise biomechanics. 
 
-1. *RELEASE* - addressing symptoms, managing pain flare-ups
-2. *RECONNECT* - restoring breath-core connection, motor learning in static exercises
-3. *REBUILD* - building muscle, translating motor learning to dynamic workouts
-4. *REPOWER* - progressive overload, increasing intra-abdominal pressure tolerance
-5. *REINFORCE* - injury-proofing the core, training in vulnerable positions.
+Eventually, my approach crystallised into my signature method rePower, seamlessly connecting physiotherapy with strength & conditioning training.
+
+Each rePower journey includes three stages:
+
+1. *RESTORE* - managing pain flare-ups, building core stability foundations
+2. *REBUILD* - increasing muscle mass, core stability in dynamic workouts with added weights/resistance, progressive overload
+3. *REINFORCE* - performance-based, sport-specific training, pushing your boundaries, injury-proofing the body
 
 ### Why Movement Kitchen?
 
 I see kitchen as a nurturing environment, a space for creating, playing and experimenting. My studio really is a kitchen – with large mirrors, a climbing frame and a variety of exercise props. I aim to recreate the safe and nourishing atmosphere of the kitchen in my sessions too, offering a supportive space for you to get to know your body and get stronger on your own terms.
-
-I value evidence-based solutions and precise, focused training where everything has its 'why', but my coaching style is grounded in empathy and non-violence – challenging the body with kindness. 
 
 ### My Qualifications
 
