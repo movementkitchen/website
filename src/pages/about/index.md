@@ -2,23 +2,25 @@
 title: About
 ---
 
-Hi there! I'm Ivana, a sports biomechanics scientist and holistic strength coach with 13 years of experience working in health and fitness. I am passionate about women's athletic and biological performance - read: how to make our bodies function at their best through different stages of our lives. I love researching, writing and geeking out about healthy backs, pelvises, bellies and pressure inside them.
-
-Another half of my passion is longevity. I published research on [elite master endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/) who practically slowed down ageing with high levels of training. Yes, a good part of what we think of as 'ageing' is detraining and an adaptation to inactivity - so, totally avoidable!
+Hi there! I'm Ivana, a sports biomechanics scientist and holistic strength coach with 13 years of experience working in health and fitness. I am passionate about women's athletic and biological performance - read: how to make our bodies function at their best through different stages of our lives. Another half of my passion is longevity. I published research on [elite master endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/) who practically slowed down ageing with high levels of training.
 
 I value evidence-based solutions and precise, focused training where everything has its ‘why’. My coaching style is grounded in empathy and non-violence – challenging the body with kindness.
 
-![Portrait of Ivana](Ivana-bio-blue.jpg)
+![Portrait of Ivana](Ivana-bio-blue.jpg) 
 
-### I never though I would be the strongest and fittest in my life at the age of 45!
+### My Story
 
-The rePower Method developed over the 13 years of my personal struggle with lower back pain and a difficult postpartum recovery.
+I had never thought I could be the strongest in my life and the most confident in my body at the age of 45, as a mum of two.
 
-Solving a puzzle of my pain and the weak, unresponsive belly, I spent years learning everything I could across the fields of movement, physiotherapy, sports and exercise science, and women's health. I was lucky to learn from and coach many incredible people along the way. I got fascinated with biological and athletic performance, which brought me to my second master's degree, in sports and exercise biomechanics.
+In my late 20s, as an overworked young corporate lawyer, I often had back pain flare-ups. I used to go to an osteopath every couple of weeks. Then in my mid-30s, after two close-up pregnancies and a difficult postpartum recovery, I ended up with a severe abdominal separation on top. More than a year after my second child was born, I still looked 6 months pregnant. I literally had to buy 2 sizes larger clothes to fit over my belly! And I couldn't open a heavy door or lift my children out of the bath without my back screaming at me.
 
-Eventually, my approach crystallised into my signature method rePower, seamlessly connecting physiotherapy with strength & conditioning training.
+I'm neurodivergent and I love learning and understanding how things work. So, when I have a problem, I throw a lot of learning at it 🤓
 
-Each rePower journey includes three stages:
+Solving a puzzle of my back pain and the weak, unresponsive belly, I spent over 13 yrs learning everything I could across the fields of movement, physiotherapy, sports and exercise science, and women's health. I was lucky to learn from and coach many incredible people along the way. I got fascinated with biological and athletic performance, which brought me to my second master's degree, in sports and exercise biomechanics.
+
+Over the years, my approach crystallised into my signature method rePower, seamlessly connecting physiotherapy with strength & conditioning training.
+
+### Each rePower journey includes three stages:
 
 1. *RESTORE* - managing pain flare-ups, building core stability foundations
 2. *REBUILD* - increasing muscle mass, core stability in dynamic workouts with added weights/resistance, progressive overload
