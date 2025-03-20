@@ -1,10 +1,9 @@
 ---
 title: About
 ---
+Hi there! I'm Ivana, I'm a biomechanics scientist MSc and coach with 13 years of experience working in health and fitness. I am passionate about women's health and performance (both athletic and biological) and longevity. I specialise in helping women 40+ with history of back pain move from managing symptoms to pushing their boundaries. I have also published research on [elite master endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/) who practically slowed down ageing with high levels of training.
 
-Hi there! I'm Ivana, a sports biomechanics scientist and holistic strength coach with 13 years of experience working in health and fitness. I am passionate about women's athletic and biological performance - read: how to make our bodies function at their best through different stages of our lives. Another half of my passion is longevity. I published research on [elite master endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/) who practically slowed down ageing with high levels of training.
-
-I value evidence-based solutions and precise, focused training where everything has its ‘why’. My coaching style is grounded in empathy and non-violence – challenging the body with kindness.
+I value evidence-based solutions and precise, focused training where everything has its ‘why’. My coaching style is grounded in empathy and non-violence – challenging the body with kindness. 
 
 ![Portrait of Ivana](Ivana-bio-blue.jpg) 
 
@@ -12,7 +11,7 @@ I value evidence-based solutions and precise, focused training where everything 
 
 I had never thought I could be the strongest in my life and the most confident in my body at the age of 45, as a mum of two.
 
-In my late 20s, as an overworked young corporate lawyer, I often had back pain flare-ups. I used to go to an osteopath every couple of weeks. Then in my mid-30s, after two close-up pregnancies and a difficult postpartum recovery, I ended up with a severe abdominal separation on top. More than a year after my second child was born, I still looked 6 months pregnant. I literally had to buy 2 sizes larger clothes to fit over my belly! And I couldn't open a heavy door or lift my children out of the bath without my back screaming at me.
+I started suffering with back pain in my late 20s, as an overworked young corporate lawyer. I used to go to an osteopath every couple of weeks. Then in my mid-30s, after two close-up pregnancies and a difficult postpartum recovery, I ended up with a severe abdominal separation on top. More than a year after my second child was born, I still looked 6 months pregnant. I literally had to buy 2 sizes larger clothes to fit over my belly! And I couldn't open a heavy door or lift my children out of the bath without my back screaming at me.
 
 I'm neurodivergent and I love learning and understanding how things work. So, when I have a problem, I throw a lot of learning at it 🤓
 
