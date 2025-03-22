@@ -11,7 +11,7 @@ const FormRow = styled.div`
 `;
 
 const LabelContainer = styled.div`
-  min-width: 150px; /* Width for all labels based on widest label */
+  min-width: 10rem;
   display: flex;
   align-items: center;
 `;
