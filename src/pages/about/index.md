@@ -1,11 +1,7 @@
 ---
 title: About
+template: about
 ---
-Hi there! I'm Ivana, I'm a biomechanics scientist MSc and coach with 13 years of experience working in health and fitness. I am passionate about women's health and performance (both athletic and biological) and longevity. I specialise in helping women 40+ with history of back pain move from managing symptoms to pushing their boundaries. I have also published research on [elite master endurance runners](https://commons.nmu.edu/isbs/vol40/iss1/36/) who practically slowed down ageing with high levels of training.
-
-I value evidence-based solutions and precise, focused training where everything has its ‘why’. My coaching style is grounded in empathy and non-violence – challenging the body with kindness. 
-
-![Portrait of Ivana](Ivana-bio-blue.jpg) 
 
 ### My Story
 

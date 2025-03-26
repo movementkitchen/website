@@ -4,7 +4,6 @@ import Link from 'gatsby-link';
 import get from 'lodash/get';
 import Helmet from 'react-helmet';
 
-import Bio from '../components/Bio';
 import Instagram from '../components/Instagram';
 import Testimonials from '../components/Testimonials';
 import Head from '../components/Head';
@@ -16,10 +15,7 @@ class Home extends React.Component {
     const pageTitle = get(this, 'props.data.markdownRemark.frontmatter.title');
     const pageContent = get(this, 'props.data.markdownRemark.html');
     // const posts = get(this, 'props.data.allPostsJson').edges.map((e) => e.node);
-    const testimonials = get(
-      this,
-      'props.data.markdownRemark.frontmatter.testimonials'
-    );
+    const testimonials = get(this, 'props.data.markdownRemark.frontmatter.testimonials');
 
     return (
       <div
@@ -32,7 +28,6 @@ class Home extends React.Component {
         {/* <Helmet title={`${siteTitle} – ${pageTitle}`} /> */}
         <Head />
         <div dangerouslySetInnerHTML={{ __html: pageContent }} />
-        {/* <Bio /> */}
         {/* <Instagram posts={posts} /> */}
         <h3>Where to find us</h3>
         <iframe
