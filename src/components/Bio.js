@@ -15,11 +15,11 @@ class Bio extends React.Component {
     return (
       <p>
         <ProfileImage src={profilePic} alt={`Ivana Miletic Demmel`} />
-        Hi there! I'm Ivana, I'm a biomechanics scientist MSc and coach with 13 years of experience
-        working in health and fitness. I am passionate about women's health and performance (both
-        athletic and biological) and longevity. I specialise in helping women 40+ with history of
-        back pain move from managing symptoms to pushing their boundaries. I have also published
-        research on{' '}
+        Hi there! I'm Ivana, I'm a biomechanics scientist MSc and coach with{' '}
+        {new Date().getFullYear() - 2012} years of experience working in health and fitness. I am
+        passionate about women's health and performance (both athletic and biological) and
+        longevity. I specialise in helping women 40+ with history of back pain move from managing
+        symptoms to pushing their boundaries. I have also published research on{' '}
         <a href="https://commons.nmu.edu/isbs/vol40/iss1/36/" target="_blank" rel="noreferrer">
           elite master endurance runners
         </a>{' '}

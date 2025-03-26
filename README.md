@@ -4,8 +4,9 @@ This is the website for Movement Kitchen.
 
 ## Running in development
 
-`npm run dev`
+Needs Docker, Gatsby 1 is very old now so running locally is tricky.
 
-## Scrape
-
-`npm run insta`
+```sh
+make build
+make dev
+```
