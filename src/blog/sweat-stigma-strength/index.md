@@ -4,10 +4,10 @@ subTitle: "An Untold Story of Women's Athletic Revolution"
 date: "2024-07-01T10:58:18.786Z"
 path: "/sweat-stigma-strength/"
 tags: ["Feminism", "Womens Health", "Women in Sport", "Women's Fitness"]
-featuredImage: fanny-blankers-koen1.jpeg
+featuredImage: fanny_blankers-koen.jpg
 ---
 
-![Fanny Blankers Koen running](fanny-blankers-koen1.jpeg)
+![Fanny Blankers Koen running](fanny_blankers-koen.jpg)
 
 Recently, I spent some time digging into the beginnings of women’s participation in sport and physical activity. Turns out it’s not a very long history indeed. The first sports event that recorded female participation was the Paris Summer Olympics in 1900. Amongst nearly 1000 of the participants, there were also 22 women.
 
