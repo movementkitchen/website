@@ -38,7 +38,7 @@ But lung capacity can increase with physical activity. For example, US swimmer M
 
 ![Michael Phelps swimming](Michael_Phelps.jpg)
 <small> Photo by Fernando Frazão/Agência Brasil 
-Copyright: EBC-EMPRESA BRASIL DE COMUNICAÇÃO/Agência Brasil </small>
+Copyright: EBC-EMPRESA BRASIL DE COMUNICAÇÃO/Agência Brasil Licença Creative Commons Atribuição 3.0 Brasil </small>
 
 Many popular (ancient and contemporary) breath-training techniques include strict breath-counting. But then how do you adjust the count for a short man who spends summer by the sea and winters in the mountains, or for a tall, non-binary swimmer from the Netherlands (below the sea level)? Can there ever be one size fits all?
 
