@@ -35,14 +35,12 @@ Luckily, the strain was mild and went away after a couple of days.
 
 A couple of years ago, one of the troupes of Cirque du Soleil had a problem with a high rate of injuries among their performers. At most times, a quarter of their acrobats were injured and unable to perform. All of the injured performers had roles that included a lot of jumping and the typical injuries were tendon insertion injuries - where the Achilles tendon inserts into the heel bone. 
 
-![Alt text](anurai.jpg)
-
 They hired a biomechanist to investigate. And it turns out, the rate of injuries skyrocketed after a recent stage redesign. The stage surface was soft and bouncy but held by thick concrete beams which you couldn’t see from above. So, the surface would either be very bouncy or not bouncy at all and there was no way for the performer to tell the difference. 
 
 As they were jumping, the artists pre-activated the muscles of their calves, quads and hamstrings expecting to land on the springy floor. And occasionally, hit the thick beam instead. Ouch! Or the other way around. It would be equally bad to expect a hard surface and land on a soft one. 
 
 ![Alt text](the-stage.png)  
-The image above shows the stage surface - from Tilp, M. (2019). New paradigms in running injury prevention - Benno M. Nigg on target. Current Issues in Sport Science (CISS). 10.15203/CISS_2019.100.
+<small> The image shows the stage surface - from Tilp, M. (2019). New paradigms in running injury prevention - Benno M. Nigg on target. Current Issues in Sport Science (CISS). 10.15203/CISS_2019.100. </small>
 
 The biomechanist team suggested replacing the beam structure with a bit harder surface of uniform stiffness and the injury rate quickly returned to normal – 2-3% (Tilp, 2019).
 
