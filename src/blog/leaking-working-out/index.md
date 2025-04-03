@@ -4,10 +4,10 @@ subTitle: ""
 date: "2023-06-28T23:59:03.714Z"
 path: "/leaking-working-out/"
 tags: ["Diastasis Recti", "Intraabdominal Pressure", "Back Pain", "Prolapse", "Core Rehab", ""]
-featuredImage: leaking.png
+featuredImage: image-from-rawpixel-id-5926642.jpg
 ---
 
-![Kite](leaking.png)
+![A woman exercising](image-from-rawpixel-id-5926642.jpg)
 
 Last week was World Continence Week so I thought I’d dedicate a post to leaking during workouts. 
 
@@ -19,7 +19,7 @@ Stress incontinence mostly affects women. I’ve recently read a shocking statis
 
 ### So, why does leaking happen?!
 
-![Alt text](trampoline.jpeg)
+![feet jumping on a trampoline](trampoline-pexels-photo-4964509.jpeg)
 
 Think of jumping on a trampoline. When the trampoline springs you up, you leap into the air and your body is the “lightest” just before you start moving back down. And your body is the “heaviest” at the moment when you land (5-12 times your bodyweight). And whooosh! A good part of that weight smashes down on your bladder and the pelvic floor (the muscles running from your pubis to the tailbone). 
 
@@ -33,20 +33,18 @@ We rely on 3 things to keep urine in at the trampoline:
 1. Toughness of the connective tissue across the bottom of your torso
 2. Sphincters (think: taps) of the bladder and urethra happily working together 
 3. Pelvic floor muscles’ strength, suppleness and coordination.  
-   
-![Alt text](tights.png)  
 
 If you imagine the *connective tissue* holding the organs in place as a pair of compressive tights, there is some flexibility but also some stiffness in their fabric. And with time they start to get stretched out a bit - more or less, depending on your age, genetics and what your body has gone through (pregnancy, vaginal childbirth, assisted delivery, repeated straining etc). 
+   
+![sheer tights](Sheer_Tights.jpg) <small> Photo by Tobias ToMar Maier 2022 </small>
 
 In roughly 10% of women who had a vaginal birth, the connective tissue might not be able to support the organs and they drop lower towards the vaginal opening or out through it. Some of the symptoms of the pelvic organ prolapse include a sensation of heaviness, bulging or the organs falling out. If you have any of these, it is important to ask your GP to refer you to a *pelvic health physio* who could prescribe a *pessary* to support the organs in place, so you can exercise without the symptoms of heaviness and leaking and gradually get stronger.  
 
-![Alt text](taps.jpg)  
+![Alt text](taps.webp)  
 
 The opening and closing of the *sphincters* depends on the health of the pelvic nerves, the internal muscles’ coordination and many other things that could be explored by a specialist *urologist or a urogynecologist*, again, your GP can refer you to one.
 
 In the context of exercise, we are concerned with the third mechanism - *the strong and supple pelvic floor muscles*. Your pelvic floor is build of striated muscles - the same as the biceps, triceps, glutes and any other muscles that contract to generate force. So we need to train them!  
-
-![Alt text](Biceps-Curl.jpeg)  
 
 ### Let’s Focus on the Muscles!
 
@@ -66,8 +64,6 @@ Sometimes, the pelvic floor muscles are indeed weak. This is most likely if you 
 
 If the weakness is severe, you need to work with a medical professional who might use electrical or vibratory stimulation to reconnect those muscles and help them learn how to contract again (some pelvic physios have leather chairs similar to those massage armchairs in shopping malls that train your pelvic floor as you sit and read a book). However, you also want to train the pelvic floor to respond reflexively in whole body movements - hopping, jumping, lunging, running, skipping. 
 
-![Alt text](rope.jpg)
-
 ### Overactive Muscles
 
 In many cases of leaking, the pelvic floor muscles are not weak but *fatigued of being ON all the time*. Imagine if your bicep was constantly contracted holding a dumbbell all day long. By the time you tried to drop the weight, your arm wouldn’t be possible to straighten any more – the bicep would shorten. Or even before it did, the muscle would tire out and you’d not be able to hold that dumbbell any more. 
@@ -77,7 +73,6 @@ We want the bicep to work at different lengths, with your arm extended fully, be
 How do you know if your pelvic floor is tight/overactive? You might have *pelvic cramping, pain with sex or struggle with starting the flow of urine*. You also might catch yourself clenching your abs, glutes or the pelvic floor during exercise or the activities of daily living. 
 
 If this is the case, *you need to learn how to relax the pelvic floor first and then train it*. A good place to start would could be a gentle abdominal and perineal self-massage or some breathing and relaxation exercises. 
-
 
 ### Coordination
 

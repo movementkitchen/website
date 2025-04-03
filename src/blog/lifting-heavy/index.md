@@ -4,10 +4,10 @@ subTitle: ""
 date: "2023-10-08T22:17:53.042Z"
 path: "/lifting-heavy/"
 tags: ["Diastasis Recti", "Intraabdominal Pressure", "Back Pain", "Prolapse", "Core Rehab", ""]
-featuredImage: lifting-weights.jpg
+featuredImage: Beautiful-fitness-woman-lifting-barbell-23000-pixahive.jpg
 ---
 
-![Kite](lifting-weights.jpg)
+![Kite](Beautiful-fitness-woman-lifting-barbell-23000-pixahive.jpg)
 
 Did you know that the same weight could feel heavier or lighter for your body depending on how you lift it?
 

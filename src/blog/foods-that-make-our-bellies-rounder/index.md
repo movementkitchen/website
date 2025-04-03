@@ -17,8 +17,6 @@ So I dug myself up into medical journals and recorded some videos with solutions
 
 ### Let's start with food and bloating. 
 
-![Fruits](fruit.jpg)
-
 If you think certain foods could be a cause of your bloating, it might be a good idea to write a *food diary* for a couple of days/weeks and see what makes your symptoms worse. 
 
 Do you use *artificial sweeteners*?

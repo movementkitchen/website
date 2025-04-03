@@ -4,10 +4,11 @@ subTitle: ""
 date: "2024-02-20T16:18:28.464Z"
 path: "/no-barbie-feet/"
 tags: ["foot health", "pelvic health", "biomechanics", "ankle power", "ageing"]
-featuredImage: mystery-blockic.jpg
+featuredImage: mystery-block.jpg
 ---
 
-![Super Mario](mystery-blockic.jpg)
+![Super Mario](mystery-block.jpg)
+<small> Photo by Jared Cherup </small>
 
 A good part of my job is about helping people discover the spots in their bodies that we need to strengthen in order to make the greatest difference in their symptoms or performance. I like to think of these as "mystery blocks" in Super Mario - the challenges overcoming which rewards you with a pile of gold coins or an extra life. And for most people, we find at least one "mystery block" in their feet.
 
@@ -19,7 +20,8 @@ The foot behaves like a spring and a shock absorber in walking and running. It p
 
 The foot is also a sensory organ offering input for the larger stabilising muscles across the torso to support the spine and the organs when and as much as needed. Strengthening the feet is the foundation of building a strong and responsive core.   
 
-![alt text](barbie-feet-instagram.webp)  
+![alt text](barbie-feet.jpg)
+<small> photo by [dollyhaul on Flickr](https://www.flickr.com/photos/tinker-tailor/) </small>
 
 ### About feet and pelvic floors  
 
@@ -29,7 +31,8 @@ So, make sure to add the this ankle position into your training as much as you c
 
 Similarly, outside of the exercise time (which is most of our day, to be fair) we need to add some ankle dorsiflexion - other than wearing high heels and heavily padded shoes that shape your feet like Barbie’s (sorry Barbie, nothing personal against you other than your footwear choices!)
 
-![alt text](barbie-not-barbie-feet.jpg)
+![alt text](Dorsiplantar.jpg)
+<small> Image by Connexions, OpenStax College. Anatomy & Physiology, Connexions Web site. http://cnx.org/content/col11496/1.6/, Jun 19, 2013. </small>
 
 ### The ageing ankles  
 

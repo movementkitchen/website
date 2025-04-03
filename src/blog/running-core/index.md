@@ -4,10 +4,10 @@ subTitle:
 date: "2024-01-15T18:22:47.661Z"
 path: "/running-core/"
 tags: ["Motor Control", "Brain", "Diastasis Recti", "Intraabdominal Pressure", "Back Pain", "Prolapse", "Core Rehab", ""]
-featuredImage: leg-strengthening-exercises-for-runners-2.jpg
+featuredImage: a-woman-running-in-the-woods.jpg
 ---
 
-![Kite](leg-strengthening-exercises-for-runners-2.jpg)
+![a woman running](a-woman-running-in-the-woods.jpg)
 
 If you are a runner, you might have heard that running on soft surfaces, like grass, or sand, helps prevent injuries. But interestingly, a different surface softness/hardness just means different tissues will bear the brunt of running. 
 

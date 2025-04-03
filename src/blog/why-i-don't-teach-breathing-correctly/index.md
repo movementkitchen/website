@@ -19,7 +19,7 @@ Breathing is a reflexive action, so, it’s in the domain of the autonomic nervo
 
 There is more than one correct way to breathe. Our bodies optimise breathing for how much oxygen you need for an activity – if you run, you will breathe deeper than when you are lying down and reading a book. Our breathing speeds up when we are excited or slows down just before falling asleep.   
 
-[<img src="basics-breathing-bmj.jpg">](https://www.youtube.com/watch?v=NM3PK5qy9uA) 
+[<img src="basics-breathing-bmj.jpg">](https://www.youtube.com/watch?v=NM3PK5qy9uA) <small> Click on the image to watch Basics of ventilation: Mechanics of breathing, video by BMJ Learning </small>
 
 > Can we override breathing patterns at will?
 
@@ -35,7 +35,9 @@ Now, an average lung volume of an adult male is around 6 litres, and around 4.8 
 
 But lung capacity can increase with physical activity. For example, US swimmer Michael Phelps has lung capacity of around 12 litres - double the average!
 
-![Alt text](Michael-Phelps-by-Mike-Lewis-4-1.jpg)  
+![Michael Phelps swimming](Michael_Phelps.jpg)
+<small> Photo by Fernando Frazão/Agência Brasil 
+Copyright: EBC-EMPRESA BRASIL DE COMUNICAÇÃO/Agência Brasil </small>
 
 Many popular (ancient and contemporary) breath-training techniques include strict breath-counting. But then how do you adjust the count for a short man who spends summer by the sea and winters in the mountains, or for a tall, non-binary swimmer from the Netherlands (below the sea level)? Can there ever be one size fits all?
 
@@ -46,6 +48,7 @@ Many popular (ancient and contemporary) breath-training techniques include stric
 Healthy breathing mechanics looks something like this. The chest cavity expands to get the breath in. Increasing the volume of the cavity drops the pressure inside it below the atmospheric pressure, so the air gets sucked into the lungs.
 
 ![Alt text](pressure-breathing.png)
+<small> Image from Anatomy & Physiology, Connexions Web site. http://cnx.org/content/col11496/1.6/, Jun 19, 2013. Author: OpenStax College </small>
 
 At inhalation, the diaphragm contracts and moves down, enlarging the chest cavity and pressing down on the viscera and the organs, so both the chest and the belly expand and the pelvic floor gently lowers. 
 
@@ -93,8 +96,7 @@ Improve the [rib mobility](https://www.youtube.com/shorts/p7HTVqoVUV8) - so we c
 Train the diaphragm and the deep abdominal muscles by [blowing a ballon or a punctured balloon](https://www.instagram.com/p/C0Py_kaog9k/) (for the beginning) – this is a great exercise to both coordinate and strengthen the deepest abs and the diaphragm and help the diaphragm restore its optimal position.
 
 ![Alt text](balloon-blowing.jpg)
-
-Hope you will find these useful. Let me know if you are tired of trying to figure it all out by yourself. We have [Core RePower Back Pain](https://www.instagram.com/p/C2mKJCwIlTM/) starting from 19 February. Send me a quick email with the word "rePower" to find out more.
+<small> Image from Boyle, K. L., Olinick, J., & Lewis, C. (2010). The value of blowing up a balloon. North American journal of sports physical therapy : NAJSPT, 5(3), 179–188., Copyright© Postural Restoration Institute TM </small>
 
 Until next time, 
 

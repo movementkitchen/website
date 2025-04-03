@@ -4,10 +4,10 @@ subTitle: ""
 date: "2023-11-24T15:17:57.457Z"
 path: "/coughing/"
 tags: ["intraabdominal pressure", "core rehab", "postpartum"]
-featuredImage: coughing.png
+featuredImage: freepic-coughing.webp
 ---
 
-![Kite](coughing.png)
+![Kite](freepic-coughing.webp)
 
 It's this time of the year again. The runny noses and coughs - coming and going. And sometimes staying for a while.
 
