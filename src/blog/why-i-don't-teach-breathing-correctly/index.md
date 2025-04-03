@@ -8,6 +8,7 @@ featuredImage: breathing.jpg
 ---
 
 ![breathing](breathing.jpg)
+<small> Image by [BMJ Learning](https://www.youtube.com/@bmjlearning) </small>
 
 The other day, a young woman explained in her initial consultation that she would want to learn how to breathe correctly. And this made me think. It’s been a while since I stopped trying to teach people the right way to breathe. This might sound strange. Now, let me explain.
 
