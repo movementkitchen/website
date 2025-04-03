@@ -55,7 +55,7 @@ So yes, pelvic health is not just about our private parts, but everything below 
 This is why the pelvic floor exercises (Kegels) might be useful in the short term, but if we want to keep those pelvises, hips, backs, knees and everything else strong and healthy, we need to address them all. "You got to catch 'em all!" as the old saying of the ancient Pokemon Go people goes 😄 Oh, there was a meme a couple of years ago, with a Pokemon Go player's neck - the most forward head position you have probably ever seen. Makes me want to do [this neck exercise](https://www.youtube.com/shorts/XKIrxEEJmg4) as I'm thinking about it. Try it, it feels delicious!
 
 ![alt text](pokemon_player.jpeg)  
-Illustration by [@pawel_kuczynski1](https://www.instagram.com/pawel_kuczynski1/)
+<small> Illustration by [@pawel_kuczynski1](https://www.instagram.com/pawel_kuczynski1/) </small>
 
 Did you know that the forward head position could affect your pelvic health too?
 
