@@ -18,6 +18,8 @@ It turns out, this stooped posture is in biomechanics literature called ‘prote
 
 Large muscles of the torso tense up to help the body escape, fight or curl up into a foetal position for defence. Once the danger is over, the muscles release and we go out of the protective posture. But if the sense of danger doesn’t fully go away, the muscles stay contracted on and on, until they can’t let go anymore. They become rigid and shorten in response to sustained stress. The prolonged tension becomes pain.
 
+### Pain doesn't necessarily mean disc damage
+
 Did you know that chronic back pain is most likely to be muscular (also called non-specific back pain), without damage to the spinal discs? In fact, spinal degeneration often occurs without symptoms.
 
 For example, in 1997, a team of German scientists travelled to Sierra Leone to study necks of people who carry heavy loads on their heads and matched controls. It turns out people can have severe spinal disk degeneration without pain [(Jäger, 1997)](https://link.springer.com/article/10.1007/s002560050269). A more recent literature review from 2015 looked at data of over three thousand asymptomatic people of different ages. Many of them had some level of spine degeneration without even knowing, especially as people got older, but they were just fine, no pain [(Brinjikji, 2015)](https://doi.org/10.3174/ajnr.A4173).
