@@ -24,11 +24,10 @@ module.exports = {
         label: 'Coaching',
         hero: '/images/walking_on_a_branch.jpg',
       },
-      // {
-      //   uri: '/courses-workshops/',
-      //   label: 'Workshops',
-      //   hero: '/images/beach_ride.jpg',
-      // },
+      {
+        uri: 'https://courses.movementkitchen.co.uk',
+        label: 'Courses',
+      },
       // {
       //   uri: '/resources/',
       //   label: 'Resources',
