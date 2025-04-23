@@ -1,11 +1,11 @@
 ---
 template: pdf
-title: Emergency Back Pain Toolkit
-fileURL: /resource_files/Emergency Back Pain Toolkit.pdf
+title: Your Back Emergency Cheatsheet
+fileURL: /resource_files/Your Back Emergency Cheatsheet.pdf
 ---
 
-## Your Emergency Back Pain Toolkit
+## Your Back Emergency Cheatsheet
 
-Please download your Toolkit, try out the resources and let me know if you need help!
+Please download your cheatsheet, try out the resources and let me know if you need help!
 
 Ivana xx
