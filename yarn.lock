@@ -10,6 +10,11 @@
     "@babel/types" "7.0.0-beta.32"
     lodash "^4.2.0"
 
+"@babel/runtime@^7.8.7":
+  version "7.27.1"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.27.1.tgz#9fce313d12c9a77507f264de74626e87fd0dc541"
+  integrity sha512-1x3D2xEk2fRo3PAhwQwu5UubzgiVWSXTBfWpVd2Mx2AzRqJuDJCsgaDVZ7HB5iGzDW1Hl1sWN2mFyKjmR9uAog==
+
 "@babel/types@7.0.0-beta.32":
   version "7.0.0-beta.32"
   resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.0.0-beta.32.tgz#c317d0ecc89297b80bbcb2f50608e31f6452a5ff"
@@ -4671,12 +4676,13 @@ gatsby-plugin-emotion@1.1.16:
   dependencies:
     babel-runtime "^6.26.0"
 
-gatsby-plugin-google-analytics@1.0.31:
-  version "1.0.31"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-1.0.31.tgz#eaf16e1809461b10badf12c05038c429745783c0"
-  integrity sha1-6vFuGAlGGxC63xLAUDjEKXRXg8A=
+gatsby-plugin-google-gtag@1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-gtag/-/gatsby-plugin-google-gtag-1.2.1.tgz#5d5903531abcff11193ee1977db9552d5133b1c6"
+  integrity sha512-cJHvDL6IVnj/XfgMhSa6DTOobO3XAZuatcDD1FrkKgj4pytUoHbIY8lFO4TztjMfLv98F302K23NPzYlSaN05A==
   dependencies:
-    babel-runtime "^6.26.0"
+    "@babel/runtime" "^7.8.7"
+    minimatch "^3.0.4"
 
 gatsby-plugin-react-helmet@2.0.11:
   version "2.0.11"
