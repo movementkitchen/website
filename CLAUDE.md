@@ -10,7 +10,7 @@ This is a Gatsby-based website for Movement Kitchen, focusing on movement, fitne
 
 Blog posts are located in `/src/blog/` with the following structure:
 
-```
+```sh
 src/blog/
 ├── post-name/
 │   ├── index.md
@@ -24,6 +24,7 @@ Each blog post must include:
 1. **Directory**: Create a new directory in `/src/blog/` using kebab-case naming (e.g., `the-truth-about-yoga-and-muscle`)
 
 2. **Front Matter**: Each `index.md` must start with:
+
 ```yaml
 ---
 title: "Post Title"
@@ -47,6 +48,7 @@ featuredImage: image-filename.jpg
 ### Common Tags
 
 Based on existing posts, common tags include:
+
 - "movement"
 - "fitness"
 - "yoga"
@@ -61,12 +63,7 @@ Based on existing posts, common tags include:
 
 1. Follow the existing code style and patterns
 2. Test changes locally before committing
-3. Ensure all images are optimized for web
+   - run `make build-site` and makes sure it's successfully building – should end with something like `Done in 6.58s`
+   - check the generated file (e.g. `public/blog/the-truth-about-yoga-and-muscle/index.html`)
+3. Ensure all images are optimized for web – convert to WebP
 4. Maintain consistent formatting across blog posts
-
-## Commit Guidelines
-
-When committing changes:
-- Use clear, descriptive commit messages
-- Follow conventional commit format (feat:, fix:, docs:, etc.)
-- Test the site builds successfully before pushing

@@ -7,9 +7,11 @@ tags: ["yoga", "science", "fitness", "strength", "movement", "muscle"]
 featuredImage: yoga-muscle.jpg
 ---
 
+![Ivana exercising](yoga-muscle.jpg)
+
 As both a sports scientist and long-time yoga practitioner, I often get asked if yoga alone is enough for building strength.
 
-The short answer is yes and no.
+**The short answer is yes and no.**
 
 Yoga is not just about stretching and flexibility. Oh, yes, you do use muscles, as anyone who has ever done chaturangas, cranes and other arm balances will know very well. But, yoga can build mostly one type of muscle fibers and it's not very effective for gaining muscle mass.
 
@@ -37,6 +39,7 @@ The endurance fibers build more strength as we gradually increase time under ten
 But, yoga works beautifully when combined with some resistance and weight training 2-3 x a week.
 
 This frequency:
+
 - Is strong enough stimulus for muscle growth
 - Leaves you enough time for recovery between sessions
 - Can be squeezed into most people's schedules
@@ -59,27 +62,3 @@ Here is a Youtube playlist with some pulling exercises to get you started: [Stre
 Yoga does build muscle, but it's the endurance fibers we get, not the power ones. For extra power and strength, especially in midlife and onwards, we need to add resistance/weights training minimum 2 x a week to build and maintain muscle mass, bone density and functional strength as we age.
 
 When designing your resistance/strength training, make sure to include some pulling movements, as we are missing those in yoga. We need both pushing and pulling for shoulder stability and long-term health.
-
-## Couple of things for the end...
-
-If you have been thinking about starting coaching, now is a good time. Until the end of the month, whoever signs up for coaching gets a free set of 5 mini resistance bands to get you started building strength. Drop me a line if you are interested.
-
-Also, from this month onward, I will be creating an upbeat workout playlist to inspire you each month. Here is the [first one](https://open.spotify.com/playlist/your-playlist-link) combining some warm, bassy Detroit house and a bit of dark underground UK club sound. Check it out and let me know what you think.
-
-Have a great weekend,
-
-Ivana xx
-
-### What some of my clients say:
-
-> "Ivana has been a beam of hope for me. I was really considering surgery. I'm so glad that I found her because through her coaching I have learnt so much about the feet and their connections through the legs and pelvic floor. Everything aligns. I've noticed such an improvement that I don't have to buy tops which are a size bigger to fit my belly. I also feel stronger and reconnected to my core, now I know how it works and my awareness is better." 
-> 
-> — Shikira
-
-> "I am motivated because I feel improvement. My life has changed. Now nothing feels bothersome, I have energy and will power because finally, after 10 years, I have no pain! Thank you very much!" - translated from the original: "Motivisana sam jer osećam boljitak. Promenio mi se život. Sad me više ništa ne mrzi, imam energije i volje jer konačno posle 10 godina nemam bolove! Mnogo ti hvala! ❤️" 
-> 
-> — Maja
-
-> "It's been amazing working with Ivana. During the last couple of years I've learnt so much and have seen my strength and coordination steadily improve. Every summer I take my kids to aqua-bounce and have been impressed by how noticeably my ability to manoeuvre the water obstacle course progresses with each year." 
-> 
-> — Bart
