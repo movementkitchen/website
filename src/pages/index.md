@@ -32,9 +32,12 @@ Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their ge
 
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
+<div class="vertical-video-container">
+<iframe width="318" height="566" src="https://www.youtube.com/embed/zF-X_8W2n9M" title="If Your Back Hurts, that&#39;s NOT the Sign to Skip the Exercise #backpain #fitover40" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <div class="vertical-video-container">
-  <iframe src="https://www.youtube.com/embed/Rw-B9nljuzQ" title="Can I Lift Weights With History of Back Pain? #backpain #strengthen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="318" height="566" src="https://www.youtube.com/embed/X4zJV9ul1lM" title="From Back Pain to Performance - The rePower Method in Action #fitover40 #backpain #performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="vertical-video-container">
@@ -42,20 +45,15 @@ Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their ge
 </div>
 
 <div class="vertical-video-container">
-  <iframe src="https://www.youtube-nocookie.com/embed/DUDWQaMhrw0" title="How to Protect Your Lower Back When Bending Forward" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="318" height="566" src="https://www.youtube.com/embed/roQuEeGmzss" title="At 46, I Don&#39;t Suffer With Back Pain Any More #backpain #fitover40 #womenshealth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="vertical-video-container">
-  <iframe src="https://www.youtube.com/embed/NLruM60WaLQ" title="Do you struggle with backache after exercise?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<div class="vertical-video-container">
-  <iframe src="https://www.youtube.com/embed/G4R8uDcPvzM" title="Breathing Into The Ball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="318" height="566" src="https://www.youtube.com/embed/DUDWQaMhrw0" title="How to Protect Your Lower Back When Bending Forward #lowerback #lowerbackpain #backstrength" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="vertical-video-container">
   <iframe src="https://www.youtube-nocookie.com/embed/NHwnicgodVU" title="Lower Back Pain After Exercise? - Kickbacks Edition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 <!-- markdownlint-restore -->
