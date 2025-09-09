@@ -16,13 +16,17 @@ testimonials:
   name: Monica
   avatar: /images/Solene.jpg
 ---
-Movement Kitchen helps women 40+ with history of back pain reach their athletic goals with science-backed, body-wise training. Our 1:1 and small group coaching programs blend cutting-edge biomechanics with 13 years of women's health expertise.
+### Are you trying to live an active lifestyle, but your back pain keeps coming back. 
 
-### Remember when you could bounce back from any workout?
+You try exercising but keep pulling your back out at the gym or in fitness classes. You've tried physiotherapy. Yoga. Pilates. Core strengthening. Maybe they helped temporarily, but the pain returned. You wonder if you're broken, doing it wrong, or this is just normal. Everyone has back pain in midlife. Or don't they? Back pain is "normal as we get older".
 
-In our 40s and beyond, the fitness strategies that worked in our 20s and 30s often need an upgrade. At Movement Kitchen, we understand that staying active and pushing your physical boundaries while managing a demanding career and navigating the hormonal shifts of perimenopause, requires smart, personalised training. This is especially important, if you have a recurring injury, pain or a weakness. We need to build solid foundations and progress your training sustainably, working with your body, not against it.
+Well, I wouldn't agree with you. I had chronic back pain in my 20s and 30s, but I don't have back pain now im my mid 40s. Even though I lift weights. 
 
-Using the rePower Method, we will work together to meet you where you are, and build up from managing back pain to getting in the best shape of your life and moving like an athlete, for the decades ahead.
+I'm Ivana, a 46-year-old mum of two and a biomechanics cientist, back pain to performance specialist. I am passionate about women's health and performance - both biological and athletic and have published research on slowing down ageing with high levels of training. I've created rePower Method based on the 13+ years of experience coaching people with recurring back pain and those whose bodies wouldn't respond to training. It's a 3-phase system designed to help you move from back pain to performance-based training. Challenging the body with kindness, always.
+
+Is your back flared-up? Download our Free Back Pain Toolbox mini online course to get you out of pain and stiffness by tomorrow.
+
+Do you need help solving your recurrent back pain mystery? I'd be happy to lend you my brain. Book a 45-min back pain pattern assessment in our East London E10 studio or online. We have 30% during the month of September. [Drop me an email](mailto:ivana@movementkitchen.co.uk?subject=Scholarship) to book.
 
 Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity.
 

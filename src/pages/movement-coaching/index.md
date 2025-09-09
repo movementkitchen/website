@@ -16,20 +16,19 @@ With online sessions you log in on two devices, so we can see each of your movem
 
 ### How coaching works  
  
-If we've never worked together, we'll start with a detailed health and strength assessment. This is included in most packages, but you can also book it as one off (price £100).
+If we've never worked together, we'll start with a 45-min back pain assessment (investment £75). During the month of September, we have 30% off (£52 instead of £75). [Get in touch](mailto:ivana@movementkitchen.co.uk?subject=Scholarship) to book.
 
 The assessment includes:
 
 - Looking into your previous injuries, surgeries, chronic health conditions, unresolved pregnancy or postpartum issues, 
 - Testing your abdominal wall integrity, breathing, deep core activation, pressure management, 
 - Testing your preferred movement strategies in different functional and sports movements, strength and endurance,
-- Discussing your nutrition and food habits. 
 
 Our goal is to see where you are and get you unstuck and moving in the right direction.
 
 ### Coaching Packages  
 
-Each person has unique needs, so we will create your personalised coaching package with clear goals and a timeline of progress. The price of packages will depend on the duration and level of support (number of 1:1 sessions, their frequency and duration, access to the coaching app, workout schedules, What'sApp support, access to resources and nutritional support). My hourly rate is £80.
+Each person has unique needs, so we will create your personalised coaching package with clear goals and a timeline of progress. The price of packages will depend on the duration and level of support (number of 1:1 sessions, their frequency and duration, access to the coaching app, workout schedules, What'sApp support, access to resources and nutritional support). My hourly rate is £99.
 
 For people on low income, I offer a couple of Pay What You Can coaching spots each quarter. [Get in touch](mailto:ivana@movementkitchen.co.uk?subject=Scholarship) and we can figure something out.
 
