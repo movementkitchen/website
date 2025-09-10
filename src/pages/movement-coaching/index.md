@@ -16,7 +16,7 @@ With online sessions you log in on two devices, so we can see each of your movem
 
 ### How coaching works  
  
-If we've never worked together, we'll start with a 45-min back pain assessment (investment £75). During the month of September, we have 30% off (£52 instead of £75). [Get in touch](mailto:ivana@movementkitchen.co.uk?subject=Scholarship) to book.
+If we've never worked together, we'll start with a 45-min back pain assessment (investment £75). [Get in touch](mailto:ivana@movementkitchen.co.uk?subject=Scholarship) to book.
 
 The assessment includes:
 

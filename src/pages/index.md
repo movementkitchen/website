@@ -16,17 +16,21 @@ testimonials:
   name: Monica
   avatar: /images/Solene.jpg
 ---
-### Are you trying to live an active lifestyle, but your back pain keeps coming back. 
+### Do you keep tweaking your back at the gym or in fitness classes?
 
-You try exercising but keep pulling your back out at the gym or in fitness classes. You've tried physiotherapy. Yoga. Pilates. Core strengthening. Maybe they helped temporarily, but the pain returned. You wonder if you're broken, doing it wrong, or this is just normal. Everyone has back pain in midlife. Or don't they? Back pain is "normal as we get older".
+You've tried physiotherapy. Yoga. Pilates. Core strengthening. Maybe they helped temporarily, but the pain always returns. You wonder if you're broken or doing exercises wrong. Or maybe back pain is normal as we get older?
 
-Well, I wouldn't agree with you. I had chronic back pain in my 20s and 30s, but I don't have back pain now im my mid 40s. Even though I lift weights. 
+Well, I though so too at the age of 29, when my neurologist explained that the nerves in my lower back were permanently damaged and I would need to accept to live with pain. My lower back and shoulders were always sore and I couldn't feel the front of my left foot. 
 
-I'm Ivana, a 46-year-old mum of two and a biomechanics cientist, back pain to performance specialist. I am passionate about women's health and performance - both biological and athletic and have published research on slowing down ageing with high levels of training. I've created rePower Method based on the 13+ years of experience coaching people with recurring back pain and those whose bodies wouldn't respond to training. It's a 3-phase system designed to help you move from back pain to performance-based training. Challenging the body with kindness, always.
+### Fast forward to my mid 40s, I don't suffer with back pain anymore. I'm a mum of two, in perimenopause, and I lift weights.
 
-Is your back flared-up? Download our Free Back Pain Toolbox mini online course to get you out of pain and stiffness by tomorrow.
+I'm Ivana, a 46-year-old biomechanics scientist, back pain to performance specialist. I am passionate about women's health and performance - both biological and athletic and have published research on [slowing down ageing with high levels of training](https://commons.nmu.edu/isbs/vol40/iss1/36/). I've created rePower Method based on the 13+ years of experience coaching people with recurring back pain and those whose bodies wouldn't respond to training. It's a 3-phase system designed to help you move from back pain to performance-based training. Challenging the body with kindness, always.
 
-Do you need help solving your recurrent back pain mystery? I'd be happy to lend you my brain. Book a 45-min back pain pattern assessment in our East London E10 studio or online. We have 30% during the month of September. [Drop me an email](mailto:ivana@movementkitchen.co.uk?subject=Scholarship) to book.
+### Is your back flared-up?  
+Download our [Free Emergency Back Pain Toolkit](https://courses.movementkitchen.co.uk/courses/emergency-back-pain-toolkit) to get you out of pain and stiffness by tomorrow.
+
+### Do you need help solving your recurrent back pain mystery? 
+I'd be happy to lend you my brain. Book a 45-min back pain pattern assessment in our East London E10 studio or online. [Drop me an email](mailto:ivana@movementkitchen.co.uk?subject=Scholarship) to book.
 
 Movement Kitchen is *LGBTQ+ friendly*. Every human is welcome, whatever their gender identity.
 

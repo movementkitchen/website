@@ -5,9 +5,11 @@ template: about
 
 ### My Story
 
-I had never thought I could be the strongest in my life and the most confident in my body at the age of 45, as a mum of two.
+My movement journey has been paved by various injuries and an unstoppable urge
+for learning in the process of overcoming them. I often felt my body was too
+fragile to follow my pace of life.
 
-I started suffering with back pain in my late 20s, as an overworked young corporate lawyer. I used to go to an osteopath every couple of weeks. Then in my mid-30s, after two close-up pregnancies and a difficult postpartum recovery, I ended up with a severe abdominal separation on top. More than a year after my second child was born, I still looked 6 months pregnant. I literally had to buy 2 sizes larger clothes to fit over my belly! And I couldn't open a heavy door or lift my children out of the bath without my back screaming at me.
+In 2008 I left a career in corporate law with recurrent back and shoulder pain and no sensation in half of my left foot. I developed chronic back pain in my late 20s, as an overworked young corporate lawyer. I used to go to an osteopath every couple of weeks. Then in my mid-30s, after two close-up pregnancies and a difficult postpartum recovery, I ended up with a severe abdominal separation on top. More than a year after my second child was born, I still looked 6 months pregnant. I literally had to buy 2 sizes larger clothes to fit over my belly! And I couldn't open a heavy door or lift my children out of the bath without my back screaming at me.
 
 I'm neurodivergent and I love learning and understanding how things work. So, when I have a problem, I throw a lot of learning at it 🤓
 
