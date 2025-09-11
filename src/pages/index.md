@@ -24,7 +24,7 @@ Well, I though so too at the age of 29, when my neurologist explained that the n
 
 ### Fast forward to my mid 40s, I don't suffer with back pain anymore. I'm a mum of two, in perimenopause, and I lift weights.
 
-I'm Ivana, a 46-year-old biomechanics scientist, back pain to performance specialist. I am passionate about women's health and performance - both biological and athletic and have published research on [slowing down ageing with high levels of training](https://commons.nmu.edu/isbs/vol40/iss1/36/). I've created rePower Method based on the 13+ years of experience coaching people with recurring back pain and those whose bodies wouldn't respond to training. It's a 3-phase system designed to help you move from back pain to performance-based training. Challenging the body with kindness, always.
+I'm Ivana, a 46-year-old biomechanics scientist, back pain to performance specialist. I am passionate about women's health and performance (both biological and athletic) and have published research on [slowing down ageing with high levels of training](https://commons.nmu.edu/isbs/vol40/iss1/36/). I've created rePower Method based on the 13+ years of experience coaching people with recurring back pain and those whose bodies wouldn't respond to training. It's a 3-phase system designed to help you move from back pain to performance-based training. Challenging the body with kindness, always.
 
 ### Is your back flared-up?  
 Download our [Free Emergency Back Pain Toolkit](https://courses.movementkitchen.co.uk/courses/emergency-back-pain-toolkit) to get you out of pain and stiffness by tomorrow.

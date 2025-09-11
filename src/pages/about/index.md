@@ -3,19 +3,41 @@ title: About
 template: about
 ---
 
-### My Story
+## My Story
 
 My movement journey has been paved by various injuries and an unstoppable urge
 for learning in the process of overcoming them. I often felt my body was too
 fragile to follow my pace of life.
 
-In 2008 I left a career in corporate law with recurrent back and shoulder pain and no sensation in half of my left foot. I developed chronic back pain in my late 20s, as an overworked young corporate lawyer. I used to go to an osteopath every couple of weeks. Then in my mid-30s, after two close-up pregnancies and a difficult postpartum recovery, I ended up with a severe abdominal separation on top. More than a year after my second child was born, I still looked 6 months pregnant. I literally had to buy 2 sizes larger clothes to fit over my belly! And I couldn't open a heavy door or lift my children out of the bath without my back screaming at me.
+In my late twenties, I developed chronic lower back pain and lost sensation in a large part of my left foot. I was a corporate lawyer at the time and would spend hours drafting contracts and then trying to make up for it at the gym. Eventually, my lower back gave in. My neurologist said it was part of a slow degenerative process and I’d have to get used to it. 
 
-I'm neurodivergent and I love learning and understanding how things work. So, when I have a problem, I throw a lot of learning at it 🤓
+In 2008, I quit my lawyer job to follow my passion for movement. With little sitting and consistent physical activity, I managed to restore the sensation in my entire left foot and my lower back got much better. Over the years, I developed a particular interest in working with women. Specialising in teaching pregnancy and postpartum yoga and fitness classes, I continued teaching throughout my both pregnancies.
 
-Solving a puzzle of my back pain and the weak, unresponsive belly, I spent over 13 yrs learning everything I could across the fields of movement, physiotherapy, sports and exercise science, and women's health. I was lucky to learn from and coach many incredible people along the way. I got fascinated with biological and athletic performance, which brought me to my second master's degree, in sports and exercise biomechanics.
+But in my mid-30s, after two close-up pregnancies and a difficult postpartum recovery, I ended up with a 6-finger-wide abdominal separation (diastasis recti) and my back pain became a daily struggle again. 
 
-Over the years, my approach crystallised into my signature method rePower, seamlessly connecting physiotherapy with strength & conditioning training.
+> I couldn't open a heavy door or lift my children out of the bath without my lower back screaming at me. My belly was weak and unresponsive to any training. 
+
+More than a year after my second child was born, I still looked 6 months pregnant. I literally had to buy 2 sizes larger clothes to fit over my belly! 
+
+I spent two years being able to practise only very gentle pregnancy yoga. I visited numerous physios who had no idea how to help me. I was wondering if I would ever be able to do anything but extremely gentle low-impact exercise. Even a simple sun salutation or dynamic lunges would leave me with back and hip spasms for days.
+
+> I'm neurodivergent and I love learning and understanding how things work. So, when I have a problem, I throw a lot of learning at it 🤓
+
+Looking for answers I started learning passionately across the fields of yoga, Pilates, physiotherapy, massage and women's health. I realised that my back pain and diastasis recti were symptoms of deeper muscular imbalances, weaknesses and compensations and a poor intra-abdominal pressure management. I would bear down at efffort rather than have my abdominal muscles engage reflexively when needed. I had a decade-old habit of sucking my belly in and lot of tension in the sides and back of the torso.
+
+I started from the very basics, retraining my diaphragm, pelvic floor and the deep abdominal muscles, restored the pelvic and thoracic mobility, and gradually built motor control to move without creating excessive forward and downward pressure in my torso. With years of practice and drawbacks, I managed to restore a functional core and get stronger and more resilient than in my twenties.
+
+In this period, I also trained as a personal trainer, Restorative Exercise Specialist, and shifted my focus from working with groups to coaching individuals, especially women. While wrestling with back pain and the core that doesn't respond to training, both professionally and personally, I got fascinated with the mechanisms of injuries:
+
+> Why does an injury happen and what can we do to get out of the injurious pattern?
+
+Digging deeper eventually brought me to an MSc in Biomechanics / Sport and Exercise Science at the University of Roehampton. I graduated in January 2021 with distinction. 
+
+Alongside my personal journey, I’ve worked with many people whose bodies don't respond to traditional core training, especially women trapped in the cracks of an exercise culture not-tailored to women’s bodies. I got fascinated by female athletes’ postpartum return to sport, perimenopause training, the link of back pain and pelvic health, supporting people who train with history of diastasis recti, prolapse, hernias, incontinence and other pressure management issues.
+
+I am passionate about using my knowlegde and personal experience to support people in reclaiming strong bodies that could support them in everything they want to do, from lifting their children to paddleboarding, weightlifting, rock climbing, surfing, skiing or running a marathon.
+
+> Over the years, my approach crystallised into my signature method rePower, seamlessly connecting physiotherapy with strength & conditioning training.
 
 ### Each rePower journey includes three stages:
 
