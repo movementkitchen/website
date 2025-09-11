@@ -15,7 +15,7 @@ class Bio extends React.Component {
     return (
       <p>
         <ProfileImage src={profilePic} alt={`Ivana Miletic Demmel`} />
-        Hi there! I'm Ivana Demmel, a back pain nerd, biomechanics scientist MSc and coach 
+        Hi there! I'm Ivana Demmel. I'm a back pain nerd, biomechanics scientist MSc and coach 
        passionate about women's health, performance and
         longevity. I value evidence-based
         solutions and precise, focused training where everything has its ‘why’. My coaching style is
